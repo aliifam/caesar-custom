@@ -22,11 +22,11 @@ class LinkedList:
         head.next = new_node
 
     def as_array(self):
-        nodes_as_array = []
+        values_as_array = []
         head = self.head
         while head is not None:
-            nodes_as_array.append(head.value)
+            values_as_array.append(head.value)
             if head.next is None:
                 break
             head = head.next
-        return nodes_as_array
+        return values_as_array
