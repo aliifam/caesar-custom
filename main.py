@@ -1,4 +1,4 @@
-from cc import caesar_encode, caesar_decode
+from CaesarCipher import caesar_encode, caesar_decode
 
 pw = "suka suka suka"
 
