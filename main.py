@@ -1,6 +1,6 @@
 from cc import caesar_encode, caesar_decode
 
-pw = "makangedebos"
+pw = "suka suka suka"
 
 pw_encode = caesar_encode(pw, 4)
 

@@ -1,5 +1,6 @@
 """
 character moved based on ASCII table
+dynamic changes by index process
 """
 
 def caesar_encode(string, key):
@@ -8,7 +9,7 @@ def caesar_encode(string, key):
         char = string[i - 1]
         index = ord(char) + key + i
         if index > 126:
-            index = (index - 126) + 33
+            index = (index - 126) + 32
             lres.append(chr(index))
         else:
             lres.append(chr(index))
@@ -20,8 +21,8 @@ def caesar_decode(encoded, key):
     for i in range(1, len(encoded) + 1):
         char = encoded[i - 1]
         index = ord(char) - key - i
-        if index < 33:
-            index = (index + 126) - 33
+        if index < 32:
+            index = (index + 126) - 32
             lres.append(chr(index))
         else:
             lres.append(chr(index))
