@@ -13,7 +13,7 @@ def caesar_encode(string, key):
         index = ord(char) + key + i
         if index > 126:
             index = (index - 126) + 32
-            lres.append(chr(index))
+            linked_list.add_last(chr(index))
         else:
             linked_list.add_last(chr(index))
     result = "".join(linked_list.as_array())
@@ -27,7 +27,7 @@ def caesar_decode(encoded, key):
         index = ord(char) - key - i
         if index < 32:
             index = (index + 126) - 32
-            lres.append(chr(index))
+            linked_list.add_last(chr(index))
         else:
             linked_list.add_last(chr(index))
     result = "".join(linked_list.as_array())
