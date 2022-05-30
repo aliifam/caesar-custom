@@ -1,11 +1,14 @@
-from CaesarCipher import caesar_encode, caesar_decode
+from CaesarCipher import caesar_encrypt, caesar_decrypt
 
-pw = "Fikri Yurcel Milano"
+def main():
+    pw = "Fikri Yurcel Milano"
 
-pw_encode = caesar_encode(pw, 20)
+    pw_encrypt = caesar_encrypt(pw, 20)
 
-print(pw_encode)
+    print(pw_encrypt)
 
-pw_decode = caesar_decode(pw_encode, 20)
+    pw_decrypt = caesar_decrypt(pw_encrypt, 20)
 
-print(pw_decode)
+    print(pw_decrypt)
+
+main()

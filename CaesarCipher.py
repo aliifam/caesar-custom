@@ -6,7 +6,7 @@ dynamic changes by index process
 """
 
 
-def caesar_encode(string, key):
+def caesar_encrypt(string, key):
     linked_list = LinkedList()
     for i in range(1, len(string) + 1):
         char = string[i - 1]
@@ -20,7 +20,7 @@ def caesar_encode(string, key):
     return result
 
 
-def caesar_decode(encoded, key):
+def caesar_decrypt(encoded, key):
     linked_list = LinkedList()
     for i in range(1, len(encoded) + 1):
         char = encoded[i - 1]
