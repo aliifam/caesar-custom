@@ -30,3 +30,11 @@ decrypted text = "FCTMHMZVVP8CXG0N79AAQCP6QZKMJKXCMCUJKS0ZACHX2PHF6QBX680272I4WH
 plain text     = "FCTMHMZVVP8CXG0N79AAQCP6QZKMJKXCMCUJKS0ZACHX2PHF6QBX680272I4WH6K3H3IRBAYPT4G"
 Test Result    = OK 
 ----------------------------------------------------------------------------------------------------------------------------------
+tanggal        = 2022-06-04 11:37:24.593548
+key            = 41 
+plain text     = "SESL1OH56ZB03Z642D55S1JONSWVEQQVPQRC8VFX5"
+encrypted text = "?2A;!@:(*O8'+S0/.A34S2LRRX]]MZ[a\^`RHgXkI"
+decrypted text = "SESL1OH56ZB03Z642D55S1JONSWVEQQVPQRC8VFX5"
+plain text     = "SESL1OH56ZB03Z642D55S1JONSWVEQQVPQRC8VFX5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
