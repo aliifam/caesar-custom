@@ -1,0 +1,8 @@
+tanggal        = 2022-06-04 20:43:15
+key            = 78 
+plain text     = "T4RZPFH2PD9MLFD3IPLZ3NVSX54MKUYK7N6824W904K32XK9SV7DWC57LKMTCTP5P7U6TD1TIUM48V"
+encrypted text = "'f'0'|!j+~t++&%s,41@x6?=C!!;:EJ=*B+.),P3+0H11XL;VZ<J^K>AWWZbRdaGcKjLk\JndqjRWv"
+decrypted text = "T4RZPFH2PD9MLFD3IPLZ3NVSX54MKUYK7N6824W904K32XK9SV7DWC57LKMTCTP5P7U6TD1TIUM48V"
+plain text     = "T4RZPFH2PD9MLFD3IPLZ3NVSX54MKUYK7N6824W904K32XK9SV7DWC57LKMTCTP5P7U6TD1TIUM48V"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------

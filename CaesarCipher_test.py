@@ -1,7 +1,7 @@
 import unittest
 import random
 import pytz
-from logging import line_prepender
+from logFormatter import line_prepender
 from datetime import datetime
 from generator import generate_string
 from CaesarCipher import caesar_encrypt, caesar_decrypt
