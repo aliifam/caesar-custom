@@ -1,5 +1,7 @@
 import unittest
 import random
+import pytz
+from logging import line_prepender
 from datetime import datetime
 from generator import generate_string
 from CaesarCipher import caesar_encrypt, caesar_decrypt
@@ -11,27 +13,30 @@ key = random.randint(1, 100)
 
 rand_text = generate_string(n)
 
-f = open("log.txt", "a+", encoding="utf-8")
+now = datetime.now()
+lokal = pytz.timezone('Asia/Jakarta')
 
 class TestStringMethods(unittest.TestCase):
 
     def test_cipher(self):
-        f.write(f"tanggal        = {datetime.now()}\n")
-        f.write(f"key            = {n} \n")
-        f.write("plain text     = ")
-        f.write(f'"{rand_text}"\n')
-        f.write("encrypted text = ")
-        f.write(f'"{caesar_encrypt(rand_text, key)}"\n')
-        f.write("decrypted text = ")
-        f.write(f'"{caesar_decrypt(caesar_encrypt(rand_text, key), key)}"\n')
-        f.write("plain text     = ")
-        f.write(f'"{rand_text}"\n')
+        log = f"tanggal        = {lokal.localize(now).strftime('%Y-%m-%d %H:%M:%S')}\n"
+        log += f"key            = {n} \n"
+        log += "plain text     = "
+        log += f'"{rand_text}"\n'
+        log += "encrypted text = "
+        log += f'"{caesar_encrypt(rand_text, key)}"\n'
+        log += "decrypted text = "
+        log += f'"{caesar_decrypt(caesar_encrypt(rand_text, key), key)}"\n'
+        log += "plain text     = "
+        log += f'"{rand_text}"\n'
         if caesar_decrypt(caesar_encrypt(rand_text, key), key) == rand_text:
-            f.write("Test Result    = OK \n")
+            log += "Test Result    = OK \n"
         else:
-            f.write("Test Result = Failed \n")
-        f.write("-" * 130)
-        f.write("\n")
+            log += "Test Result = Failed \n"
+        log += "-" * 130
+        log += "\n"
+        line_prepender("log.txt", log)
+        print(log)
         self.assertEqual(caesar_decrypt(caesar_encrypt(rand_text, n), n), rand_text)
 
 if __name__ == '__main__':
