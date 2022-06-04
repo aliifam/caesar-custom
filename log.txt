@@ -4,3 +4,9 @@ plain text     = "0A8EQ0D8UWPMSCOJ2BAJJTPBU5BHF6TG6ZCD9C2IMYT2PH8V1B83W6MUVWBHD3
 encrypted text = "o#y)6t+~>A;9@1>:#44>?JG:N/=DC4SG7\FH>I9QVc_>]VGfBTKGlLdmoq]daQ"
 decrypted text = "0A8EQ0D8UWPMSCOJ2BAJJTPBU5BHF6TG6ZCD9C2IMYT2PH8V1B83W6MUVWBHD3"
 ----------------------------------------------------------------------------------------------------------------------------------
+tanggal        = 2022-06-04 10:30:22.810340
+key            = 15 
+plain text     = "0AX08CRCJ2D53TQ"
+encrypted text = "@RjCLXhZbK^POqo"
+decrypted text = "0AX08CRCJ2D53TQ"
+----------------------------------------------------------------------------------------------------------------------------------
