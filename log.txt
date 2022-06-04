@@ -1,18 +1,8 @@
-tanggal        = 2022-06-04 10:21:29.209261
-key            = 62 
-plain text     = "0A8EQ0D8UWPMSCOJ2BAJJTPBU5BHF6TG6ZCD9C2IMYT2PH8V1B83W6MUVWBHD3"
-encrypted text = "o#y)6t+~>A;9@1>:#44>?JG:N/=DC4SG7\FH>I9QVc_>]VGfBTKGlLdmoq]daQ"
-decrypted text = "0A8EQ0D8UWPMSCOJ2BAJJTPBU5BHF6TG6ZCD9C2IMYT2PH8V1B83W6MUVWBHD3"
-----------------------------------------------------------------------------------------------------------------------------------
-tanggal        = 2022-06-04 10:30:22.810340
-key            = 15 
-plain text     = "0AX08CRCJ2D53TQ"
-encrypted text = "@RjCLXhZbK^POqo"
-decrypted text = "0AX08CRCJ2D53TQ"
-----------------------------------------------------------------------------------------------------------------------------------
-tanggal        = 2022-06-04 10:49:56.844402
-key            = 90 
-plain text     = "9NIL7SEPC2CO8RWEGDJNWP5TK2DNLUJIHHLKUUEWRWQ712L1FSDC4GV1ZLHLSK8B0UH7O14A4G5Y5MX8AR8TH2I1WB"
-encrypted text = "6LHL8UHTH8JWA\bQTRY^hbHh`H[feoeeefkkvwh{w}x_Z\w]ssseyes~mwswy|¡~£ ¤¬"
-decrypted text = "9NIL7SEPC2CO8RWEGDJNWP5TK2DNLUJIHHLKUUEWRWQ712L1FSDC4GV1ZLHLSK8B0UH7O14A4G5Y5MX8AR8TH2I1WB"
+tanggal        = 2022-06-04 17:56:00.340424
+key            = 87 
+plain text     = "OYINX5B1C6Y06Z93WS98S03TQVKJAB9F0SDUBXF6SAYMUY6YQJ0QDPL180MV3IU3WHJR2BGTS1P77XLM2M2KVNS"
+encrypted text = "R]NT_=K;NBf>EjJEjgNNjHLnlrhh`bZhSwi{i"o`~m({&+g-&~e){*'ksl,6r+8u<.1:y,2@@}?'(J?A'C)COHN"
+decrypted text = "OYINX5B1C6Y06Z93WS98S03TQVKJAB9F0SDUBXF6SAYMUY6YQJ0QDPL180MV3IU3WHJR2BGTS1P77XLM2M2KVNS"
+plain text     = "OYINX5B1C6Y06Z93WS98S03TQVKJAB9F0SDUBXF6SAYMUY6YQJ0QDPL180MV3IU3WHJR2BGTS1P77XLM2M2KVNS"
+Test Result    = OK 
 ----------------------------------------------------------------------------------------------------------------------------------
