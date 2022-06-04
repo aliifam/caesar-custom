@@ -1,3 +1,11 @@
+tanggal        = 2022-06-04 15:42:17
+key            = 25 
+plain text     = "35NH4E8QYI2IHFH2IWZRH9VYG"
+encrypted text = "cf"{hzn*3$l&&%(q+:>7.~>B1"
+decrypted text = "35NH4E8QYI2IHFH2IWZRH9VYG"
+plain text     = "35NH4E8QYI2IHFH2IWZRH9VYG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-04 15:22:07
 key            = 100 
 plain text     = "322MO34BRH4CI19ZQG2Z7HVGJI80IYNIK5HZ9AAP7E622BSKU4JYHSAEL0MVK41JCWU5RQGILNXS5MI6SVB8HJ71T8K6TYQ3VT5R"
