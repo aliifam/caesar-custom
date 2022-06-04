@@ -1,0 +1,6 @@
+tanggal        = 2022-06-04 10:21:29.209261
+key            = 62 
+plain text     = "0A8EQ0D8UWPMSCOJ2BAJJTPBU5BHF6TG6ZCD9C2IMYT2PH8V1B83W6MUVWBHD3"
+encrypted text = "o#y)6t+~>A;9@1>:#44>?JG:N/=DC4SG7\FH>I9QVc_>]VGfBTKGlLdmoq]daQ"
+decrypted text = "0A8EQ0D8UWPMSCOJ2BAJJTPBU5BHF6TG6ZCD9C2IMYT2PH8V1B83W6MUVWBHD3"
+----------------------------------------------------------------------------------------------------------------------------------
