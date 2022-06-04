@@ -1,15 +1,30 @@
 import unittest
+import random
+from datetime import datetime
+from generator import generate_string
 from CaesarCipher import caesar_encrypt, caesar_decrypt
 
 
+n = random.randint(1, 100)
+
+rand_text = generate_string(n)
+
+f = open("log.txt", "a+", encoding="utf-8")
+
 class TestStringMethods(unittest.TestCase):
 
-    def test_case1(self):
-        self.assertEqual(caesar_encrypt("suka suka suka", 4), "x{ri)}\"wn.$'|s")
-    def test_case2(self):
-        self.assertEqual(caesar_encrypt("Aliif Arief Maulana", 10), "Lxvwu0R&|y{6dy0(|,~")
-    def test_case3(self):
-        self.assertEqual(caesar_encrypt("Fikri Yurcel Milano", 20), "[!$,$:t31#&.Ao.2(68")
+    def test_cipher(self):
+        f.write(f"tanggal        = {datetime.now()}\n")
+        f.write(f"key            = {n} \n")
+        f.write("plain text     = ")
+        f.write(f'"{rand_text}"\n')
+        f.write("encrypted text = ")
+        f.write(f'"{caesar_encrypt(rand_text, n)}"\n')
+        f.write("decrypted text = ")
+        f.write(f'"{caesar_decrypt(caesar_encrypt(rand_text, n), n)}"\n')
+        f.write("-" * 130)
+        f.write("\n")
+        self.assertEqual(caesar_decrypt(caesar_encrypt(rand_text, n), n), rand_text)
 
 if __name__ == '__main__':
     unittest.main()
