@@ -46,3 +46,11 @@ decrypted text = "6SVM5ER1NTYPD999M7U4B6E4G6RW55HKLJKWMET0X2HE3E8UJOUB6ZS"
 plain text     = "6SVM5ER1NTYPD999M7U4B6E4G6RW55HKLJKWMET0X2HE3E8UJOUB6ZS"
 Test Result    = OK 
 ----------------------------------------------------------------------------------------------------------------------------------
+tanggal        = 2022-06-04 12:24:03.785672
+key            = 71 
+plain text     = "4089E86CC3ESJEH924IL66TYQ7JJD69AMAGI6AQINIOPXWV54O0J2WO4TBFHIMO199NEW37"
+encrypted text = "NKTVcWVdeVixplpb\_uyde&,%j~!zmqz)|%(t"3,2.57@@@~~<|9"HA'H7<?AFI,56LDW49"
+decrypted text = "4089E86CC3ESJEH924IL66TYQ7JJD69AMAGI6AQINIOPXWV54O0J2WO4TBFHIMO199NEW37"
+plain text     = "4089E86CC3ESJEH924IL66TYQ7JJD69AMAGI6AQINIOPXWV54O0J2WO4TBFHIMO199NEW37"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
