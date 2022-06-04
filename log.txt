@@ -10,3 +10,9 @@ plain text     = "0AX08CRCJ2D53TQ"
 encrypted text = "@RjCLXhZbK^POqo"
 decrypted text = "0AX08CRCJ2D53TQ"
 ----------------------------------------------------------------------------------------------------------------------------------
+tanggal        = 2022-06-04 10:49:56.844402
+key            = 90 
+plain text     = "9NIL7SEPC2CO8RWEGDJNWP5TK2DNLUJIHHLKUUEWRWQ712L1FSDC4GV1ZLHLSK8B0UH7O14A4G5Y5MX8AR8TH2I1WB"
+encrypted text = "6LHL8UHTH8JWA\bQTRY^hbHh`H[feoeeefkkvwh{w}x_Z\w]ssseyes~mwswy|¡~£ ¤¬"
+decrypted text = "9NIL7SEPC2CO8RWEGDJNWP5TK2DNLUJIHHLKUUEWRWQ712L1FSDC4GV1ZLHLSK8B0UH7O14A4G5Y5MX8AR8TH2I1WB"
+----------------------------------------------------------------------------------------------------------------------------------
