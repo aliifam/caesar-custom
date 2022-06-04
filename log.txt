@@ -1,3 +1,11 @@
+tanggal        = 2022-06-04 23:40:33
+key            = 8 
+plain text     = "U14C7SP4"
+encrypted text = "sPTdYvtY"
+decrypted text = "U14C7SP4"
+plain text     = "U14C7SP4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-04 23:21:57
 key            = 98 
 plain text     = "OMHOQUBJRW6GG0BX6GTQ46K1W0TTM55LJYD63TI3WEV3N0T3E2K8Y5GGRRYLU9M8UX7LVDMMYHS1NPJY4DEVU21CEW2Z38TG34"
