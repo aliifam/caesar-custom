@@ -13,32 +13,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
-
+        uses: actions/checkout@v2 # checkout the repository content to github runner.
       - name: setup python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.7.7' # install the python version needed
-          
-      - name: execute py script # run sj-gobierno.py to get the latest data
-        env: 
-          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
-          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-          EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
-        run: CaesarCipher_test.py
-          
-      - name: commit files
+          python-version: 3.8 #install the python needed
+      - name: git
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "update data" -a
-          
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          git config --global user.name github.actions
+          git config --global user.email '${GITHUB_ACTOR}@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+      - name: execute py script # run the run.py to get the latest data
+        run: |
+          python CaesarCipher_test.py
+      - name: commit
+        run: |
+          git commit -am "logging test result ${GITHUB_SHA:8}" || true
+          git push --force origin HEAD:$GITHUB_REF || true 
