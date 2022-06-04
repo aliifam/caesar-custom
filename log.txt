@@ -62,3 +62,11 @@ decrypted text = "HQJZ2SMUUDEW5PEGZSIXX8OMMR5O7I139HR3IA8ZAW034JG5PWHT9GSWT556GW
 plain text     = "HQJZ2SMUUDEW5PEGZSIXX8OMMR5O7I139HR3IA8ZAW034JG5PWHT9GSWT556GW5JHDGYL3OP4CNGZME83FMONTUKD"
 Test Result    = OK 
 ----------------------------------------------------------------------------------------------------------------------------------
+tanggal        = 2022-06-04 13:21:52.344776
+key            = 54 
+plain text     = "CUBQ859N9PJ3YSUS6HRICSQJ7780CK5XP6SSSY51BIP1GPBGGGKCGR"
+encrypted text = "?R@P86;Q=UP:a\_^BU`XSdc]KLNG[dOslSqrszWTfnvXoylrstyrw"
+decrypted text = "CUBQ859N9PJ3YSUS6HRICSQJ7780CK5XP6SSSY51BIP1GPBGGGKCGR"
+plain text     = "CUBQ859N9PJ3YSUS6HRICSQJ7780CK5XP6SSSY51BIP1GPBGGGKCGR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
