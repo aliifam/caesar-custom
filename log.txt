@@ -1,3 +1,11 @@
+tanggal        = 2022-06-05 16:30:14
+key            = 2 
+plain text     = "SK"
+encrypted text = "g`"
+decrypted text = "SK"
+plain text     = "SK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-05 15:42:38
 key            = 49 
 plain text     = "45LHM6PNT4T6I402R43V4AN9XKPJW8ECA03GJV8UN9ED9CASC"
