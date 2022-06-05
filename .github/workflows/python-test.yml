@@ -1,14 +1,11 @@
-name: Cipher Algorithm Test
+name: Cipher Algorithm Test & Logging
 
 on:
   push:
     branches:
       - master
-  pull_request:
-    branches:
-      - master
   schedule:
-    - cron: '*/30 * * * *' #every 30 minutes auto run test
+    - cron: "*/30 * * * *" #every 30 minutes auto run test
 
 jobs:
   build:
@@ -30,7 +27,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: execute py script # run the run.py to get the latest data
+      - name: Core Testing & Logging # run the run.py to get the latest data
         run: |
           python CaesarCipher_test.py
       - name: commit
