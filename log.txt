@@ -1,3 +1,11 @@
+tanggal        = 2022-06-05 08:26:18
+key            = 27 
+plain text     = "FPDCC31F313SEWK9FVI3X2XZUDY"
+encrypted text = "p{ppqbawedg*{0%r"3'p8q:=9)?"
+decrypted text = "FPDCC31F313SEWK9FVI3X2XZUDY"
+plain text     = "FPDCC31F313SEWK9FVI3X2XZUDY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-05 07:38:53
 key            = 43 
 plain text     = "RAP1ZSZOROF35EN76L83A8DI6NCAXMU8ZEX0ZOICPVT"
