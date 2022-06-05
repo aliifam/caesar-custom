@@ -1,3 +1,11 @@
+tanggal        = 2022-06-05 06:26:18
+key            = 3 
+plain text     = "HE1"
+encrypted text = "+)t"
+decrypted text = "HE1"
+plain text     = "HE1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-05 05:39:17
 key            = 89 
 plain text     = "E0DTAOD26TGTT9MH28D8D3SWQL728930YKWZ77TSAXOVHIDOMFW1S4E2OV5WZ1YJKLNBYY7O9E1KYVUT60M6JRTRQ"
