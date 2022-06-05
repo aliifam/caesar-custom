@@ -1,3 +1,11 @@
+tanggal        = 2022-06-05 09:40:33
+key            = 43 
+plain text     = "EG7407SUKS04GXN0MU9Z0I0VHA41ZD9WI21RB4OTEYH"
+encrypted text = "dgXVS[x{r{Y^r&{^|'j.c}e.!ymk7"v7*rr6'x6<.C3"
+decrypted text = "EG7407SUKS04GXN0MU9Z0I0VHA41ZD9WI21RB4OTEYH"
+plain text     = "EG7407SUKS04GXN0MU9Z0I0VHA41ZD9WI21RB4OTEYH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-05 09:20:14
 key            = 76 
 plain text     = "USC2292G4E4W24MZQRJPP8QO09E3NKADE8QJX6Q70MJDJQT06D6P6Q078KAHFRENZPUB9MC8AMGK"
