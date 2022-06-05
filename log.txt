@@ -1,3 +1,11 @@
+tanggal        = 2022-06-05 08:43:56
+key            = 39 
+plain text     = "NHLSSA5EWVLUK5ESFQM6A1M3DQR945ONNFUQO0O"
+encrypted text = "PKPXYH=NaaXbYDUdXdaKWHeL^lnVRToopiyvuWw"
+decrypted text = "NHLSSA5EWVLUK5ESFQM6A1M3DQR945ONNFUQO0O"
+plain text     = "NHLSSA5EWVLUK5ESFQM6A1M3DQR945ONNFUQO0O"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-05 08:26:18
 key            = 27 
 plain text     = "FPDCC31F313SEWK9FVI3X2XZUDY"
