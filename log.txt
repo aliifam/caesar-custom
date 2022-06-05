@@ -1,3 +1,11 @@
+tanggal        = 2022-06-05 02:18:20
+key            = 19 
+plain text     = "FWI22E600T6OS5OHTUZ"
+encrypted text = "|0#kl"rmn5v27x5/<>D"
+decrypted text = "FWI22E600T6OS5OHTUZ"
+plain text     = "FWI22E600T6OS5OHTUZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-05 02:07:58
 key            = 63 
 plain text     = "JKHW6060DTNW2NNCMHPZJ2A94BRSUGSWW6SPUHL67ELQF0JZZS4VJIOV6R6GWKH"
