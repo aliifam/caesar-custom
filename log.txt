@@ -1,3 +1,11 @@
+tanggal        = 2022-06-05 07:38:53
+key            = 43 
+plain text     = "RAP1ZSZOROF35EN76L83A8DI6NCAXMU8ZEX0ZOICPVT"
+encrypted text = "M=M/YS[QUSK9<MWAAXEAPHU[IbXWoenRuauNyojeszy"
+decrypted text = "RAP1ZSZOROF35EN76L83A8DI6NCAXMU8ZEX0ZOICPVT"
+plain text     = "RAP1ZSZOROF35EN76L83A8DI6NCAXMU8ZEX0ZOICPVT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-05 07:20:21
 key            = 68 
 plain text     = "5SWWB5LF8MOT0N412BHTHAQ1ETKSQP3IW5CT94P995YMHKT14SHGCBCP3PD56YOMQOFM"
