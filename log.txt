@@ -1,3 +1,11 @@
+tanggal        = 2022-06-05 20:40:34
+key            = 4 
+plain text     = "W7EU"
+encrypted text = "H)8I"
+decrypted text = "W7EU"
+plain text     = "W7EU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-05 20:22:03
 key            = 64 
 plain text     = "GHLGJO4NWDQBU6Q61IBNPR0H2DYRXGCBKVW48D2L209Z5CJIZGTXWZI5OCZKTGMR"
