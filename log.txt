@@ -1,3 +1,11 @@
+tanggal        = 2022-06-05 05:20:42
+key            = 17 
+plain text     = "B6D2HI34JR3JIT2GJ"
+encrypted text = "h]l[rt_ax#c{{)f|""
+decrypted text = "B6D2HI34JR3JIT2GJ"
+plain text     = "B6D2HI34JR3JIT2GJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-05 04:48:52
 key            = 97 
 plain text     = "5OKVT9W7O700FPB0U8AGFYZFASPRRGT16R5Y48C3G9J8848EQR8HDFIML49XH0AA4GMH48AHWUR53MZRJ7T9FNL0BUKWRLAAY"
