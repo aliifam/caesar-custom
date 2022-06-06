@@ -1,3 +1,11 @@
+tanggal        = 2022-06-06 06:50:50
+key            = 10 
+plain text     = "ZZSFPYT10Q"
+encrypted text = "fgaU`jfDDf"
+decrypted text = "ZZSFPYT10Q"
+plain text     = "ZZSFPYT10Q"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-06 06:29:14
 key            = 70 
 plain text     = "WWT594IGH0TJI4Y61MVG4WLLGINF5TUEIN860GXHGISBD2OIX2GXHSASQX7JEQ3Q9CNA4Z"
