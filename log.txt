@@ -1,3 +1,11 @@
+tanggal        = 2022-06-06 09:41:46
+key            = 25 
+plain text     = "XVMSB25312FWOCFLQTLWY4IJM"
+encrypted text = "rqip`QUTSUj|ujnu{!x&)cy{!"
+decrypted text = "XVMSB25312FWOCFLQTLWY4IJM"
+plain text     = "XVMSB25312FWOCFLQTLWY4IJM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-06 09:21:40
 key            = 61 
 plain text     = "QM71Y7ARDWJWAZGHII53KS26ISTCI2O54QBFXYGQ2QHUNQHN5RULTKXFBCMBE"
