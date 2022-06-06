@@ -1,3 +1,11 @@
+tanggal        = 2022-06-06 17:27:11
+key            = 24 
+plain text     = "JQRXCK2ABEFRBP75NC9X0SUT"
+encrypted text = "AIKR>G/?AEGTET<;UKBb;_bb"
+decrypted text = "JQRXCK2ABEFRBP75NC9X0SUT"
+plain text     = "JQRXCK2ABEFRBP75NC9X0SUT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-06 16:35:04
 key            = 92 
 plain text     = "9WFYVZOET28R74LX292AY7GSFCVI5OU5DNIHXB2UBPGMX4S12IS9OJZRGQN95QKZ4UKKQB9VIHY8DPBR073YG69VGVIW"
