@@ -1,3 +1,11 @@
+tanggal        = 2022-06-06 07:20:02
+key            = 30 
+plain text     = "CCD9ECWKKGE1ETUWBXHDMITY0DV9YP"
+encrypted text = "$%'{*)>3410{2BDG3J;8B?KQ)>Q5VN"
+decrypted text = "CCD9ECWKKGE1ETUWBXHDMITY0DV9YP"
+plain text     = "CCD9ECWKKGE1ETUWBXHDMITY0DV9YP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-06 06:50:50
 key            = 10 
 plain text     = "ZZSFPYT10Q"
