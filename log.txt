@@ -1,3 +1,11 @@
+tanggal        = 2022-06-06 12:49:02
+key            = 11 
+plain text     = "3RMA3JCPHMT"
+encrypted text = "l.*}p*$2+19"
+decrypted text = "3RMA3JCPHMT"
+plain text     = "3RMA3JCPHMT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-06 11:38:24
 key            = 60 
 plain text     = "XPDQRMHKNWL23AKLIZCSRRIX3S0S055LRYTQ1OVSNBFAYA3OHHD1GYEDFMYM"
