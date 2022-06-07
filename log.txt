@@ -1,3 +1,11 @@
+tanggal        = 2022-06-07 03:24:45
+key            = 20 
+plain text     = "6F7KURRQ4HP2J75J4L7B"
+encrypted text = "ardy&$%%g|'h#on&o*t""
+decrypted text = "6F7KURRQ4HP2J75J4L7B"
+plain text     = "6F7KURRQ4HP2J75J4L7B"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-07 02:00:09
 key            = 20 
 plain text     = "BIWKJAS3D6M753GW3UHF"
