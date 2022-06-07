@@ -1,3 +1,11 @@
+tanggal        = 2022-06-07 08:49:44
+key            = 23 
+plain text     = "PW01OX6RU53SBNGP4NDLCI0"
+encrypted text = "|&^`!+h'+ji,z)#-p-$-%,r"
+decrypted text = "PW01OX6RU53SBNGP4NDLCI0"
+plain text     = "PW01OX6RU53SBNGP4NDLCI0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-07 08:29:50
 key            = 47 
 plain text     = "B7LMLRE5V73HHRTYWA8XG2GXK65U1V8A4CXPWBNV7N4CC89"
