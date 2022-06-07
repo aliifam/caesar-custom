@@ -1,3 +1,11 @@
+tanggal        = 2022-06-07 11:39:03
+key            = 14 
+plain text     = "QM18HTF31PTDD2"
+encrypted text = ".+nv)6)ut6;,-z"
+decrypted text = "QM18HTF31PTDD2"
+plain text     = "QM18HTF31PTDD2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-07 11:19:34
 key            = 25 
 plain text     = "A2NKNQ3HDGMYA7W3MJNB3BT66"
