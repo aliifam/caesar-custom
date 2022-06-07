@@ -1,3 +1,11 @@
+tanggal        = 2022-06-07 19:18:56
+key            = 22 
+plain text     = "88BQDYUP09ZGJ5HYV3JJSQ"
+encrypted text = "./:J>TQM.8ZHL8L^\:RS]\"
+decrypted text = "88BQDYUP09ZGJ5HYV3JJSQ"
+plain text     = "88BQDYUP09ZGJ5HYV3JJSQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-07 18:47:05
 key            = 86 
 plain text     = "147MRNVNG8RB9MUCI6JZ4RULHRP7R8LNCW0KDB2WKDBH1L09WPJZA4U1GGZVXVZMDRI7G8645HGXM34H92JCMO"
