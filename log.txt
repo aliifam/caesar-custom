@@ -1,3 +1,11 @@
+tanggal        = 2022-06-07 22:21:31
+key            = 3 
+plain text     = "O4W"
+encrypted text = "`Fj"
+decrypted text = "O4W"
+plain text     = "O4W"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-07 21:40:19
 key            = 69 
 plain text     = "0ROOXPLCO90U66CI0VF20W75DVLX1XEBZD2105XUS0B1E3N7PPTHKPOZ4SSIUF97QEPV6"
