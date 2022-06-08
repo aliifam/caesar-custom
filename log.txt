@@ -1,3 +1,11 @@
+tanggal        = 2022-06-08 13:43:24
+key            = 14 
+plain text     = "I72SE95RIA786J"
+encrypted text = "Q@<^QFCaYRIKJ_"
+decrypted text = "I72SE95RIA786J"
+plain text     = "I72SE95RIA786J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-08 12:48:25
 key            = 65 
 plain text     = "B2EJXD7CZY69YMB7RXGQAAIXCJOS3PRDQSWHI7HSC2V85MQLPTXENCBE27VFGTHWI"
