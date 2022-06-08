@@ -1,3 +1,11 @@
+tanggal        = 2022-06-08 03:41:57
+key            = 12 
+plain text     = "RM7ONOWCCY09"
+encrypted text = "UQ<UUW`MNe=G"
+decrypted text = "RM7ONOWCCY09"
+plain text     = "RM7ONOWCCY09"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-08 02:01:00
 key            = 46 
 plain text     = "RFC1B4ESDYA043Y8F4EZUO7QMEXR1RTLW9XQAVN9MZW5EA"
