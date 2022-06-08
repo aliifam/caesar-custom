@@ -1,3 +1,11 @@
+tanggal        = 2022-06-08 18:28:04
+key            = 17 
+plain text     = "WY8L677DHSIXK54QW"
+encrypted text = "BE%:%'(6;G>NB--KR"
+decrypted text = "WY8L677DHSIXK54QW"
+plain text     = "WY8L677DHSIXK54QW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-08 17:42:46
 key            = 24 
 plain text     = "WAGAYC2RDC0CK4SXQLOE51D0"
