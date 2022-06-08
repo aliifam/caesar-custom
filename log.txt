@@ -1,3 +1,11 @@
+tanggal        = 2022-06-08 23:22:44
+key            = 31 
+plain text     = "81M0262I1UOJVOYG71LD77R9GISR8CA"
+encrypted text = "LFcGJOLdMrmivp{j[Vrk_`|dsv##hts"
+decrypted text = "81M0262I1UOJVOYG71LD77R9GISR8CA"
+plain text     = "81M0262I1UOJVOYG71LD77R9GISR8CA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-08 22:41:35
 key            = 25 
 plain text     = "3K74DSOQVO3MWIVXHN6FZ3DO5"
