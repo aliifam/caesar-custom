@@ -1,3 +1,11 @@
+tanggal        = 2022-06-08 05:21:10
+key            = 23 
+plain text     = "3DD0B6842WHV568R8ZTCMQI"
+encrypted text = "1CD1D9<98^P_?AD_FidT_d]"
+decrypted text = "3DD0B6842WHV568R8ZTCMQI"
+plain text     = "3DD0B6842WHV568R8ZTCMQI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-08 04:37:09
 key            = 48 
 plain text     = "LZRZ5AI5EQBG7QVTI0VQWATEERONZDFOPIRXAA4H4GONNWPK"
