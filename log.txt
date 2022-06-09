@@ -1,3 +1,11 @@
+tanggal        = 2022-06-09 18:47:38
+key            = 28 
+plain text     = "OHCVK71KBQR3G2A3WVH24WPRRAQ2"
+encrypted text = "C=9MC0+F>NP2G3C6[[N9<`Z]^N_A"
+decrypted text = "OHCVK71KBQR3G2A3WVH24WPRRAQ2"
+plain text     = "OHCVK71KBQR3G2A3WVH24WPRRAQ2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-09 18:27:31
 key            = 62 
 plain text     = "DQTNWUG5N9FC3UHPJMOKY448657IQHVL1UTCCLG5FFSPAMOEARPDFQLUVNO30Q"
