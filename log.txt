@@ -1,3 +1,11 @@
+tanggal        = 2022-06-09 16:34:31
+key            = 11 
+plain text     = "8BN8XOJVSZF"
+encrypted text = "^iva$zv%#+v"
+decrypted text = "8BN8XOJVSZF"
+plain text     = "8BN8XOJVSZF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-09 15:44:10
 key            = 100 
 plain text     = "ZYA1QKA3GTXSNDTS24I3W1KYUACM7JWEYTC21FPOA2R533WWLAS8MU5TYWPP9V7VWSIW2N4IDW3UQ0YGLXXDCEWH3FZYFWNWF91Y"
