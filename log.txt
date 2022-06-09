@@ -1,3 +1,11 @@
+tanggal        = 2022-06-09 05:21:03
+key            = 24 
+plain text     = "5OLDMOXOHOHXASTEH2UR4PZ9"
+encrypted text = "|970:=G?9A;L6IK=A,PN1NY9"
+decrypted text = "5OLDMOXOHOHXASTEH2UR4PZ9"
+plain text     = "5OLDMOXOHOHXASTEH2UR4PZ9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-09 04:35:31
 key            = 31 
 plain text     = "OU1RU0JSH7QKZ5KZSDSMUA665W78JV9"
