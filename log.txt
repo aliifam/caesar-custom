@@ -1,3 +1,11 @@
+tanggal        = 2022-06-09 22:24:05
+key            = 34 
+plain text     = "6CA72M1BOEEOKTZTSM1MIZPR2YX9B04IWC"
+encrypted text = "!/.%!="4B9:EBLSNNI.KHZQT5]]?I8=SbO"
+decrypted text = "6CA72M1BOEEOKTZTSM1MIZPR2YX9B04IWC"
+plain text     = "6CA72M1BOEEOKTZTSM1MIZPR2YX9B04IWC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-09 21:38:11
 key            = 44 
 plain text     = "KX3LQUK5RI7UBA8IPMFSXPE6RA37CM1P13D41OLXHO03"
