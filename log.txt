@@ -1,3 +1,11 @@
+tanggal        = 2022-06-09 07:39:44
+key            = 30 
+plain text     = "ACX7AO4ACX672TKGLD6T0QRQ925FEJ"
+encrypted text = "%(>|)8|,/E$&"E=:@9,K(JLL5/3EEK"
+decrypted text = "ACX7AO4ACX672TKGLD6T0QRQ925FEJ"
+plain text     = "ACX7AO4ACX672TKGLD6T0QRQ925FEJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-09 07:21:35
 key            = 36 
 plain text     = "R8HNCP3YXJKIBI54PX5U6PRFB4C091L1AXB5"
