@@ -1,3 +1,11 @@
+tanggal        = 2022-06-10 17:24:18
+key            = 54 
+plain text     = "RMJM72UIDAUM5WIGMYTVMDIRDYAYF597DHWBK125DYPPATDV17ES20"
+encrypted text = ",(&*so5*&$92y>107D@C;39C6L5N<,10>CS?I026F\TUG[L_;BQ`@?"
+decrypted text = "RMJM72UIDAUM5WIGMYTVMDIRDYAYF597DHWBK125DYPPATDV17ES20"
+plain text     = "RMJM72UIDAUM5WIGMYTVMDIRDYAYF597DHWBK125DYPPATDV17ES20"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-10 16:36:51
 key            = 29 
 plain text     = "MOJC2CZM58ZEPWP2NTGG2AGDPTNBS"
