@@ -1,3 +1,11 @@
+tanggal        = 2022-06-10 17:43:10
+key            = 19 
+plain text     = "V3706YTCO2AAR6U55Y7"
+encrypted text = "A}$|%IE5B&67I.N/0U4"
+decrypted text = "V3706YTCO2AAR6U55Y7"
+plain text     = "V3706YTCO2AAR6U55Y7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-10 17:24:18
 key            = 54 
 plain text     = "RMJM72UIDAUM5WIGMYTVMDIRDYAYF597DHWBK125DYPPATDV17ES20"
