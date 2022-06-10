@@ -1,3 +1,11 @@
+tanggal        = 2022-06-10 20:21:58
+key            = 22 
+plain text     = "4VV9T6NWWBIK9BIOJ7K9D8"
+encrypted text = "u:;};|7AB.69(2:A=+@/;0"
+decrypted text = "4VV9T6NWWBIK9BIOJ7K9D8"
+plain text     = "4VV9T6NWWBIK9BIOJ7K9D8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-10 19:38:38
 key            = 38 
 plain text     = "ETPW8YSBSE39Z989FTK9FXTFP7OV1ES9OABNX0"
