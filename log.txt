@@ -1,3 +1,11 @@
+tanggal        = 2022-06-10 11:39:53
+key            = 5 
+plain text     = "BXH2Q"
+encrypted text = "(?0y;"
+decrypted text = "BXH2Q"
+plain text     = "BXH2Q"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-10 11:19:41
 key            = 80 
 plain text     = "J25PXG3KBYGAQAM4HD9F8DY6C9581VFI9HGKFHQX3GF22YF42POQCZ74QG86A33AXJYX16GCK0EYJWFR"
