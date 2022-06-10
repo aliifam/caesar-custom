@@ -1,3 +1,11 @@
+tanggal        = 2022-06-10 06:27:47
+key            = 34 
+plain text     = "5GP7CP18O3QEQ2GZIZD67R3H6WA2K5KLUQ"
+encrypted text = "j})o|,lt.q2'4t,@0B-~">~6%G2$>)@BLI"
+decrypted text = "5GP7CP18O3QEQ2GZIZD67R3H6WA2K5KLUQ"
+plain text     = "5GP7CP18O3QEQ2GZIZD67R3H6WA2K5KLUQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-10 05:39:19
 key            = 43 
 plain text     = "8R7HE1L0NFZ6RJJ36RN2R92MLQJCHXWZNHN0IQ0IJWA"
