@@ -1,3 +1,11 @@
+tanggal        = 2022-06-10 03:34:41
+key            = 27 
+plain text     = "LUW10W7050FX8KZLRLN3QW4PHOI"
+encrypted text = "x$'``*icie|1p&6)0+.r3:v5.61"
+decrypted text = "LUW10W7050FX8KZLRLN3QW4PHOI"
+plain text     = "LUW10W7050FX8KZLRLN3QW4PHOI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-10 02:07:28
 key            = 38 
 plain text     = "9S729DVXKMZZ9NAVAA77MX0Q60AQFSWDZJ995I"
