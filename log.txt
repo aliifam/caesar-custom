@@ -1,3 +1,11 @@
+tanggal        = 2022-06-10 16:36:51
+key            = 29 
+plain text     = "MOJC2CZM58ZEPWP2NTGG2AGDPTNBS"
+encrypted text = "!$~xhz4(os8$082s29-.x*1/<A<1C"
+decrypted text = "MOJC2CZM58ZEPWP2NTGG2AGDPTNBS"
+plain text     = "MOJC2CZM58ZEPWP2NTGG2AGDPTNBS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-10 15:46:06
 key            = 34 
 plain text     = "HQXV9KCHEHE7EWSIOS8YAGPAYIWAG16B7K"
