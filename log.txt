@@ -1,3 +1,11 @@
+tanggal        = 2022-06-11 06:26:43
+key            = 19 
+plain text     = "BKA0U8BKA1761BG2ML6"
+encrypted text = "HRI9_CNXO@GGCU[GccN"
+decrypted text = "BKA0U8BKA1761BG2ML6"
+plain text     = "BKA0U8BKA1761BG2ML6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-11 05:38:50
 key            = 77 
 plain text     = "O12OGQZ6A7IN28HE6J8TDMLOY7K43LRNALVL7CD9MWOTHCIY3GSBSP4D2OB2HVPK20P829MYCP9KH"
