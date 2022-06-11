@@ -1,3 +1,11 @@
+tanggal        = 2022-06-11 05:19:32
+key            = 8 
+plain text     = "1WES53QN"
+encrypted text = ";bQ`CBa_"
+decrypted text = "1WES53QN"
+plain text     = "1WES53QN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-11 04:50:21
 key            = 99 
 plain text     = "2UGSUJW6HJFOUO86C5AKSUAIQR8M6YXCZZXA25F4AX3VWI4ZKII02PVCQL6X7UBND7IG8C594GX2IX4A3JOMO54ESNVO336K4WJ"
