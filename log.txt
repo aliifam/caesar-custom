@@ -1,3 +1,11 @@
+tanggal        = 2022-06-11 15:22:14
+key            = 27 
+plain text     = "1LEAXJXDZIE9CW763Q1TE7U4U44"
+encrypted text = "g%}z4'6#:*'z'<{{y:y?1$C#E%&"
+decrypted text = "1LEAXJXDZIE9CW763Q1TE7U4U44"
+plain text     = "1LEAXJXDZIE9CW763Q1TE7U4U44"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-11 14:39:06
 key            = 63 
 plain text     = "34QHT6AZCHKJG8Z6Y42VUGII8N5W40Z1DMOIZ327I276Z4AK74HHJO0EH7WIYZW"
