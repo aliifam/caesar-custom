@@ -1,3 +1,11 @@
+tanggal        = 2022-06-11 12:37:58
+key            = 18 
+plain text     = "VR2TLGXMA5E0ZHVCYW"
+encrypted text = "74s81-?5*}0zG6E3JI"
+decrypted text = "VR2TLGXMA5E0ZHVCYW"
+plain text     = "VR2TLGXMA5E0ZHVCYW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-11 11:38:23
 key            = 68 
 plain text     = "QMNP8O1OU6OB10W9FAFDGNINPJ9ALNZJDHPZK8I0WMDXRGRZ5W8EFYO0CR0L1EZ9F45V"
