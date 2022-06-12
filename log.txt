@@ -1,3 +1,11 @@
+tanggal        = 2022-06-12 21:18:28
+key            = 3 
+plain text     = "RVG"
+encrypted text = "qvh"
+decrypted text = "RVG"
+plain text     = "RVG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-12 20:41:18
 key            = 76 
 plain text     = "9C248ZTY22ULGJRSNSVK3WZIWH2QIC4CJLXKWDVJ4SD33SJFP84SCAQ0XEQ98R0HJWB6UWCY8PMV"
