@@ -1,3 +1,11 @@
+tanggal        = 2022-06-12 08:43:46
+key            = 24 
+plain text     = "7NRV51B7C1H92DPCYEUIOQK6"
+encrypted text = "\ty~^[mcp_wicv%w0{.#*-(r"
+decrypted text = "7NRV51B7C1H92DPCYEUIOQK6"
+plain text     = "7NRV51B7C1H92DPCYEUIOQK6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-12 08:26:01
 key            = 28 
 plain text     = "A7DT6Q31JSANCNYNQD6AVJ5N9ABA"
