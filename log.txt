@@ -1,3 +1,11 @@
+tanggal        = 2022-06-12 07:38:27
+key            = 31 
+plain text     = "1XLCQTWQJNEYHOM67A4W18789N4P1G2"
+encrypted text = "9aVN]ae`Z_Wl\dcMOZNrMUUWYoVsUlX"
+decrypted text = "1XLCQTWQJNEYHOM67A4W18789N4P1G2"
+plain text     = "1XLCQTWQJNEYHOM67A4W18789N4P1G2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-12 07:20:05
 key            = 44 
 plain text     = "17RKDZZGMFHPCVM1GWW2A0HNEREUHGH5DJ7CP5LHJ0CR"
