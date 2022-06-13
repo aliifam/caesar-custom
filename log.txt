@@ -1,3 +1,11 @@
+tanggal        = 2022-06-13 23:22:26
+key            = 51 
+plain text     = "C6XJCLSCC2NBGRZEP3DRS8DN7NLYZQRO7QT1SR3QN8331X9OEQ4"
+encrypted text = "!s8+%/7()w6+1=F2>"4CE+8C-EDRTLNL5PT2UU7VT?;<;cE\S`D"
+decrypted text = "C6XJCLSCC2NBGRZEP3DRS8DN7NLYZQRO7QT1SR3QN8331X9OEQ4"
+plain text     = "C6XJCLSCC2NBGRZEP3DRS8DN7NLYZQRO7QT1SR3QN8331X9OEQ4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-13 22:41:59
 key            = 8 
 plain text     = "IIGP85PL"
