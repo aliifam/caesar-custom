@@ -1,3 +1,11 @@
+tanggal        = 2022-06-13 17:26:42
+key            = 19 
+plain text     = "2VIXP4HUPOS0UAC2OA3"
+encrypted text = "|C7G@%:HDDI'M:=-K>1"
+decrypted text = "2VIXP4HUPOS0UAC2OA3"
+plain text     = "2VIXP4HUPOS0UAC2OA3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-13 16:36:37
 key            = 66 
 plain text     = "8M8DZLKNTS2SAJ2KOTCWP19NUA104J3LBCLWQGZATYH0JCYC6R1K2LSD570BFV778G"
