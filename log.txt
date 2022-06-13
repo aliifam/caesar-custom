@@ -1,3 +1,11 @@
+tanggal        = 2022-06-13 21:41:16
+key            = 51 
+plain text     = "L6TVISL1CR9U5CV01WY9F6ZA41SC4GBTZOJZNZEBXDD1M7RCXEU"
+encrypted text = "p[z}q|v\o!g&et*ce.1p~o6|pn3$t*&9@62C8E1/F34"?*F8N<M"
+decrypted text = "L6TVISL1CR9U5CV01WY9F6ZA41SC4GBTZOJZNZEBXDD1M7RCXEU"
+plain text     = "L6TVISL1CR9U5CV01WY9F6ZA41SC4GBTZOJZNZEBXDD1M7RCXEU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-13 21:21:33
 key            = 6 
 plain text     = "PIY7M5"
