@@ -1,3 +1,11 @@
+tanggal        = 2022-06-13 22:41:59
+key            = 8 
+plain text     = "IIGP85PL"
+encrypted text = "LMLV?=YV"
+decrypted text = "IIGP85PL"
+plain text     = "IIGP85PL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-13 22:23:11
 key            = 9 
 plain text     = "IRODSYCQ6"
