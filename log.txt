@@ -1,3 +1,11 @@
+tanggal        = 2022-06-13 11:38:56
+key            = 26 
+plain text     = "LQ76OZT42EILLK2GRYFK6DL1IP"
+encrypted text = "]cJJdpkLK_dhiiQgs{io[jsYrz"
+decrypted text = "LQ76OZT42EILLK2GRYFK6DL1IP"
+plain text     = "LQ76OZT42EILLK2GRYFK6DL1IP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-13 11:21:16
 key            = 20 
 plain text     = "QF5R3LQXZ30H5LU0TB0C"
