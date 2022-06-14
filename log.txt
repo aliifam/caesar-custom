@@ -1,3 +1,11 @@
+tanggal        = 2022-06-14 18:28:33
+key            = 28 
+plain text     = "LLNO83AN1DHWTJBYC4X2M4FPD4SU"
+encrypted text = "fgjlVRaoSgl|zqj$m_&_{cv#vg),"
+decrypted text = "LLNO83AN1DHWTJBYC4X2M4FPD4SU"
+plain text     = "LLNO83AN1DHWTJBYC4X2M4FPD4SU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-14 17:46:31
 key            = 96 
 plain text     = "Z8BXI5UNCHS2E8L0CHCYTT2LV7WVT2Z02SMCO7UP1R3NUUFW3VS0OIWBS84EYJPYOEZ7EMIITWD0MM1OAQ1R293E1F32FZQ7"
