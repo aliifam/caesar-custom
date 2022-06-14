@@ -1,3 +1,11 @@
+tanggal        = 2022-06-14 07:39:36
+key            = 26 
+plain text     = "283552A1A01Q8L5ZEW7QCLXR8D"
+encrypted text = "|%!$%#3$5%'H0E/UAT5PCMZU<I"
+decrypted text = "283552A1A01Q8L5ZEW7QCLXR8D"
+plain text     = "283552A1A01Q8L5ZEW7QCLXR8D"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-14 07:21:16
 key            = 25 
 plain text     = "UYQ5F8AHV2U1T0L0QY5LCFKMR"
