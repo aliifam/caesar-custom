@@ -1,3 +1,11 @@
+tanggal        = 2022-06-14 18:50:17
+key            = 5 
+plain text     = "FPW5C"
+encrypted text = "&19v'"
+decrypted text = "FPW5C"
+plain text     = "FPW5C"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-14 18:28:33
 key            = 28 
 plain text     = "LLNO83AN1DHWTJBYC4X2M4FPD4SU"
