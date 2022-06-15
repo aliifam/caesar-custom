@@ -1,3 +1,11 @@
+tanggal        = 2022-06-15 10:45:44
+key            = 11 
+plain text     = "467S257M97I"
+encrypted text = ">AC`@DG^KJ]"
+decrypted text = "467S257M97I"
+plain text     = "467S257M97I"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-15 10:26:54
 key            = 16 
 plain text     = "TCDWJFNSC4II5RP5"
