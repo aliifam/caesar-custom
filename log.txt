@@ -1,3 +1,11 @@
+tanggal        = 2022-06-15 08:30:45
+key            = 13 
+plain text     = "X5UJMVN89HXJA"
+encrypted text = "0l/%)3,uw):-%"
+decrypted text = "X5UJMVN89HXJA"
+plain text     = "X5UJMVN89HXJA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-15 07:40:50
 key            = 60 
 plain text     = "J53KLSWY22K9KOHJFLK9CTB83KA1T82WR90A74MMTS1GD5CI53JW748F23GO"
