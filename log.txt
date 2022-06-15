@@ -1,3 +1,11 @@
+tanggal        = 2022-06-15 22:23:27
+key            = 9 
+plain text     = "WZ9SNMLZQ"
+encrypted text = "+/m*&&&5-"
+decrypted text = "WZ9SNMLZQ"
+plain text     = "WZ9SNMLZQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-15 21:40:33
 key            = 96 
 plain text     = "9ZB9HA3OEYMZ43DYEFCWJOORPNGC6Q307QMAEPGA62WVRXWMNTGJVVOXFU5LYGSY8B4O1VAJ8S5AIDGRB2O2WITK1XFMGYCA"
