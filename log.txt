@@ -1,3 +1,11 @@
+tanggal        = 2022-06-16 12:47:04
+key            = 6 
+plain text     = "C4WXB3"
+encrypted text = "se+-vh"
+decrypted text = "C4WXB3"
+plain text     = "C4WXB3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-16 11:38:41
 key            = 88 
 plain text     = "ZQSSGKCHCP1M3WZ8PBI5J65VB2S1HVUUO8O3B0MHW3512IGO6PJX6I9IRGYCZ1HGIRPFVGXM1TT39J5I1PD1BDIS"
