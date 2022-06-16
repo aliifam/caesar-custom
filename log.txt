@@ -1,3 +1,11 @@
+tanggal        = 2022-06-16 03:39:57
+key            = 6 
+plain text     = "TNBFH9"
+encrypted text = "{vkpse"
+decrypted text = "TNBFH9"
+plain text     = "TNBFH9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-16 02:09:20
 key            = 42 
 plain text     = "L0MP0QK6WRVTNM7B31QQ01HR1XTR8EV6159841Y2P6"
