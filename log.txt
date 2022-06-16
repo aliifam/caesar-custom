@@ -1,3 +1,11 @@
+tanggal        = 2022-06-16 14:40:25
+key            = 19 
+plain text     = "SINORA2VJK5F8Y2GWSJ"
+encrypted text = "YPVX\L>cXZEWJlF\mjb"
+decrypted text = "SINORA2VJK5F8Y2GWSJ"
+plain text     = "SINORA2VJK5F8Y2GWSJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-16 14:20:23
 key            = 100 
 plain text     = "BB26FC34YTNZOZWF4JC3AQ2C0XS6PC2N03SOV2LI3S658V1ZJZE377QNX88BOX8QOF2OMAU72LYLNEVZ4ASYDF795L8ERAQH7ETJ"
