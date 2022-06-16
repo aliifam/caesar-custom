@@ -1,3 +1,11 @@
+tanggal        = 2022-06-16 19:16:47
+key            = 3 
+plain text     = "QU2"
+encrypted text = "`eC"
+decrypted text = "QU2"
+plain text     = "QU2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-16 18:50:54
 key            = 33 
 plain text     = "IOK0XJL0IUZO9MSQ81RL0M11WO3WO61X5"
