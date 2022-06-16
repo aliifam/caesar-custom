@@ -1,3 +1,11 @@
+tanggal        = 2022-06-16 21:19:32
+key            = 12 
+plain text     = "1QDP12O8B56I"
+encrypted text = "g*|+km-u"tv,"
+decrypted text = "1QDP12O8B56I"
+plain text     = "1QDP12O8B56I"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-16 20:43:12
 key            = 18 
 plain text     = "PUYP3DMRIC9TTHCYD8"
