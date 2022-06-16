@@ -1,3 +1,11 @@
+tanggal        = 2022-06-16 04:39:40
+key            = 18 
+plain text     = "AVVIM7OOAQQULRY2CY"
+encrypted text = "F\]QVAZ[N_`e]dlFXo"
+decrypted text = "AVVIM7OOAQQULRY2CY"
+plain text     = "AVVIM7OOAQQULRY2CY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-16 03:39:57
 key            = 6 
 plain text     = "TNBFH9"
