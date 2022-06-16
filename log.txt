@@ -1,3 +1,11 @@
+tanggal        = 2022-06-16 16:35:03
+key            = 27 
+plain text     = "ZRKKPUCWYD15YMESYDRYM81MPMR"
+encrypted text = "D=78>D3HK7%*OD=LS?NVK71NRPV"
+decrypted text = "ZRKKPUCWYD15YMESYDRYM81MPMR"
+plain text     = "ZRKKPUCWYD15YMESYDRYM81MPMR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-16 15:45:41
 key            = 9 
 plain text     = "EAC298WZF"
