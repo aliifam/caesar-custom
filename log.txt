@@ -1,3 +1,11 @@
+tanggal        = 2022-06-16 09:24:15
+key            = 4 
+plain text     = "BC5L"
+encrypted text = "&(y3"
+decrypted text = "BC5L"
+plain text     = "BC5L"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-16 08:33:33
 key            = 79 
 plain text     = "AM6LTL4PX4GJVQCABY5QTZSY5JQVMUOLNSPL95BZULH9ZFGY24OA46W0GMUJSQH7HL18JE57QSHB9II"
