@@ -1,3 +1,11 @@
+tanggal        = 2022-06-17 06:28:43
+key            = 28 
+plain text     = "HRM855THYEWFB440TMRFTLSM2EQS"
+encrypted text = "<GC/-.NCUBUEB563XRXM\U]X>R_b"
+decrypted text = "HRM855THYEWFB440TMRFTLSM2EQS"
+plain text     = "HRM855THYEWFB440TMRFTLSM2EQS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-17 05:41:21
 key            = 30 
 plain text     = "W4BW1S9UWJ1SXKY3Y8U8N5D2HK0YS0"
