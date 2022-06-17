@@ -1,3 +1,11 @@
+tanggal        = 2022-06-17 10:43:33
+key            = 8 
+plain text     = "RML0JQE4"
+encrypted text = "\XX=X`UE"
+decrypted text = "RML0JQE4"
+plain text     = "RML0JQE4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-17 10:26:01
 key            = 96 
 plain text     = "H1GE14DV5LBAOQ1SREBKZ43DQ587OU8Z8KL38TLLG4LHOCT2J13QRTI3KJ169WFSLMMI4186JPSY3QM1QFJG75W6XIP8EE3R"
