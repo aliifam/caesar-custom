@@ -1,3 +1,11 @@
+tanggal        = 2022-06-17 07:20:59
+key            = 11 
+plain text     = "SYGQ3QU23WE"
+encrypted text = "BI8C&EJ(*O>"
+decrypted text = "SYGQ3QU23WE"
+plain text     = "SYGQ3QU23WE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-17 06:49:20
 key            = 76 
 plain text     = "Z1PDB2F59SVXT40UXLVRFII0S5HNNG8D8YE7XWXQX8I71SP72H58A75KZFRIQPWM4I4SXVPANPHY"
