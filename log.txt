@@ -1,3 +1,11 @@
+tanggal        = 2022-06-17 06:49:20
+key            = 76 
+plain text     = "Z1PDB2F59SVXT40UXLVRFII0S5HNNG8D8YE7XWXQX8I71SP72H58A75KZFRIQPWM4I4SXVPANPHY"
+encrypted text = "$Zzon_tdi&*-*if.2'2/$()o5v,34.~-"D1$FFHBJ+=,'JH0,C15?65L\IVNWW_V>T@`fe`R`c\n"
+decrypted text = "Z1PDB2F59SVXT40UXLVRFII0S5HNNG8D8YE7XWXQX8I71SP72H58A75KZFRIQPWM4I4SXVPANPHY"
+plain text     = "Z1PDB2F59SVXT40UXLVRFII0S5HNNG8D8YE7XWXQX8I71SP72H58A75KZFRIQPWM4I4SXVPANPHY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-17 06:28:43
 key            = 28 
 plain text     = "HRM855THYEWFB440TMRFTLSM2EQS"
