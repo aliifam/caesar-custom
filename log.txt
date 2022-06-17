@@ -1,3 +1,11 @@
+tanggal        = 2022-06-17 12:50:20
+key            = 15 
+plain text     = "G69YR7YS6NOWJL8"
+encrypted text = "yim0*n3.p+-6*-x"
+decrypted text = "G69YR7YS6NOWJL8"
+plain text     = "G69YR7YS6NOWJL8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-17 11:39:01
 key            = 31 
 plain text     = "AMKI3Y3VNXUMNFTHWN9221Y5FGBF7G2"
