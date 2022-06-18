@@ -1,3 +1,11 @@
+tanggal        = 2022-06-18 23:40:31
+key            = 24 
+plain text     = "DC2EO9BIXAS4VRZF91YEUH08"
+encrypted text = "qqau"ku}/w,l1.7$vo:'8,s|"
+decrypted text = "DC2EO9BIXAS4VRZF91YEUH08"
+plain text     = "DC2EO9BIXAS4VRZF91YEUH08"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-18 23:20:52
 key            = 26 
 plain text     = "V3LR8ZCASEXDUV6LIPE61L5SWV"
