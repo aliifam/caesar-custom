@@ -1,3 +1,11 @@
+tanggal        = 2022-06-18 06:47:37
+key            = 61 
+plain text     = "XNCDP667SG5HFPFBNVGHHH9XSB4FAGDA07NJK1UYDZAR6RFBMRV9HE8CIQ12E"
+encrypted text = ""wmo|cdf%xg{z'|y(1#%&'w95%v+'.,*x":79~EJ6M5G,I>;GMR6FD8DKT57K"
+decrypted text = "XNCDP667SG5HFPFBNVGHHH9XSB4FAGDA07NJK1UYDZAR6RFBMRV9HE8CIQ12E"
+plain text     = "XNCDP667SG5HFPFBNVGHHH9XSB4FAGDA07NJK1UYDZAR6RFBMRV9HE8CIQ12E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-18 06:26:42
 key            = 46 
 plain text     = "QATRDSLHTW7TFAA59RJHE96VY70K16IGWTHKQB0JEFFF3R"
