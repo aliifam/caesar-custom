@@ -1,3 +1,11 @@
+tanggal        = 2022-06-18 09:40:34
+key            = 8 
+plain text     = "ZBUBLLBI"
+encrypted text = "^G[ITULT"
+decrypted text = "ZBUBLLBI"
+plain text     = "ZBUBLLBI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-18 09:20:12
 key            = 58 
 plain text     = "0PTGTYSTQZKX583XLHJ07UMTWMFD9Q9L1LM9FIBW8COLBJURR0JVN1DQ10"
