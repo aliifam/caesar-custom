@@ -1,3 +1,11 @@
+tanggal        = 2022-06-18 03:34:06
+key            = 32 
+plain text     = "JJAVGS3T19NF2CPMPGWEXW4XPVDCQQ4N"
+encrypted text = "CD<RDQ2T2;QJ7IWUYQbQeeChahWWfgKf"
+decrypted text = "JJAVGS3T19NF2CPMPGWEXW4XPVDCQQ4N"
+plain text     = "JJAVGS3T19NF2CPMPGWEXW4XPVDCQQ4N"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-18 02:10:19
 key            = 52 
 plain text     = "Q0N9ZSPYX302LIYBUFZMU52818SYWS4R8C6UP5Z9V4RXM5RNYH1P"
