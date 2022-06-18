@@ -1,3 +1,11 @@
+tanggal        = 2022-06-18 08:46:08
+key            = 87 
+plain text     = "LQU214XFQ5N7LS2TDSQC40RN4IORPQOX1LG5XZGABY06BA2CMOOP4UWUE1AF0KRDB70UEDT37SYOBKRLRWPD8KN"
+encrypted text = "NTY77;`O[@ZDZbBeVfeXJGjgNdkonpoySokZ~ojl\cppbtjl}nzt|¥¢¤ª¤¢¦"
+decrypted text = "LQU214XFQ5N7LS2TDSQC40RN4IORPQOX1LG5XZGABY06BA2CMOOP4UWUE1AF0KRDB70UEDT37SYOBKRLRWPD8KN"
+plain text     = "LQU214XFQ5N7LS2TDSQC40RN4IORPQOX1LG5XZGABY06BA2CMOOP4UWUE1AF0KRDB70UEDT37SYOBKRLRWPD8KN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-18 08:27:31
 key            = 5 
 plain text     = "LAXQY"
