@@ -1,3 +1,11 @@
+tanggal        = 2022-06-18 13:29:37
+key            = 30 
+plain text     = "S6LRCIBZW99C2X8BB7GVDE53A9R4GI"
+encrypted text = "Z>U\NUOhfIJUElMXYO`p_aRQ`YsVjm"
+decrypted text = "S6LRCIBZW99C2X8BB7GVDE53A9R4GI"
+plain text     = "S6LRCIBZW99C2X8BB7GVDE53A9R4GI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-18 12:37:32
 key            = 73 
 plain text     = "8374J51FJ9VOEPJESQAR8Z5ZICUSGAZW3BJE5QOXRUV7Z6GE2586JWWEGW7BGKNXD6V5BC20M"
