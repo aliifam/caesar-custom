@@ -1,3 +1,11 @@
+tanggal        = 2022-06-18 07:19:55
+key            = 18 
+plain text     = "3MQWFJKW8L2Z0PBNHO"
+encrypted text = ")DIP@EGT6K2[2SFSNV"
+decrypted text = "3MQWFJKW8L2Z0PBNHO"
+plain text     = "3MQWFJKW8L2Z0PBNHO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-18 06:47:37
 key            = 61 
 plain text     = "XNCDP667SG5HFPFBNVGHHH9XSB4FAGDA07NJK1UYDZAR6RFBMRV9HE8CIQ12E"
