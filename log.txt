@@ -1,3 +1,11 @@
+tanggal        = 2022-06-19 16:30:18
+key            = 12 
+plain text     = "LR5BL1UW5L28"
+encrypted text = "v}aoz`'*g!fm"
+decrypted text = "LR5BL1UW5L28"
+plain text     = "LR5BL1UW5L28"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-19 15:43:19
 key            = 82 
 plain text     = "MQ2L5D3QC2HKQ0TLIE1HPNQ5L9ARHWB1XHTRRX3S83K4FWSPSZRJD8HVM8JODMKJBCNZR6ZRYJ3NCOBQRS"
