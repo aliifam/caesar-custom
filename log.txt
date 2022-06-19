@@ -1,3 +1,11 @@
+tanggal        = 2022-06-19 06:48:15
+key            = 24 
+plain text     = "AZLT0WQBPGBS9WD6B7GKFXXS"
+encrypted text = "e!r{X"{m|tp$i*vivl}$~340"
+decrypted text = "AZLT0WQBPGBS9WD6B7GKFXXS"
+plain text     = "AZLT0WQBPGBS9WD6B7GKFXXS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-19 06:27:07
 key            = 41 
 plain text     = "XW4OAZO7HLMM1MAEQ14NWYW0TGIAKXZ1709OICGQY"
