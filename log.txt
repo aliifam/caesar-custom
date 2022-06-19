@@ -1,3 +1,11 @@
+tanggal        = 2022-06-19 13:44:18
+key            = 1 
+plain text     = "E"
+encrypted text = "L"
+decrypted text = "E"
+plain text     = "E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-19 13:28:26
 key            = 84 
 plain text     = "8H6CM2UHI9TR3GD2BTQWF2U36ZR63L4BLOAA8AFPAQ5I14KDHWBRTB2SYS5DJOWWK9KFJZ0L4QVHE9VFMXQ5"
