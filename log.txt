@@ -1,3 +1,11 @@
+tanggal        = 2022-06-19 14:39:22
+key            = 20 
+plain text     = "NAPL6U19UXUXW8N2V6UQ"
+encrypted text = "QEUR=]:C`dbffH_DiJjg"
+decrypted text = "NAPL6U19UXUXW8N2V6UQ"
+plain text     = "NAPL6U19UXUXW8N2V6UQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-19 14:19:02
 key            = 97 
 plain text     = "05LVYD6NXPJK8U0RG2DRRS9O9PDBXIJ6JYBNLP2M6HQEE0X8AWUR4D3A7E326DV4PSIAFTMLP71IKIG1SC4OO2TY2S7L1CMBY"
