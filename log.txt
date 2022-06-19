@@ -1,3 +1,11 @@
+tanggal        = 2022-06-19 15:22:08
+key            = 62 
+plain text     = "2O7FV1Z7LN9MH21CIOMBOWN6NPO4QFKHYGV68VHX7QP8LCS5710BF8EE8PDYFA"
+encrypted text = "NlUevR|Zps_tp[[nu|{q!*"i$''k+!'%7&6ux9,={88!6.?"%~~38+9:.G<R@<"
+decrypted text = "2O7FV1Z7LN9MH21CIOMBOWN6NPO4QFKHYGV68VHX7QP8LCS5710BF8EE8PDYFA"
+plain text     = "2O7FV1Z7LN9MH21CIOMBOWN6NPO4QFKHYGV68VHX7QP8LCS5710BF8EE8PDYFA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-19 14:39:22
 key            = 20 
 plain text     = "NAPL6U19UXUXW8N2V6UQ"
