@@ -1,3 +1,11 @@
+tanggal        = 2022-06-20 23:41:14
+key            = 33 
+plain text     = "E1RWHGAIHL0U4YDZS4PG6BC73EAVK1JT0"
+encrypted text = "yf*0""{&&+n6t<(?9y80~-/$!41G=$>I&"
+decrypted text = "E1RWHGAIHL0U4YDZS4PG6BC73EAVK1JT0"
+plain text     = "E1RWHGAIHL0U4YDZS4PG6BC73EAVK1JT0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-20 23:21:58
 key            = 1 
 plain text     = "2"
