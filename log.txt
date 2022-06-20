@@ -1,3 +1,11 @@
+tanggal        = 2022-06-20 07:22:39
+key            = 35 
+plain text     = "KUXZD9MWT402BZB41PDR0UZNKOX3XW79W5L"
+encrypted text = "q|"%ndy&$c`ct/vig)|-j28-+0:t<<{~?|6"
+decrypted text = "KUXZD9MWT402BZB41PDR0UZNKOX3XW79W5L"
+plain text     = "KUXZD9MWT402BZB41PDR0UZNKOX3XW79W5L"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-20 06:31:43
 key            = 76 
 plain text     = "NTJFNWAAE9TBJAVRXJI135MSZCVNS5NZSUT2U7Y8E2DIL7PPYTVSY8WRTCLKSKGE7LT4OB6BSJGR"
