@@ -1,3 +1,11 @@
+tanggal        = 2022-06-20 08:33:14
+key            = 3 
+plain text     = "AGA"
+encrypted text = "}&!"
+decrypted text = "AGA"
+plain text     = "AGA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-20 07:41:40
 key            = 65 
 plain text     = "D17BNHYA70AJYXTTZ8BCDH7Z2RCP2V1F6YT5EPN9L2Q2FPI8MHPILQ7RDBV8IH5RG"
