@@ -1,3 +1,11 @@
+tanggal        = 2022-06-20 09:42:36
+key            = 7 
+plain text     = "GGC8BUI"
+encrypted text = "_`]S^rg"
+decrypted text = "GGC8BUI"
+plain text     = "GGC8BUI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-20 09:27:24
 key            = 10 
 plain text     = "KY38KQACW9"
