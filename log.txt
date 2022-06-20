@@ -1,3 +1,11 @@
+tanggal        = 2022-06-20 09:27:24
+key            = 10 
+plain text     = "KY38KQACW9"
+encrypted text = "_nIOcj[^sV"
+decrypted text = "KY38KQACW9"
+plain text     = "KY38KQACW9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-20 08:33:14
 key            = 3 
 plain text     = "AGA"
