@@ -1,3 +1,11 @@
+tanggal        = 2022-06-20 20:25:57
+key            = 49 
+plain text     = "Y87DVO3ACAQYP15I6GEUWKGN9DD11W5BAP5C6MV9JD43GA6MP"
+encrypted text = "C##1D>#254ENF(-B0BARUJGO;GH67^=KK[APD\fJ\WHH]XNfj"
+decrypted text = "Y87DVO3ACAQYP15I6GEUWKGN9DD11W5BAP5C6MV9JD43GA6MP"
+plain text     = "Y87DVO3ACAQYP15I6GEUWKGN9DD11W5BAP5C6MV9JD43GA6MP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-20 19:39:26
 key            = 14 
 plain text     = "KX8B6B671FDPND"
