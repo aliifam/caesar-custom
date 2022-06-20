@@ -1,3 +1,11 @@
+tanggal        = 2022-06-20 10:45:45
+key            = 18 
+plain text     = "F46FKJ41X4KKK3CBUX"
+encrypted text = "TCFW]]HFnKcdeN__sw"
+decrypted text = "F46FKJ41X4KKK3CBUX"
+plain text     = "F46FKJ41X4KKK3CBUX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-20 10:27:19
 key            = 43 
 plain text     = "HNJOL29RAYQ2MF4RMZ5IFZ7RVNC0FUGPB7ABLW4OW6T"
