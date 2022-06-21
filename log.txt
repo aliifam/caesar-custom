@@ -1,3 +1,11 @@
+tanggal        = 2022-06-21 18:28:23
+key            = 4 
+plain text     = "14HP"
+encrypted text = "59NW"
+decrypted text = "14HP"
+plain text     = "14HP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-21 17:35:12
 key            = 66 
 plain text     = "CLF4FRBDRHG7XMXTNW4GFH4FQTXFY5D4240IMIW771IUR16CJ2D1PNYSWSV5FJUKRL"
