@@ -1,3 +1,11 @@
+tanggal        = 2022-06-21 19:18:01
+key            = 28 
+plain text     = "ZMGMP86PR21IK1WG613HYS9KQDSZ"
+encrypted text = "eYT[_HGbeFF_bIpaQMPfxsZmthx""
+decrypted text = "ZMGMP86PR21IK1WG613HYS9KQDSZ"
+plain text     = "ZMGMP86PR21IK1WG613HYS9KQDSZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-21 18:49:58
 key            = 71 
 plain text     = "KAY1U121K0UAJ8OXZD8YMEZIA6MCFNKGJYFD7T3Y9NF8FUI500HD88558L4CJD9KKWE8LXY"
