@@ -1,3 +1,11 @@
+tanggal        = 2022-06-22 21:41:34
+key            = 37 
+plain text     = "VNS2YICJDP1VINMXLZZ02XD4MAPNUMBTBSHEL"
+encrypted text = "-&,j4%~(#0p8,22>3BCx{D1"<1A@HA7J9KA?G"
+decrypted text = "VNS2YICJDP1VINMXLZZ02XD4MAPNUMBTBSHEL"
+plain text     = "VNS2YICJDP1VINMXLZZ02XD4MAPNUMBTBSHEL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-22 21:20:21
 key            = 5 
 plain text     = "801EE"
