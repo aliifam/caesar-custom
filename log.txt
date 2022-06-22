@@ -1,3 +1,11 @@
+tanggal        = 2022-06-22 02:21:57
+key            = 47 
+plain text     = "OJ31AVZ87G1MTRZ1BFNI5LJFLY8OHF2AG2H511UAR90ILG2"
+encrypted text = "<8"!2HM,,=(EMLU-?DMI6NMJQ_?WQP=MT@WEBChUgOGaeaM"
+decrypted text = "OJ31AVZ87G1MTRZ1BFNI5LJFLY8OHF2AG2H511UAR90ILG2"
+plain text     = "OJ31AVZ87G1MTRZ1BFNI5LJFLY8OHF2AG2H511UAR90ILG2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-21 23:42:35
 key            = 31 
 plain text     = "64HK7RK9EM0RA594QI2VCUYCOO0DNZ0"
