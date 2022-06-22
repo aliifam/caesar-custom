@@ -1,3 +1,11 @@
+tanggal        = 2022-06-22 11:18:46
+key            = 8 
+plain text     = "VMPMQPTR"
+encrypted text = "qimkpput"
+decrypted text = "VMPMQPTR"
+plain text     = "VMPMQPTR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-22 10:46:06
 key            = 34 
 plain text     = "N7UKWAFX4K1OA32I3PXELTTS9FJ2UX4BVO"
