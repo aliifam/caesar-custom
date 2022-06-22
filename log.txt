@@ -1,3 +1,11 @@
+tanggal        = 2022-06-22 21:20:21
+key            = 5 
+plain text     = "801EE"
+encrypted text = "ngi~!"
+decrypted text = "801EE"
+plain text     = "801EE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-22 20:42:46
 key            = 70 
 plain text     = "GG5DGI9ABXBX7XQK5UASHMQC0YO4743YUCWN1E38LWB1XE1EM92CJ7T7Q3DEPAQDTU2B3W"
