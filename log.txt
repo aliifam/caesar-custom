@@ -1,3 +1,11 @@
+tanggal        = 2022-06-22 06:51:38
+key            = 13 
+plain text     = "NG4CCH39B94I6"
+encrypted text = "rlZjkq]dnfbxf"
+decrypted text = "NG4CCH39B94I6"
+plain text     = "NG4CCH39B94I6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-22 06:28:39
 key            = 1 
 plain text     = "M"
