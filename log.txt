@@ -1,3 +1,11 @@
+tanggal        = 2022-06-22 11:48:28
+key            = 59 
+plain text     = "CRGXLK49YKFPSML2XSIZR8SRDC3Y8TTP1Q6FMYGZCLURLQOW29JQK5QJ057"
+encrypted text = "^ndvkkU[|okvzuu\%!v*#h&&wwh1o./,l/s&.;*>(2<:5;:C}'9A<'D>%+."
+decrypted text = "CRGXLK49YKFPSML2XSIZR8SRDC3Y8TTP1Q6FMYGZCLURLQOW29JQK5QJ057"
+plain text     = "CRGXLK49YKFPSML2XSIZR8SRDC3Y8TTP1Q6FMYGZCLURLQOW29JQK5QJ057"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-22 11:18:46
 key            = 8 
 plain text     = "VMPMQPTR"
