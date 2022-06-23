@@ -1,3 +1,11 @@
+tanggal        = 2022-06-23 11:19:08
+key            = 7 
+plain text     = "T0YG783"
+encrypted text = "@{G6')%"
+decrypted text = "T0YG783"
+plain text     = "T0YG783"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-23 10:45:22
 key            = 71 
 plain text     = "983UNEU3P52AX7SM8VGT3VQODXLAF8O4QYV4WARUZ22GZ9FHHFU3RRVYXHNTZECO1VAZAFL"
