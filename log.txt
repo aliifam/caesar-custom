@@ -1,3 +1,11 @@
+tanggal        = 2022-06-23 09:22:43
+key            = 27 
+plain text     = "861K2HRCIGNHK7AVJ485RJBV2R4"
+encrypted text = "FEA\D[fX_^faeR]shSXVtmf{Xy\"
+decrypted text = "861K2HRCIGNHK7AVJ485RJBV2R4"
+plain text     = "861K2HRCIGNHK7AVJ485RJBV2R4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-23 08:31:31
 key            = 95 
 plain text     = "4W2X4JD2WXE8JTBRWM9X1D66LFUC8EN2067WXCY8D9038NFLASGLLYYR62WRGZ6ON7FJ8Y7E97YRMSYPELVFOYSSDPDJBWO"
