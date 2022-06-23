@@ -1,3 +1,11 @@
+tanggal        = 2022-06-23 05:26:48
+key            = 3 
+plain text     = "4I5"
+encrypted text = "BXE"
+decrypted text = "4I5"
+plain text     = "4I5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-23 04:41:50
 key            = 77 
 plain text     = "4Y4PJGISFAC2J7VRYR0QKLRCHQIKA45LHJ0K2HCOTL46AYURQBGPDBOV51DXF9IU9WOC8JRKQKSIU"
