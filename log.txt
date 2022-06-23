@@ -1,3 +1,11 @@
+tanggal        = 2022-06-23 06:29:34
+key            = 6 
+plain text     = "F16VKM"
+encrypted text = "mY_"vy"
+decrypted text = "F16VKM"
+plain text     = "F16VKM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-23 05:43:52
 key            = 84 
 plain text     = "96ZVSSASBF0D1MTJH8N52D8WMZ82CA55E6O5I2CYPCMYJ8V30REYV1OG8DA7WISJ9GTY7ECW82US8NZNK6U1"
