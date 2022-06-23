@@ -1,3 +1,11 @@
+tanggal        = 2022-06-23 10:26:04
+key            = 31 
+plain text     = "6FCLE6H1Y5QLUH69STH34RDCMPD3U2M"
+encrypted text = ":KISM?R<eB_[eYHLgi^JLk^^imbRuSo"
+decrypted text = "6FCLE6H1Y5QLUH69STH34RDCMPD3U2M"
+plain text     = "6FCLE6H1Y5QLUH69STH34RDCMPD3U2M"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-23 09:43:39
 key            = 64 
 plain text     = "PZ5YPIR9MD3LZTFYEJ0QZEQDTDRKD30ETLR6AWI5FQQIBCUMGKPB00ZSO9SCKF19"
