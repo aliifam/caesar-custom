@@ -1,3 +1,11 @@
+tanggal        = 2022-06-24 16:35:03
+key            = 3 
+plain text     = "MRY"
+encrypted text = "MS["
+decrypted text = "MRY"
+plain text     = "MRY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-24 15:47:18
 key            = 87 
 plain text     = "I7WDDQHYQJHY3TA58TKYAOTVCY7VN78CVPMAHY0KVLMY1BTGHZP36KJ8P6D1C8JQ0NDLOLCSHLK65KA8472WN3Z"
