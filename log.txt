@@ -1,3 +1,11 @@
+tanggal        = 2022-06-24 22:21:44
+key            = 40 
+plain text     = "YVSK953U0CSOKVJ9VEZFQ2ET88UEZF7L3E5J91ZA"
+encrypted text = "864-zwv;u+<96B7'E5K8D&:J/0N?UB4J2E6L<5_G"
+decrypted text = "YVSK953U0CSOKVJ9VEZFQ2ET88UEZF7L3E5J91ZA"
+plain text     = "YVSK953U0CSOKVJ9VEZFQ2ET88UEZF7L3E5J91ZA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-24 21:40:53
 key            = 7 
 plain text     = "T2NV6F4"
