@@ -1,3 +1,11 @@
+tanggal        = 2022-06-24 13:42:28
+key            = 81 
+plain text     = "UHR3SXXH9CEE70YZ86ES8WVMDDRHPMZTD690WXIHNZM1L9EQI103OJOJ6D77FEILE9U9KF4DWSEFD4FLG"
+encrypted text = "YMX:[abSEPSTGAkmLK[jPpph`apgpn|wh[_Wssz{`|jw}ffjruv~~£ "
+decrypted text = "UHR3SXXH9CEE70YZ86ES8WVMDDRHPMZTD690WXIHNZM1L9EQI103OJOJ6D77FEILE9U9KF4DWSEFD4FLG"
+plain text     = "UHR3SXXH9CEE70YZ86ES8WVMDDRHPMZTD690WXIHNZM1L9EQI103OJOJ6D77FEILE9U9KF4DWSEFD4FLG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-24 12:48:37
 key            = 16 
 plain text     = "33UMML8UW328PC5S"
