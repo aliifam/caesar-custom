@@ -1,3 +1,11 @@
+tanggal        = 2022-06-25 18:47:07
+key            = 80 
+plain text     = "AUEO8RG8BPZBAUJMY26VJA874K8UUTG7QVLA62XQ7NUJ86RBTQ0RL3ODHDBC7SK6Z77SH7WCJPXVKJ6J"
+encrypted text = "+@1<&A7)4CN77LBFS-2SH@886N<Z[[O@[aXNDAhbIai_NMj[nlLojRoejgfh]zs_bcvft|n"
+decrypted text = "AUEO8RG8BPZBAUJMY26VJA874K8UUTG7QVLA62XQ7NUJ86RBTQ0RL3ODHDBC7SK6Z77SH7WCJPXVKJ6J"
+plain text     = "AUEO8RG8BPZBAUJMY26VJA874K8UUTG7QVLA62XQ7NUJ86RBTQ0RL3ODHDBC7SK6Z77SH7WCJPXVKJ6J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-25 18:27:12
 key            = 38 
 plain text     = "F9RUVGD6I2BP1LBDFPXB6Y7PJFOC4ITNYSG28Z"
