@@ -1,3 +1,11 @@
+tanggal        = 2022-06-25 22:41:14
+key            = 11 
+plain text     = "DT7X2MWOGGH"
+encrypted text = "#4v:s1<5./1"
+decrypted text = "DT7X2MWOGGH"
+plain text     = "DT7X2MWOGGH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-25 22:22:12
 key            = 88 
 plain text     = "14GF9DWA018B49PSO7YJB1H2MKI4H28I1SFCN3ZIVE9V054C5NL774QMV4X1S2FPSB09SX3LE71BPZC525XDTKHQ"
