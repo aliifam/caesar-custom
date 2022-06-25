@@ -1,3 +1,11 @@
+tanggal        = 2022-06-25 21:39:46
+key            = 18 
+plain text     = "XX100PGL1IJUM9LJLD"
+encrypted text = "./ggh+#)m(*6/z0/2+"
+decrypted text = "XX100PGL1IJUM9LJLD"
+plain text     = "XX100PGL1IJUM9LJLD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-25 21:18:49
 key            = 56 
 plain text     = "2L8CSTTO7DFQ97FXH7UYZ8LON8RJK060HXWC84LX6P40HE0F942HISMD"
