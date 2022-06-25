@@ -1,3 +1,11 @@
+tanggal        = 2022-06-25 07:38:56
+key            = 6 
+plain text     = "RINSDQ"
+encrypted text = "UMSYKY"
+decrypted text = "RINSDQ"
+plain text     = "RINSDQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-25 07:20:04
 key            = 27 
 plain text     = "5QHEPQGKL1B4C3Z1QY9R4JXT3NG"
