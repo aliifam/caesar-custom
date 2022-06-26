@@ -1,3 +1,11 @@
+tanggal        = 2022-06-26 06:47:49
+key            = 17 
+plain text     = "FGJVI03Z97HHQZ3C2"
+encrypted text = ";=ANB*.V65GHR\6G7"
+decrypted text = "FGJVI03Z97HHQZ3C2"
+plain text     = "FGJVI03Z97HHQZ3C2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-26 06:26:47
 key            = 64 
 plain text     = "8OUW78NL2QKR6T83W709RVMGXMCNSMGHS1YFJTRNSCQOQDYIM0OE8M0AK60C03Q9"
