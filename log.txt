@@ -1,3 +1,11 @@
+tanggal        = 2022-06-26 20:41:32
+key            = 9 
+plain text     = "LHAWL5O7I"
+encrypted text = "wtn'{e"i|"
+decrypted text = "LHAWL5O7I"
+plain text     = "LHAWL5O7I"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-26 20:22:37
 key            = 82 
 plain text     = "PAEYQQJYZ78FL7WYKHVL4YKBOLWNC0JIYVZ2ITRT8K0NDM6Q8MVZ10F1H4XO0H218ZS27KL4JGCK3IK0VD"
