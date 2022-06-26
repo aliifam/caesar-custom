@@ -1,3 +1,11 @@
+tanggal        = 2022-06-26 10:42:16
+key            = 19 
+plain text     = "M4LOTNBG05TO1D1HFUZ"
+encrypted text = "[C\`faV\FLlhK_Medtz"
+decrypted text = "M4LOTNBG05TO1D1HFUZ"
+plain text     = "M4LOTNBG05TO1D1HFUZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-26 10:23:45
 key            = 24 
 plain text     = "79U1N85TMLK5Y6F75J0RLIDH"
