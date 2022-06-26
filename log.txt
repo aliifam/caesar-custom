@@ -1,3 +1,11 @@
+tanggal        = 2022-06-26 07:38:41
+key            = 10 
+plain text     = "BV845ELOUS"
+encrypted text = "]rURTemqxw"
+decrypted text = "BV845ELOUS"
+plain text     = "BV845ELOUS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-26 07:19:53
 key            = 5 
 plain text     = "GLYZM"
