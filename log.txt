@@ -1,3 +1,11 @@
+tanggal        = 2022-06-27 22:22:07
+key            = 35 
+plain text     = "R649U2Y78JH432R53QZ9RU754ODOAYK4XNC"
+encrypted text = "^CBHeCkJL_^KKKlPOnxXrvYXXtjvi$u_&{q"
+decrypted text = "R649U2Y78JH432R53QZ9RU754ODOAYK4XNC"
+plain text     = "R649U2Y78JH432R53QZ9RU754ODOAYK4XNC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-27 21:42:07
 key            = 51 
 plain text     = "P8523XPQJXYXL9KZQWMLLCWDL43MBGLZ9YTRXLXPSJM0TC8FS1E"
