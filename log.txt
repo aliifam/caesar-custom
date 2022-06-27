@@ -1,3 +1,11 @@
+tanggal        = 2022-06-27 15:27:41
+key            = 10 
+plain text     = "M0MHE5ML5Z"
+encrypted text = "x\zvte~~h0"
+decrypted text = "M0MHE5ML5Z"
+plain text     = "M0MHE5ML5Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-27 14:41:16
 key            = 30 
 plain text     = "F1N5T0M9J4W3CEINU7OXCSNXBEACPB"
