@@ -1,3 +1,11 @@
+tanggal        = 2022-06-27 02:12:29
+key            = 10 
+plain text     = "9B3BQ3DS17"
+encrypted text = "|(x*:{/?|%"
+decrypted text = "9B3BQ3DS17"
+plain text     = "9B3BQ3DS17"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-26 23:40:47
 key            = 94 
 plain text     = "4LD7J3SOTG4U38EV8OKU3YEUADPO2C8EQX8Z6Q2NGXD1XKLKHPG1R7QZ240B1UPMPCT1E7NJ2AYELX4IDZ1S52KEUR1UZU"
