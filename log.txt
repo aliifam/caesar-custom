@@ -1,3 +1,11 @@
+tanggal        = 2022-06-27 23:22:35
+key            = 33 
+plain text     = "TJ3K203M8FYLN45O224O0N7U5S57WYS6J"
+encrypted text = "6-u0vuy6"1E9<#%@$%(D&E/N/N14UXS7L"
+decrypted text = "TJ3K203M8FYLN45O224O0N7U5S57WYS6J"
+plain text     = "TJ3K203M8FYLN45O224O0N7U5S57WYS6J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-27 22:42:01
 key            = 15 
 plain text     = "YN0T5XQJQXQSKI3"
