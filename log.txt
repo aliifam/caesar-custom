@@ -1,3 +1,11 @@
+tanggal        = 2022-06-28 07:21:21
+key            = 57 
+plain text     = "0CIEMZ4TJSR39KM07OU5KLFWVI9S4FL5PC44EAK31Y1WV6M2SU9EW64WX"
+encrypted text = "[ovs|,e(}))ip%(jr-4s,.);;/~;{07!=1#$63>'&O(OO0H.PS8EX87[]"
+decrypted text = "0CIEMZ4TJSR39KM07OU5KLFWVI9S4FL5PC44EAK31Y1WV6M2SU9EW64WX"
+plain text     = "0CIEMZ4TJSR39KM07OU5KLFWVI9S4FL5PC44EAK31Y1WV6M2SU9EW64WX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-28 06:52:23
 key            = 26 
 plain text     = "ELQVSDH145LK8FO52H79RUD850"
