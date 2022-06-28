@@ -1,3 +1,11 @@
+tanggal        = 2022-06-28 06:52:23
+key            = 26 
+plain text     = "ELQVSDH145LK8FO52H79RUD850"
+encrypted text = "(06<:,1y}!99'6@'%<,/IM=20,"
+decrypted text = "ELQVSDH145LK8FO52H79RUD850"
+plain text     = "ELQVSDH145LK8FO52H79RUD850"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-28 06:29:42
 key            = 56 
 plain text     = "QGBPMMQ3R7CEGOTO4079PCYVWCUHG6OELDNCBNOQLLISMEVV2RSFFJXJ"
