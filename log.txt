@@ -1,3 +1,11 @@
+tanggal        = 2022-06-28 21:18:39
+key            = 24 
+plain text     = "7173QJSO1N5F0FWWBSKVC1QT"
+encrypted text = "5074SMWT7U=O:QcdPb[gUDei"
+decrypted text = "7173QJSO1N5F0FWWBSKVC1QT"
+plain text     = "7173QJSO1N5F0FWWBSKVC1QT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-28 20:43:58
 key            = 5 
 plain text     = "XZMU8"
