@@ -1,3 +1,11 @@
+tanggal        = 2022-06-28 20:25:36
+key            = 90 
+plain text     = "LWTW45DL22Y20SY3Q0Z589YS99QT0OMPU6B8PS7RNVTQNT98DPRX1SERD11NSWHDMQKE93ETL7P7DJVYV6TNZ7USMA"
+encrypted text = "Q][_=?OX?@hBAelGfFqMQStoVWptQqptz\i`y}b~{llyjop} ©­««¦³°¯ª"
+decrypted text = "LWTW45DL22Y20SY3Q0Z589YS99QT0OMPU6B8PS7RNVTQNT98DPRX1SERD11NSWHDMQKE93ETL7P7DJVYV6TNZ7USMA"
+plain text     = "LWTW45DL22Y20SY3Q0Z589YS99QT0OMPU6B8PS7RNVTQNT98DPRX1SERD11NSWHDMQKE93ETL7P7DJVYV6TNZ7USMA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-28 19:39:13
 key            = 2 
 plain text     = "OJ"
