@@ -1,3 +1,11 @@
+tanggal        = 2022-06-28 20:43:58
+key            = 5 
+plain text     = "XZMU8"
+encrypted text = "loclP"
+decrypted text = "XZMU8"
+plain text     = "XZMU8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-28 20:25:36
 key            = 90 
 plain text     = "LWTW45DL22Y20SY3Q0Z589YS99QT0OMPU6B8PS7RNVTQNT98DPRX1SERD11NSWHDMQKE93ETL7P7DJVYV6TNZ7USMA"
