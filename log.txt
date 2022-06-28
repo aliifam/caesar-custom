@@ -1,3 +1,11 @@
+tanggal        = 2022-06-28 02:11:48
+key            = 15 
+plain text     = "G8C3DC4IU7A6M5D"
+encrypted text = "YKWHZZLboR]SkTd"
+decrypted text = "G8C3DC4IU7A6M5D"
+plain text     = "G8C3DC4IU7A6M5D"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-27 23:41:54
 key            = 93 
 plain text     = "ZOIHKKQHXCRBDSD5DBX30HL9OF5FTPZU1AE2GSWLZSZUVIMA8RQDRFA51GMP3GVIUCOMGJBSAUKN199OOXWM3B20NU528"
