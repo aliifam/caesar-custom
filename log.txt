@@ -1,3 +1,11 @@
+tanggal        = 2022-06-29 08:31:55
+key            = 19 
+plain text     = "RSRPKR5ISPATFGJBW0D"
+encrypted text = "RTTSOW;P[YK_RTXQgAV"
+decrypted text = "RSRPKR5ISPATFGJBW0D"
+plain text     = "RSRPKR5ISPATFGJBW0D"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-29 07:41:45
 key            = 78 
 plain text     = "4IBQ770LMBCNRH2U553ZREFTR2L8FY9I6YL5FD0ZECXQI5QO9BQ0YLEIIZFCZZAPATM18JXAJ04SAZ"
