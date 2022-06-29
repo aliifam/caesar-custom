@@ -1,3 +1,11 @@
+tanggal        = 2022-06-29 21:41:43
+key            = 14 
+plain text     = "7N588WSX9SHRO5"
+encrypted text = "i#imn0-3s0&1/t"
+decrypted text = "7N588WSX9SHRO5"
+plain text     = "7N588WSX9SHRO5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-29 21:20:34
 key            = 56 
 plain text     = "C1IG6MY27XOFOXTZWGJRMLXUOWVAWCQ6T1CG310CRLKNYNJRSBT2JVDJ"
