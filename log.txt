@@ -1,3 +1,11 @@
+tanggal        = 2022-06-29 10:45:37
+key            = 47 
+plain text     = "JI61UAN9TCM42ZZFE7J45F8GT4YOF2F76LZ17UC8KKZET9N"
+encrypted text = "jjXTyft`|lw_^)*uuh|gi{n~.m5,$o&vv/>t{<+!56F2B(>"
+decrypted text = "JI61UAN9TCM42ZZFE7J45F8GT4YOF2F76LZ17UC8KKZET9N"
+plain text     = "JI61UAN9TCM42ZZFE7J45F8GT4YOF2F76LZ17UC8KKZET9N"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-29 10:26:55
 key            = 21 
 plain text     = "694GJFOFVA8HO2BGGXNNS"
