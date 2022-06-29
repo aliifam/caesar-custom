@@ -1,3 +1,11 @@
+tanggal        = 2022-06-29 04:53:21
+key            = 7 
+plain text     = "UF19KP2"
+encrypted text = "-}ir'-n"
+decrypted text = "UF19KP2"
+plain text     = "UF19KP2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-29 03:55:56
 key            = 72 
 plain text     = "CJPQQF57HXZO70A4N9ABETK92JKHCWA1JVLEKESSAHQL048XHXUIESJPT7KWDQHROH3L98AI"
