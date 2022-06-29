@@ -1,3 +1,11 @@
+tanggal        = 2022-06-29 16:53:37
+key            = 6 
+plain text     = "Z2BTF7"
+encrypted text = ">u(;.~"
+decrypted text = "Z2BTF7"
+plain text     = "Z2BTF7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-29 15:33:42
 key            = 25 
 plain text     = "IJOBFAJ21M0EUQADID4JAOK4D"
