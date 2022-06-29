@@ -1,3 +1,11 @@
+tanggal        = 2022-06-29 05:30:30
+key            = 1 
+plain text     = "W"
+encrypted text = "Y"
+decrypted text = "W"
+plain text     = "W"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-29 04:53:21
 key            = 7 
 plain text     = "UF19KP2"
