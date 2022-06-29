@@ -1,3 +1,11 @@
+tanggal        = 2022-06-29 17:47:12
+key            = 26 
+plain text     = "QLHEIMWVL30UDAAF8S6EWOSV0F"
+encrypted text = "UQNLQVaaX@>dTRSYLhL\ohmqLc"
+decrypted text = "QLHEIMWVL30UDAAF8S6EWOSV0F"
+plain text     = "QLHEIMWVL30UDAAF8S6EWOSV0F"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-29 16:53:37
 key            = 6 
 plain text     = "Z2BTF7"
