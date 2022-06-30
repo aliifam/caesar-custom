@@ -1,3 +1,11 @@
+tanggal        = 2022-06-30 16:38:40
+key            = 37 
+plain text     = "ZU6MDTUPT325MLJY4SOORXTN80BQV468NNJOL"
+encrypted text = "D@":2CEAF&&*CCBR.NKLPWTO:3FV\;>AXYV\Z"
+decrypted text = "ZU6MDTUPT325MLJY4SOORXTN80BQV468NNJOL"
+plain text     = "ZU6MDTUPT325MLJY4SOORXTN80BQV468NNJOL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-30 15:48:25
 key            = 61 
 plain text     = "CFO2XTYH30JEC1FT8RTQXEHE7GAC733LBU47CSUCUZLMZVUG5X5RABJWYSFBA"
