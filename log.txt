@@ -1,3 +1,11 @@
+tanggal        = 2022-06-30 10:31:01
+key            = 11 
+plain text     = "N7PNFKTNDR9"
+encrypted text = "/w32+1;6-<$"
+decrypted text = "N7PNFKTNDR9"
+plain text     = "N7PNFKTNDR9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-30 09:43:09
 key            = 44 
 plain text     = "B8X2TA57PZCJQI0S0BDDG6DDS2HW0CH8NDKRT9TZRU1D"
