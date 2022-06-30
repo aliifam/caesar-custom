@@ -1,3 +1,11 @@
+tanggal        = 2022-06-30 15:26:35
+key            = 28 
+plain text     = "EPJFMU7ZGF8QAIO4NZB1K056C6BO"
+encrypted text = "(4/,4=~D22%?09@&AN7'B(.0>2?M"
+decrypted text = "EPJFMU7ZGF8QAIO4NZB1K056C6BO"
+plain text     = "EPJFMU7ZGF8QAIO4NZB1K056C6BO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-30 14:40:56
 key            = 40 
 plain text     = "NRUW3M3P6DJ6JZJE961FCMFAUTPUGS2X5UB62B0N"
