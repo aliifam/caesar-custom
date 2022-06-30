@@ -1,3 +1,11 @@
+tanggal        = 2022-06-30 07:39:41
+key            = 36 
+plain text     = "HFKWX86TZ132T3XFTAW9E4W867FHLTPM0L95"
+encrypted text = "65;HJ+*IP(++N.TCR@W:G7[=<>NQV_\Z>[IF"
+decrypted text = "HFKWX86TZ132T3XFTAW9E4W867FHLTPM0L95"
+plain text     = "HFKWX86TZ132T3XFTAW9E4W867FHLTPM0L95"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-30 07:19:58
 key            = 53 
 plain text     = "5WJBCWRG8VN0TD5YGKXAEU0QC8DWQGTBG7IMLD97MR5FN39V6WYM5"
