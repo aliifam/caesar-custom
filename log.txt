@@ -1,3 +1,11 @@
+tanggal        = 2022-06-30 09:22:16
+key            = 4 
+plain text     = "3YYI"
+encrypted text = "Gno`"
+decrypted text = "3YYI"
+plain text     = "3YYI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-30 08:32:08
 key            = 83 
 plain text     = "2ZVEQN2HXQVUU3CQ1RGMU8P2IMUED5BY1QHLMYVUYEZFR23A6D1XGHM6Q2GIEQ9I4WALW5G2T877O14E15H"
