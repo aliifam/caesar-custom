@@ -1,3 +1,11 @@
+tanggal        = 2022-07-01 02:31:50
+key            = 59 
+plain text     = "OSIX1VYRKSFN6S48A5248GLGTM00UHXN8LHR1J7LIJ18X4HQME84ANYTZTN"
+encrypted text = "|#x*b*.("+}(o/ot~sqty+1-;5wx@4E<'<9D$>,B@B*2S0EOLE96DR^Za\W"
+decrypted text = "OSIX1VYRKSFN6S48A5248GLGTM00UHXN8LHR1J7LIJ18X4HQME84ANYTZTN"
+plain text     = "OSIX1VYRKSFN6S48A5248GLGTM00UHXN8LHR1J7LIJ18X4HQME84ANYTZTN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-06-30 23:41:55
 key            = 90 
 plain text     = "8QGOU8Z05WSWHTV23BFGZPGCE8YSJE00NLAIHCOF7P85IJ6S085GSIP28OH0JZ6D1ROGMBPB7ONWZ6UM9LNT6Q0120"
