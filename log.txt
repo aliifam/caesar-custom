@@ -1,3 +1,11 @@
+tanggal        = 2022-07-01 07:40:40
+key            = 63 
+plain text     = "UYFR48437J53DNEX85X2YOMYVAPGAFMJKVD2AVGS1AQPVSVFTGWPMQAVOUOBCUV"
+encrypted text = "Y^LY<A>>CWCBT_WkLJnIqhgtr^nfagomo{jYiq~]ny|{"
+decrypted text = "UYFR48437J53DNEX85X2YOMYVAPGAFMJKVD2AVGS1AQPVSVFTGWPMQAVOUOBCUV"
+plain text     = "UYFR48437J53DNEX85X2YOMYVAPGAFMJKVD2AVGS1AQPVSVFTGWPMQAVOUOBCUV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-01 07:22:21
 key            = 70 
 plain text     = "LHXJOKWPS9HWOT3AVYV80TRHH7W1W1FAKIBT2CZFQ2STVZPKDICIVI5M0BKZSSBDCQ05WG"
