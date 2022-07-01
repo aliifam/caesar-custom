@@ -1,3 +1,11 @@
+tanggal        = 2022-07-01 14:21:56
+key            = 46 
+plain text     = "NF5ZAS6DZ3T2RYN854G9EVW14YOSNQPCFMXX738UV66JT4"
+encrypted text = "wp`(n#et-e)f)1'pnn$u$68qu=49599-19EF&#)GI*+@K,"
+decrypted text = "NF5ZAS6DZ3T2RYN854G9EVW14YOSNQPCFMXX738UV66JT4"
+plain text     = "NF5ZAS6DZ3T2RYN854G9EVW14YOSNQPCFMXX738UV66JT4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-01 13:43:24
 key            = 61 
 plain text     = "M6F1CF15ONSDKJPR0GY48FHA6S21Q1PVILCY9D6CGFN7CGER2BSD3G07CAR13"
