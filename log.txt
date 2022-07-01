@@ -1,3 +1,11 @@
+tanggal        = 2022-07-01 20:25:25
+key            = 10 
+plain text     = "TME7T5XTKG"
+encrypted text = "E?8+I+OLDA"
+decrypted text = "TME7T5XTKG"
+plain text     = "TME7T5XTKG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-01 19:38:53
 key            = 55 
 plain text     = "IYVJWDKUS3O854S2C9EHWC9CI3VQ97HWZN5KY5HK5QGX182WCFOSYNK"
