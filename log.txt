@@ -1,3 +1,11 @@
+tanggal        = 2022-07-02 23:40:38
+key            = 46 
+plain text     = "20Q72PSL6WMPSA1MCVUHOH48QMUW5DQFZLRIA2YD3ZKHCZ"
+encrypted text = ""!C*&EIC.PGKO>/LCWWKSM:?YV_bAQ_Uj]d\UGo[Ksec_w"
+decrypted text = "20Q72PSL6WMPSA1MCVUHOH48QMUW5DQFZLRIA2YD3ZKHCZ"
+plain text     = "20Q72PSL6WMPSA1MCVUHOH48QMUW5DQFZLRIA2YD3ZKHCZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-02 23:21:14
 key            = 100 
 plain text     = "3HMYHSJNQEM883VNLG4QGN4OHN0UQVHLGS208BRDDMVBFO5QJXE7OPZ9OKMRAF6LIHXKBWVUT1RQVEG0ZPTU8VOPFEQROZED99R5"
