@@ -1,3 +1,11 @@
+tanggal        = 2022-07-02 07:20:05
+key            = 22 
+plain text     = "WDJS2YH74GZ6IIAK7R8B2M"
+encrypted text = ";)0:xB2"~4H%9:3>+G.9*F"
+decrypted text = "WDJS2YH74GZ6IIAK7R8B2M"
+plain text     = "WDJS2YH74GZ6IIAK7R8B2M"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-02 06:47:49
 key            = 65 
 plain text     = "ZIL3349WJ6TL7VV071JP7P9WHB0Q6RPGBCJY5FLGOB98E6YE7OVUHBAO9INZ0OU0T"
