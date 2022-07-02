@@ -1,3 +1,11 @@
+tanggal        = 2022-07-02 06:26:58
+key            = 6 
+plain text     = "LBNCUO"
+encrypted text = "JANDWR"
+decrypted text = "LBNCUO"
+plain text     = "LBNCUO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-02 05:40:39
 key            = 31 
 plain text     = "FLENEDNKXST3IF2DZZIO2UV1UVUZ885"
