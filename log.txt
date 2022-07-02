@@ -1,3 +1,11 @@
+tanggal        = 2022-07-02 14:39:36
+key            = 12 
+plain text     = "KAOXSWLOSID9"
+encrypted text = "6-<FBG=AF=9/"
+decrypted text = "KAOXSWLOSID9"
+plain text     = "KAOXSWLOSID9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-02 14:19:28
 key            = 65 
 plain text     = "MAT1QLUCMV2EWGLEV5G3TF101RU88F5MEH3B0CC3865JFY2ONFJS4MXXEP9XMK0H9"
