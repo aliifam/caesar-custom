@@ -1,3 +1,11 @@
+tanggal        = 2022-07-03 15:43:32
+key            = 41 
+plain text     = "PVR20WLEG5S85IKMPY8W14O0UUFIFH3L9RRMHT46K"
+encrypted text = "8?<{zD:47&E+)>ADHR2R-1M/UVHLJM9SA[\XTaBE["
+decrypted text = "PVR20WLEG5S85IKMPY8W14O0UUFIFH3L9RRMHT46K"
+plain text     = "PVR20WLEG5S85IKMPY8W14O0UUFIFH3L9RRMHT46K"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-03 15:22:42
 key            = 28 
 plain text     = "00I2V97UL0FKPQSSGSDBIZ68A6YC"
