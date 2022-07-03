@@ -1,3 +1,11 @@
+tanggal        = 2022-07-03 11:18:55
+key            = 4 
+plain text     = "6D4Z"
+encrypted text = "IXIp"
+decrypted text = "6D4Z"
+plain text     = "6D4Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-03 10:42:48
 key            = 99 
 plain text     = "H1ZH6FO1RG6OKFLQCJ5XLYANJ91YDUYTUE949DWEUTFHMHGU7VI8AUR0E917X691GOT5UCHRPXU5M03TKLKAW92K6BWEUDEZEOA"
