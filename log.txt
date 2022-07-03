@@ -1,3 +1,11 @@
+tanggal        = 2022-07-03 06:48:30
+key            = 3 
+plain text     = "TLC"
+encrypted text = ")"x"
+decrypted text = "TLC"
+plain text     = "TLC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-03 06:27:21
 key            = 45 
 plain text     = "8RGSI3PMVHZ4ZGY27NDEJLV6G2IWH8GC365WO2WP019P5"
