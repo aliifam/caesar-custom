@@ -1,3 +1,11 @@
+tanggal        = 2022-07-03 07:20:35
+key            = 97 
+plain text     = "WGW6SYL0XDAN63DQVK3V5CGGEJSALNW1IWCB43RSQ1ZX681YAQNGXENCE6YMVY9INO1RIVPL7T3B2ZVZ1LWYD3XOX6GZ0VXCS"
+encrypted text = "$s&d$+}b-xv&mk}-3)p6t%*+*0:)58B{6E22%%EGF'QP/2,U>OMGYGQGJ<`U_cDU[]@bZhc`LjJZKtqvNjvyeU{s}\nYo"
+decrypted text = "WGW6SYL0XDAN63DQVK3V5CGGEJSALNW1IWCB43RSQ1ZX681YAQNGXENCE6YMVY9INO1RIVPL7T3B2ZVZ1LWYD3XOX6GZ0VXCS"
+plain text     = "WGW6SYL0XDAN63DQVK3V5CGGEJSALNW1IWCB43RSQ1ZX681YAQNGXENCE6YMVY9INO1RIVPL7T3B2ZVZ1LWYD3XOX6GZ0VXCS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-03 06:48:30
 key            = 3 
 plain text     = "TLC"
