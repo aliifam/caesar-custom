@@ -1,3 +1,11 @@
+tanggal        = 2022-07-03 11:38:33
+key            = 55 
+plain text     = "BXLKXSOAAUVO8V8VZ1MCMNKOJ6QPJSLPBOG5XSIP4PUTOR2V1SKER63"
+encrypted text = "f}rr"|ylm$&~h)j+0f%z')',(s11,605(6/|B>5="?EEAE&K'JC>L1/"
+decrypted text = "BXLKXSOAAUVO8V8VZ1MCMNKOJ6QPJSLPBOG5XSIP4PUTOR2V1SKER63"
+plain text     = "BXLKXSOAAUVO8V8VZ1MCMNKOJ6QPJSLPBOG5XSIP4PUTOR2V1SKER63"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-03 11:18:55
 key            = 4 
 plain text     = "6D4Z"
