@@ -1,3 +1,11 @@
+tanggal        = 2022-07-03 10:24:49
+key            = 58 
+plain text     = "PABKW887003ME95POPTV0K54TCQ5365PW2NURD8KGFMC3D845FR0TPC8RG"
+encrypted text = "|npz)ijjdei&}ro--/47p.ww:*9|{!!=E!>FD7,@==E<-?413ER1VSG=XN"
+decrypted text = "PABKW887003ME95POPTV0K54TCQ5365PW2NURD8KGFMC3D845FR0TPC8RG"
+plain text     = "PABKW887003ME95POPTV0K54TCQ5365PW2NURD8KGFMC3D845FR0TPC8RG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-03 09:42:01
 key            = 41 
 plain text     = "Q0JF8P9CENPMEPDEJ5Y1DLW96F9VXY9MRWQPE37Q8"
