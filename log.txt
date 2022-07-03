@@ -1,3 +1,11 @@
+tanggal        = 2022-07-03 14:39:49
+key            = 6 
+plain text     = "CCSETC"
+encrypted text = "*+</?/"
+decrypted text = "CCSETC"
+plain text     = "CCSETC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-03 14:19:50
 key            = 92 
 plain text     = "07T3NZZORYNTNIGIEHIW178RRHFJKPZFA2JLUSEYPVB38ASAKKCVZBKISIQQ36OYTLLPH6LJ2JAP6PYOTKJG6NTB1CC3"
