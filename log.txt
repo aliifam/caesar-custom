@@ -1,3 +1,11 @@
+tanggal        = 2022-07-03 12:38:42
+key            = 32 
+plain text     = "PZKMUHL57ZZEPQ026NVOFUAN01B005A9"
+encrypted text = "#.~#,~%mp67#/1orw2;5-=*8y{/|}%2+"
+decrypted text = "PZKMUHL57ZZEPQ026NVOFUAN01B005A9"
+plain text     = "PZKMUHL57ZZEPQ026NVOFUAN01B005A9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-03 11:38:33
 key            = 55 
 plain text     = "BXLKXSOAAUVO8V8VZ1MCMNKOJ6QPJSLPBOG5XSIP4PUTOR2V1SKER63"
