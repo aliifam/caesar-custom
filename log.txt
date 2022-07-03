@@ -1,3 +1,11 @@
+tanggal        = 2022-07-03 23:22:21
+key            = 16 
+plain text     = "4288FICFIO6FF1XT"
+encrypted text = "54;<KOJNRYARS?gd"
+decrypted text = "4288FICFIO6FF1XT"
+plain text     = "4288FICFIO6FF1XT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-03 22:40:51
 key            = 97 
 plain text     = "GSS3QD73C16Q0STRZTIE9TI179LRXQCH8NGA2IDQTF2B9TEFJGHL2ITTU0521DFWWPL1RJ1LFLR2EEENQRAGYBWTUHOTEYE04"
