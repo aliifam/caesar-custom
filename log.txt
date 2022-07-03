@@ -1,3 +1,11 @@
+tanggal        = 2022-07-03 15:22:42
+key            = 28 
+plain text     = "00I2V97UL0FKPQSSGSDBIZ68A6YC"
+encrypted text = "fg#k2ts4,o(.469:/<.-5G$'1'K6"
+decrypted text = "00I2V97UL0FKPQSSGSDBIZ68A6YC"
+plain text     = "00I2V97UL0FKPQSSGSDBIZ68A6YC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-03 14:39:49
 key            = 6 
 plain text     = "CCSETC"
