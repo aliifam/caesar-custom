@@ -1,3 +1,11 @@
+tanggal        = 2022-07-04 20:42:20
+key            = 36 
+plain text     = "DB1FUHKKIUI8455NV5NVBUEZMZEOPBJH1ZLJ"
+encrypted text = "utdz,~$%$1&tqst09w3<)=.D8F2=?2;:$NA@"
+decrypted text = "DB1FUHKKIUI8455NV5NVBUEZMZEOPBJH1ZLJ"
+plain text     = "DB1FUHKKIUI8455NV5NVBUEZMZEOPBJH1ZLJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-04 20:23:29
 key            = 79 
 plain text     = "DBSIWG2W4JPPPA9FVG81XSK3GKDR5PNUM38YVFGWP9YZ5JOI2LVQPIHTXXC92BEQBJHI4IX921FJW1Y"
