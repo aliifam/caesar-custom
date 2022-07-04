@@ -1,3 +1,11 @@
+tanggal        = 2022-07-04 19:19:31
+key            = 22 
+plain text     = "ACL5RZUYR39VE5WSEAZZYH"
+encrypted text = "]`jTr{w|vX_}m^#~qn*++y"
+decrypted text = "ACL5RZUYR39VE5WSEAZZYH"
+plain text     = "ACL5RZUYR39VE5WSEAZZYH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-04 18:50:37
 key            = 48 
 plain text     = "PCTA0UE1E4ZFMTWVDFA00D53Y8L4PJ1YOZZ4GPI7NYVKG20R"
