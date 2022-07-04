@@ -1,3 +1,11 @@
+tanggal        = 2022-07-04 17:43:55
+key            = 47 
+plain text     = "NMENDXWIHVXRG6RWKE6V1UIY05VCHFCZYG4UV68MV7PUZNK"
+encrypted text = "mmfpg||oo~#|rb!'zug*d+~1gm1}%$"::)u9;z}5?!;AG<:"
+decrypted text = "NMENDXWIHVXRG6RWKE6V1UIY05VCHFCZYG4UV68MV7PUZNK"
+plain text     = "NMENDXWIHVXRG6RWKE6V1UIY05VCHFCZYG4UV68MV7PUZNK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-04 17:25:28
 key            = 38 
 plain text     = "TGRH3YPLS8Q49CH91TAOAO031U7OVDIFQ3XU96"
