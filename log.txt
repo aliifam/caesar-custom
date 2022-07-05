@@ -1,3 +1,11 @@
+tanggal        = 2022-07-05 15:56:35
+key            = 32 
+plain text     = "35JKEWZ72IP5COD27J8WLTRNLFIMXIRZ"
+encrypted text = "\_uwr'+gc{%ix'{jp&s5+430/*.3?1;D"
+decrypted text = "35JKEWZ72IP5COD27J8WLTRNLFIMXIRZ"
+plain text     = "35JKEWZ72IP5COD27J8WLTRNLFIMXIRZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-05 15:26:00
 key            = 5 
 plain text     = "AUJP9"
