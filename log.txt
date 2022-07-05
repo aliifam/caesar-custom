@@ -1,3 +1,11 @@
+tanggal        = 2022-07-05 15:26:00
+key            = 5 
+plain text     = "AUJP9"
+encrypted text = "#8.5}"
+decrypted text = "AUJP9"
+plain text     = "AUJP9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-05 14:41:39
 key            = 92 
 plain text     = "6FFK32JFTF4MB1C6RBCFMT13M57FDK41HZ9V7PKPLB8PJMVG515QBIZT96R354UUJFQ4YRMEBIPYWJASCLH5XXK94DZT"
