@@ -1,3 +1,11 @@
+tanggal        = 2022-07-05 22:41:36
+key            = 17 
+plain text     = "R77ZVZB4TUK82MFTL"
+encrypted text = "6z{A>C,}@B9'">8G@"
+decrypted text = "R77ZVZB4TUK82MFTL"
+plain text     = "R77ZVZB4TUK82MFTL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-05 22:21:54
 key            = 57 
 plain text     = "FT2DFF9VBT8C4CBC398JJRL146697B1OC5G194CUWLQ7UKGVM7JIUBLVJ"
