@@ -1,3 +1,11 @@
+tanggal        = 2022-07-05 23:23:56
+key            = 12 
+plain text     = "DX149M2IT5BR"
+encrypted text = "EZ48>S9Q]?M^"
+decrypted text = "DX149M2IT5BR"
+plain text     = "DX149M2IT5BR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-05 22:41:36
 key            = 17 
 plain text     = "R77ZVZB4TUK82MFTL"
