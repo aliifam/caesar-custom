@@ -1,3 +1,11 @@
+tanggal        = 2022-07-05 10:25:44
+key            = 12 
+plain text     = "1KD1RLNDFCBN"
+encrypted text = "w4.z>9<3644A"
+decrypted text = "1KD1RLNDFCBN"
+plain text     = "1KD1RLNDFCBN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-05 09:47:06
 key            = 77 
 plain text     = "O0V7QY3ARWW5XBKGHK17BDQ1I5RMGVV909I7I82IY4P8X9QLZ4GT2YM6OTHN7BHU5TPCRQXTWUZEV"
