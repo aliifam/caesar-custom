@@ -1,3 +1,11 @@
+tanggal        = 2022-07-05 05:42:28
+key            = 5 
+plain text     = "QY6NA"
+encrypted text = "LU3L@"
+decrypted text = "QY6NA"
+plain text     = "QY6NA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-05 05:25:42
 key            = 78 
 plain text     = "UT2CT2KNHQO1WEMUWV39DNQCVHSA5Y6CMKWAD5X1TS7SXQFT62178PKRAZQ3QW09MFN2L8Z8GZUK46"
