@@ -1,3 +1,11 @@
+tanggal        = 2022-07-06 20:46:00
+key            = 5 
+plain text     = "J5RPU"
+encrypted text = "kWutz"
+decrypted text = "J5RPU"
+plain text     = "J5RPU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-06 20:23:56
 key            = 32 
 plain text     = "N2WUJRSSZS7EZDLXNT26QI0KH3O5YIXH"
