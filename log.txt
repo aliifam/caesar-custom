@@ -1,3 +1,11 @@
+tanggal        = 2022-07-06 23:22:05
+key            = 10 
+plain text     = "ABPOKGJUMF"
+encrypted text = ",.==:7;G@:"
+decrypted text = "ABPOKGJUMF"
+plain text     = "ABPOKGJUMF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-06 22:42:38
 key            = 93 
 plain text     = "JBJ11H5RSDE8D4QUC2FBY9JI648YCE89KA7T6H3X1N0QJFZ2YTQ1D0N68AJB7VAM4YCCRKNY3R550C3WDV5ZXTRJGWUME"
