@@ -1,3 +1,11 @@
+tanggal        = 2022-07-06 05:33:04
+key            = 2 
+plain text     = "MU"
+encrypted text = "nw"
+decrypted text = "MU"
+plain text     = "MU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-06 04:55:20
 key            = 91 
 plain text     = "PNC9MBT3AIBG22S0VDIMQJXM8CMAU0Q6RCGBIMFJMOY4ZOL3PGUK6MCFCIRCM4P4DTCO3E863VU1JH2YWZG7RK9NB0L"
