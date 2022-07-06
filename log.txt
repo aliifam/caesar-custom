@@ -1,3 +1,11 @@
+tanggal        = 2022-07-06 07:21:37
+key            = 50 
+plain text     = "QEI6LWGHOYBGAPP2I1LYWSSP1XM7C54Y72Z0U4RPMGZLU4LVJO"
+encrypted text = "]RWE\hY[cnX^YijMeNjxwtusU}s^k^^&c_*_'e&%#|2%/m(3(."
+decrypted text = "QEI6LWGHOYBGAPP2I1LYWSSP1XM7C54Y72Z0U4RPMGZLU4LVJO"
+plain text     = "QEI6LWGHOYBGAPP2I1LYWSSP1XM7C54Y72Z0U4RPMGZLU4LVJO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-06 06:52:27
 key            = 4 
 plain text     = "GELD"
