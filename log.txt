@@ -1,3 +1,11 @@
+tanggal        = 2022-07-06 11:42:27
+key            = 41 
+plain text     = "TJDR0361M3E5OXF02E8YUQ46H72UUDXEP8GC53NR8"
+encrypted text = "VMHW6:>:W>QB]gVADXLnkhLObRNrscxfr[kh[Zv{b"
+decrypted text = "TJDR0361M3E5OXF02E8YUQ46H72UUDXEP8GC53NR8"
+plain text     = "TJDR0361M3E5OXF02E8YUQ46H72UUDXEP8GC53NR8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-06 11:21:46
 key            = 86 
 plain text     = "K30DD4G0U5WIRSSHAZH3XOIYVCZWEHW1YMRRP04MPBSLEU0H3ENNFKYPK6PCW15H609EJW2MY8WYPVFHXM06NV"
