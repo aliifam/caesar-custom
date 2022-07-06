@@ -1,3 +1,11 @@
+tanggal        = 2022-07-06 18:29:10
+key            = 20 
+plain text     = "G2FJM582SX07B6UAT1CZ"
+encrypted text = "/y059"&!CI"*6+K8L*=U"
+decrypted text = "G2FJM582SX07B6UAT1CZ"
+plain text     = "G2FJM582SX07B6UAT1CZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-06 17:46:26
 key            = 54 
 plain text     = "XS00G75Q874KYXXTFGVRYWY23FSTL0A708G7ZWCZ9YHCRDSQQJ58BL"
