@@ -1,3 +1,11 @@
+tanggal        = 2022-07-06 20:23:56
+key            = 32 
+plain text     = "N2WUJRSSZS7EZDLXNT26QI0KH3O5YIXH"
+encrypted text = "G,RQGPRS[U:I_JS`W^=B^W?[YEbIn_o`"
+decrypted text = "N2WUJRSSZS7EZDLXNT26QI0KH3O5YIXH"
+plain text     = "N2WUJRSSZS7EZDLXNT26QI0KH3O5YIXH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-06 19:39:04
 key            = 26 
 plain text     = "4KM03V65O57P6QBQD6LOF79SV6"
