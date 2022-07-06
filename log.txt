@@ -1,3 +1,11 @@
+tanggal        = 2022-07-06 15:50:07
+key            = 2 
+plain text     = "0L"
+encrypted text = "v5"
+decrypted text = "0L"
+plain text     = "0L"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-06 15:28:04
 key            = 16 
 plain text     = "MY302BL5IYX504CW"
