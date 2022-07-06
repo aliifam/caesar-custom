@@ -1,3 +1,11 @@
+tanggal        = 2022-07-06 09:44:25
+key            = 7 
+plain text     = "CPWOP1K"
+encrypted text = "z*2+-m*"
+decrypted text = "CPWOP1K"
+plain text     = "CPWOP1K"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-06 09:35:31
 key            = 1 
 plain text     = "R"
