@@ -1,3 +1,11 @@
+tanggal        = 2022-07-06 14:46:34
+key            = 23 
+plain text     = "RGSQLY3LPEA6J99H4VWVINB"
+encrypted text = "RHUTP^9SXNKAVFGWDgii]cX"
+decrypted text = "RGSQLY3LPEA6J99H4VWVINB"
+plain text     = "RGSQLY3LPEA6J99H4VWVINB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-06 14:31:53
 key            = 99 
 plain text     = "6IBUN4GR7TMLTQGU762BV96V8S324BYUET2YGIG1OO3YZM19NS8FYAT9ZL5YONDRDFMBHEALW42640LNCNMUY76HWAXAEUR7CA0"
