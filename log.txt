@@ -1,3 +1,11 @@
+tanggal        = 2022-07-06 06:28:40
+key            = 59 
+plain text     = "TAY52Z2SY177QQJ4NO3MHMK5986JL9EFDM2EIVQ01AHZO1IAMTHM59YBGZK"
+encrypted text = "C1J'%N'IP)01LMG2MO4OKQP;@@?TWERTS]CW\jfFHYatjMf_ltioX]~hnt"
+decrypted text = "TAY52Z2SY177QQJ4NO3MHMK5986JL9EFDM2EIVQ01AHZO1IAMTHM59YBGZK"
+plain text     = "TAY52Z2SY177QQJ4NO3MHMK5986JL9EFDM2EIVQ01AHZO1IAMTHM59YBGZK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-06 05:33:04
 key            = 2 
 plain text     = "MU"
