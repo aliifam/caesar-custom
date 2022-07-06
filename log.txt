@@ -1,3 +1,11 @@
+tanggal        = 2022-07-06 03:58:59
+key            = 12 
+plain text     = "2HOKPW5B21SW"
+encrypted text = "#:B?EM,:++NS"
+decrypted text = "2HOKPW5B21SW"
+plain text     = "2HOKPW5B21SW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-06 02:30:03
 key            = 74 
 plain text     = "EUGP7BP5ONYXEP1D9WP9U6F2AI1Z31P97HA1SFYUWUO2DNT27IHVGW98207MBZS6SLCU1O1JC7"
