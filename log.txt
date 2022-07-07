@@ -1,3 +1,11 @@
+tanggal        = 2022-07-07 22:23:29
+key            = 45 
+plain text     = "WJFTCZ611GKLYKEKS9Y7C96H8RJJFN2XOTSJDF0VEJ8OB"
+encrypted text = "k_\k[sPLMdikylgnw^!^kb`sd!xyv!d-%++#|!j3#)v0$"
+decrypted text = "WJFTCZ611GKLYKEKS9Y7C96H8RJJFN2XOTSJDF0VEJ8OB"
+plain text     = "WJFTCZ611GKLYKEKS9Y7C96H8RJJFN2XOTSJDF0VEJ8OB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-07 21:41:08
 key            = 57 
 plain text     = "B506TZYWYVI4FKRRSUI4E41LKOC7AAQD0RET2YVV12YLGXJTIM45EWXJG"
