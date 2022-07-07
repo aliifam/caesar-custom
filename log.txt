@@ -1,3 +1,11 @@
+tanggal        = 2022-07-07 20:43:02
+key            = 9 
+plain text     = "QEPGZSJPN"
+encrypted text = "A6B:NH@GF"
+decrypted text = "QEPGZSJPN"
+plain text     = "QEPGZSJPN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-07 20:24:38
 key            = 57 
 plain text     = "LYIOBXFILMF81SDU1R3JXL38CH05VU474F2NV3LH2TTPIPX09HZS7H1XD"
