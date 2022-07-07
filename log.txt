@@ -1,3 +1,11 @@
+tanggal        = 2022-07-07 06:30:26
+key            = 5 
+plain text     = "IJNX5"
+encrypted text = "HJOZ8"
+decrypted text = "IJNX5"
+plain text     = "IJNX5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-07 05:46:41
 key            = 79 
 plain text     = "8JDMUV0I2C7OBH0HTBAWO39ANIBYOSF1HVNIUAXSES9GHQ5NDZN3Y222ACHLAYZ89J1HYIKNOUAEIZW"
