@@ -1,3 +1,11 @@
+tanggal        = 2022-07-07 05:30:03
+key            = 17 
+plain text     = "AE3M0L0COJG5V413H"
+encrypted text = "|#p-o.q'40.{?|z}5"
+decrypted text = "AE3M0L0COJG5V413H"
+plain text     = "AE3M0L0COJG5V413H"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-07 04:53:15
 key            = 7 
 plain text     = "7E1B4US"
