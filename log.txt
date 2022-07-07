@@ -1,3 +1,11 @@
+tanggal        = 2022-07-07 09:42:42
+key            = 83 
+plain text     = "RJAGC89OZNZ1F6GMN6PJCHVHFW7851VSNY3AD1BZ9H23MS5A7RYH1V2KWVIYZGXSEABIWJQ1J8BZ9K2LGEI"
+encrypted text = ">7/63)+BNCP(>/AHJ3NICIXKJ\=?=:`^ZfAPTBTmM]HJelO\SowgQwTn{{op~qnpx{d~mxql"
+decrypted text = "RJAGC89OZNZ1F6GMN6PJCHVHFW7851VSNY3AD1BZ9H23MS5A7RYH1V2KWVIYZGXSEABIWJQ1J8BZ9K2LGEI"
+plain text     = "RJAGC89OZNZ1F6GMN6PJCHVHFW7851VSNY3AD1BZ9H23MS5A7RYH1V2KWVIYZGXSEABIWJQ1J8BZ9K2LGEI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-07 09:22:39
 key            = 41 
 plain text     = "R65S9EU6PTTTKDORAH792DFF60OM19OGPAVXP6F94"
