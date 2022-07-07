@@ -1,3 +1,11 @@
+tanggal        = 2022-07-07 17:30:55
+key            = 40 
+plain text     = "RWWYXB874JQGVMOAX2K2706Z60UGCADPLI5PJVDJ"
+encrypted text = "/5699$yyw08/?7:-E~:"(")N+&L?<;?LIG4PKXGN"
+decrypted text = "RWWYXB874JQGVMOAX2K2706Z60UGCADPLI5PJVDJ"
+plain text     = "RWWYXB874JQGVMOAX2K2706Z60UGCADPLI5PJVDJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-07 16:39:07
 key            = 35 
 plain text     = "HXX4P76K47SLX4HM6UF38S1ZC7FWWBSLGKT"
