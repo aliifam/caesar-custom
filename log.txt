@@ -1,3 +1,11 @@
+tanggal        = 2022-07-08 10:45:57
+key            = 8 
+plain text     = "FBMXJDZT"
+encrypted text = "KHT`SNe`"
+decrypted text = "FBMXJDZT"
+plain text     = "FBMXJDZT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-08 10:26:39
 key            = 27 
 plain text     = "ZLGRXGOALLF0DO0520NG34JTAC5"
