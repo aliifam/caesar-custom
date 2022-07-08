@@ -1,3 +1,11 @@
+tanggal        = 2022-07-08 23:22:46
+key            = 53 
+plain text     = "1JCA8JSH68K4A8NTFT8MBDPKVW7LVTZJ7CGFYUXZU70FZO7IBQKXA"
+encrypted text = "_ysrj})}lo%m{s,3&5x0&)62>@!7BAH9'499MJNQM0*AVL5HBRM[E"
+decrypted text = "1JCA8JSH68K4A8NTFT8MBDPKVW7LVTZJ7CGFYUXZU70FZO7IBQKXA"
+plain text     = "1JCA8JSH68K4A8NTFT8MBDPKVW7LVTZJ7CGFYUXZU70FZO7IBQKXA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-08 22:41:49
 key            = 8 
 plain text     = "UDXTUMOB"
