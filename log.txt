@@ -1,3 +1,11 @@
+tanggal        = 2022-07-08 07:21:22
+key            = 16 
+plain text     = "UOUCMVRI87RVIK1R"
+encrypted text = "'")v#-*"pp.3'*o3"
+decrypted text = "UOUCMVRI87RVIK1R"
+plain text     = "UOUCMVRI87RVIK1R"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-08 06:51:50
 key            = 97 
 plain text     = "GFKZFR37QNVTI9JL57CWA7MTMXP0OP1KFWEJ5FBWRE4VH6UZ2EO90LO73U8YFJ1LNLZNO9KJ070U5UYNYYA1Y1TSZJ4CRGONG"
