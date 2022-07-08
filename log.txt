@@ -1,3 +1,11 @@
+tanggal        = 2022-07-08 08:31:50
+key            = 15 
+plain text     = "D5IWBYL55GP7WGG"
+encrypted text = "$t+:&>2z{0:"C45"
+decrypted text = "D5IWBYL55GP7WGG"
+plain text     = "D5IWBYL55GP7WGG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-08 07:39:53
 key            = 87 
 plain text     = "2K0MU7KXQH4S4M6P71LNZ787ISR4IGHP732AQB6STZ2O32602PNTWMN1Z5A7HWVI0OZOOFK8XVR1JZ4N3RNBKT9"
