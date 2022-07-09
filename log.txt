@@ -1,3 +1,11 @@
+tanggal        = 2022-07-09 05:19:47
+key            = 15 
+plain text     = "04MW1VRB7EOB90L"
+encrypted text = "!&@K&LI:0?J>6.K"
+decrypted text = "04MW1VRB7EOB90L"
+plain text     = "04MW1VRB7EOB90L"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-09 04:52:07
 key            = 72 
 plain text     = "Y3E37ZV4CFIPO67S9TNL39EQVS6K7X1ZO8W2QODUK70W70J6NCJV0QAISZ91LMXRPIFM914E"
