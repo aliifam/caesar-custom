@@ -1,3 +1,11 @@
+tanggal        = 2022-07-09 15:43:58
+key            = 8 
+plain text     = "OEIBEGG8"
+encrypted text = "0',&*-.~"
+decrypted text = "OEIBEGG8"
+plain text     = "OEIBEGG8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-09 15:23:40
 key            = 91 
 plain text     = "PW1T961LJENMTIEP94YUBMMNPYMS1G6TX23I1XBL2825S3SS8JDU8M9D5ESIAVHZPN6WO7NB74V91XG4WVIAAYSYQ8G"
