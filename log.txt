@@ -1,3 +1,11 @@
+tanggal        = 2022-07-09 16:30:48
+key            = 28 
+plain text     = "53G5FHCKF2DXJ93JDC2WLN6TL7NY"
+encrypted text = "76K:LOKTP=PeXHC[VVFlbeNmfRjv"
+decrypted text = "53G5FHCKF2DXJ93JDC2WLN6TL7NY"
+plain text     = "53G5FHCKF2DXJ93JDC2WLN6TL7NY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-09 15:43:58
 key            = 8 
 plain text     = "OEIBEGG8"
