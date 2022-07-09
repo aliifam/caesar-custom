@@ -1,3 +1,11 @@
+tanggal        = 2022-07-09 03:32:20
+key            = 16 
+plain text     = "RFDW2J235YLT0QVR"
+encrypted text = "uji}Yr[]`'y$_#)&"
+decrypted text = "RFDW2J235YLT0QVR"
+plain text     = "RFDW2J235YLT0QVR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-09 02:07:46
 key            = 52 
 plain text     = "KCVYYMEET1JVCVD4W99UD8VNA9N2WKJZRTI7ZQX8EITBBBFHC20J"
