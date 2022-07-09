@@ -1,3 +1,11 @@
+tanggal        = 2022-07-09 14:39:48
+key            = 22 
+plain text     = "T1MLX464WW3XV0LE4C6UBR"
+encrypted text = "rPmmzWZY}~[#"[xrbrf(t'"
+decrypted text = "T1MLX464WW3XV0LE4C6UBR"
+plain text     = "T1MLX464WW3XV0LE4C6UBR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-09 14:19:38
 key            = 27 
 plain text     = "SG9LBPG3VY3D5G4VEK4Y28QEL2M"
