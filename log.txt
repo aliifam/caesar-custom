@@ -1,3 +1,11 @@
+tanggal        = 2022-07-10 11:18:11
+key            = 40 
+plain text     = "JZIOL3MP1P6NNC7WAOSSP47L0CXTW32XR1DXRL1H"
+encrypted text = "_p`geMhlNnUnoeZ{fuz{y^bx]q)&*ee.)g{2-(l&"
+decrypted text = "JZIOL3MP1P6NNC7WAOSSP47L0CXTW32XR1DXRL1H"
+plain text     = "JZIOL3MP1P6NNC7WAOSSP47L0CXTW32XR1DXRL1H"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-10 10:42:47
 key            = 3 
 plain text     = "QOG"
