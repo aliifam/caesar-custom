@@ -1,3 +1,11 @@
+tanggal        = 2022-07-10 02:29:16
+key            = 4 
+plain text     = "F9SS"
+encrypted text = "2&AB"
+decrypted text = "F9SS"
+plain text     = "F9SS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-09 23:42:51
 key            = 84 
 plain text     = "SQXVED5TAX652N2PE45HRXNKO6ZC8AJ4M8LURO7OMS9VDVXKEC9WGIXK7DHI9LFLD1WVRL3LTT4KC6LFOA9R"
