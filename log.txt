@@ -1,3 +1,11 @@
+tanggal        = 2022-07-10 03:43:26
+key            = 13 
+plain text     = "1HJ0X52K5DVVF"
+encrypted text = "-EH/X64N9I\]N"
+decrypted text = "1HJ0X52K5DVVF"
+plain text     = "1HJ0X52K5DVVF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-10 02:29:16
 key            = 4 
 plain text     = "F9SS"
