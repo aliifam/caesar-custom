@@ -1,3 +1,11 @@
+tanggal        = 2022-07-10 15:23:23
+key            = 8 
+plain text     = "LE45VZD7"
+encrypted text = "_YIKmr]Q"
+decrypted text = "LE45VZD7"
+plain text     = "LE45VZD7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-10 14:41:09
 key            = 58 
 plain text     = "R6RBLKY5QQLMMVOTXOX59XSR3Y9849WZQAW942VXJZ1P7LYUZUPHWC1SQA"
