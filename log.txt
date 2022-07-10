@@ -1,3 +1,11 @@
+tanggal        = 2022-07-10 10:42:47
+key            = 3 
+plain text     = "QOG"
+encrypted text = "UTM"
+decrypted text = "QOG"
+plain text     = "QOG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-10 10:24:13
 key            = 85 
 plain text     = "DPR8IEW52W8ZZ0VG0DH26POTQ9KXMCS431HZU6C3ZSGPQRALIYEZ1LOFT374XIIP8LD8ZOXNDWO0VS3GAEDW6"
