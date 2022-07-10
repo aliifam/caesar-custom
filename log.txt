@@ -1,3 +1,11 @@
+tanggal        = 2022-07-10 05:40:09
+key            = 7 
+plain text     = "8ZTCF62"
+encrypted text = "c(#qufc"
+decrypted text = "8ZTCF62"
+plain text     = "8ZTCF62"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-10 05:21:32
 key            = 52 
 plain text     = "O1K3VWYXTWESXMS38HXM9Q1TCGUN3P6Z9G32M8FGA2Q3YHYJJGHQ"
