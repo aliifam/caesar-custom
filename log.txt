@@ -1,3 +1,11 @@
+tanggal        = 2022-07-10 06:28:00
+key            = 45 
+plain text     = "WYYE06COM6JGJIAAWEGTLLSWO35ELF5BJU8PK7XYYJIWO"
+encrypted text = "+./zfm{*)q(&**#$;*-;45=B;~#4<7'5>J.GC0RTUGGVO"
+decrypted text = "WYYE06COM6JGJIAAWEGTLLSWO35ELF5BJU8PK7XYYJIWO"
+plain text     = "WYYE06COM6JGJIAAWEGTLLSWO35ELF5BJU8PK7XYYJIWO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-10 05:40:09
 key            = 7 
 plain text     = "8ZTCF62"
