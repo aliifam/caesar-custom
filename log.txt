@@ -1,3 +1,11 @@
+tanggal        = 2022-07-11 04:42:54
+key            = 2 
+plain text     = "YQ"
+encrypted text = "d]"
+decrypted text = "YQ"
+plain text     = "YQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-11 03:47:18
 key            = 28 
 plain text     = "G6AA5YKE9R1QGUR3F2YSK62CJBZY"
