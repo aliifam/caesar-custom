@@ -1,3 +1,11 @@
+tanggal        = 2022-07-11 10:25:53
+key            = 14 
+plain text     = "0S72MARMUQHDHR"
+encrypted text = "y?$~<1C?HE=:?J"
+decrypted text = "0S72MARMUQHDHR"
+plain text     = "0S72MARMUQHDHR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-11 09:47:35
 key            = 95 
 plain text     = "561VCGQBIA7O5LN8M23H47W988PKDEFU9BCCWPFY2BIJQJQHA3IMW69OWLMBLTK7U98CPV53IF76YTTC9Q5QONU6ETW2DQE"
