@@ -1,3 +1,11 @@
+tanggal        = 2022-07-11 10:46:29
+key            = 19 
+plain text     = "KPX71SXMMB8F3RJZ573"
+encrypted text = "7=F&!DJ@A7.=+KDU141"
+decrypted text = "KPX71SXMMB8F3RJZ573"
+plain text     = "KPX71SXMMB8F3RJZ573"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-11 10:25:53
 key            = 14 
 plain text     = "0S72MARMUQHDHR"
