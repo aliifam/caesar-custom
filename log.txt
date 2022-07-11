@@ -1,3 +1,11 @@
+tanggal        = 2022-07-11 21:41:22
+key            = 12 
+plain text     = "LW0VXYPO3U2B"
+encrypted text = ".:r;>@88{@|/"
+decrypted text = "LW0VXYPO3U2B"
+plain text     = "LW0VXYPO3U2B"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-11 21:20:25
 key            = 26 
 plain text     = "06SF37S36JUF1YKQFHL97UNMAM"
