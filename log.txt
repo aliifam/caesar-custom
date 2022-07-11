@@ -1,3 +1,11 @@
+tanggal        = 2022-07-11 17:32:11
+key            = 32 
+plain text     = "RYG3W2KZE553T45TYNHXEI9TJI967QDF"
+encrypted text = "CK:'L(BR>/0/Q24TZPK\JO@\SSDBD_SV"
+decrypted text = "RYG3W2KZE553T45TYNHXEI9TJI967QDF"
+plain text     = "RYG3W2KZE553T45TYNHXEI9TJI967QDF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-11 16:37:29
 key            = 66 
 plain text     = "A0ISUQZ1VQXIKVX6M2PP288W05N2ZS6BVDFNNR00E77GUOL5ENKP845VU3EULVTU84"
