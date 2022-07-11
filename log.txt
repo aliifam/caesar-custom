@@ -1,3 +1,11 @@
+tanggal        = 2022-07-11 08:32:14
+key            = 8 
+plain text     = "K9UV50ZN"
+encrypted text = "~m,.lh5*"
+decrypted text = "K9UV50ZN"
+plain text     = "K9UV50ZN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-11 07:41:12
 key            = 36 
 plain text     = "H5058VHWCBE1E5LS1MDU1LEGLBC7C13ZFZZD"
