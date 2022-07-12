@@ -1,3 +1,11 @@
+tanggal        = 2022-07-12 04:08:43
+key            = 86 
+plain text     = "5CMEKINMZTA9IL4KE7YLM6P0A47NTRJUOTV5J2ESREQPF6LM7NJS7TLYC8LBXNIMXAGNYU3YJMJNKHHOU8XJ43"
+encrypted text = "6EPIPOUUc^LEVZC[VIl`bLgHZNRjqpiupvyYoXl{{o||sd{}h}l|r~z¡¦«"
+decrypted text = "5CMEKINMZTA9IL4KE7YLM6P0A47NTRJUOTV5J2ESREQPF6LM7NJS7TLYC8LBXNIMXAGNYU3YJMJNKHHOU8XJ43"
+plain text     = "5CMEKINMZTA9IL4KE7YLM6P0A47NTRJUOTV5J2ESREQPF6LM7NJS7TLYC8LBXNIMXAGNYU3YJMJNKHHOU8XJ43"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-12 02:28:25
 key            = 2 
 plain text     = "CK"
