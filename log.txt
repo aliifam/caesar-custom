@@ -1,3 +1,11 @@
+tanggal        = 2022-07-12 08:31:22
+key            = 30 
+plain text     = "PI9W59YJOK0G9Y0WQ4INT3RNP9BKAF"
+encrypted text = "zte&ch+{#~d|o2h2-o'-4r414|(2)/"
+decrypted text = "PI9W59YJOK0G9Y0WQ4INT3RNP9BKAF"
+plain text     = "PI9W59YJOK0G9Y0WQ4INT3RNP9BKAF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-12 07:50:33
 key            = 37 
 plain text     = "IML2XQAAFD4LPBPNW48EFRSUJSXPSY1HLG1RJ"
