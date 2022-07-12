@@ -1,3 +1,11 @@
+tanggal        = 2022-07-12 15:45:54
+key            = 25 
+plain text     = "ZNUVDCMJ5QMZH94UQV4RO9QFB"
+encrypted text = "pemo^^igSpm{j\Xzw}\{yd}sp"
+decrypted text = "ZNUVDCMJ5QMZH94UQV4RO9QFB"
+plain text     = "ZNUVDCMJ5QMZH94UQV4RO9QFB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-12 15:25:33
 key            = 63 
 plain text     = "IFYBWJD6IMH52SJ1XWO2WCW3C8DN0ZLA0FDQ238FSP0HDJ9BKWDCN3M7C1TTOIS"
