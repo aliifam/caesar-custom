@@ -1,3 +1,11 @@
+tanggal        = 2022-07-13 23:42:19
+key            = 23 
+plain text     = "9T43AP559CWX3D2CVA2E32F"
+encrypted text = "x6uu&6z{"-BD~2!3G3%9((="
+decrypted text = "9T43AP559CWX3D2CVA2E32F"
+plain text     = "9T43AP559CWX3D2CVA2E32F"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-13 23:23:08
 key            = 96 
 plain text     = "CNX4NWU1ZUO3YOMF93BNZ94OTBMVA4M6E6IR29I28E9Y1UZFF8GXYMG5O8NA2K1FUZQD73B7KFCSJGXB66HKCHRJ552IVOIG"
