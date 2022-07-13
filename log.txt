@@ -1,3 +1,11 @@
+tanggal        = 2022-07-13 15:26:26
+key            = 39 
+plain text     = "FTWQZRPQXBII47EMPOR0KSZFANIAXD3O3K88NCI"
+encrypted text = "ix|w#zy{%nvwcgv!%%)f$-5"|,(!9&t3v1}~7-4"
+decrypted text = "FTWQZRPQXBII47EMPOR0KSZFANIAXD3O3K88NCI"
+plain text     = "FTWQZRPQXBII47EMPOR0KSZFANIAXD3O3K88NCI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-13 14:42:20
 key            = 11 
 plain text     = "8ER4148WLIJ"
