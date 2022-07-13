@@ -1,3 +1,11 @@
+tanggal        = 2022-07-13 18:48:25
+key            = 37 
+plain text     = "PYTZLXB6ZT1T2H63CRFGCJ1YZJVUF687NZOYH"
+encrypted text = "{'#*{*sh/*f,i"om~0%'$,r=?0==/~##;H>I9"
+decrypted text = "PYTZLXB6ZT1T2H63CRFGCJ1YZJVUF687NZOYH"
+plain text     = "PYTZLXB6ZT1T2H63CRFGCJ1YZJVUF687NZOYH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-13 18:27:27
 key            = 89 
 plain text     = "PGTBVZEA9FFLU4CPUFOI3KG76D1DJPTUWCADXCFHUI6JVJ1L55U6E3WBXAMHDL3DN0C0JDJR3JLZ3RX3UPMB3UJ9D"
