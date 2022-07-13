@@ -1,3 +1,11 @@
+tanggal        = 2022-07-13 05:25:32
+key            = 5 
+plain text     = "LUWKW"
+encrypted text = "&03(5"
+decrypted text = "LUWKW"
+plain text     = "LUWKW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-13 04:41:27
 key            = 96 
 plain text     = "O9G2N7DF0X725OJOPXJG19930JCT9OHXDXA4CFLERYYRDPWX3ELR50R44ZZBYHHOJO2OZN69YAZX3X96D4SC2MBLN41RZPI1"
