@@ -1,3 +1,11 @@
+tanggal        = 2022-07-13 05:42:36
+key            = 5 
+plain text     = "QHZU5"
+encrypted text = "KCVR3"
+decrypted text = "QHZU5"
+plain text     = "QHZU5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-13 05:25:32
 key            = 5 
 plain text     = "LUWKW"
