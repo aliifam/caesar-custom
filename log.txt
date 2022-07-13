@@ -1,3 +1,11 @@
+tanggal        = 2022-07-13 17:28:31
+key            = 13 
+plain text     = "E8QHPD0SCYI86"
+encrypted text = "_SmencPte|m]\"
+decrypted text = "E8QHPD0SCYI86"
+plain text     = "E8QHPD0SCYI86"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-13 16:37:20
 key            = 83 
 plain text     = "ZXV20GG806VCJCJMVM5QQIVBRW442NRIEP9X8WF8O1C11YY3FCN258PUJQD3DHTW60IVPP6JU16D1NTKBQK"
