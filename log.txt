@@ -1,3 +1,11 @@
+tanggal        = 2022-07-13 10:48:01
+key            = 24 
+plain text     = "4TF52KB4HFUBJSVP87OOTNYY"
+encrypted text = "Hi\LJd\Odcsajtxs\\uv|w%&"
+decrypted text = "4TF52KB4HFUBJSVP87OOTNYY"
+plain text     = "4TF52KB4HFUBJSVP87OOTNYY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-13 10:29:52
 key            = 6 
 plain text     = "5KHLII"
