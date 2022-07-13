@@ -1,3 +1,11 @@
+tanggal        = 2022-07-13 09:43:16
+key            = 27 
+plain text     = "RBLA5G1IMHCSPDS31VAVAOXKZSE"
+encrypted text = "sdoeZmXqvrn!}r$cb*t,v'1%5/""
+decrypted text = "RBLA5G1IMHCSPDS31VAVAOXKZSE"
+plain text     = "RBLA5G1IMHCSPDS31VAVAOXKZSE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-13 09:23:10
 key            = 85 
 plain text     = "DEIGNG9QOXI3RJSO2F0GJMRZ6NAIAXQZ57OC1UL0H7JOGTZWUWCFGEGCKL1HX8OBFX5PHZBBYWWHXCV1M8MEC"
