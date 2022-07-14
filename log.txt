@@ -1,3 +1,11 @@
+tanggal        = 2022-07-14 14:42:31
+key            = 27 
+plain text     = "AFXNL2BJ3SIWJT25JNLF1H66W2W"
+encrypted text = "7=PGF->G1RIXLW6:PUTO;SBCeAg"
+decrypted text = "AFXNL2BJ3SIWJT25JNLF1H66W2W"
+plain text     = "AFXNL2BJ3SIWJT25JNLF1H66W2W"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-14 14:22:29
 key            = 38 
 plain text     = "5SVW76LQSN011ADW3UHFN99OTI4UMLIM9L4J9J"
