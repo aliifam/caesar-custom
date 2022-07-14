@@ -1,3 +1,11 @@
+tanggal        = 2022-07-14 14:22:29
+key            = 38 
+plain text     = "5SVW76LQSN011ADW3UHFN99OTI4UMLIM9L4J9J"
+encrypted text = "#BFH))@FIE(*+<@T1THGP<=TZP<^WWUZG[D[K]"
+decrypted text = "5SVW76LQSN011ADW3UHFN99OTI4UMLIM9L4J9J"
+plain text     = "5SVW76LQSN011ADW3UHFN99OTI4UMLIM9L4J9J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-14 13:51:36
 key            = 10 
 plain text     = "6UW58DNEQ7"
