@@ -1,3 +1,11 @@
+tanggal        = 2022-07-14 08:29:25
+key            = 13 
+plain text     = "GTGR2GWOX2YXV"
+encrypted text = "fthtUk|u!Z$$#"
+decrypted text = "GTGR2GWOX2YXV"
+plain text     = "GTGR2GWOX2YXV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-14 07:40:59
 key            = 58 
 plain text     = "JE74F7AQYHJBLP9YQAJC4Y2LIWEV8NSQ4Q5VBFO0YW9HGYLYVMW6SI6L2O"
