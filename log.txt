@@ -1,3 +1,11 @@
+tanggal        = 2022-07-14 23:43:15
+key            = 32 
+plain text     = "PAQDWZYK66UNPYJI65F6J92WN5IQLFDJ"
+encrypted text = "4&7+?CC6"#C=@J<<**<-B2,RJ2GPLGFM"
+decrypted text = "PAQDWZYK66UNPYJI65F6J92WN5IQLFDJ"
+plain text     = "PAQDWZYK66UNPYJI65F6J92WN5IQLFDJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-14 23:25:12
 key            = 35 
 plain text     = "U7G5L3WC9M7VZWNB8VGSIZP5IVM7NI26EIQ"
