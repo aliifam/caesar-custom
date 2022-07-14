@@ -1,3 +1,11 @@
+tanggal        = 2022-07-14 19:18:22
+key            = 41 
+plain text     = "14BABGYDP4ISS69Y6MGTVU1O8G134BE46PWWQ5QOW"
+encrypted text = "pt%%'-@,9|4?@$(I'?:HKK(G1A,/1@D47RZ[V;XW`"
+decrypted text = "14BABGYDP4ISS69Y6MGTVU1O8G134BE46PWWQ5QOW"
+plain text     = "14BABGYDP4ISS69Y6MGTVU1O8G134BE46PWWQ5QOW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-14 18:50:20
 key            = 65 
 plain text     = "MG2GGAVLSNB2U7DPNVEM4WDX9PV6TG5797YISSYD8QNY4GE6GMDDXON81GVFJYG0N"
