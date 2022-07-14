@@ -1,3 +1,11 @@
+tanggal        = 2022-07-14 06:52:55
+key            = 43 
+plain text     = "JENKVX5IKGOLK09RK7HN0NE8MZDZDKRTHSJ8CVRZAQQ"
+encrypted text = "vr|z(+g|!|'%%is/)t(/p1){3A,C.6>A6B:)5IFO7HI"
+decrypted text = "JENKVX5IKGOLK09RK7HN0NE8MZDZDKRTHSJ8CVRZAQQ"
+plain text     = "JENKVX5IKGOLK09RK7HN0NE8MZDZDKRTHSJ8CVRZAQQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-14 06:29:26
 key            = 20 
 plain text     = "YFBVJ94DGQITNJUXYQ2B"
