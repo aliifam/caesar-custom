@@ -1,3 +1,11 @@
+tanggal        = 2022-07-14 06:29:26
+key            = 20 
+plain text     = "YFBVJ94DGQITNJUXYQ2B"
+encrypted text = "YGDYN>:KOZS_ZWcgibDU"
+decrypted text = "YFBVJ94DGQITNJUXYQ2B"
+plain text     = "YFBVJ94DGQITNJUXYQ2B"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-14 05:36:44
 key            = 85 
 plain text     = "Q43229HD88A2APY3UPJ7B2KRKXEL36JU906QUUK0YCDUKY0HJ91X59B90AXXHDBVBDHL8RH4XTTWZJ9QZ3JP8"
