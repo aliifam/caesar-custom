@@ -1,3 +1,11 @@
+tanggal        = 2022-07-14 21:21:43
+key            = 15 
+plain text     = "SFLIIQ4SDUCH6AF"
+encrypted text = "uipnox\|n"oudpv"
+decrypted text = "SFLIIQ4SDUCH6AF"
+plain text     = "SFLIIQ4SDUCH6AF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-14 20:43:36
 key            = 28 
 plain text     = "PQV3TI1PZXKV5MZEIO63D5RFKQ3W"
