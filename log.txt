@@ -1,3 +1,11 @@
+tanggal        = 2022-07-14 19:39:11
+key            = 15 
+plain text     = "RYDL9JK43ZNQZAM"
+encrypted text = "W_KTBTV@@h]akS`"
+decrypted text = "RYDL9JK43ZNQZAM"
+plain text     = "RYDL9JK43ZNQZAM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-14 19:18:22
 key            = 41 
 plain text     = "14BABGYDP4ISS69Y6MGTVU1O8G134BE46PWWQ5QOW"
