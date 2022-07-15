@@ -1,3 +1,11 @@
+tanggal        = 2022-07-15 11:39:14
+key            = 24 
+plain text     = "VAHKZZHF4Q43ZWQRHGXKZTBM"
+encrypted text = "xdlp"#po^|``*(#%zz."2-z("
+decrypted text = "VAHKZZHF4Q43ZWQRHGXKZTBM"
+plain text     = "VAHKZZHF4Q43ZWQRHGXKZTBM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-15 11:19:02
 key            = 94 
 plain text     = "Q8NDUX9V67GNYHU77A447GE8C95DGIPBCTTCXHESRIM592W00OBOQHIIPQL8CCV3EXDGRESNOWZITP8R6OMMMD6FDULD5K"
