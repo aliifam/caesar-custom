@@ -1,3 +1,11 @@
+tanggal        = 2022-07-15 18:28:41
+key            = 23 
+plain text     = "XC26HF3VRY553PTR166IUF2"
+encrypted text = "A-{"54"FCK()(FKJ*01ERD1"
+decrypted text = "XC26HF3VRY553PTR166IUF2"
+plain text     = "XC26HF3VRY553PTR166IUF2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-15 17:30:20
 key            = 77 
 plain text     = "S950UUMX23VAGVU6AF1QNB2000CK3BLL7L1RNKRX7PRTIRBE1ZUP4NZ1EFIJM5ET83XV5JGW9BOYW"
