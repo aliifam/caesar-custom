@@ -1,3 +1,11 @@
+tanggal        = 2022-07-15 04:20:37
+key            = 15 
+plain text     = "P9CS1Q65INC1H74"
+encrypted text = "$lw*g*nn%+!n(vt"
+decrypted text = "P9CS1Q65INC1H74"
+plain text     = "P9CS1Q65INC1H74"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-15 02:35:35
 key            = 92 
 plain text     = "HKEJIRCQVGULKRJ8QCRWJC0UMMH1LN9DOI9303KO3G75DPMDUTNZFOE3J5GMMPGD20GRW5SK37LZO3L59K8K9HZHRN79"
