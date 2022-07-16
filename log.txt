@@ -1,3 +1,11 @@
+tanggal        = 2022-07-16 18:47:07
+key            = 4 
+plain text     = "WFPZ"
+encrypted text = "O?JU"
+decrypted text = "WFPZ"
+plain text     = "WFPZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-16 18:27:08
 key            = 91 
 plain text     = "1C7ZX7ED5G061VT2ZYAC3N1UNZM7HC3M9FE3R7DEYMX1GGN5AEDHIGP1V5QJG5TLPT5OQ5BRTI2CCMVP1OPUWFZ8RRE"
