@@ -1,3 +1,11 @@
+tanggal        = 2022-07-16 20:23:11
+key            = 10 
+plain text     = "4F6DST0733"
+encrypted text = "z/~/?A|&#$"
+decrypted text = "4F6DST0733"
+plain text     = "4F6DST0733"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-16 19:39:22
 key            = 55 
 plain text     = "A7WABPL1SP0JQDNXS481H7D7ETJ2SA9W35GUQY2JNYP6D0JAS6X7RNG"
