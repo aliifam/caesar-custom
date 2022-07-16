@@ -1,3 +1,11 @@
+tanggal        = 2022-07-16 17:21:10
+key            = 10 
+plain text     = "7DWZJF7I65"
+encrypted text = ",:NRC@2E33"
+decrypted text = "7DWZJF7I65"
+plain text     = "7DWZJF7I65"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-16 16:30:32
 key            = 66 
 plain text     = "BISXK7BQ16EHRDDC1WDB8N9TB6AAWRZBJLZXIP2CZD3S0LZ90CT72BUDU7AFCIXU4I"
