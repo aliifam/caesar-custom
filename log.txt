@@ -1,3 +1,11 @@
+tanggal        = 2022-07-17 05:22:55
+key            = 24 
+plain text     = "IZAZJ2DP3X5U7N8Y1OQWUSTJ"
+encrypted text = "HZB\M6IV:`>_BZEg@_bihgi`"
+decrypted text = "IZAZJ2DP3X5U7N8Y1OQWUSTJ"
+plain text     = "IZAZJ2DP3X5U7N8Y1OQWUSTJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-17 04:38:49
 key            = 8 
 plain text     = "AZN6XSBO"
