@@ -1,3 +1,11 @@
+tanggal        = 2022-07-17 09:42:22
+key            = 17 
+plain text     = "ZHG3ROVZ91SY61TIP"
+encrypted text = "\KK8XV^cC<_fD@dZb"
+decrypted text = "ZHG3ROVZ91SY61TIP"
+plain text     = "ZHG3ROVZ91SY61TIP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-17 09:21:52
 key            = 3 
 plain text     = "VJL"
