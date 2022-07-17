@@ -1,3 +1,11 @@
+tanggal        = 2022-07-17 15:22:56
+key            = 27 
+plain text     = "Z4T4SA81QR4UFK8Y3WTQ0HTLK1N"
+encrypted text = "U0Q2RA93TV9[MSAc>ca_?Xe^^Ec"
+decrypted text = "Z4T4SA81QR4UFK8Y3WTQ0HTLK1N"
+plain text     = "Z4T4SA81QR4UFK8Y3WTQ0HTLK1N"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-17 14:40:17
 key            = 34 
 plain text     = "RORM30E0Q7LYBV9BRB5C2PUNJ4FIJ4WT0M"
