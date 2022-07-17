@@ -1,3 +1,11 @@
+tanggal        = 2022-07-17 03:50:01
+key            = 18 
+plain text     = "BKAUQPBOLQ0U8YYSWL"
+encrypted text = "",#855(64:x@$FGBG="
+decrypted text = "BKAUQPBOLQ0U8YYSWL"
+plain text     = "BKAUQPBOLQ0U8YYSWL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-17 02:25:50
 key            = 92 
 plain text     = "VAE4U2YBPQ2RHQ7VWKLEC2FV55ERRWUVZRYTKSWD2018J94TCEOOZUY3CNT3GBASUBLZ9DEV5PN12J6SEUHHZQ7O4JK9"
