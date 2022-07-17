@@ -1,3 +1,11 @@
+tanggal        = 2022-07-17 11:39:04
+key            = 31 
+plain text     = "U6MC87J451AMX8UJ94PKDG38C04T0Q7"
+encrypted text = "tVne[[oZ\Yjw%d$xhd#}w{hnzhm0k/t"
+decrypted text = "U6MC87J451AMX8UJ94PKDG38C04T0Q7"
+plain text     = "U6MC87J451AMX8UJ94PKDG38C04T0Q7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-17 11:18:20
 key            = 15 
 plain text     = "K7B08G9B13G3JLN"
