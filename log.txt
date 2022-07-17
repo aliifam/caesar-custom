@@ -1,3 +1,11 @@
+tanggal        = 2022-07-17 12:40:08
+key            = 37 
+plain text     = "FDX29N0W9O5NHPHLEMO1SERCBQ29EEIF2DS20"
+encrypted text = "ml#\dz]'h!f"{&}$|'*k0#1##3s{*+0.y.>|{"
+decrypted text = "FDX29N0W9O5NHPHLEMO1SERCBQ29EEIF2DS20"
+plain text     = "FDX29N0W9O5NHPHLEMO1SERCBQ29EEIF2DS20"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-17 11:39:04
 key            = 31 
 plain text     = "U6MC87J451AMX8UJ94PKDG38C04T0Q7"
