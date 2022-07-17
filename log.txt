@@ -1,3 +1,11 @@
+tanggal        = 2022-07-17 11:18:20
+key            = 15 
+plain text     = "K7B08G9B13G3JLN"
+encrypted text = "P=I8AQDN>AVC[^a"
+decrypted text = "K7B08G9B13G3JLN"
+plain text     = "K7B08G9B13G3JLN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-17 10:42:53
 key            = 38 
 plain text     = "68XFTEC50QGXY03MKFCJXMIO7H17V36QBWZVJB"
