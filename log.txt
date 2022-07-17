@@ -1,3 +1,11 @@
+tanggal        = 2022-07-17 08:45:32
+key            = 15 
+plain text     = "8X11RLXHE14VMKV"
+encrypted text = "s6no3.;,*uy>65A"
+decrypted text = "8X11RLXHE14VMKV"
+plain text     = "8X11RLXHE14VMKV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-17 08:26:39
 key            = 68 
 plain text     = "PP0APUIMLWWTYX0XWV9WRAGP2FQG308TX6S55N3OI5WZXVIVA66305LCTKII5B2YNMUK"
