@@ -1,3 +1,11 @@
+tanggal        = 2022-07-17 22:41:43
+key            = 4 
+plain text     = "FK3G"
+encrypted text = "lr[p"
+decrypted text = "FK3G"
+plain text     = "FK3G"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-17 22:22:05
 key            = 48 
 plain text     = "LE63EKI42MRVWRD02WBE9S5SYW7JO0T36QM8FJ0S5RWN7OCR"
