@@ -1,3 +1,11 @@
+tanggal        = 2022-07-18 19:18:27
+key            = 43 
+plain text     = "WVR4SQTXZH9NNEM3HTMK2EHMBPOZNIVSFLIO498TZ9K"
+encrypted text = "{{x[{z~%(ug}~v!f|+%$j~$*~//;0,:8,318|$$AH(;"
+decrypted text = "WVR4SQTXZH9NNEM3HTMK2EHMBPOZNIVSFLIO498TZ9K"
+plain text     = "WVR4SQTXZH9NNEM3HTMK2EHMBPOZNIVSFLIO498TZ9K"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-18 18:50:20
 key            = 11 
 plain text     = "9NA3MZ2XMNK"
