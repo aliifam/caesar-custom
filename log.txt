@@ -1,3 +1,11 @@
+tanggal        = 2022-07-18 22:43:16
+key            = 11 
+plain text     = "LAFXHVPDDVJ"
+encrypted text = "i_exixshi|q"
+decrypted text = "LAFXHVPDDVJ"
+plain text     = "LAFXHVPDDVJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-18 22:23:52
 key            = 76 
 plain text     = "71AFMT1GBWI6NA5HWPVZS6X6DVMG41TSR89MTT7KPXEKB218EC1FMJCR2HVHCO2502JE10YESZSO"
