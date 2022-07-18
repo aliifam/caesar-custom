@@ -1,3 +1,11 @@
+tanggal        = 2022-07-18 09:23:18
+key            = 23 
+plain text     = "TNMQ87CZGAI0G775NWQYFIT"
+encrypted text = "1,,1ww&>,'0v0!"!;E@I7;G"
+decrypted text = "TNMQ87CZGAI0G775NWQYFIT"
+plain text     = "TNMQ87CZGAI0G775NWQYFIT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-18 08:30:37
 key            = 38 
 plain text     = "DKBL8ZLK6DOA9YUMOS6G2642F9OOMLB0WIMJVW"
