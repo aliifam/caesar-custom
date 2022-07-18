@@ -1,3 +1,11 @@
+tanggal        = 2022-07-18 18:50:20
+key            = 11 
+plain text     = "9NA3MZ2XMNK"
+encrypted text = "r*|o,:q:020"
+decrypted text = "9NA3MZ2XMNK"
+plain text     = "9NA3MZ2XMNK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-18 18:31:21
 key            = 77 
 plain text     = "NGFV1N00YBBQAE31K5TQK0Y8OJXWRYVPEVIJZFXMYUUIPZQIGQJILU0OQ4L7RFBP49EJTN842RIXA"
