@@ -1,3 +1,11 @@
+tanggal        = 2022-07-18 17:48:22
+key            = 5 
+plain text     = "WMFGZ"
+encrypted text = "^UOQe"
+decrypted text = "WMFGZ"
+plain text     = "WMFGZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-18 17:30:05
 key            = 21 
 plain text     = "4EKLSENRZLE6UPCNGVIIP"
