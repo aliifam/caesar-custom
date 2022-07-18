@@ -1,3 +1,11 @@
+tanggal        = 2022-07-18 11:19:53
+key            = 7 
+plain text     = "EDR4TK9"
+encrypted text = "!!0q4,y"
+decrypted text = "EDR4TK9"
+plain text     = "EDR4TK9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-18 10:48:20
 key            = 61 
 plain text     = "687Z0LQW1H9OWWJ6PB0LX4PJ90N7RH5JVBJ7WKA9DADM6FG7I0EWFUR2N1YRU"
