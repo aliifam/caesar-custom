@@ -1,3 +1,11 @@
+tanggal        = 2022-07-18 15:50:01
+key            = 41 
+plain text     = "M076HSFP7PY8608QKC8OUNXP24ZOV7VQ6RNYKGAW1"
+encrypted text = "`DLL_k_jRlvVUPYsng]u|v#z]`)}'g)%i(%1$!z3l"
+decrypted text = "M076HSFP7PY8608QKC8OUNXP24ZOV7VQ6RNYKGAW1"
+plain text     = "M076HSFP7PY8608QKC8OUNXP24ZOV7VQ6RNYKGAW1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-18 15:27:48
 key            = 96 
 plain text     = "SK8REM3AKJR0T918FKIZ4HAKVKCE8TDO8JTB37CZ22YV5N2ZQA8P829TYPESHYUCR864WMY0AE0S4XW50I0VHFAB2Z66S6EY"
