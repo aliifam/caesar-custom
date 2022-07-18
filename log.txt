@@ -1,3 +1,11 @@
+tanggal        = 2022-07-18 09:43:33
+key            = 42 
+plain text     = "JCKQ3P46YMNG4USEAI8WABJX9ZH5OH7QG677MINPCE"
+encrypted text = "/)29z:}"F;=7%GF96?/O:<ET6XG5PJ:UL<>?VSY\PS"
+decrypted text = "JCKQ3P46YMNG4USEAI8WABJX9ZH5OH7QG677MINPCE"
+plain text     = "JCKQ3P46YMNG4USEAI8WABJX9ZH5OH7QG677MINPCE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-18 09:23:18
 key            = 23 
 plain text     = "TNMQ87CZGAI0G775NWQYFIT"
