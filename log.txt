@@ -1,3 +1,11 @@
+tanggal        = 2022-07-19 21:21:24
+key            = 49 
+plain text     = "45ROWY6TRN190AAOEZBOLI929GRQE46O42R875SHMQZO8IZ4Y"
+encrypted text = "@B`^gjHgfcGPHZ[jaw`nlj[U]lxxm]`z`_"ggf'{#(2(p$6o7"
+decrypted text = "45ROWY6TRN190AAOEZBOLI929GRQE46O42R875SHMQZO8IZ4Y"
+plain text     = "45ROWY6TRN190AAOEZBOLI929GRQE46O42R875SHMQZO8IZ4Y"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-19 20:44:16
 key            = 11 
 plain text     = "M589XW5AT6I"
