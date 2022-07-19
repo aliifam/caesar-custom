@@ -1,3 +1,11 @@
+tanggal        = 2022-07-19 11:39:53
+key            = 7 
+plain text     = "BT5U6DI"
+encrypted text = "buWxZio"
+decrypted text = "BT5U6DI"
+plain text     = "BT5U6DI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-19 11:20:41
 key            = 95 
 plain text     = "VU62L1W7XDUQ0G3NX2PI77VX5H7F1SM66HJHVFCQ2ZJZJHP0WFQ2V42DP8U6F2PXW78KROR9T647ZFY38VR9UZJHPCYQATL"
