@@ -1,3 +1,11 @@
+tanggal        = 2022-07-19 23:23:33
+key            = 29 
+plain text     = "EQNE9MCAXX3FP89HXC9WEYOIQKI5B"
+encrypted text = "HUSK@ULKcd@T_HJZkWNm\qhclgfSa"
+decrypted text = "EQNE9MCAXX3FP89HXC9WEYOIQKI5B"
+plain text     = "EQNE9MCAXX3FP89HXC9WEYOIQKI5B"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-19 22:42:20
 key            = 88 
 plain text     = "Q9E3GHGIPZL2G7KMSXERLCERLU9G3OKT2CSYW8AJV3B3PEPJ6GHLHN1COG0N4WY4TKBP517WEZ5GF2M6BK3SEIUJ"
