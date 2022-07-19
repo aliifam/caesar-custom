@@ -1,3 +1,11 @@
+tanggal        = 2022-07-19 23:43:15
+key            = 5 
+plain text     = "J52PQ"
+encrypted text = "iUSrt"
+decrypted text = "J52PQ"
+plain text     = "J52PQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-19 23:23:33
 key            = 29 
 plain text     = "EQNE9MCAXX3FP89HXC9WEYOIQKI5B"
