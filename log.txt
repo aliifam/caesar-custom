@@ -1,3 +1,11 @@
+tanggal        = 2022-07-19 05:33:31
+key            = 2 
+plain text     = "XJ"
+encrypted text = "qd"
+decrypted text = "XJ"
+plain text     = "XJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-19 04:25:25
 key            = 47 
 plain text     = "RLGXMLGBFGADYA5R926JDNPT990ZHX1OH6YQSO4FNMALIGF"
