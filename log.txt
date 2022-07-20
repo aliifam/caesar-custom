@@ -1,3 +1,11 @@
+tanggal        = 2022-07-20 16:34:59
+key            = 9 
+plain text     = "1B2XEXBOR"
+encrypted text = "-?0WEYDRV"
+decrypted text = "1B2XEXBOR"
+plain text     = "1B2XEXBOR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-20 15:46:22
 key            = 47 
 plain text     = "ZDEM08I77CPOPCNQA4ZY0BQY4B1ZB7LK03D6KEA2ERZQBVS"
