@@ -1,3 +1,11 @@
+tanggal        = 2022-07-20 20:45:27
+key            = 5 
+plain text     = "KRJJC"
+encrypted text = "owpqk"
+decrypted text = "KRJJC"
+plain text     = "KRJJC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-20 20:26:27
 key            = 73 
 plain text     = "W6M6U1RW97EJVWBD4ZWBPXRSRPC4TBJ7BSRHSRSKJGPBM3ME7OBM6CBE95G536XU21M135IXH"
