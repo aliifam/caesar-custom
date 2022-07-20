@@ -1,3 +1,11 @@
+tanggal        = 2022-07-20 15:26:11
+key            = 4 
+plain text     = "AQ48"
+encrypted text = ",=!&"
+decrypted text = "AQ48"
+plain text     = "AQ48"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-20 14:41:59
 key            = 88 
 plain text     = "JO42QZIKAPF5M569RI16BQWHL1EBMSA6XVCF0ZRPMI2A5I8N42L293VLFD7S71DK5S5S9V0959VZ60E14M2RWP2G"
