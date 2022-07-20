@@ -1,3 +1,11 @@
+tanggal        = 2022-07-20 21:19:00
+key            = 26 
+plain text     = "G3DFYMPFPP1OR7OGYYYMWNKBCR"
+encrypted text = "[HZ]qfjalmOnrXqj}~!t!wumo!"
+decrypted text = "G3DFYMPFPP1OR7OGYYYMWNKBCR"
+plain text     = "G3DFYMPFPP1OR7OGYYYMWNKBCR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-20 20:45:27
 key            = 5 
 plain text     = "KRJJC"
