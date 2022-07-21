@@ -1,3 +1,11 @@
+tanggal        = 2022-07-21 10:47:38
+key            = 40 
+plain text     = "8V7VQ3H1L9GS0X4RFP55P6GQH7IJXS5T4FN0D8AB"
+encrypted text = "r3s51r*r0|-:vA|=2=#$@'9D<,?APL/O0CL/D9CE"
+decrypted text = "8V7VQ3H1L9GS0X4RFP55P6GQH7IJXS5T4FN0D8AB"
+plain text     = "8V7VQ3H1L9GS0X4RFP55P6GQH7IJXS5T4FN0D8AB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-21 10:27:57
 key            = 49 
 plain text     = "B7I3YF0PQXM5GOOYYKE1DMF7Y37AQ18M3PXCHHGM3F8NF9WOY"
