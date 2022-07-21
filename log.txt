@@ -1,3 +1,11 @@
+tanggal        = 2022-07-21 15:48:41
+key            = 45 
+plain text     = "VX3SK8HUJT9C5NIWYA3HI6VXJ3X3TK312U95A5FFJGTX5"
+encrypted text = ".1k.'s&4*5y&w3/>A*{35#DG:$J&H@)(*N30=2DEJHV[9"
+decrypted text = "VX3SK8HUJT9C5NIWYA3HI6VXJ3X3TK312U95A5FFJGTX5"
+plain text     = "VX3SK8HUJT9C5NIWYA3HI6VXJ3X3TK312U95A5FFJGTX5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-21 15:26:18
 key            = 3 
 plain text     = "RXK"
