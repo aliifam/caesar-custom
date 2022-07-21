@@ -1,3 +1,11 @@
+tanggal        = 2022-07-21 05:32:54
+key            = 6 
+plain text     = "X8Z5QC"
+encrypted text = "^?b>[N"
+decrypted text = "X8Z5QC"
+plain text     = "X8Z5QC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-21 04:51:06
 key            = 57 
 plain text     = "QTDFR6Z33MQCZEGHIRL3VPRQ6FGGC85DG8EMKZAY7PGBH91BMOYANW5Z6"
