@@ -1,3 +1,11 @@
+tanggal        = 2022-07-22 05:31:33
+key            = 41 
+plain text     = "MOXYKAC0YA26SOWUVQZZ27TGFC4JVJ9EH4O3DD1UF"
+encrypted text = "cfpre\_Mw`RWur{z|x$%\b"ttrd{*}mz~k)l~!m4&"
+decrypted text = "MOXYKAC0YA26SOWUVQZZ27TGFC4JVJ9EH4O3DD1UF"
+plain text     = "MOXYKAC0YA26SOWUVQZZ27TGFC4JVJ9EH4O3DD1UF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-22 04:53:46
 key            = 76 
 plain text     = "EK0COGMT73ZJ4TXKCULLJ38FRPBLQ7DVL4XEJAEOE3MJ9HJ31DOLB27D92B88QY1714IDEQHEZVS"
