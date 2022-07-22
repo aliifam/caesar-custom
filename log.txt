@@ -1,3 +1,11 @@
+tanggal        = 2022-07-22 23:43:20
+key            = 50 
+plain text     = "NU49QSGTNJO0R7V2WXMVGR44IQQ742QQQJWRJTQDDLV5G5FOJO"
+encrypted text = "fnNTmpesnkqSv\|Y!#w#s!bcy$%jhg)*+%3/(31%&/:x-z.84:"
+decrypted text = "NU49QSGTNJO0R7V2WXMVGR44IQQ742QQQJWRJTQDDLV5G5FOJO"
+plain text     = "NU49QSGTNJO0R7V2WXMVGR44IQQ742QQQJWRJTQDDLV5G5FOJO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-22 23:23:33
 key            = 3 
 plain text     = "OM3"
