@@ -1,3 +1,11 @@
+tanggal        = 2022-07-22 16:38:24
+key            = 36 
+plain text     = "MH5POBW3I8WVXGO1PHDGW9174JXHDN8GI9QT"
+encrypted text = "uq_{{o'byi++.|'h*#~$5vovt-<-*5~03$=A"
+decrypted text = "MH5POBW3I8WVXGO1PHDGW9174JXHDN8GI9QT"
+plain text     = "MH5POBW3I8WVXGO1PHDGW9174JXHDN8GI9QT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-22 15:47:25
 key            = 63 
 plain text     = "TTMM013IYZ3F2V6HBRVAZX46803MTDOYD5G2TTLKTATLXPWK7D0BK54CUQVNE9I"
