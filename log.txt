@@ -1,3 +1,11 @@
+tanggal        = 2022-07-22 10:28:28
+key            = 32 
+plain text     = "RK0TN2FATVA0IY8J87NY33CBFFV24LW5"
+encrypted text = "C=#HC(=9MP<,FW7J99Q]89JJOPa>AZfE"
+decrypted text = "RK0TN2FATVA0IY8J87NY33CBFFV24LW5"
+plain text     = "RK0TN2FATVA0IY8J87NY33CBFFV24LW5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-22 09:44:21
 key            = 1 
 plain text     = "S"
