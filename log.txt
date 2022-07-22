@@ -1,3 +1,11 @@
+tanggal        = 2022-07-22 09:23:39
+key            = 8 
+plain text     = "L71JETRZ"
+encrypted text = "ZFA[Wgfo"
+decrypted text = "L71JETRZ"
+plain text     = "L71JETRZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-22 08:32:11
 key            = 92 
 plain text     = "DG63FY4HKB35OJFA76O4D1PQSIDA1XXBI08K5ZRUPM7WQXZ0WAUBT4CDNXYTQNKNPRYAQR2O1C9HUWU59SOL4LQNHQ0E"
