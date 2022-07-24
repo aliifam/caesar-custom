@@ -1,3 +1,11 @@
+tanggal        = 2022-07-24 02:27:15
+key            = 16 
+plain text     = "KBHTLJ39Q5GFG4Z2"
+encrypted text = "OGN[TS=D]BUUWElE"
+decrypted text = "KBHTLJ39Q5GFG4Z2"
+plain text     = "KBHTLJ39Q5GFG4Z2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-23 23:42:33
 key            = 2 
 plain text     = "D8"
