@@ -1,3 +1,11 @@
+tanggal        = 2022-07-24 11:19:11
+key            = 18 
+plain text     = "Q4ZM401HGEYV832SDO"
+encrypted text = ".p9-spr,,+@>!{{?1="
+decrypted text = "Q4ZM401HGEYV832SDO"
+plain text     = "Q4ZM401HGEYV832SDO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-24 10:44:09
 key            = 96 
 plain text     = "2M3TWC0G1BYVVAO5N1CPN91QNHSGUANHCRPI8QRDQM3DTA9UZ9GHBIJBTU9J2U2YO7FYDCGP9APLEWWHCPBBG3P52AWJKD8A"
