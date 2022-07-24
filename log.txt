@@ -1,3 +1,11 @@
+tanggal        = 2022-07-24 14:41:19
+key            = 12 
+plain text     = "CFQCUTJMZZXU"
+encrypted text = "gkwj}}tx()(&"
+decrypted text = "CFQCUTJMZZXU"
+plain text     = "CFQCUTJMZZXU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-24 14:20:56
 key            = 28 
 plain text     = "MTS3626O5PV88DXWRNC0AVP7H2UX"
