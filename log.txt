@@ -1,3 +1,11 @@
+tanggal        = 2022-07-24 18:50:05
+key            = 36 
+plain text     = "CKW3YU55PK2ZCNWX6ITTEAWTKBGYNYHZ9NJE"
+encrypted text = "IR_<c`AB^ZBkUakmL`lm_\sqiagzp|l!_urn"
+decrypted text = "CKW3YU55PK2ZCNWX6ITTEAWTKBGYNYHZ9NJE"
+plain text     = "CKW3YU55PK2ZCNWX6ITTEAWTKBGYNYHZ9NJE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-24 18:28:38
 key            = 57 
 plain text     = "Z3A6HPC5BU0982WD65LAKN99998SV0P4BCKZRSKNTCLGN0QFA95BS87Z3"
