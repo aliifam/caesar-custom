@@ -1,3 +1,11 @@
+tanggal        = 2022-07-24 04:39:16
+key            = 28 
+plain text     = "QSJRH7XY3JQ9ZCLJTWJ0I16X9BF7"
+encrypted text = "rumvm]!#\t|e)q{z'+}d~gm2r|#s"
+decrypted text = "QSJRH7XY3JQ9ZCLJTWJ0I16X9BF7"
+plain text     = "QSJRH7XY3JQ9ZCLJTWJ0I16X9BF7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-24 03:47:06
 key            = 75 
 plain text     = "BURBDOA7I2IFH8TN7J7EYH5FQ4PAKYC9HTS1XX15566H4G7ZK4WBBS6VBYP6TV4SLLOGSG4KFFB"
