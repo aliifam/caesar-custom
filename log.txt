@@ -1,3 +1,11 @@
+tanggal        = 2022-07-24 06:51:42
+key            = 41 
+plain text     = "8Z8Y3CFKK4EYOCVL42TXDTKA8H91QSQX4EYB3Q5AJ"
+encrypted text = "g,i-fw{#$l~5,!5,sr7<):2)!2${>A@H%7L6(G,9C"
+decrypted text = "8Z8Y3CFKK4EYOCVL42TXDTKA8H91QSQX4EYB3Q5AJ"
+plain text     = "8Z8Y3CFKK4EYOCVL42TXDTKA8H91QSQX4EYB3Q5AJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-24 06:28:57
 key            = 92 
 plain text     = "S239NTFR1SJEZ2F1HP34L1FWU7GAQJ5XS2X33BV9EK9MSSPURUMQMGEXI47QMAKTD1FZ22LAECQHGA7NXF2UJ5BRM3NA"
