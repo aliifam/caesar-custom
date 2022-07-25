@@ -1,3 +1,11 @@
+tanggal        = 2022-07-25 09:24:23
+key            = 12 
+plain text     = "6EGAX7M59MLP"
+encrypted text = "CSVQiI`INcch"
+decrypted text = "6EGAX7M59MLP"
+plain text     = "6EGAX7M59MLP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-25 08:32:03
 key            = 98 
 plain text     = "ZLH8HBJLOZIMKZDRQ8SCG9FDLXIMRV604PK3GDSJO6JQSPMLWQLSMVUTKAFBC5I0GOEY5OF7U0D8L8SJUBZFBJG542H5Y8G65G"
