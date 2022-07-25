@@ -1,3 +1,11 @@
+tanggal        = 2022-07-25 15:48:18
+key            = 2 
+plain text     = "KR"
+encrypted text = "go"
+decrypted text = "KR"
+plain text     = "KR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-25 15:26:36
 key            = 82 
 plain text     = "CTFASW3HO1GK600FZGZXEYXBJAKB5A9LPGMTY3BDILWZL5H3D27VPJY7703128K30AKJ5C674TUWQOR09F"
