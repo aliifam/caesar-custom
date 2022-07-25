@@ -1,3 +1,11 @@
+tanggal        = 2022-07-25 06:31:17
+key            = 23 
+plain text     = "84LPF9TYWZFJAL7CM318BCW"
+encrypted text = "74MRI=Y_^bOTLXDQ\CBJUWl"
+decrypted text = "84LPF9TYWZFJAL7CM318BCW"
+plain text     = "84LPF9TYWZFJAL7CM318BCW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-25 05:33:37
 key            = 62 
 plain text     = "VFUSWP4EQ3NTTG5W8KP6FCIQU265WF756B0V8XR4B1YWHMEEI0YF8H4GWNGBMI"
