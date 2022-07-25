@@ -1,3 +1,11 @@
+tanggal        = 2022-07-25 22:42:00
+key            = 45 
+plain text     = "PAMZF50KHXWS5YDBP2SM1JYHHYGR18UA2EZUOYRS0IG3Z"
+encrypted text = "zly)td`|z--*k2|{,m1,o+;+,>-9w!?,|2HD?JDF$>=*R"
+decrypted text = "PAMZF50KHXWS5YDBP2SM1JYHHYGR18UA2EZUOYRS0IG3Z"
+plain text     = "PAMZF50KHXWS5YDBP2SM1JYHHYGR18UA2EZUOYRS0IG3Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-25 22:22:18
 key            = 42 
 plain text     = "9O673US1BRAFG98YTMVJCS5QUV573I0H4TOOD42NC9"
