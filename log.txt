@@ -1,3 +1,11 @@
+tanggal        = 2022-07-25 19:41:38
+key            = 40 
+plain text     = "N8HBKQZ1FCKBGOY8GGWPX00P1F40PE74ZTPXXIKK"
+encrypted text = ":%61;BL$:8A9?HS3CDUOX12S5K:7XNA?fa^ghZ]^"
+decrypted text = "N8HBKQZ1FCKBGOY8GGWPX00P1F40PE74ZTPXXIKK"
+plain text     = "N8HBKQZ1FCKBGOY8GGWPX00P1F40PE74ZTPXXIKK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-25 19:18:18
 key            = 3 
 plain text     = "PC1"
