@@ -1,3 +1,11 @@
+tanggal        = 2022-07-25 07:24:07
+key            = 3 
+plain text     = "UU2"
+encrypted text = "45q"
+decrypted text = "UU2"
+plain text     = "UU2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-25 06:31:17
 key            = 23 
 plain text     = "84LPF9TYWZFJAL7CM318BCW"
