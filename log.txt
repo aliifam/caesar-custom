@@ -1,3 +1,11 @@
+tanggal        = 2022-07-25 11:40:59
+key            = 5 
+plain text     = "OHSX7"
+encrypted text = "$|*0n"
+decrypted text = "OHSX7"
+plain text     = "OHSX7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-25 11:21:28
 key            = 65 
 plain text     = "972CW6RAW4488IYN7MX10FP222QS04JWPIDPPK8V8M2KSZLQJ09OBHILZKIV3FVLF"
