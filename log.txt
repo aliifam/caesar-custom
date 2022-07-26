@@ -1,3 +1,11 @@
+tanggal        = 2022-07-26 16:34:28
+key            = 27 
+plain text     = "A32CYD9X3W11GBOD9GW8KTXJHZP"
+encrypted text = "~qq%<(|>x?xy2.<2(7H*>HM@?RI"
+decrypted text = "A32CYD9X3W11GBOD9GW8KTXJHZP"
+plain text     = "A32CYD9X3W11GBOD9GW8KTXJHZP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-26 15:49:36
 key            = 3 
 plain text     = "ITY"
