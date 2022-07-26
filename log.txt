@@ -1,3 +1,11 @@
+tanggal        = 2022-07-26 08:48:18
+key            = 23 
+plain text     = "MFO2S4YBJFHSTPE358WLWDI"
+encrypted text = "'!+m1q9#,),8:7-z}#C9E39"
+decrypted text = "MFO2S4YBJFHSTPE358WLWDI"
+plain text     = "MFO2S4YBJFHSTPE358WLWDI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-26 08:28:49
 key            = 11 
 plain text     = "EK4PYGRK0K6"
