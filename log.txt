@@ -1,3 +1,11 @@
+tanggal        = 2022-07-26 18:51:51
+key            = 26 
+plain text     = "ZAYY13HP76I4PJJ47LPVBY7O2C"
+encrypted text = "/u01hk#,rr(r1,-vz27>+C";}1"
+decrypted text = "ZAYY13HP76I4PJJ47LPVBY7O2C"
+plain text     = "ZAYY13HP76I4PJJ47LPVBY7O2C"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-26 18:29:16
 key            = 46 
 plain text     = "0VUZ1AUGN6S1LXHS3OP3UXNCW27YHNV9S664B73M248DKH"
