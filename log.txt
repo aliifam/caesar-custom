@@ -1,3 +1,11 @@
+tanggal        = 2022-07-26 21:41:15
+key            = 18 
+plain text     = "IRKWRDEVALR1TO9JTC"
+encrypted text = "AKERNACUAMT4XT?Q\L"
+decrypted text = "IRKWRDEVALR1TO9JTC"
+plain text     = "IRKWRDEVALR1TO9JTC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-26 21:20:07
 key            = 42 
 plain text     = "HR1TXMJEG4QXRFOKGSN3DYHO76D6NO1R74LGWSKBNT"
