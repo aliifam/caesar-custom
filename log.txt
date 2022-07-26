@@ -1,3 +1,11 @@
+tanggal        = 2022-07-26 06:31:04
+key            = 6 
+plain text     = "YW41CI"
+encrypted text = "_^<:MT"
+decrypted text = "YW41CI"
+plain text     = "YW41CI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-26 05:43:36
 key            = 75 
 plain text     = "UD9P3E42R2I1WF7IZBHK8E9SR3XD23BEI3GAQ21QE8CWKFVAPE0NHGXAD4E4VFI849TJ4745ZJP"
