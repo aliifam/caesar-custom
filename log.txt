@@ -1,3 +1,11 @@
+tanggal        = 2022-07-27 22:44:47
+key            = 59 
+plain text     = "JPJVN977MD2N8ATP2H6LI2SADAIDVGOGWJ9SOXZCJWQ08VTCXYTWVLOMJQM"
+encrypted text = "gnivo[Z[rjYvak!|_ve|zd(uyw"|1#,%6*x52<?)1?:x#BA1GIEII@DCAIF"
+decrypted text = "JPJVN977MD2N8ATP2H6LI2SADAIDVGOGWJ9SOXZCJWQ08VTCXYTWVLOMJQM"
+plain text     = "JPJVN977MD2N8ATP2H6LI2SADAIDVGOGWJ9SOXZCJWQ08VTCXYTWVLOMJQM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-27 22:23:55
 key            = 7 
 plain text     = "GDQLXXY"
