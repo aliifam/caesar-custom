@@ -1,3 +1,11 @@
+tanggal        = 2022-07-27 23:42:07
+key            = 9 
+plain text     = "NM100A7ER"
+encrypted text = "MM223E<KY"
+decrypted text = "NM100A7ER"
+plain text     = "NM100A7ER"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-27 23:22:58
 key            = 10 
 plain text     = "MQMN9T1PNN"
