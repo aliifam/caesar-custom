@@ -1,3 +1,11 @@
+tanggal        = 2022-07-27 07:43:06
+key            = 3 
+plain text     = "1XJ"
+encrypted text = "4\O"
+decrypted text = "1XJ"
+plain text     = "1XJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-27 07:23:29
 key            = 90 
 plain text     = "NLVAVNS3DNUBDOB6BDBFXAMUCMHS8BFQZJOL2TNEI9062E3UIYUNVJ8M4PBOEBOUQJB8QO0V18ODLQDZPNVPJ57GUZ"
