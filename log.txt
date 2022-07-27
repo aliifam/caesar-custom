@@ -1,3 +1,11 @@
+tanggal        = 2022-07-27 09:22:49
+key            = 40 
+plain text     = "GCDEK57X9JGP2TLVZJFK5S8Y9F6TN7SARILBFQ9S"
+encrypted text = "zwy{$mp4t(&0q6/:?0-3|=#E&4%D?)F5G?C:?K4O"
+decrypted text = "GCDEK57X9JGP2TLVZJFK5S8Y9F6TN7SARILBFQ9S"
+plain text     = "GCDEK57X9JGP2TLVZJFK5S8Y9F6TN7SARILBFQ9S"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-27 08:30:22
 key            = 70 
 plain text     = "RBZQT9L8XO6MK5RFF6VSJ90YQB878X47IALDKCX32JR4K0CJ94A61TIYKQDKXAH4XQFL4V"
