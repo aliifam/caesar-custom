@@ -1,3 +1,11 @@
+tanggal        = 2022-07-27 06:52:22
+key            = 32 
+plain text     = "Y7RYQPLHLG90FXA7IDN9KINQLA8NEA1H"
+encrypted text = ""_{%||yv{wjby.vm"|)s('-1-#y2*'v0"
+decrypted text = "Y7RYQPLHLG90FXA7IDN9KINQLA8NEA1H"
+plain text     = "Y7RYQPLHLG90FXA7IDN9KINQLA8NEA1H"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-27 06:30:03
 key            = 41 
 plain text     = "JI2OUDGVQPRO03QE927GBJN17C7QDCMGIX9RBELPZ"
