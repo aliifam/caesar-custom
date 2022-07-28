@@ -1,3 +1,11 @@
+tanggal        = 2022-07-28 14:44:47
+key            = 19 
+plain text     = "2G5B85DGTIUGSVR6Z9V"
+encrypted text = "DZIWNL\`ndqdqurW|\z"
+decrypted text = "2G5B85DGTIUGSVR6Z9V"
+plain text     = "2G5B85DGTIUGSVR6Z9V"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-28 14:25:39
 key            = 73 
 plain text     = "AIQVVKYUDQFXX26JNNTO74K64J3SRCOBC5ITBFBSKK97G6FMDURYS7FYYJBWKFNTGMJ8JHBM6"
