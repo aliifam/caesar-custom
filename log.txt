@@ -1,3 +1,11 @@
+tanggal        = 2022-07-28 19:39:05
+key            = 22 
+plain text     = "W30EX76MA046ZMNMQI0BAM"
+encrypted text = ">yw/C##;0~%(MACCHA)<<I"
+decrypted text = "W30EX76MA046ZMNMQI0BAM"
+plain text     = "W30EX76MA046ZMNMQI0BAM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-28 19:18:32
 key            = 42 
 plain text     = "NR963L0DHY64PLY7U70UI06SDEVFBE85RCXR24CNES"
