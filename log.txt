@@ -1,3 +1,11 @@
+tanggal        = 2022-07-28 18:31:15
+key            = 7 
+plain text     = "J0KNBD0"
+encrypted text = "{b~$wzg"
+decrypted text = "J0KNBD0"
+plain text     = "J0KNBD0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-28 17:32:15
 key            = 20 
 plain text     = "OHNOUUP6UBNCF70UZY28"
