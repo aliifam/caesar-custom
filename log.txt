@@ -1,3 +1,11 @@
+tanggal        = 2022-07-28 08:31:00
+key            = 34 
+plain text     = "32XUNS567C6I4L4ZHCFDMEA7V9CYN2F5V2"
+encrypted text = "aa*("(ikmzn$n)p9($('1*'|>"-D:}4$F#"
+decrypted text = "32XUNS567C6I4L4ZHCFDMEA7V9CYN2F5V2"
+plain text     = "32XUNS567C6I4L4ZHCFDMEA7V9CYN2F5V2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-28 07:40:30
 key            = 69 
 plain text     = "JMY5JKCRL749189BCPHU6CJH9L9FZ733FDYDF8S7EI3G9ZLOYRMQ42XBBAD6L9IB0TCM0"
