@@ -1,3 +1,11 @@
+tanggal        = 2022-07-28 04:50:37
+key            = 31 
+plain text     = "P3RZ7CZHQJRPQBDY2ZEHRU2PNL4N7CD"
+encrypted text = "@$DM+8P?ICLKM?BX2[GKVZ8WVU>YCPR"
+decrypted text = "P3RZ7CZHQJRPQBDY2ZEHRU2PNL4N7CD"
+plain text     = "P3RZ7CZHQJRPQBDY2ZEHRU2PNL4N7CD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-28 03:53:43
 key            = 43 
 plain text     = "OEM7CFHOOX2ZZPPMQ87LTA4NAXJ3LD442LHZ79K3JD2"
