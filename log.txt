@@ -1,3 +1,11 @@
+tanggal        = 2022-07-29 07:40:06
+key            = 2 
+plain text     = "SA"
+encrypted text = "F5"
+decrypted text = "SA"
+plain text     = "SA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-29 07:21:40
 key            = 100 
 plain text     = "YDWBUGAHMULQBN0JFDAUEA6V1Y00QXWJ00L20RCAYIU27OMY680YAD7KYMKAKGMEO1FQTPGFDTSMMXPOIBSM4HRV8J59UUOKO57M"
