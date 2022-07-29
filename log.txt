@@ -1,3 +1,11 @@
+tanggal        = 2022-07-29 08:49:28
+key            = 3 
+plain text     = "HJM"
+encrypted text = "^ae"
+decrypted text = "HJM"
+plain text     = "HJM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-29 08:29:07
 key            = 89 
 plain text     = "1CY70NUD75KWNWQHQ1NTL8R00R21TMP89K4VYWGYJ45RS8P4FIJUBZAGW4RFMDUOGTPC8ZR9O69DNCL1ZEHRXHA5B"
