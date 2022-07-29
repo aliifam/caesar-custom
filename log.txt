@@ -1,3 +1,11 @@
+tanggal        = 2022-07-29 11:39:23
+key            = 7 
+plain text     = "LLD4ZT1"
+encrypted text = "CD=.UP."
+decrypted text = "LLD4ZT1"
+plain text     = "LLD4ZT1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-29 11:19:36
 key            = 90 
 plain text     = "4PUBHI1G7U5FHTXJ5FAMFH19PNPIX1L34WT1DZI57NIZKQXGM8QYVF93B20AGX082MVWQ7L4XGCODFEH2O1OCII3VU"
