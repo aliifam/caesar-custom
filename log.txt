@@ -1,3 +1,11 @@
+tanggal        = 2022-07-30 06:27:39
+key            = 41 
+plain text     = "0TYBDR2NLKBGTA7TMRL0JLBXJX2X5O17SWE67M8X1"
+encrypted text = "(MS=@O0MLLDJXF=[U[V;VYPgZiDkIdGNkp_QSjVwQ"
+decrypted text = "0TYBDR2NLKBGTA7TMRL0JLBXJX2X5O17SWE67M8X1"
+plain text     = "0TYBDR2NLKBGTA7TMRL0JLBXJX2X5O17SWE67M8X1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-30 05:41:48
 key            = 43 
 plain text     = "ES4CDL7EEYZHDV1JUXSXA9KFQ4AL81SJCFC5HQP085D"
