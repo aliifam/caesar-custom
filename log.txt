@@ -1,3 +1,11 @@
+tanggal        = 2022-07-30 20:41:51
+key            = 14 
+plain text     = "IABESMXUQFDVX1"
+encrypted text = "d]_crmywtji|!Y"
+decrypted text = "IABESMXUQFDVX1"
+plain text     = "IABESMXUQFDVX1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-30 20:23:06
 key            = 88 
 plain text     = "KN4ZU82AS9XRNC3NE1RN01I41TQO91CR979RDDA91MZL42JYFTJVMGZMFD8YRR3054VLN6CNCS18I638Q6E2EOTH"
