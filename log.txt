@@ -1,3 +1,11 @@
+tanggal        = 2022-07-30 18:27:04
+key            = 23 
+plain text     = "GX90NCH19BQ71CDT28YES8S"
+encrypted text = "u)ia"v|foy+pk~"3pw;(7{9"
+decrypted text = "GX90NCH19BQ71CDT28YES8S"
+plain text     = "GX90NCH19BQ71CDT28YES8S"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-30 17:41:03
 key            = 15 
 plain text     = "8CYK2YVYCEB5B10"
