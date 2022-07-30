@@ -1,3 +1,11 @@
+tanggal        = 2022-07-30 22:41:10
+key            = 26 
+plain text     = "WRM6YYKO4FQ9G8GOYUL80585NY"
+encrypted text = "PLH2VWJO5HT=L>NWb_WD=CGE_k"
+decrypted text = "WRM6YYKO4FQ9G8GOYUL80585NY"
+plain text     = "WRM6YYKO4FQ9G8GOYUL80585NY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-30 22:21:38
 key            = 47 
 plain text     = "R80NTO37V9QJN57D3XUJUO80V59S4QDMFD2CWJJ4RYGT37Q"
