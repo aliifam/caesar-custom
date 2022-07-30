@@ -1,3 +1,11 @@
+tanggal        = 2022-07-30 22:21:38
+key            = 47 
+plain text     = "R80NTO37V9QJN57D3XUJUO80V59S4QDMFD2CWJJ4RYGT37Q"
+encrypted text = ">%|=D@%*J.GAF.1?/USIUP:3Z:?Z<ZNXRQ@Rg[\Gfn]kKPk"
+decrypted text = "R80NTO37V9QJN57D3XUJUO80V59S4QDMFD2CWJJ4RYGT37Q"
+plain text     = "R80NTO37V9QJN57D3XUJUO80V59S4QDMFD2CWJJ4RYGT37Q"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-30 21:40:33
 key            = 27 
 plain text     = "3AL10C2831C9AYTOVKQ80H8ASD1"
