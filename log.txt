@@ -1,3 +1,11 @@
+tanggal        = 2022-07-31 08:26:54
+key            = 33 
+plain text     = "332KZDMOGS16WUK3ZZ5H2TSRKGULP3QJX"
+encrypted text = "LMMgwblohuTZ|{r[%&`t_$$$|y*"'i*$3"
+decrypted text = "332KZDMOGS16WUK3ZZ5H2TSRKGULP3QJX"
+plain text     = "332KZDMOGS16WUK3ZZ5H2TSRKGULP3QJX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-31 07:39:17
 key            = 47 
 plain text     = "D1PM3UX70KCAPE3CN6SK99PKEZVS610X72XKNNALSIS07OB"
