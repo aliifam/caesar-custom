@@ -1,3 +1,11 @@
+tanggal        = 2022-07-31 23:42:17
+key            = 3 
+plain text     = "9MT"
+encrypted text = ")>F"
+decrypted text = "9MT"
+plain text     = "9MT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-31 23:23:23
 key            = 95 
 plain text     = "R6JU8H88ZL1C3MVBM4K51EIKSE2G0TFO6DW3IHGWD5RCP9EWZHAGBI736UJZ3UD6AFWDMFKO25H2V7JUP0AKAU1Q8TOIU6T"
