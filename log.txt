@@ -1,3 +1,11 @@
+tanggal        = 2022-07-31 07:39:17
+key            = 47 
+plain text     = "D1PM3UX70KCAPE3CN6SK99PKEZVS610X72XKNNALSIS07OB"
+encrypted text = "F4TR9\`@:VON^TCT`Ig`OPhd_urpTPPyYU|ptuiu}t]e~r"
+decrypted text = "D1PM3UX70KCAPE3CN6SK99PKEZVS610X72XKNNALSIS07OB"
+plain text     = "D1PM3UX70KCAPE3CN6SK99PKEZVS610X72XKNNALSIS07OB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-31 07:20:49
 key            = 4 
 plain text     = "L8MR"
