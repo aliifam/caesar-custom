@@ -1,3 +1,11 @@
+tanggal        = 2022-07-31 07:20:49
+key            = 4 
+plain text     = "L8MR"
+encrypted text = "S@V\"
+decrypted text = "L8MR"
+plain text     = "L8MR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-31 06:49:07
 key            = 23 
 plain text     = "1242ZW7OAF82XSLI914PVHY"
