@@ -1,3 +1,11 @@
+tanggal        = 2022-07-31 14:40:13
+key            = 17 
+plain text     = "XXLHYHKV5SJ8JPSO4"
+encrypted text = "IJ?<N>BN.ME4GNRO5"
+decrypted text = "XXLHYHKV5SJ8JPSO4"
+plain text     = "XXLHYHKV5SJ8JPSO4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-31 14:20:30
 key            = 92 
 plain text     = "AT14X73UYE8SCRBJPE07RD7KB4OR7R0A3PENHKPS5FYECNEMX0267KVMDNIRH5H6JFEJAK2UHBAMBLX5CXXE37D9CCUJ"
