@@ -1,3 +1,11 @@
+tanggal        = 2022-07-31 06:49:07
+key            = 23 
+plain text     = "1242ZW7OAF82XSLI914PVHY"
+encrypted text = "acfe0.m(y!rm62,*yrv5</A"
+decrypted text = "1242ZW7OAF82XSLI914PVHY"
+plain text     = "1242ZW7OAF82XSLI914PVHY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-07-31 06:27:47
 key            = 82 
 plain text     = "47KHNPJ4OAHDWDFXAZ5GJ4A5EJ06GH55NWHQYW798VH9S2HSD5WEIUEQ96QR8Q2X8ONJOXIH15E7XD12P4"
