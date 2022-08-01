@@ -1,3 +1,11 @@
+tanggal        = 2022-08-01 06:43:46
+key            = 5 
+plain text     = "0UU2O"
+encrypted text = "n67s3"
+decrypted text = "0UU2O"
+plain text     = "0UU2O"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-01 05:56:07
 key            = 74 
 plain text     = "QE5SGF63ILBV0WEK1D78KUMKM72FDGKY68F3IN1FW9RCAEZZ3TLRO0MGCVYIA227PZ9OCNURT9"
