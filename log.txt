@@ -1,3 +1,11 @@
+tanggal        = 2022-08-01 10:48:45
+key            = 47 
+plain text     = "P3L46CKVAYGPAG3K2P9FFCH18Y0ERCCG74S6MZJO31F3IPV"
+encrypted text = "eIcLO]fr^wfpbiVoWv`noms]e)_u%uv{lj,n(6'-po's,4;"
+decrypted text = "P3L46CKVAYGPAG3K2P9FFCH18Y0ERCCG74S6MZJO31F3IPV"
+plain text     = "P3L46CKVAYGPAG3K2P9FFCH18Y0ERCCG74S6MZJO31F3IPV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-01 10:28:39
 key            = 12 
 plain text     = "O12U66EUX0TC"
