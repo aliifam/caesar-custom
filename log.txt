@@ -1,3 +1,11 @@
+tanggal        = 2022-08-01 23:45:01
+key            = 5 
+plain text     = "R5ZKN"
+encrypted text = "(j2$("
+decrypted text = "R5ZKN"
+plain text     = "R5ZKN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-01 23:26:54
 key            = 52 
 plain text     = "2Q5AGRFI1JPSDMZJ05YHYW7YDE026NSY2UIZDCFBETZU0W1WS2J7"
