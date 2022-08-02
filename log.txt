@@ -1,3 +1,11 @@
+tanggal        = 2022-08-02 06:29:17
+key            = 24 
+plain text     = "K6KI69U2V1YPJ21I8X8Z8K73"
+encrypted text = "9%;:(,I'L(QID--F6W8[:N;8"
+decrypted text = "K6KI69U2V1YPJ21I8X8Z8K73"
+plain text     = "K6KI69U2V1YPJ21I8X8Z8K73"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-02 05:46:52
 key            = 61 
 plain text     = "4FMHL5QZXYFCDS62I996TF0OZW8YPID7H5ZCJR9PBL3GPGP0UD5V9H835HRT1"
