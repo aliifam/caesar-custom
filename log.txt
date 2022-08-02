@@ -1,3 +1,11 @@
+tanggal        = 2022-08-02 07:41:20
+key            = 51 
+plain text     = "BCK0O2PCIZ9RIT4UW2QSRFOUI5DDFY0L6TSQVQXAV1RH496UZC3"
+encrypted text = "jlu[{_~ry-k'}+j.1k-00%/6+v(),@v5~??>D@H2H$F=*0.NT>/"
+decrypted text = "BCK0O2PCIZ9RIT4UW2QSRFOUI5DDFY0L6TSQVQXAV1RH496UZC3"
+plain text     = "BCK0O2PCIZ9RIT4UW2QSRFOUI5DDFY0L6TSQVQXAV1RH496UZC3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-02 07:23:57
 key            = 18 
 plain text     = "TDQLHSOL5KN16B2CLS"
