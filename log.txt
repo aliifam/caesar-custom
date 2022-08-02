@@ -1,3 +1,11 @@
+tanggal        = 2022-08-02 18:29:17
+key            = 4 
+plain text     = "NVCL"
+encrypted text = "_hV`"
+decrypted text = "NVCL"
+plain text     = "NVCL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-02 17:49:13
 key            = 47 
 plain text     = "13I3L6QPTWXYF7GZBKZ6K1I059QZ1S6GEI8RX56G4W5LIO8"
