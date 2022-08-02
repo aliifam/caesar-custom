@@ -1,3 +1,11 @@
+tanggal        = 2022-08-02 07:23:57
+key            = 18 
+plain text     = "TDQLHSOL5KN16B2CLS"
+encrypted text = "<-;74@=;%<@$*7(:DL"
+decrypted text = "TDQLHSOL5KN16B2CLS"
+plain text     = "TDQLHSOL5KN16B2CLS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-02 06:51:53
 key            = 61 
 plain text     = "MUFPVMSJUNXDXKLU0UR5I4WPP1X9TH3T0Q9FQN5CCOTV9VRJYRSGWN85TR2Q0"
