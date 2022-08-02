@@ -1,3 +1,11 @@
+tanggal        = 2022-08-02 23:43:08
+key            = 51 
+plain text     = "MZEYARMLWI1U7FOD1WI013S2OL3U6WEXW2UC54JEC0AR9VN9813"
+encrypted text = "M[G\EWSS_R;`CS]SAh[CEHiIgeMpRtcwwSwfYYplkYk}e|hhbe"
+decrypted text = "MZEYARMLWI1U7FOD1WI013S2OL3U6WEXW2UC54JEC0AR9VN9813"
+plain text     = "MZEYARMLWI1U7FOD1WI013S2OL3U6WEXW2UC54JEC0AR9VN9813"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-02 23:23:57
 key            = 3 
 plain text     = "DDU"
