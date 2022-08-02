@@ -1,3 +1,11 @@
+tanggal        = 2022-08-02 23:23:57
+key            = 3 
+plain text     = "DDU"
+encrypted text = "9:L"
+decrypted text = "DDU"
+plain text     = "DDU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-02 22:45:28
 key            = 62 
 plain text     = "Y18Z8VDKH53NBK0FTEJYABVDVI2CABC1IP18IMS265Y7S24EE7E3J2A9XEE6LQ"
