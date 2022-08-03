@@ -1,3 +1,11 @@
+tanggal        = 2022-08-03 22:24:19
+key            = 34 
+plain text     = "T5NGKQEX7GU89OODAKH8HIK5X2RZTMJZWB"
+encrypted text = "Z<VPU\QeEVeIKbcYWb`QbdgRvQr{vpn}i"
+decrypted text = "T5NGKQEX7GU89OODAKH8HIK5X2RZTMJZWB"
+plain text     = "T5NGKQEX7GU89OODAKH8HIK5X2RZTMJZWB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-03 21:42:03
 key            = 63 
 plain text     = "PP14S2KRUKOC2EPJ96XZ1X4TAF2D2HBQ69SNJJ37PDCK6FW60K40O1TVQ6DBZUN"
