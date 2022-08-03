@@ -1,3 +1,11 @@
+tanggal        = 2022-08-03 10:44:38
+key            = 13 
+plain text     = "S21425RYWIN9O"
+encrypted text = "sSSWVZx"!rxd{"
+decrypted text = "S21425RYWIN9O"
+plain text     = "S21425RYWIN9O"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-03 10:27:06
 key            = 6 
 plain text     = "8J6KGS"
