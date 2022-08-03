@@ -1,3 +1,11 @@
+tanggal        = 2022-08-03 19:39:07
+key            = 5 
+plain text     = "8YAQM"
+encrypted text = "<^GXU"
+decrypted text = "8YAQM"
+plain text     = "8YAQM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-03 19:18:57
 key            = 47 
 plain text     = "XMMWQPIVPMCMJHHUH7LA6BEF0RMY68VIWDNCZO23MHBZE80"
