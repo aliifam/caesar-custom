@@ -1,3 +1,11 @@
+tanggal        = 2022-08-04 14:20:50
+key            = 53 
+plain text     = "SASMAM2DQDCIY7L3QNL03MKT0Y3QHZ2LKCNZCXFIPAOLL34OLK7GR"
+encrypted text = "`Ob]R_EXfZZarQgOnlkPTonxU!Zyq&]xxq},t,y}'w(&'mo-++v)5"
+decrypted text = "SASMAM2DQDCIY7L3QNL03MKT0Y3QHZ2LKCNZCXFIPAOLL34OLK7GR"
+plain text     = "SASMAM2DQDCIY7L3QNL03MKT0Y3QHZ2LKCNZCXFIPAOLL34OLK7GR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-04 13:42:09
 key            = 5 
 plain text     = "NM3IN"
