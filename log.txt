@@ -1,3 +1,11 @@
+tanggal        = 2022-08-04 09:43:12
+key            = 36 
+plain text     = "KBG83I31U1J6I0X9EGGOJDJMUJJGWR7D2A14"
+encrypted text = "tlrd`wba(c}j~f1q~#$-)$+/8./->:~.{-|""
+decrypted text = "KBG83I31U1J6I0X9EGGOJDJMUJJGWR7D2A14"
+plain text     = "KBG83I31U1J6I0X9EGGOJDJMUJJGWR7D2A14"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-04 09:22:21
 key            = 81 
 plain text     = "ICUM6CQ33FCUPOF5LA6EELVXUD5CPICGIKI0ETZ0UJK7JR0JSCUQP2O9SNTD1PJ77C9YM4Z38J9VNN2LV"
