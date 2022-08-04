@@ -1,3 +1,11 @@
+tanggal        = 2022-08-04 18:29:47
+key            = 20 
+plain text     = "OAVSCUN6B5L98C5DIQHS"
+encrypted text = "|o'%t)#jwk%qq}p"(1)5"
+decrypted text = "OAVSCUN6B5L98C5DIQHS"
+plain text     = "OAVSCUN6B5L98C5DIQHS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-04 17:49:02
 key            = 71 
 plain text     = "6H5N8SWI14FL7WPUZBIENPO6F53PF3JQJYPTV52B1Z7EODVYL1DI3HZBPAIIL9YK378Q475"
