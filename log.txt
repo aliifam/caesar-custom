@@ -1,3 +1,11 @@
+tanggal        = 2022-08-04 14:41:07
+key            = 10 
+plain text     = "ES51L7QGUV"
+encrypted text = "6E(%A-H?NP"
+decrypted text = "ES51L7QGUV"
+plain text     = "ES51L7QGUV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-04 14:20:50
 key            = 53 
 plain text     = "SASMAM2DQDCIY7L3QNL03MKT0Y3QHZ2LKCNZCXFIPAOLL34OLK7GR"
