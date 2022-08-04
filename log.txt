@@ -1,3 +1,11 @@
+tanggal        = 2022-08-04 02:10:20
+key            = 10 
+plain text     = "XQWFP0BX77"
+encrypted text = "rlscnObyYZ"
+decrypted text = "XQWFP0BX77"
+plain text     = "XQWFP0BX77"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-03 23:43:06
 key            = 72 
 plain text     = "4U8EUFE9XWXB991D9T53IEQFS8NHM04879S82U7CTCTAFLKCUA8ZQFJSFFHYXUKV7F8USWO9"
