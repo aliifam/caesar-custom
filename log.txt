@@ -1,3 +1,11 @@
+tanggal        = 2022-08-04 13:42:09
+key            = 5 
+plain text     = "NM3IN"
+encrypted text = ";;"9?"
+decrypted text = "NM3IN"
+plain text     = "NM3IN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-04 12:48:04
 key            = 91 
 plain text     = "1XD14L9N8TV2VVXLRJLATQL5OODIY77U7J06MBKUUND56TX6D191PQ4V99FSTQJ5C2OMFANUZ05ZRKL97ZW7EJE0LX4"
