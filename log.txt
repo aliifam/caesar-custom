@@ -1,3 +1,11 @@
+tanggal        = 2022-08-05 02:18:34
+key            = 9 
+plain text     = "DENRN30AE"
+encrypted text = "HJTYV<:LQ"
+decrypted text = "DENRN30AE"
+plain text     = "DENRN30AE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-04 23:42:19
 key            = 50 
 plain text     = "IVF72SAIND16VU6J024ERVSPIC4PO4P9LFJSXXHH1G05XEBVBV"
