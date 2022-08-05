@@ -1,3 +1,11 @@
+tanggal        = 2022-08-05 20:43:33
+key            = 20 
+plain text     = "UMRER3JWV8ZUT89XVJZP"
+encrypted text = "zsym{]u%%f+''jl.-"3*"
+decrypted text = "UMRER3JWV8ZUT89XVJZP"
+plain text     = "UMRER3JWV8ZUT89XVJZP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-05 20:24:55
 key            = 93 
 plain text     = "H6CPVC5JBRPC6SYNVA17FQ72MF4E5EBPQT3CCK9B157NGJT962HZDNHRDYI4MWX86LTKHTQ1STDNFVV875TZQNZAVJ1DC"
