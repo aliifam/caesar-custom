@@ -1,3 +1,11 @@
+tanggal        = 2022-08-05 14:23:13
+key            = 10 
+plain text     = "585ZW5RGOK"
+encrypted text = "+/-SQ0NDMJ"
+decrypted text = "585ZW5RGOK"
+plain text     = "585ZW5RGOK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-05 13:46:48
 key            = 84 
 plain text     = "RR19OWBBJMIMYNGFHPWFW99GGVSUVMQHU3NWHTBFHK3ZVZKGLM2DPBZS11O7EBAS8S1LHQ48QRIOIEN2RBCE"
