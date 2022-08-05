@@ -1,3 +1,11 @@
+tanggal        = 2022-08-05 23:42:26
+key            = 17 
+plain text     = "JRP8K1KYHLQHA2V2O"
+encrypted text = "ENM6J1L[KPVNH:_<Z"
+decrypted text = "JRP8K1KYHLQHA2V2O"
+plain text     = "JRP8K1KYHLQHA2V2O"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-05 23:23:01
 key            = 82 
 plain text     = "G0FM0IRZ2OEGTXGAHQDK9RUXLRESJNGGW7XG8813GRJ30ZP9X72O6UWPG23HVOCJKTI9JH6MO9UXD7Z6Z3"
