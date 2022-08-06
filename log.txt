@@ -1,3 +1,11 @@
+tanggal        = 2022-08-06 02:11:28
+key            = 5 
+plain text     = "XIUM4"
+encrypted text = "YKXQ9"
+decrypted text = "XIUM4"
+plain text     = "XIUM4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-05 23:42:26
 key            = 17 
 plain text     = "JRP8K1KYHLQHA2V2O"
