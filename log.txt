@@ -1,3 +1,11 @@
+tanggal        = 2022-08-06 03:32:57
+key            = 33 
+plain text     = "19Y98N225XBVGMLI0A0222DOPUVUUM3N7"
+encrypted text = "V_"aax]^b(q(x!!}ewgjkl!-/57781v4|"
+decrypted text = "19Y98N225XBVGMLI0A0222DOPUVUUM3N7"
+plain text     = "19Y98N225XBVGMLI0A0222DOPUVUUM3N7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-06 02:11:28
 key            = 5 
 plain text     = "XIUM4"
