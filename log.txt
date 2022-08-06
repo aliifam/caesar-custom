@@ -1,3 +1,11 @@
+tanggal        = 2022-08-06 21:41:08
+key            = 28 
+plain text     = "1609WQV87QTP7BBMA25XN26TA3AU"
+encrypted text = "]c^h)$*kk(,)o{|*}os90sx9'x)>"
+decrypted text = "1609WQV87QTP7BBMA25XN26TA3AU"
+plain text     = "1609WQV87QTP7BBMA25XN26TA3AU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-06 21:20:41
 key            = 9 
 plain text     = "FZPFBBJW3"
