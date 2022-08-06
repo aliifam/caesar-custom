@@ -1,3 +1,11 @@
+tanggal        = 2022-08-06 17:41:04
+key            = 14 
+plain text     = "0IOTMCVL47Y4UI"
+encrypted text = "t07=7.B9"&I%G<"
+decrypted text = "0IOTMCVL47Y4UI"
+plain text     = "0IOTMCVL47Y4UI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-06 17:21:51
 key            = 75 
 plain text     = "93C75MFL835DWJJ04IL39CN3MZ8B9QR1GQXZMPUXZOVUV10MMMQR9EP2CBNOF3WPBYTF1OAK8J7"
