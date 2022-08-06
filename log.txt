@@ -1,3 +1,11 @@
+tanggal        = 2022-08-06 18:27:44
+key            = 30 
+plain text     = "18EXWFFS00S4LYKTWWIJA326U4WKOC"
+encrypted text = "Zbp&&tu%ab(h#1$.23&(~qqv8v<16+"
+decrypted text = "18EXWFFS00S4LYKTWWIJA326U4WKOC"
+plain text     = "18EXWFFS00S4LYKTWWIJA326U4WKOC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-06 17:41:04
 key            = 14 
 plain text     = "0IOTMCVL47Y4UI"
