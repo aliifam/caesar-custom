@@ -1,3 +1,11 @@
+tanggal        = 2022-08-07 02:22:44
+key            = 51 
+plain text     = "QLD8GH4MBFZVUD3Q9BQMISCH57HZQMTZGN7RRM2ULC0OXQTN49T"
+encrypted text = "yuncsub|rw.++yi*q{-*'2#)ux,?74<C19#?@<"F>6$DNHLG.4P"
+decrypted text = "QLD8GH4MBFZVUD3Q9BQMISCH57HZQMTZGN7RRM2ULC0OXQTN49T"
+plain text     = "QLD8GH4MBFZVUD3Q9BQMISCH57HZQMTZGN7RRM2ULC0OXQTN49T"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-06 23:42:31
 key            = 74 
 plain text     = "JDZQSK15L49JQHTPJ2LWFQGQK85CEWUMWGZKO6TD9X1K7FOL7ZB4MGIKHESP5IBVTPV2SP9AQM"
