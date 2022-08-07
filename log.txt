@@ -1,3 +1,11 @@
+tanggal        = 2022-08-07 23:41:39
+key            = 20 
+plain text     = "Z745FKB0YKJ02PNAO772"
+encrypted text = "N,*,>D<+UHH/2QPDS<=9"
+decrypted text = "Z745FKB0YKJ02PNAO772"
+plain text     = "Z745FKB0YKJ02PNAO772"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-07 23:22:29
 key            = 76 
 plain text     = "BBZ5OV72WFYYJ3MIG04H41O1CTBJYCZ23R0HBEJASXJ39PT484OTLSJ952UMH2GEWI4KOCLY335E"
