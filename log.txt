@@ -1,3 +1,11 @@
+tanggal        = 2022-08-07 14:40:19
+key            = 51 
+plain text     = "LLAUTLZ2KLH84BWCWJ26XC7FGECAD562CORLW2APUPCW4JNWQA9"
+encrypted text = ",-#881@w352#~/E2G;$)L8-=?>=<@241CPTO[7GW]YMb@W\faRK"
+decrypted text = "LLAUTLZ2KLH84BWCWJ26XC7FGECAD562CORLW2APUPCW4JNWQA9"
+plain text     = "LLAUTLZ2KLH84BWCWJ26XC7FGECAD562CORLW2APUPCW4JNWQA9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-07 14:20:01
 key            = 37 
 plain text     = "E0CUHAF11XPNGE53M3UWVWSK2HLN3ZLVL9XXC"
