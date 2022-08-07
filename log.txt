@@ -1,3 +1,11 @@
+tanggal        = 2022-08-07 16:30:41
+key            = 20 
+plain text     = "GVDH5O321VD0HIG2P2KX"
+encrypted text = "`p_dRmRRRxgTmonZy\v&"
+decrypted text = "GVDH5O321VD0HIG2P2KX"
+plain text     = "GVDH5O321VD0HIG2P2KX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-07 15:44:21
 key            = 14 
 plain text     = "X3YR105KUHJ4JM"
