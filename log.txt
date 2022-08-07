@@ -1,3 +1,11 @@
+tanggal        = 2022-08-07 20:42:49
+key            = 11 
+plain text     = "UBHHKY1Z3U4"
+encrypted text = "H6=>BQ*T.Q1"
+decrypted text = "UBHHKY1Z3U4"
+plain text     = "UBHHKY1Z3U4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-07 20:24:20
 key            = 43 
 plain text     = "2QHWF2EM172A6SRP2CYWAARWVBCU0XXOXBEU22VJ806"
