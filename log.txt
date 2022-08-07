@@ -1,3 +1,11 @@
+tanggal        = 2022-08-07 05:40:02
+key            = 38 
+plain text     = "XR61QCBFVERXU9OXMWI8XW1J8Q6HO81FZKK2ET"
+encrypted text = "NI.*K>>CTDRYW<S]S^QAbb=WF`FYaKE[pbcK_o"
+decrypted text = "XR61QCBFVERXU9OXMWI8XW1J8Q6HO81FZKK2ET"
+plain text     = "XR61QCBFVERXU9OXMWI8XW1J8Q6HO81FZKK2ET"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-07 05:20:12
 key            = 67 
 plain text     = "SB8I98FE70OKWEK3J2B2ZOCSA24W343543LO49KYD5AARTYFH4XBGJS9PPDH304OA7T"
