@@ -1,3 +1,11 @@
+tanggal        = 2022-08-07 07:21:20
+key            = 29 
+plain text     = "PFBSROU0DUB0AE38RX54MKSKTP1MJ"
+encrypted text = "[ROaa_fBWiWFX]LRmtRRlktmwtVsq"
+decrypted text = "PFBSROU0DUB0AE38RX54MKSKTP1MJ"
+plain text     = "PFBSROU0DUB0AE38RX54MKSKTP1MJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-07 06:49:43
 key            = 37 
 plain text     = "MEI0YWJQ3WZM730JQTMGW1MP9Q6SZ9B8PUC92"
