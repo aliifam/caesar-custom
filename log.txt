@@ -1,3 +1,11 @@
+tanggal        = 2022-08-08 09:23:17
+key            = 6 
+plain text     = "017Z5B"
+encrypted text = "VX_%_m"
+decrypted text = "017Z5B"
+plain text     = "017Z5B"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-08 08:32:24
 key            = 68 
 plain text     = "F5QU3XTCRP79HSY3KODU302EAX4TXIJS8WKLURWM4MXDXTUHE31SOG4F26FD6L1LIEWL"
