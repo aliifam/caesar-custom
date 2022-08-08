@@ -1,3 +1,11 @@
+tanggal        = 2022-08-08 18:51:30
+key            = 7 
+plain text     = "HNFHPV2"
+encrypted text = "szsv!(c"
+decrypted text = "HNFHPV2"
+plain text     = "HNFHPV2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-08 18:29:51
 key            = 27 
 plain text     = "LCXNRJOA0P81ONMA3AV1IOQI4HO"
