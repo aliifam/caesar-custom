@@ -1,3 +1,11 @@
+tanggal        = 2022-08-09 15:27:37
+key            = 7 
+plain text     = "W8UHK2E"
+encrypted text = "Z<ZNR:N"
+decrypted text = "W8UHK2E"
+plain text     = "W8UHK2E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-09 14:42:05
 key            = 59 
 plain text     = "A1X2L4T1CUAKQV27VLXQNHS4GBH0I5GU8XDKKJ84ONTAQPZ26M9X9FPJC9F"
