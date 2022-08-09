@@ -1,3 +1,11 @@
+tanggal        = 2022-08-09 09:44:04
+key            = 7 
+plain text     = "Z9JRKQI"
+encrypted text = "`@R[U\U"
+decrypted text = "Z9JRKQI"
+plain text     = "Z9JRKQI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-09 09:24:30
 key            = 84 
 plain text     = "6FFHW8PVA0C1M779KC9C16IPTUJ8QTGXKETI5VCFZGLJR4YWMKY9UQFMW2MSB53BEZIJ3LZ7LCY0K0NZN33A"
