@@ -1,3 +1,11 @@
+tanggal        = 2022-08-09 22:43:26
+key            = 53 
+plain text     = "5EBZE0SRW5QUIUPCFH2OWIHQ66CGDE73CWPYO996TDZ4JENYFR9EH"
+encrypted text = "|/-F2|BBH'DI>KG;?B-KTGGQ78FKIK>;La[e\GHFeVmH_[eq_lTae"
+decrypted text = "5EBZE0SRW5QUIUPCFH2OWIHQ66CGDE73CWPYO996TDZ4JENYFR9EH"
+plain text     = "5EBZE0SRW5QUIUPCFH2OWIHQ66CGDE73CWPYO996TDZ4JENYFR9EH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-09 22:23:22
 key            = 20 
 plain text     = "C3EW1XOUH7KS0S85BKS2"
