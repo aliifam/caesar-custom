@@ -1,3 +1,11 @@
+tanggal        = 2022-08-10 03:11:09
+key            = 10 
+plain text     = "ZMJNDWLJSM"
+encrypted text = "D86;2F<;E@"
+decrypted text = "ZMJNDWLJSM"
+plain text     = "ZMJNDWLJSM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-10 01:59:19
 key            = 52 
 plain text     = "U9PK5C6ZYA8VVFM2N9VREARFAPA6B5MHBDF7YGZRY6RYD2YMSD2X"
