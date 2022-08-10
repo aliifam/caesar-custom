@@ -1,3 +1,11 @@
+tanggal        = 2022-08-10 11:19:36
+key            = 2 
+plain text     = "OI"
+encrypted text = "fa"
+decrypted text = "OI"
+plain text     = "OI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-10 10:44:32
 key            = 64 
 plain text     = "R1EV01XTREMBA3T3V35TALZQMXSDIWMXVD9EDEIMRNQLBG2DFO16YOXKOEBLS3UT"
