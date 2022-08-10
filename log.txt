@@ -1,3 +1,11 @@
+tanggal        = 2022-08-10 14:21:32
+key            = 7 
+plain text     = "KYM5AYS"
+encrypted text = "s$w`m(#"
+decrypted text = "KYM5AYS"
+plain text     = "KYM5AYS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-10 13:38:20
 key            = 87 
 plain text     = "71GNFD9HWUIOQ0MCPV5ESBRXIWG7ALAHHWOVIHH8AOAEIQN5MYB9AXQH8IH04FXPIGYUOROCIPPIA48WWUZXFJ6"
