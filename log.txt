@@ -1,3 +1,11 @@
+tanggal        = 2022-08-10 04:52:56
+key            = 17 
+plain text     = "KZ1TSCIKMQVUPCBDG"
+encrypted text = "q#Y}}nux{"(($vvy}"
+decrypted text = "KZ1TSCIKMQVUPCBDG"
+plain text     = "KZ1TSCIKMQVUPCBDG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-10 04:29:56
 key            = 100 
 plain text     = "XO6RBN5RUGUCCCTLVWWTSQIATNCJYRC69OXX2017Z0T706FK41ZCTJOLV2P6FBN65151G38S914XITJ6M5HPIMBZ6EW9LPSBD66W"
