@@ -1,3 +1,11 @@
+tanggal        = 2022-08-10 11:39:53
+key            = 23 
+plain text     = "PYUGVBFIFDMFZWTQARUUALU"
+encrypted text = "U_\O_LQUSR\VkigeVhlmZfp"
+decrypted text = "PYUGVBFIFDMFZWTQARUUALU"
+plain text     = "PYUGVBFIFDMFZWTQARUUALU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-10 11:19:36
 key            = 2 
 plain text     = "OI"
