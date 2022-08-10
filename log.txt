@@ -1,3 +1,11 @@
+tanggal        = 2022-08-10 23:42:22
+key            = 15 
+plain text     = "O1DFF9O5OIVSCP0"
+encrypted text = "%fz}~r+p-(64%3r"
+decrypted text = "O1DFF9O5OIVSCP0"
+plain text     = "O1DFF9O5OIVSCP0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-10 23:22:43
 key            = 32 
 plain text     = "DIXP4DL2V1HFQ6OE12A9K1NSR899PD7T"
