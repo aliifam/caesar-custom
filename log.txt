@@ -1,3 +1,11 @@
+tanggal        = 2022-08-11 16:32:27
+key            = 14 
+plain text     = "QQVTTFGKLLL7KL"
+encrypted text = "NOUTUHJOQRS?TV"
+decrypted text = "QQVTTFGKLLL7KL"
+plain text     = "QQVTTFGKLLL7KL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-11 15:46:07
 key            = 32 
 plain text     = "GTGJILOIOAVY73LBYII24JFM3LGPAKJY"
