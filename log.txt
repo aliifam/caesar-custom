@@ -1,3 +1,11 @@
+tanggal        = 2022-08-11 19:41:10
+key            = 11 
+plain text     = "PGGP9UZIS2K"
+encrypted text = "0()3{:@0;y5"
+decrypted text = "PGGP9UZIS2K"
+plain text     = "PGGP9UZIS2K"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-11 19:17:27
 key            = 79 
 plain text     = "944XWZEOR3L6PC46A7AJD2QQRZD27MBHXPFEHLWOB43OSA6Q9CO5N5BN1L94XA6ZHV2KBKOSYQJ5P7E"
