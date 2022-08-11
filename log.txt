@@ -1,3 +1,11 @@
+tanggal        = 2022-08-11 09:44:25
+key            = 12 
+plain text     = "8XI8531CCERI"
+encrypted text = "Lm_OMLK^_bph"
+decrypted text = "8XI8531CCERI"
+plain text     = "8XI8531CCERI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-11 09:24:10
 key            = 57 
 plain text     = "MG28NZ8MB3JH1ZDCESV4B45BJT4D4MA7DQNNN8XDF6VVXI0K18L89RZKP"
