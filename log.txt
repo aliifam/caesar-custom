@@ -1,3 +1,11 @@
+tanggal        = 2022-08-11 11:40:13
+key            = 11 
+plain text     = "1C7ZL151DLR"
+encrypted text = "s({A4x}z09@"
+decrypted text = "1C7ZL151DLR"
+plain text     = "1C7ZL151DLR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-11 11:20:23
 key            = 2 
 plain text     = "1E"
