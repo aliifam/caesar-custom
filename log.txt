@@ -1,3 +1,11 @@
+tanggal        = 2022-08-11 07:23:44
+key            = 21 
+plain text     = "N50372ANZ65FEA8FV8P8Y"
+encrypted text = "!gcglhx(5pp$$!w(9z5|@"
+decrypted text = "N50372ANZ65FEA8FV8P8Y"
+plain text     = "N50372ANZ65FEA8FV8P8Y"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-11 06:51:53
 key            = 11 
 plain text     = "AG4IY2ZAK9C"
