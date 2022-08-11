@@ -1,3 +1,11 @@
+tanggal        = 2022-08-11 17:42:42
+key            = 24 
+plain text     = "R9913WCTRJ74YRSEEIDKSZ7H"
+encrypted text = "ZBC<?dQcb[IGmgi\]b^fowUg"
+decrypted text = "R9913WCTRJ74YRSEEIDKSZ7H"
+plain text     = "R9913WCTRJ74YRSEEIDKSZ7H"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-11 17:24:20
 key            = 77 
 plain text     = "65LE9OS5TAPB7M1P29KVYP1Q4QAOMBSI9G80Z83V0G7TSMPCSAZ2GTW5OMN05JQ5B3BSCTWWCQVPS"
