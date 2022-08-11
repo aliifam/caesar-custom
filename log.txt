@@ -1,3 +1,11 @@
+tanggal        = 2022-08-11 18:52:27
+key            = 13 
+plain text     = "2MOUX6815Q9HE"
+encrypted text = "Sory}\_Y^{dtr"
+decrypted text = "2MOUX6815Q9HE"
+plain text     = "2MOUX6815Q9HE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-11 18:28:57
 key            = 82 
 plain text     = "QP9JX4JRFJ4NG6JYHHV4PKFIGV4U2B1S9V6N6Q0A850HQ32YVZZQ51Q25NBU0SUPU37VC8WN63RS8I9D8D"
