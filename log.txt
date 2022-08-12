@@ -1,3 +1,11 @@
+tanggal        = 2022-08-12 19:18:42
+key            = 10 
+plain text     = "F9S60HXCN0"
+encrypted text = "_SnRMfwcoR"
+decrypted text = "F9S60HXCN0"
+plain text     = "F9S60HXCN0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-12 18:51:36
 key            = 50 
 plain text     = "WBMOVHU274XNESD74R5T3ZDCAUYF1HNXZ76W98PAG9HQ83JG6K"
