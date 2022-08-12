@@ -1,3 +1,11 @@
+tanggal        = 2022-08-12 02:15:07
+key            = 10 
+plain text     = "IYFWSATNMX"
+encrypted text = "#4"41~4//;"
+decrypted text = "IYFWSATNMX"
+plain text     = "IYFWSATNMX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-11 23:42:55
 key            = 61 
 plain text     = "NF8ME7X3575TOUJ9MLVGVT98TX335STRU52CWUW4VG9QJ76HFEYIXG682K5GC"
