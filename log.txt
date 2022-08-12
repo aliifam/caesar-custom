@@ -1,3 +1,11 @@
+tanggal        = 2022-08-12 19:39:11
+key            = 16 
+plain text     = "KWOP4O7AWALL260P"
+encrypted text = "2?8:};$/F1=>%*%F"
+decrypted text = "KWOP4O7AWALL260P"
+plain text     = "KWOP4O7AWALL260P"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-12 19:18:42
 key            = 10 
 plain text     = "F9S60HXCN0"
