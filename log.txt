@@ -1,3 +1,11 @@
+tanggal        = 2022-08-12 08:49:23
+key            = 40 
+plain text     = "WR65L2W90K2U07RLS45NJHPEVEEQRF4FWFYQ4Z35"
+encrypted text = "c_DD\CiLD`HlHPlgoQSmjirhzjkxzo^q%s)"d-eh"
+decrypted text = "WR65L2W90K2U07RLS45NJHPEVEEQRF4FWFYQ4Z35"
+plain text     = "WR65L2W90K2U07RLS45NJHPEVEEQRF4FWFYQ4Z35"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-12 08:29:19
 key            = 38 
 plain text     = "EWOAC08NLRK5B6P584OVTBLIBORRFNUWOTL1YJ"
