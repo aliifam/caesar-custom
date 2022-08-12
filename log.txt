@@ -1,3 +1,11 @@
+tanggal        = 2022-08-12 04:38:26
+key            = 28 
+plain text     = "JTROYE81ZWZW5UDL90D1ZXLD2H55"
+encrypted text = "]hgep]QKuswuTuen\TiW#"un]tbc"
+decrypted text = "JTROYE81ZWZW5UDL90D1ZXLD2H55"
+plain text     = "JTROYE81ZWZW5UDL90D1ZXLD2H55"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-12 03:43:50
 key            = 77 
 plain text     = "PK24LHOXPW8WEBK0TY33VR2C53JMEC1FM68ZZ06O2YA0QTMUA9DBR4K7L4KEFPULZP2SOAPNFVOTZ"
