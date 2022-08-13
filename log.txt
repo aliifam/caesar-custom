@@ -1,3 +1,11 @@
+tanggal        = 2022-08-13 17:41:27
+key            = 51 
+plain text     = "SVCRH053HR9D7XP5IMGZ72HDVEJ226U6LDKDSUX1OOIFJL5EJPZ"
+encrypted text = "AE3C:#)(>I1=1SL2GLG[95LI\LR;<AaCZS[UehlFefa_dgQbhoz"
+decrypted text = "SVCRH053HR9D7XP5IMGZ72HDVEJ226U6LDKDSUX1OOIFJL5EJPZ"
+plain text     = "SVCRH053HR9D7XP5IMGZ72HDVEJ226U6LDKDSUX1OOIFJL5EJPZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-13 17:22:00
 key            = 45 
 plain text     = "YVT2JOJDJX8OJTG0ORM4CW0AE12DXKTGDWHW6XJCKFBKX"
