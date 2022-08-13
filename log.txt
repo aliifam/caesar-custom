@@ -1,3 +1,11 @@
+tanggal        = 2022-08-13 02:04:16
+key            = 7 
+plain text     = "1N87OXH"
+encrypted text = ":XCC\fW"
+decrypted text = "1N87OXH"
+plain text     = "1N87OXH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-12 23:42:22
 key            = 94 
 plain text     = "D3JWLU1H3QS0DOITGXZXWMP1T9D95RX3E7F7LJQ3ZV2O2T1LY5YKOYF79P5C42FZ0KS59TGVFRAKP2HNVLRS14JVZ8D1UE"
