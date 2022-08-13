@@ -1,3 +1,11 @@
+tanggal        = 2022-08-13 23:41:50
+key            = 29 
+plain text     = "5DYAP5EISWDMA2BMCC72DUFX78VW2"
+encrypted text = "l|4{-q$)49'1&v)5,-"|1C5H(*IK'"
+decrypted text = "5DYAP5EISWDMA2BMCC72DUFX78VW2"
+plain text     = "5DYAP5EISWDMA2BMCC72DUFX78VW2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-13 23:22:35
 key            = 79 
 plain text     = "ZP76H0MJF72REP9E5XQPRWCX5EX53ZSH3BBFK7VDDFC4P0BHAXLS3SYYCC6XGWGFAFQDK7EOASXI8TK"
