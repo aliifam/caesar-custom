@@ -1,3 +1,11 @@
+tanggal        = 2022-08-13 09:21:30
+key            = 21 
+plain text     = "BRT2TDWDTW5P5APP90WIV"
+encrypted text = "GX[:]NbPaeD`FScdNFnao"
+decrypted text = "BRT2TDWDTW5P5APP90WIV"
+plain text     = "BRT2TDWDTW5P5APP90WIV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-13 08:48:30
 key            = 100 
 plain text     = "3N5SXB2W8G3LZJK0A70RLER8QZCYZR7T9EKV9B1XWRKGLEKC4ZIC62ML8ZBG3ARSQWWD377EELTZCGFAZUS6B9WPN0WMQNO1X8ZW"
