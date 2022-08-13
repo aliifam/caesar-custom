@@ -1,3 +1,11 @@
+tanggal        = 2022-08-13 14:40:32
+key            = 3 
+plain text     = "RNA"
+encrypted text = "WTH"
+decrypted text = "RNA"
+plain text     = "RNA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-13 14:20:42
 key            = 65 
 plain text     = "EMM7O74SMBUSYXPCS1X9PR3L0GH20IJQB44RYIONR0ZG3HYBRIC9QMJDIZ2S1Y8QT"
