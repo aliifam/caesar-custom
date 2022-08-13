@@ -1,3 +1,11 @@
+tanggal        = 2022-08-13 15:23:44
+key            = 67 
+plain text     = "T0WGEF1HG5Y1WSOGG3KDJNIS2IPEOMQMZ50BUF6MCHNLKCNPKQRI3PIP7SVE6Y7URXF"
+encrypted text = "gDl]\^JbbQvOvspijWpjqvr}]u}s~}$!/iex.~o)~&-,,%140791z:4<$AE5'K*IGN="
+decrypted text = "T0WGEF1HG5Y1WSOGG3KDJNIS2IPEOMQMZ50BUF6MCHNLKCNPKQRI3PIP7SVE6Y7URXF"
+plain text     = "T0WGEF1HG5Y1WSOGG3KDJNIS2IPEOMQMZ50BUF6MCHNLKCNPKQRI3PIP7SVE6Y7URXF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-13 14:40:32
 key            = 3 
 plain text     = "RNA"
