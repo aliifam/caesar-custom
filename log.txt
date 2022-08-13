@@ -1,3 +1,11 @@
+tanggal        = 2022-08-13 09:41:54
+key            = 10 
+plain text     = "BFYWWZ7APC"
+encrypted text = "di}|}#_jzn"
+decrypted text = "BFYWWZ7APC"
+plain text     = "BFYWWZ7APC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-13 09:21:30
 key            = 21 
 plain text     = "BRT2TDWDTW5P5APP90WIV"
