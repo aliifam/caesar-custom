@@ -1,3 +1,11 @@
+tanggal        = 2022-08-13 20:42:49
+key            = 20 
+plain text     = "FNVIL9TKVEC60PCFPY75"
+encrypted text = "foxlp^zr~nma\}qu",ih"
+decrypted text = "FNVIL9TKVEC60PCFPY75"
+plain text     = "FNVIL9TKVEC60PCFPY75"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-13 20:24:09
 key            = 31 
 plain text     = "IURF8WUG3D9K403KVTWLYU2HEM6R0AN"
