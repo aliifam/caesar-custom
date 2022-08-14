@@ -1,3 +1,11 @@
+tanggal        = 2022-08-14 21:20:18
+key            = 15 
+plain text     = "BIX0K735AMMQOGU"
+encrypted text = "!)9p.yvy(56;:3B"
+decrypted text = "BIX0K735AMMQOGU"
+plain text     = "BIX0K735AMMQOGU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-14 20:42:45
 key            = 69 
 plain text     = "TB622WGDZMJ7QXFX8AESQ2APUBHDZQMDQSF6P3UQ5MC5K4TWE1692I87Y0AQB59W8DNTI"
