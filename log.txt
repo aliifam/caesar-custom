@@ -1,3 +1,11 @@
+tanggal        = 2022-08-14 05:40:40
+key            = 5 
+plain text     = "A61R4"
+encrypted text = "2($F)"
+decrypted text = "A61R4"
+plain text     = "A61R4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-14 05:21:47
 key            = 56 
 plain text     = "SWF8GWRK35PJM89S0P9DNCMECJ5J407U79CETJ0BRCM3598TKCIY979K"
