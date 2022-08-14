@@ -1,3 +1,11 @@
+tanggal        = 2022-08-14 15:44:45
+key            = 8 
+plain text     = "SA8731UC"
+encrypted text = "=,$$!~E4"
+decrypted text = "SA8731UC"
+plain text     = "SA8731UC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-14 15:24:06
 key            = 62 
 plain text     = "FG8WMGA7L7YQ6MX380ZFC6WABCV8ZFN7EBZJPFIJZRLG4P69WJVNDQD1XNBFZE"
