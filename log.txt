@@ -1,3 +1,11 @@
+tanggal        = 2022-08-14 04:35:20
+key            = 34 
+plain text     = "MRSVBP0G1ZZEE3Y2DLB103MC5LSA0EL02R"
+encrypted text = "lrtxetUmX$%op_(`s|sccg$yl&.{k#+nq4"
+decrypted text = "MRSVBP0G1ZZEE3Y2DLB103MC5LSA0EL02R"
+plain text     = "MRSVBP0G1ZZEE3Y2DLB103MC5LSA0EL02R"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-14 03:43:24
 key            = 10 
 plain text     = "F5P525T81Z"
