@@ -1,3 +1,11 @@
+tanggal        = 2022-08-14 08:27:06
+key            = 4 
+plain text     = "28G9"
+encrypted text = "cjzm"
+decrypted text = "28G9"
+plain text     = "28G9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-14 07:39:52
 key            = 59 
 plain text     = "W7OVT8VZQ38JBGWIN5DSI7H7FCCOWFHD7WON8NCJVZ0F8QTV59FR641YVHU"
