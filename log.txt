@@ -1,3 +1,11 @@
+tanggal        = 2022-08-14 13:34:01
+key            = 30 
+plain text     = "MAMVLOCSYLSPQHD9PIY0U9C2PXVY89"
+encrypted text = "|q~*!%x+2&.,.&#w1+<r:}*x9BAE%'"
+decrypted text = "MAMVLOCSYLSPQHD9PIY0U9C2PXVY89"
+plain text     = "MAMVLOCSYLSPQHD9PIY0U9C2PXVY89"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-14 12:40:49
 key            = 46 
 plain text     = "YDD15L0S0XUXC3MUW1EEH09ONXXGQSUZWJZLNUWTRATW9T"
