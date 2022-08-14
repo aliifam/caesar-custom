@@ -1,3 +1,11 @@
+tanggal        = 2022-08-14 17:41:48
+key            = 43 
+plain text     = "ZEL60KQA7QRHNID884EVFH82N6IYE6ALI4RZ8Z5QVRG"
+encrypted text = "B.6!z8?0'BD;B>:/0-?QBE61N7K\I;GSQ=\eDgC`fcY"
+decrypted text = "ZEL60KQA7QRHNID884EVFH82N6IYE6ALI4RZ8Z5QVRG"
+plain text     = "ZEL60KQA7QRHNID884EVFH82N6IYE6ALI4RZ8Z5QVRG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-14 17:22:07
 key            = 74 
 plain text     = "GUAIONIW326J6K1RQ3TTLZJ74HIXLV1VA5L3RD6FRSPWCTX8DFEE3WHY5BYRBPFYAMJX4U6F8G"
