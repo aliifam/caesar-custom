@@ -1,3 +1,11 @@
+tanggal        = 2022-08-15 15:27:10
+key            = 41 
+plain text     = "FD72TPXC8VQ58O8UKVCVDJ7GSHM8SMNXJR9KNCPB6"
+encrypted text = "('yu:7@,"A="&>(F=I7K:A/@MCI5QLNYLU=PTJXK@"
+decrypted text = "FD72TPXC8VQ58O8UKVCVDJ7GSHM8SMNXJR9KNCPB6"
+plain text     = "FD72TPXC8VQ58O8UKVCVDJ7GSHM8SMNXJR9KNCPB6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-15 14:43:33
 key            = 1 
 plain text     = "Q"
