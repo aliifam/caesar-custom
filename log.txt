@@ -1,3 +1,11 @@
+tanggal        = 2022-08-15 15:48:19
+key            = 27 
+plain text     = "V75PE4DU8JLP3QWHT2M592D54HU"
+encrypted text = "z\[wm]n"dwz!c$+{*g%lqk~pp'5"
+decrypted text = "V75PE4DU8JLP3QWHT2M592D54HU"
+plain text     = "V75PE4DU8JLP3QWHT2M592D54HU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-15 15:27:10
 key            = 41 
 plain text     = "FD72TPXC8VQ58O8UKVCVDJ7GSHM8SMNXJR9KNCPB6"
