@@ -1,3 +1,11 @@
+tanggal        = 2022-08-15 06:32:10
+key            = 12 
+plain text     = "1P64D34EFWIG"
+encrypted text = ",L32C35GI[NM"
+decrypted text = "1P64D34EFWIG"
+plain text     = "1P64D34EFWIG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-15 05:52:45
 key            = 71 
 plain text     = "XG5ENEEFNLA1HP4KNHEA0Q37ZVQHWCK3HWEDEQJS7E8D4QEMDUK9U8ZMSL9A5OYDBLIZ6PW"
