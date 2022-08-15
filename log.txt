@@ -1,3 +1,11 @@
+tanggal        = 2022-08-15 19:19:23
+key            = 7 
+plain text     = "VAELC4Z"
+encrypted text = "G38@8*Q"
+decrypted text = "VAELC4Z"
+plain text     = "VAELC4Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-15 18:30:50
 key            = 2 
 plain text     = "Y8"
