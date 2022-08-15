@@ -1,3 +1,11 @@
+tanggal        = 2022-08-15 05:24:42
+key            = 23 
+plain text     = "8M2L3DR5W88PDLR38E9I0JO"
+encrypted text = "o'k(n"1s8xy4)29y!/$5{8>"
+decrypted text = "8M2L3DR5W88PDLR38E9I0JO"
+plain text     = "8M2L3DR5W88PDLR38E9I0JO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-15 04:06:27
 key            = 5 
 plain text     = "CCTEW"
