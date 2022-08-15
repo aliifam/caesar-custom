@@ -1,3 +1,11 @@
+tanggal        = 2022-08-15 11:19:41
+key            = 12 
+plain text     = "TZ7PEFVDD8OC"
+encrypted text = "IP.H>@Q@A6NC"
+decrypted text = "TZ7PEFVDD8OC"
+plain text     = "TZ7PEFVDD8OC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-15 10:46:40
 key            = 71 
 plain text     = "PZIPKKZ2FQU8CP0EBHY80FHLEXIXTJAPFWLK3F98YDNWFZKNC0QL1NUFMLP2RARIR5GOOUS"
