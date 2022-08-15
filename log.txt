@@ -1,3 +1,11 @@
+tanggal        = 2022-08-15 21:42:42
+key            = 50 
+plain text     = "59JD631USC3ZK98U6DBKPYZG6BE2M35WR5XTXGMV4MBX3YMCNJ"
+encrypted text = "<ASNA?>cbSDl^MMkM\[ekuweUbfTpWZ}y]#~%sz&c}s,f/$y'$"
+decrypted text = "59JD631USC3ZK98U6DBKPYZG6BE2M35WR5XTXGMV4MBX3YMCNJ"
+plain text     = "59JD631USC3ZK98U6DBKPYZG6BE2M35WR5XTXGMV4MBX3YMCNJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-15 21:21:25
 key            = 14 
 plain text     = "AS7NLYYRH4R5HL"
