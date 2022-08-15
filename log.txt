@@ -1,3 +1,11 @@
+tanggal        = 2022-08-15 09:43:41
+key            = 43 
+plain text     = "V4H6VG52J53L7UNX0TR4RVLAG002B66IQI8CV130SIR"
+encrypted text = "@}4#D6%#<('A-LFQ*ON1PULBI347H=>R[TDPd@CAe\f"
+decrypted text = "V4H6VG52J53L7UNX0TR4RVLAG002B66IQI8CV130SIR"
+plain text     = "V4H6VG52J53L7UNX0TR4RVLAG002B66IQI8CV130SIR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-15 09:23:49
 key            = 1 
 plain text     = "3"
