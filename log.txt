@@ -1,3 +1,11 @@
+tanggal        = 2022-08-16 20:24:30
+key            = 18 
+plain text     = "F5HCRH1IP642798BP6"
+encrypted text = "vfzv(}g"*onmsvv#2w"
+decrypted text = "F5HCRH1IP642798BP6"
+plain text     = "F5HCRH1IP642798BP6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-16 19:39:12
 key            = 20 
 plain text     = "1I7NEDAGV5PB1T9HUQP7"
