@@ -1,3 +1,11 @@
+tanggal        = 2022-08-16 11:18:08
+key            = 38 
+plain text     = "L8HL5O6TKVTPVFOZDE8PV00P23350O4X9GT1ML"
+encrypted text = "5"38"=%D<HGDK<FR=?3LS./P35695U;`BQ_=ZZ"
+decrypted text = "L8HL5O6TKVTPVFOZDE8PV00P23350O4X9GT1ML"
+plain text     = "L8HL5O6TKVTPVFOZDE8PV00P23350O4X9GT1ML"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-16 10:41:58
 key            = 77 
 plain text     = "XS3YWLUOCCJ1V5TF81332NKLSJA03D2BKSJ546C8QAENCS4FEVFBHMG3OAB6GQFULRQT5ZDW69VJC"
