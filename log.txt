@@ -1,3 +1,11 @@
+tanggal        = 2022-08-16 21:21:01
+key            = 5 
+plain text     = "WZOGE"
+encrypted text = "\`VON"
+decrypted text = "WZOGE"
+plain text     = "WZOGE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-16 20:44:07
 key            = 46 
 plain text     = "UUSGHKV81US8U4VR0HLBRW954HL8T192F6X6SJFQFYUC7V"
