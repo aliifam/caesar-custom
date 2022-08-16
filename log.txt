@@ -1,3 +1,11 @@
+tanggal        = 2022-08-16 21:42:03
+key            = 100 
+plain text     = "JHTZTAR0CA838YBMTARMNGCQLG7CZC09ATNHLSNIGBZ1TXZ1QVTGLHUTO35S1SPWYP2WLWF8KMY11IJKXJJ38F1ZIHZDGP72GO3B"
+encrypted text = "?>KRM;M,@?739[EQYGYUWQN]YUFSkUCMVje`emied`yQuz}Uv|{our|adbitqr{|¦©¢¥"
+decrypted text = "JHTZTAR0CA838YBMTARMNGCQLG7CZC09ATNHLSNIGBZ1TXZ1QVTGLHUTO35S1SPWYP2WLWF8KMY11IJKXJJ38F1ZIHZDGP72GO3B"
+plain text     = "JHTZTAR0CA838YBMTARMNGCQLG7CZC09ATNHLSNIGBZ1TXZ1QVTGLHUTO35S1SPWYP2WLWF8KMY11IJKXJJ38F1ZIHZDGP72GO3B"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-16 21:21:01
 key            = 5 
 plain text     = "WZOGE"
