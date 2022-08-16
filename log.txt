@@ -1,3 +1,11 @@
+tanggal        = 2022-08-16 04:46:05
+key            = 15 
+plain text     = "NAJR04OV1S1PZ9K"
+encrypted text = "!s}(ej(0j/l.9w,"
+decrypted text = "NAJR04OV1S1PZ9K"
+plain text     = "NAJR04OV1S1PZ9K"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-16 03:54:08
 key            = 4 
 plain text     = "8DU3"
