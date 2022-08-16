@@ -1,3 +1,11 @@
+tanggal        = 2022-08-16 07:38:19
+key            = 18 
+plain text     = "V7W18HN54DSST5Q5CE"
+encrypted text = "?!B{%6=%%6FGI+H-<?"
+decrypted text = "V7W18HN54DSST5Q5CE"
+plain text     = "V7W18HN54DSST5Q5CE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-16 07:18:20
 key            = 79 
 plain text     = "CWA07U3BZG4AG62CJNCZO7BOJ2VHU4K62RRVGM4FFD8K8PG6KXSATRV3PXWW6R8HUOBF7GDMHM13CME"
