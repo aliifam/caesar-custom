@@ -1,3 +1,11 @@
+tanggal        = 2022-08-16 20:44:07
+key            = 46 
+plain text     = "UUSGHKV81US8U4VR0HLBRW954HL8T192F6X6SJFQFYUC7V"
+encrypted text = "KLK@BFR5/TS9W7ZW6OTK\bEBBW\IfDMG\MpOmebndxudYy"
+decrypted text = "UUSGHKV81US8U4VR0HLBRW954HL8T192F6X6SJFQFYUC7V"
+plain text     = "UUSGHKV81US8U4VR0HLBRW954HL8T192F6X6SJFQFYUC7V"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-16 20:24:30
 key            = 18 
 plain text     = "F5HCRH1IP642798BP6"
