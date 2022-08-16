@@ -1,3 +1,11 @@
+tanggal        = 2022-08-16 15:26:46
+key            = 16 
+plain text     = "A29RE56QLN2UKKDM"
+encrypted text = "\NVpdUWsorW{rsmw"
+decrypted text = "A29RE56QLN2UKKDM"
+plain text     = "A29RE56QLN2UKKDM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-16 14:40:44
 key            = 63 
 plain text     = "5NRH1JQDU6GS8JLRXNMXD0M95Q1FH8J4VFCI9V9B9YPRC5OIGHG0T920S2T5OIN"
