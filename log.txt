@@ -1,3 +1,11 @@
+tanggal        = 2022-08-17 02:35:41
+key            = 3 
+plain text     = "TEW"
+encrypted text = "N@S"
+decrypted text = "TEW"
+plain text     = "TEW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-16 23:41:44
 key            = 70 
 plain text     = "3GR6LG02MG8LNN26Z4WOCFIP5JF3QDYDUEVTK37QAL62X51EBHHPMYBBH1KKMQ8PF1MGBT"
