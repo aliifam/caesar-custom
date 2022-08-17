@@ -1,3 +1,11 @@
+tanggal        = 2022-08-17 17:29:25
+key            = 6 
+plain text     = "4OS18Q"
+encrypted text = "v49v~:"
+decrypted text = "4OS18Q"
+plain text     = "4OS18Q"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-17 16:37:44
 key            = 36 
 plain text     = "13BE62FDGRWV07FRVNDMW4EPFMOM5O8MO5BP"
