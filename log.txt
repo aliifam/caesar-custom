@@ -1,3 +1,11 @@
+tanggal        = 2022-08-17 04:22:49
+key            = 35 
+plain text     = "VTO2RY13659DK0FJVC43AA1VPSEBRAA5LME"
+encrypted text = "/.*l/7nquuz(0t-2?-}}./~FAE86G78-EG@"
+decrypted text = "VTO2RY13659DK0FJVC43AA1VPSEBRAA5LME"
+plain text     = "VTO2RY13659DK0FJVC43AA1VPSEBRAA5LME"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-17 02:35:41
 key            = 3 
 plain text     = "TEW"
