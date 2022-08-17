@@ -1,3 +1,11 @@
+tanggal        = 2022-08-17 11:41:35
+key            = 27 
+plain text     = "ZCJWMSRVJKP5YMV2J7HI6ENCL0P"
+encrypted text = "WAIWNUUZOQW=bWa>WEWYGWaWaFg"
+decrypted text = "ZCJWMSRVJKP5YMV2J7HI6ENCL0P"
+plain text     = "ZCJWMSRVJKP5YMV2J7HI6ENCL0P"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-17 11:20:18
 key            = 4 
 plain text     = "HV1M"
