@@ -1,3 +1,11 @@
+tanggal        = 2022-08-17 18:53:36
+key            = 15 
+plain text     = "SQXUTVO5A3DS1QB"
+encrypted text = "!~(&&)#huhz,i,|"
+decrypted text = "SQXUTVO5A3DS1QB"
+plain text     = "SQXUTVO5A3DS1QB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-17 18:29:46
 key            = 69 
 plain text     = "5RKQGJS3UNYKOVT85F2MX0DSL3KIORQBG375977OIOTNZCOAI6WXN3D8QMAX3JBTVCX79"
