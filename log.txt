@@ -1,3 +1,11 @@
+tanggal        = 2022-08-17 11:20:18
+key            = 4 
+plain text     = "HV1M"
+encrypted text = "ixTq"
+decrypted text = "HV1M"
+plain text     = "HV1M"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-17 10:45:53
 key            = 99 
 plain text     = "0CQJ5PZY0E0VYTOTEYXM00CX33VRMJIS2T47CUSTUGNM6XULHYB1ASXANADWW36WB5U81Z3HGV7B1ORSVE853R8BQKKU2ENWDPC"
