@@ -1,3 +1,11 @@
+tanggal        = 2022-08-17 14:45:37
+key            = 25 
+plain text     = "UIY15RNSMKB8J9W1EKAYVFDKA"
+encrypted text = "-"3jo/,2-,$y.|=v-4+DB32:1"
+decrypted text = "UIY15RNSMKB8J9W1EKAYVFDKA"
+plain text     = "UIY15RNSMKB8J9W1EKAYVFDKA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-17 14:27:33
 key            = 91 
 plain text     = "IVY2BBEY2FQCDOX2FVAX26FG17JMH9SSD7QL1HT76LOLX00UXMPS3G51XP0KC2DUH98O9G106TDXCLRX7BB7EHYBJH0"
