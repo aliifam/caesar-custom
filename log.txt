@@ -1,3 +1,11 @@
+tanggal        = 2022-08-17 07:21:35
+key            = 20 
+plain text     = "0XUGPV4NH4BTTIFM7I0J"
+encrypted text = "%NL?IP/JE2ATUKIQ<O7R"
+decrypted text = "0XUGPV4NH4BTTIFM7I0J"
+plain text     = "0XUGPV4NH4BTTIFM7I0J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-17 06:33:55
 key            = 66 
 plain text     = "X25O6FMT6M1K6JW2OBMV8L485DK7BZ5CA1OV69VDMKFWCCXVGK98WKTQ8MIEOXBO3J"
