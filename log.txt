@@ -1,3 +1,11 @@
+tanggal        = 2022-08-17 10:26:56
+key            = 6 
+plain text     = "TKONPE"
+encrypted text = "aY^^aW"
+decrypted text = "TKONPE"
+plain text     = "TKONPE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-17 09:44:29
 key            = 79 
 plain text     = "N210ENJAXJBD2A6QKF19ZGMM9X26PC2PYWNHEARIDG6CUBRQD68RTAQPGGLJF6TNDAOWXKM1Q5TPXJN"
