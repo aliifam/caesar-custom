@@ -1,3 +1,11 @@
+tanggal        = 2022-08-18 23:42:54
+key            = 18 
+plain text     = "LFNCXQRDT0KSS7F155"
+encrypted text = "2-6,B<>1B};DE*:&+,"
+decrypted text = "LFNCXQRDT0KSS7F155"
+plain text     = "LFNCXQRDT0KSS7F155"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-18 23:24:05
 key            = 67 
 plain text     = "GUAPX6B493WOZZKZZOSW1AUB21DU0CQH4SFDU6JMIP7UT47QYRR4CRMBTNR3BQSVH0F"
