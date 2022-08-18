@@ -1,3 +1,11 @@
+tanggal        = 2022-08-18 07:41:00
+key            = 57 
+plain text     = "K0M7R9YO6GEVYFD24JPU40YHZF4MWE6MRPQVRIOW4QBYR9190CRVMCMXW"
+encrypted text = "T:XC_Gh_GYXjn\[JMdkqQNxh{hWq|k]u{z|$!w~)e%u/)ohqi}/4,#.::"
+decrypted text = "K0M7R9YO6GEVYFD24JPU40YHZF4MWE6MRPQVRIOW4QBYR9190CRVMCMXW"
+plain text     = "K0M7R9YO6GEVYFD24JPU40YHZF4MWE6MRPQVRIOW4QBYR9190CRVMCMXW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-18 07:22:05
 key            = 5 
 plain text     = "GNFON"
