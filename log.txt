@@ -1,3 +1,11 @@
+tanggal        = 2022-08-18 20:27:23
+key            = 55 
+plain text     = "STR1XXXRJY5M1JDX41G59UX75ZTCOKP7ILKNA8KJVJYEICGRGHXFBD8"
+encrypted text = "qsrRz{|wp"]v[up'b`wfk*.lk3.|+(.t)--1%{11>3C0505A79J969."
+decrypted text = "STR1XXXRJY5M1JDX41G59UX75ZTCOKP7ILKNA8KJVJYEICGRGHXFBD8"
+plain text     = "STR1XXXRJY5M1JDX41G59UX75ZTCOKP7ILKNA8KJVJYEICGRGHXFBD8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-18 19:39:45
 key            = 3 
 plain text     = "J6O"
