@@ -1,3 +1,11 @@
+tanggal        = 2022-08-18 17:38:50
+key            = 3 
+plain text     = "KEO"
+encrypted text = "83>"
+decrypted text = "KEO"
+plain text     = "KEO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-18 16:40:46
 key            = 6 
 plain text     = "L13H50"
