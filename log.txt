@@ -1,3 +1,11 @@
+tanggal        = 2022-08-18 08:51:05
+key            = 4 
+plain text     = "EE4M"
+encrypted text = "\]Mg"
+decrypted text = "EE4M"
+plain text     = "EE4M"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-18 08:29:12
 key            = 6 
 plain text     = "Z1TH40"
