@@ -1,3 +1,11 @@
+tanggal        = 2022-08-18 02:36:15
+key            = 15 
+plain text     = "LGPSWVWNLHTHX4E"
+encrypted text = "OKUY^^`XWTaVgDV"
+decrypted text = "LGPSWVWNLHTHX4E"
+plain text     = "LGPSWVWNLHTHX4E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-17 23:42:32
 key            = 34 
 plain text     = "V4OLAQCB43EA26I029594OYH8DX4YMQOGC"
