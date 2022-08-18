@@ -1,3 +1,11 @@
+tanggal        = 2022-08-18 08:29:12
+key            = 6 
+plain text     = "Z1TH40"
+encrypted text = "f>bWDA"
+decrypted text = "Z1TH40"
+plain text     = "Z1TH40"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-18 07:41:00
 key            = 57 
 plain text     = "K0M7R9YO6GEVYFD24JPU40YHZF4MWE6MRPQVRIOW4QBYR9190CRVMCMXW"
