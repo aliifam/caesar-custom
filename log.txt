@@ -1,3 +1,11 @@
+tanggal        = 2022-08-18 07:22:05
+key            = 5 
+plain text     = "GNFON"
+encrypted text = ":B;EE"
+decrypted text = "GNFON"
+plain text     = "GNFON"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-18 06:30:59
 key            = 51 
 plain text     = "DE8NKLE92S03GU2VLP0AE26C7OGF9ZDKNTMU3LO53WES5JBRTF5"
