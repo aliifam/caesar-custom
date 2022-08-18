@@ -1,3 +1,11 @@
+tanggal        = 2022-08-18 16:40:46
+key            = 6 
+plain text     = "L13H50"
+encrypted text = "8|!7%!"
+decrypted text = "L13H50"
+plain text     = "L13H50"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-18 15:38:26
 key            = 91 
 plain text     = "R94CZ1ZLDJI0M7OJ9OK36QT0JCA308M6EHO8RB9JN6CMOGECXSD4XDU7OGPWIZNKNZ4V1502G9ENVHHZ8S9F82DH9D6"
