@@ -1,3 +1,11 @@
+tanggal        = 2022-08-18 18:28:44
+key            = 74 
+plain text     = "G0IWAL07MJ0WCO65JCO0SWH619X2P3Y7YU8BFOHRDXPZGQE0RINZ9TJJDLV6RMU6LAWLAXU3PX"
+encrypted text = "u_y*s!dl%#h2},rr*$1q7<.{w"B{<~G&IF*5:D>I<QJUCNC/RJP]=YPQLU`A^ZcE\Ri_UmkJhq"
+decrypted text = "G0IWAL07MJ0WCO65JCO0SWH619X2P3Y7YU8BFOHRDXPZGQE0RINZ9TJJDLV6RMU6LAWLAXU3PX"
+plain text     = "G0IWAL07MJ0WCO65JCO0SWH619X2P3Y7YU8BFOHRDXPZGQE0RINZ9TJJDLV6RMU6LAWLAXU3PX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-18 17:38:50
 key            = 3 
 plain text     = "KEO"
