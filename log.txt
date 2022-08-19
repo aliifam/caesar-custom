@@ -1,3 +1,11 @@
+tanggal        = 2022-08-19 12:46:40
+key            = 9 
+plain text     = "1Z40CPMRH"
+encrypted text = "zF!|2@>D;"
+decrypted text = "1Z40CPMRH"
+plain text     = "1Z40CPMRH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-19 11:40:24
 key            = 18 
 plain text     = "C7ICDAY944F74SGR7P"
