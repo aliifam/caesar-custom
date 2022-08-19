@@ -1,3 +1,11 @@
+tanggal        = 2022-08-19 15:28:47
+key            = 5 
+plain text     = "OSGM9"
+encrypted text = "incjW"
+decrypted text = "OSGM9"
+plain text     = "OSGM9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-19 14:42:26
 key            = 14 
 plain text     = "I560R4P0PXJ1BY"
