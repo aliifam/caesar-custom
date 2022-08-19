@@ -1,3 +1,11 @@
+tanggal        = 2022-08-19 15:51:15
+key            = 6 
+plain text     = "YFS285"
+encrypted text = "WES3:8"
+decrypted text = "YFS285"
+plain text     = "YFS285"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-19 15:28:47
 key            = 5 
 plain text     = "OSGM9"
