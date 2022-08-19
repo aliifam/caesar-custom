@@ -1,3 +1,11 @@
+tanggal        = 2022-08-19 20:44:07
+key            = 36 
+plain text     = "RV6PHC052U5LKIDUCP7V4I4CXIFQZ9B1DB59"
+encrypted text = "chId]YGMKoPhhgcudrZzYo[k#sq})gqauthm"
+decrypted text = "RV6PHC052U5LKIDUCP7V4I4CXIFQZ9B1DB59"
+plain text     = "RV6PHC052U5LKIDUCP7V4I4CXIFQZ9B1DB59"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-19 20:25:33
 key            = 30 
 plain text     = "SYZ93QF64X8PLY2K504RHVWU6JSU6R"
