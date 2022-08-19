@@ -1,3 +1,11 @@
+tanggal        = 2022-08-19 23:23:17
+key            = 4 
+plain text     = "A318"
+encrypted text = "wjiq"
+decrypted text = "A318"
+plain text     = "A318"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-19 22:44:21
 key            = 57 
 plain text     = "NQ5AQPHILCSLSPWJRBA1A349BNCAVADH8JTG6J6SZKME5PZCCXIUYG901"
