@@ -1,3 +1,11 @@
+tanggal        = 2022-08-19 07:43:51
+key            = 7 
+plain text     = "WESMMFT"
+encrypted text = ">-<782A"
+decrypted text = "WESMMFT"
+plain text     = "WESMMFT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-19 07:22:55
 key            = 14 
 plain text     = "M1NKTLLC40PWC6"
