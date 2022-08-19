@@ -1,3 +1,11 @@
+tanggal        = 2022-08-19 14:42:26
+key            = 14 
+plain text     = "I560R4P0PXJ1BY"
+encrypted text = "kXZUx[xYz%v^p*"
+decrypted text = "I560R4P0PXJ1BY"
+plain text     = "I560R4P0PXJ1BY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-19 14:22:07
 key            = 63 
 plain text     = "SWNVDELWZUJZD8K3P44FDUEDY5DIOLGPE2WOB2B51ECCNCPE1588O8FLW0FQX8N"
