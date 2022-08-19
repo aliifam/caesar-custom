@@ -1,3 +1,11 @@
+tanggal        = 2022-08-19 23:42:54
+key            = 28 
+plain text     = "0BAKTWOK1NXVKZ5ZW4211X0QY84O"
+encrypted text = "p%%0:>74y9DC9I%KI'&&'O(JS30L"
+decrypted text = "0BAKTWOK1NXVKZ5ZW4211X0QY84O"
+plain text     = "0BAKTWOK1NXVKZ5ZW4211X0QY84O"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-19 23:23:17
 key            = 4 
 plain text     = "A318"
