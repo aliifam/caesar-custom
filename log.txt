@@ -1,3 +1,11 @@
+tanggal        = 2022-08-19 20:25:33
+key            = 30 
+plain text     = "SYZ93QF64X8PLY2K504RHVWU6JSU6R"
+encrypted text = ";BD$}>4%$I*C@N(B-).MDSUT6KUX:W"
+decrypted text = "SYZ93QF64X8PLY2K504RHVWU6JSU6R"
+plain text     = "SYZ93QF64X8PLY2K504RHVWU6JSU6R"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-19 19:39:26
 key            = 6 
 plain text     = "86WZGU"
