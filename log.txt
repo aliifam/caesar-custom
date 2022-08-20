@@ -1,3 +1,11 @@
+tanggal        = 2022-08-20 22:22:40
+key            = 20 
+plain text     = "QYRXUR4GDBXBXBIJLB03"
+encrypted text = "ENHOMK.B@?VAXCKMPG6:"
+decrypted text = "QYRXUR4GDBXBXBIJLB03"
+plain text     = "QYRXUR4GDBXBXBIJLB03"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-20 21:46:33
 key            = 67 
 plain text     = "6B0IC547W658LMF10SU94T1APEYECP65FI4QP94Z9S8324I92SUS7TB44UELNVEZ8AL"
