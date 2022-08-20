@@ -1,3 +1,11 @@
+tanggal        = 2022-08-20 11:19:25
+key            = 11 
+plain text     = "R2UPHTB4EHW"
+encrypted text = "tUyun{j]os%"
+decrypted text = "R2UPHTB4EHW"
+plain text     = "R2UPHTB4EHW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-20 10:43:43
 key            = 41 
 plain text     = "Z4WN8AWA0NJGT824PN0UNUTTMUV0RGXR8UVWDI2AZ"
