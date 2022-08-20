@@ -1,3 +1,11 @@
+tanggal        = 2022-08-20 19:18:27
+key            = 60 
+plain text     = "WKADNZHVREXKQ3HUB637JR80AAQ6JFG9RLDE5WHTR248LYWK3G1D5QX8MR6Z"
+encrypted text = "$wnr},y*'y/#*k#1}rpu+4yr&'8|302%?:35&I;HG(+0ESRG0E0D6S[<RX=b"
+decrypted text = "WKADNZHVREXKQ3HUB637JR80AAQ6JFG9RLDE5WHTR248LYWK3G1D5QX8MR6Z"
+plain text     = "WKADNZHVREXKQ3HUB637JR80AAQ6JFG9RLDE5WHTR248LYWK3G1D5QX8MR6Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-20 18:48:29
 key            = 5 
 plain text     = "R31PM"
