@@ -1,3 +1,11 @@
+tanggal        = 2022-08-20 20:43:14
+key            = 38 
+plain text     = "XTUIH88Z5A0PU6N58B57AQA1J0CNT4YKDNDYSR"
+encrypted text = "zwynn_`%_l\}%e~fjuilw*yj&k!-4s;.(3*@;;"
+decrypted text = "XTUIH88Z5A0PU6N58B57AQA1J0CNT4YKDNDYSR"
+plain text     = "XTUIH88Z5A0PU6N58B57AQA1J0CNT4YKDNDYSR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-20 20:24:17
 key            = 31 
 plain text     = "HPMWMJ78MWNH2MFG8O37474NPTV31VA"
