@@ -1,3 +1,11 @@
+tanggal        = 2022-08-20 18:48:29
+key            = 5 
+plain text     = "R31PM"
+encrypted text = "6vu75"
+decrypted text = "R31PM"
+plain text     = "R31PM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-20 18:27:49
 key            = 82 
 plain text     = "17K9OICPJP7X50X61XVDFDULT1ZIYUKEW1ZARDF923JH7SIZF62I21VEGV600HPBSGS6AA2H1BQW9E0M14"
