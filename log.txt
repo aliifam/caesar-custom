@@ -1,3 +1,11 @@
+tanggal        = 2022-08-20 20:24:17
+key            = 31 
+plain text     = "HPMWMJ78MWNH2MFG8O37474NPTV31VA"
+encrypted text = "7@>I@>,.DOGB-ICE7O497;9TW\_=<bN"
+decrypted text = "HPMWMJ78MWNH2MFG8O37474NPTV31VA"
+plain text     = "HPMWMJ78MWNH2MFG8O37474NPTV31VA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-20 19:39:25
 key            = 83 
 plain text     = "KCSD0YG4U5W4UPJ8C5ABZK5U1UX00699YPBKIL4G6UB7IIPUXGLN0CJ3X89E1UCIYJJ3EZSR59G4IDRTR1Q"
