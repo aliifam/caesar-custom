@@ -1,3 +1,11 @@
+tanggal        = 2022-08-20 16:31:09
+key            = 26 
+plain text     = "QHOX1NH0U9X4HU0XAHQ1B2QGHM"
+encrypted text = "WOWa;YT=cHhEZhDmW_iJ\Mmdfl"
+decrypted text = "QHOX1NH0U9X4HU0XAHQ1B2QGHM"
+plain text     = "QHOX1NH0U9X4HU0XAHQ1B2QGHM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-20 15:44:44
 key            = 57 
 plain text     = "JZFJ5CO9G2FZLOEU4PXR842OWD9W5L14X1AXT0TFR8DM4UYFLQM9Q3I2R"
