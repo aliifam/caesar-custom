@@ -1,3 +1,11 @@
+tanggal        = 2022-08-20 19:39:25
+key            = 83 
+plain text     = "KCSD0YG4U5W4UPJ8C5ABZK5U1UX00699YPBKIL4G6UB7IIPUXGLN0CJ3X89E1UCIYJJ3EZSR59G4IDRTR1Q"
+encrypted text = "wp#s`,yg+j/k/+&s!r!#<.w:u<@wx!%&G?2<;?(<,L:0CDLRVFLO2FN8^?AN;`OVgYZDWmggKP_Mc_nqpPq"
+decrypted text = "KCSD0YG4U5W4UPJ8C5ABZK5U1UX00699YPBKIL4G6UB7IIPUXGLN0CJ3X89E1UCIYJJ3EZSR59G4IDRTR1Q"
+plain text     = "KCSD0YG4U5W4UPJ8C5ABZK5U1UX00699YPBKIL4G6UB7IIPUXGLN0CJ3X89E1UCIYJJ3EZSR59G4IDRTR1Q"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-20 19:18:27
 key            = 60 
 plain text     = "WKADNZHVREXKQ3HUB637JR80AAQ6JFG9RLDE5WHTR248LYWK3G1D5QX8MR6Z"
