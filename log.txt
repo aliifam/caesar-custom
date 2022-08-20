@@ -1,3 +1,11 @@
+tanggal        = 2022-08-20 04:38:28
+key            = 13 
+plain text     = "AEETJS1ASTGZE"
+encrypted text = "\abrisRcvxl"l"
+decrypted text = "AEETJS1ASTGZE"
+plain text     = "AEETJS1ASTGZE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-20 03:46:47
 key            = 93 
 plain text     = "UF4FT79GMS04ML4A03PV3HRU7JPFVYANYVXVKBP8NCGKWZ7AGCLOA7AX6BQN4RJN32Z76ZH9SFKEBFX8OT8JV4DLS6P30"
