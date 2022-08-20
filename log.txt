@@ -1,3 +1,11 @@
+tanggal        = 2022-08-20 11:39:25
+key            = 4 
+plain text     = "VE58"
+encrypted text = "D4%)"
+decrypted text = "VE58"
+plain text     = "VE58"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-20 11:19:25
 key            = 11 
 plain text     = "R2UPHTB4EHW"
