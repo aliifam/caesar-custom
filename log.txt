@@ -1,3 +1,11 @@
+tanggal        = 2022-08-21 05:41:54
+key            = 41 
+plain text     = "KM77S6X1KXCXBF3CHS008VSQ0417T5LSAA9GR86X7"
+encrypted text = ",/xy8z?w4B.D/4"39E#$-LJI).,3Q3KSBC<KW>=`@"
+decrypted text = "KM77S6X1KXCXBF3CHS008VSQ0417T5LSAA9GR86X7"
+plain text     = "KM77S6X1KXCXBF3CHS008VSQ0417T5LSAA9GR86X7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-21 05:23:59
 key            = 83 
 plain text     = "59BREW01W1PIS0TR2AAJFXRDSV1XTIQTGYJX963YKP2RHJ2S9W0UE6523MRJCJ0JTWDENI9V0CNO6MRZTDU"
