@@ -1,3 +1,11 @@
+tanggal        = 2022-08-21 10:43:56
+key            = 14 
+plain text     = "5H5FCANNR82AZU"
+encrypted text = "9M;MKJXY^E@Pjf"
+decrypted text = "5H5FCANNR82AZU"
+plain text     = "5H5FCANNR82AZU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-21 10:25:12
 key            = 64 
 plain text     = "0791HT9W0RFWI67Y7WDMW96GVLP2ADTP3CFO7J8V7B34O0FS6HBCP5CQU06REYAB"
