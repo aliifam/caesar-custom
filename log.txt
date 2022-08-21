@@ -1,3 +1,11 @@
+tanggal        = 2022-08-21 18:48:43
+key            = 10 
+plain text     = "14UBJL0T7S"
+encrypted text = "{!C1:="G+H"
+decrypted text = "14UBJL0T7S"
+plain text     = "14UBJL0T7S"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-21 18:28:02
 key            = 60 
 plain text     = "HQ2XDARVMPLOO5664JYZZ9LM3YVEZWPEWGZFNM9J1UFCON6JZGXE0BTQW8UE"
