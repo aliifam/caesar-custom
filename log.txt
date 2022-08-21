@@ -1,3 +1,11 @@
+tanggal        = 2022-08-21 17:22:51
+key            = 39 
+plain text     = "3TMCBJW54AA3A6MC2SYB06UJMN5XKSKEEH4NUIT"
+encrypted text = "Tvpggp~]]kl_nd|sc'.vel.$(*p6*3,'(,w4<1="
+decrypted text = "3TMCBJW54AA3A6MC2SYB06UJMN5XKSKEEH4NUIT"
+plain text     = "3TMCBJW54AA3A6MC2SYB06UJMN5XKSKEEH4NUIT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-21 16:32:12
 key            = 63 
 plain text     = "330YQ18Z22IHB8UMQEMIYFRNVAN61OIUQT9PFGFLPID8ES6XA9ZHNSSE9UWJHQG"
