@@ -1,3 +1,11 @@
+tanggal        = 2022-08-21 04:38:17
+key            = 4 
+plain text     = "F7NX"
+encrypted text = "oay&"
+decrypted text = "F7NX"
+plain text     = "F7NX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-21 03:49:28
 key            = 83 
 plain text     = "HZFIXZOMDTJDN6GQVH5IZKFF0XYJ05V36XTLM9TX6PI8LTHBBB76UQTPW3OW2KBG8WGB356Z7ULQJQGZBBR"
