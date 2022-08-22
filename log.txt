@@ -1,3 +1,11 @@
+tanggal        = 2022-08-22 20:24:07
+key            = 44 
+plain text     = "H49XR9KYF9RHDSFV9J7C3R5T42HXGBGA93NJFZ64GRPU"
+encrypted text = "ubh*%k~/{o+"}/#4v*v%t6x:yx1B2.4/(#?<9N+*>JIO"
+decrypted text = "H49XR9KYF9RHDSFV9J7C3R5T42HXGBGA93NJFZ64GRPU"
+plain text     = "H49XR9KYF9RHDSFV9J7C3R5T42HXGBGA93NJFZ64GRPU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-22 19:41:04
 key            = 90 
 plain text     = "RJBD900LPPXNY4MD05KPW3P16YC99Q2DHDTJZRS4RK8NR4OO03GK3Q5PH25G3TS4YXQM4A0FXZNJHC8XEXKP9WKLBG"
