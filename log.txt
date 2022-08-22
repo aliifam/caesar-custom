@@ -1,3 +1,11 @@
+tanggal        = 2022-08-22 18:51:18
+key            = 8 
+plain text     = "LNSD1E35"
+encrypted text = "ORXJ8M<?"
+decrypted text = "LNSD1E35"
+plain text     = "LNSD1E35"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-22 18:29:10
 key            = 66 
 plain text     = "4U8YRWIY97U5KHM8WE4MJOIMYAPIB478WJK4WJKAHE40QRZJADFBWAQ51WYNF979P8"
