@@ -1,3 +1,11 @@
+tanggal        = 2022-08-22 05:32:17
+key            = 13 
+plain text     = "965BPMSP3C138"
+encrypted text = ",**8GELJ.?.17"
+decrypted text = "965BPMSP3C138"
+plain text     = "965BPMSP3C138"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-22 04:10:15
 key            = 38 
 plain text     = "ASGP5FUN20JGAWZUX26VTL3SNOJXT1LPMRS9HN"
