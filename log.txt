@@ -1,3 +1,11 @@
+tanggal        = 2022-08-22 20:43:32
+key            = 6 
+plain text     = "CWE2OI"
+encrypted text = "aveSql"
+decrypted text = "CWE2OI"
+plain text     = "CWE2OI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-22 20:24:07
 key            = 44 
 plain text     = "H49XR9KYF9RHDSFV9J7C3R5T42HXGBGA93NJFZ64GRPU"
