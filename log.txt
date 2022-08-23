@@ -1,3 +1,11 @@
+tanggal        = 2022-08-23 12:47:40
+key            = 3 
+plain text     = "GZQ"
+encrypted text = ">RJ"
+decrypted text = "GZQ"
+plain text     = "GZQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-23 11:40:10
 key            = 64 
 plain text     = "PTZWUYJ11BMV8A04NCXKPOKXCXXPZ9QFS0UDYT2F06GQ6W28AP0C68NU2JJ5VWU0"
