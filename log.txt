@@ -1,3 +1,11 @@
+tanggal        = 2022-08-23 18:29:03
+key            = 23 
+plain text     = "ERL276N0RKX232KNHSKS4RT"
+encrypted text = "N\W>DD]@c]kFHHbfamfoQps"
+decrypted text = "ERL276N0RKX232KNHSKS4RT"
+plain text     = "ERL276N0RKX232KNHSKS4RT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-23 17:43:58
 key            = 87 
 plain text     = "NKFJUAKBAH6WMG2HGMYUKVODJ9VFWO07HU70L1N5RVXBTMXFGKYTURI6X2ZRTYUFF0C5OG8LB02T3ODF8IFCVDC"
