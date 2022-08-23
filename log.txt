@@ -1,3 +1,11 @@
+tanggal        = 2022-08-23 21:42:09
+key            = 30 
+plain text     = "QVZFCJQFBGIDJ2SBDFVWA8E1IU4WO2"
+encrypted text = "AGL97?G=:@C?F/QADGXZE=K8Q^>b[?"
+decrypted text = "QVZFCJQFBGIDJ2SBDFVWA8E1IU4WO2"
+plain text     = "QVZFCJQFBGIDJ2SBDFVWA8E1IU4WO2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-23 21:21:01
 key            = 88 
 plain text     = "BSZFTZ2MC3IHAF5192E0XEP5378GLNJGZVQJ3OUC1CM7W0KI7PZ4VKKPCLUO7V6QK9Z4D94EL5IL636DV42DY8Y3"
