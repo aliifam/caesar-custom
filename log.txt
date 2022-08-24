@@ -1,3 +1,11 @@
+tanggal        = 2022-08-24 08:30:24
+key            = 33 
+plain text     = "1ILFQARI9P1TKT4Z2CFHBF8SPHYT1YUB5"
+encrypted text = "Rkojvgyqbz\"x$c,cuy|w|o-+$62n96$v"
+decrypted text = "1ILFQARI9P1TKT4Z2CFHBF8SPHYT1YUB5"
+plain text     = "1ILFQARI9P1TKT4Z2CFHBF8SPHYT1YUB5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-24 07:41:22
 key            = 2 
 plain text     = "DV"
