@@ -1,3 +1,11 @@
+tanggal        = 2022-08-24 16:32:54
+key            = 19 
+plain text     = "FUROINAKN2R1W52UMYS"
+encrypted text = "Ueca\bVaeJkKrQOslyt"
+decrypted text = "FUROINAKN2R1W52UMYS"
+plain text     = "FUROINAKN2R1W52UMYS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-24 15:45:52
 key            = 89 
 plain text     = "79QPD0LC1VLSADE0T48X0X5Z68APSHDSAEAXS10DY32ZKDBVXUHZH84UF8OIY74EQ63GO4VT56PTJGUH71LQA5JM6"
