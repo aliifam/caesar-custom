@@ -1,3 +1,11 @@
+tanggal        = 2022-08-24 19:19:38
+key            = 16 
+plain text     = "R54BC83RAZ3CPV5U"
+encrypted text = "iMM\^TPp`zTeszZ{"
+decrypted text = "R54BC83RAZ3CPV5U"
+plain text     = "R54BC83RAZ3CPV5U"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-24 18:38:03
 key            = 56 
 plain text     = "QUTVAW5LH5H1OHZNT8ZIIM89BRPY8JX9GDJ6LOBZG5R87W32TCYIVBYN"
