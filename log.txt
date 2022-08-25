@@ -1,3 +1,11 @@
+tanggal        = 2022-08-25 11:42:08
+key            = 4 
+plain text     = "8E2Z"
+encrypted text = "GUCl"
+decrypted text = "8E2Z"
+plain text     = "8E2Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-25 11:21:53
 key            = 35 
 plain text     = "ZZGO9ZFRBCIOIN3LKBCBX31EIV7755MS7X0"
