@@ -1,3 +1,11 @@
+tanggal        = 2022-08-25 08:31:30
+key            = 24 
+plain text     = "6L1EXTL4X23ZJGRPC4M6WLTS"
+encrypted text = "#:~5IF?(M(*RCAML@2L6XNWW"
+decrypted text = "6L1EXTL4X23ZJGRPC4M6WLTS"
+plain text     = "6L1EXTL4X23ZJGRPC4M6WLTS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-25 07:45:16
 key            = 33 
 plain text     = "8CQZ4J8BEC9Z2XRQQKNSXO96AED4CT9U3"
