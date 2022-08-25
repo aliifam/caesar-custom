@@ -1,3 +1,11 @@
+tanggal        = 2022-08-25 11:21:53
+key            = 35 
+plain text     = "ZZGO9ZFRBCIOIN3LKBCBX31EIV7755MS7X0"
+encrypted text = "=>,5~B/<-/6=8>$>>688O+*?DR4545NU:\5"
+decrypted text = "ZZGO9ZFRBCIOIN3LKBCBX31EIV7755MS7X0"
+plain text     = "ZZGO9ZFRBCIOIN3LKBCBX31EIV7755MS7X0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-25 10:48:22
 key            = 66 
 plain text     = "2ZNTOIGBXYZW4VVA06EW5W11XDOJ3LHLPI0GDC6XHIXMMYRNM54TMPMCFRPK0DO2QG"
