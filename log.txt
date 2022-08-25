@@ -1,3 +1,11 @@
+tanggal        = 2022-08-25 21:42:42
+key            = 5 
+plain text     = "K34EA"
+encrypted text = "YBDVS"
+decrypted text = "K34EA"
+plain text     = "K34EA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-25 21:21:17
 key            = 80 
 plain text     = "X7YH10K4MST6E79YLI3EEQLZOBQQZ98KJ6IFV6JKZ88JUHIE8ZTM3W22282SKFBTTAS7O99CALFM3JPT"
