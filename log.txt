@@ -1,3 +1,11 @@
+tanggal        = 2022-08-25 07:27:48
+key            = 34 
+plain text     = "QIDE3CM40DDZDPIM4X5ZPKNPEH3MR80AH9"
+encrypted text = ".'#%r%0vs*+B-:49!F$JA=AD:>*EK2+=E7"
+decrypted text = "QIDE3CM40DDZDPIM4X5ZPKNPEH3MR80AH9"
+plain text     = "QIDE3CM40DDZDPIM4X5ZPKNPEH3MR80AH9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-25 06:42:55
 key            = 78 
 plain text     = "A9SBFTML1PR70E2XECMZTEX0O0N9GPMACKCFR7F2EPL18YGD2HBCP16B12C2LPP3PFVX383QZBU102"
