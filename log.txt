@@ -1,3 +1,11 @@
+tanggal        = 2022-08-26 04:53:28
+key            = 5 
+plain text     = "3SIR8"
+encrypted text = "5VMW>"
+decrypted text = "3SIR8"
+plain text     = "3SIR8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-26 02:42:07
 key            = 53 
 plain text     = "137ARLO2NIS6WRHESV3CXK4LLHJY84CVN5ESW2TQT7ABF2KO50A8V"
