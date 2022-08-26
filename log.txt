@@ -1,3 +1,11 @@
+tanggal        = 2022-08-26 09:23:48
+key            = 25 
+plain text     = "PZ1AOMH83NKRM6THEGHSW156U"
+encrypted text = "OZ2CRQM>:VT\XBaVTWYejEJLl"
+decrypted text = "PZ1AOMH83NKRM6THEGHSW156U"
+plain text     = "PZ1AOMH83NKRM6THEGHSW156U"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-26 08:30:22
 key            = 15 
 plain text     = "TY50UNV3UVG0VQI"
