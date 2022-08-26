@@ -1,3 +1,11 @@
+tanggal        = 2022-08-26 14:42:13
+key            = 14 
+plain text     = "V81CYTXFECVSFJ"
+encrypted text = ">!y.EAF554HF:?"
+decrypted text = "V81CYTXFECVSFJ"
+plain text     = "V81CYTXFECVSFJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-26 14:22:22
 key            = 56 
 plain text     = "TYCMWRLJ2G5D1U0S4QZW8WVJ5JFS62LSKSERGO7O6TOVWUX69TZHZHUE"
