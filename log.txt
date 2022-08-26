@@ -1,3 +1,11 @@
+tanggal        = 2022-08-26 10:45:27
+key            = 22 
+plain text     = "1DFN2EUY8NQXG59IA6T5SM"
+encrypted text = "9MPY>RchH_ck[JO`YOnPoj"
+decrypted text = "1DFN2EUY8NQXG59IA6T5SM"
+plain text     = "1DFN2EUY8NQXG59IA6T5SM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-26 10:26:34
 key            = 77 
 plain text     = "ICKBM8POWKHU3K02I0L0CYPIKZ4U731OGZ3N9TIU6532IYBTWDL0PO6VVBPGJK4E3MC2ND1YEI2R3"
