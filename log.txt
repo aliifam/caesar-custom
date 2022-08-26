@@ -1,3 +1,11 @@
+tanggal        = 2022-08-26 07:43:13
+key            = 15 
+plain text     = "SZODJNG0QARWD8F"
+encrypted text = "rzpfmrlVxi{#ods"
+decrypted text = "SZODJNG0QARWD8F"
+plain text     = "SZODJNG0QARWD8F"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-26 07:03:36
 key            = 95 
 plain text     = "0MBA2GJVHNUH0VZ4QNYX90B1MKK1B7K4NLNX6PQCLBJO477WOSQAL2ZI1JOYDE4P14UFU5HRWJYWLRJT7VO4U1HHIXC6K3R"
