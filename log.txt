@@ -1,3 +1,11 @@
+tanggal        = 2022-08-27 17:23:05
+key            = 26 
+plain text     = "D745V8GXIDPMM7O4ENRM9PDGMU"
+encrypted text = "VJHJlO_qc_ljkVoUgqvr_wlpw""
+decrypted text = "D745V8GXIDPMM7O4ENRM9PDGMU"
+plain text     = "D745V8GXIDPMM7O4ENRM9PDGMU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-27 16:31:25
 key            = 67 
 plain text     = "4CXZMP47DFBINIDKDFYIKDRBACB0LRXFX6AVCACC706NQYMII7VE0G1FQDXQ4U4SPIH"
