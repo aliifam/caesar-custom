@@ -1,3 +1,11 @@
+tanggal        = 2022-08-27 11:19:45
+key            = 22 
+plain text     = "OCPHL2W8UKZPYK5M025043"
+encrypted text = "MBPIN5[=[RbYcVAZ>AEAFF"
+decrypted text = "OCPHL2W8UKZPYK5M025043"
+plain text     = "OCPHL2W8UKZPYK5M025043"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-27 10:44:01
 key            = 96 
 plain text     = "ILK6GSW607L7VPZCMBKJDH7AWIQELEGRWDIFM2WABP0RMV5CX7EY2N142AOOUSXOCZCWA2NENAIRXP7RDH21P81ACEF4HZEZ"
