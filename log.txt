@@ -1,3 +1,11 @@
+tanggal        = 2022-08-27 08:49:56
+key            = 35 
+plain text     = "O256ZAEYIWRB9AE0S3IGXB442ANX7W05IJY"
+encrypted text = "7y}!F.3H9HD5-6;'K,CBT?232BP[;\6<QSc"
+decrypted text = "O256ZAEYIWRB9AE0S3IGXB442ANX7W05IJY"
+plain text     = "O256ZAEYIWRB9AE0S3IGXB442ANX7W05IJY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-27 08:29:01
 key            = 94 
 plain text     = "NPEIW63KOXR3AAD5AT9SVOOVL24YBV8Y32IBEFB9ES2M8KC2PDVD2P01PCFAVI6VUSZMRIOX5RS4ZBW3XR2NHQY5NKECCZ"
