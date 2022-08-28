@@ -1,3 +1,11 @@
+tanggal        = 2022-08-28 09:22:38
+key            = 24 
+plain text     = "ITER5RPVTAM2Q91SU5XLEJVA"
+encrypted text = ".:,:|<;BA/<"B+$GJ+OD>DQ="
+decrypted text = "ITER5RPVTAM2Q91SU5XLEJVA"
+plain text     = "ITER5RPVTAM2Q91SU5XLEJVA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-28 08:49:06
 key            = 16 
 plain text     = "22ACT8J3CRBCBMPE"
