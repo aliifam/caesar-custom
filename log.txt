@@ -1,3 +1,11 @@
+tanggal        = 2022-08-28 19:19:04
+key            = 17 
+plain text     = "NHOV39BY2X3CSGCEL"
+encrypted text = "(#+3ov":r;u(9.+.6"
+decrypted text = "NHOV39BY2X3CSGCEL"
+plain text     = "NHOV39BY2X3CSGCEL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-28 18:50:06
 key            = 20 
 plain text     = "U0KH5F8GRFAUACHEFIAC"
