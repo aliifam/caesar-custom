@@ -1,3 +1,11 @@
+tanggal        = 2022-08-28 10:26:02
+key            = 36 
+plain text     = "E72JUA2N2CQXJEA2R5099JPB263Y9SQUFL97"
+encrypted text = "ylh#/zl+n"19,(%u8zv"#5</~%#J+FEJ<C10"
+decrypted text = "E72JUA2N2CQXJEA2R5099JPB263Y9SQUFL97"
+plain text     = "E72JUA2N2CQXJEA2R5099JPB263Y9SQUFL97"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-28 09:43:27
 key            = 72 
 plain text     = "FPAE0D8MUR1U5R2XYSOO4EM3AUUNF0EEWKSO77TN80WLQGH0FS58GXW5OBB716D2ESL4JO7T"
