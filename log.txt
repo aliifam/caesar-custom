@@ -1,3 +1,11 @@
+tanggal        = 2022-08-29 13:45:11
+key            = 17 
+plain text     = "XXQ1NLATIBRU3FYRI"
+encrypted text = "z{uVtsi}sm~$au+%{"
+decrypted text = "XXQ1NLATIBRU3FYRI"
+plain text     = "XXQ1NLATIBRU3FYRI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-29 12:50:49
 key            = 89 
 plain text     = "P6050BOO69M7JULFEO1ORDVYL9OEIMPRX6C5GUEM3HD0PABEL0Q4QJBN3LJVV5RO23OXHX7SDJCINYHMQ6E7L1DVV"
