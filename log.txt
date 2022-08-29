@@ -1,3 +1,11 @@
+tanggal        = 2022-08-29 17:46:21
+key            = 6 
+plain text     = "LW9B4P"
+encrypted text = "Q]@J=Z"
+decrypted text = "LW9B4P"
+plain text     = "LW9B4P"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-29 17:27:34
 key            = 48 
 plain text     = "A4BGW22N0ZNC29JX7I4CXM2H055BA4WAOHYL5WD253UPC117"
