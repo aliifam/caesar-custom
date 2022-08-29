@@ -1,3 +1,11 @@
+tanggal        = 2022-08-29 19:19:29
+key            = 28 
+plain text     = "GJEMVKI7ZEUOUU3ME6P384WUBP3B"
+encrypted text = "@D@ISIH7[GXSZ[:UN@[?EBfeSbFV"
+decrypted text = "GJEMVKI7ZEUOUU3ME6P384WUBP3B"
+plain text     = "GJEMVKI7ZEUOUU3ME6P384WUBP3B"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-29 18:52:33
 key            = 1 
 plain text     = "D"
