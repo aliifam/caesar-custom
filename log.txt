@@ -1,3 +1,11 @@
+tanggal        = 2022-08-29 20:25:45
+key            = 51 
+plain text     = "3RPO2D7WKH8BKO4030WVL4841HZRUFGRK57FAD0CZBWXGKSEG4R"
+encrypted text = "r433u*|?42#.8=#~$"JJA*/,*BUNRDFRL7:JFJ7KcLbdTYbUXFe"
+decrypted text = "3RPO2D7WKH8BKO4030WVL4841HZRUFGRK57FAD0CZBWXGKSEG4R"
+plain text     = "3RPO2D7WKH8BKO4030WVL4841HZRUFGRK57FAD0CZBWXGKSEG4R"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-29 19:39:23
 key            = 45 
 plain text     = "UV3DXFUFVHBSC0K5T03ZCFHYI0RXRG504TF48U7LXOQ64"
