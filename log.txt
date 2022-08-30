@@ -1,3 +1,11 @@
+tanggal        = 2022-08-30 18:50:44
+key            = 8 
+plain text     = "7TNSUIOY"
+encrypted text = "x839<18C"
+decrypted text = "7TNSUIOY"
+plain text     = "7TNSUIOY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-30 18:29:51
 key            = 78 
 plain text     = "GD0QJL8LAXS7KLV3APWGBZH92P6APZBY8Z3MJCC8OL21G3OU99C1C1XQSEJFCXB1SPMWJLPP90YBHD"
