@@ -1,3 +1,11 @@
+tanggal        = 2022-08-30 10:26:18
+key            = 54 
+plain text     = "ZILBZRIEX41LNXEM553S2552H4KT8GV9BTDSC6KO92WGN370WPBDYE"
+encrypted text = "@04+D=52F#!=@K9B+,+L,01/F3KU:JZ>H[L\MAW\GAgX`FKEmgZ]s`"
+decrypted text = "ZILBZRIEX41LNXEM553S2552H4KT8GV9BTDSC6KO92WGN370WPBDYE"
+plain text     = "ZILBZRIEX41LNXEM553S2552H4KT8GV9BTDSC6KO92WGN370WPBDYE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-30 09:44:26
 key            = 85 
 plain text     = "0I45H80DBB8D2K5MWJ9SHLAYUNX2XBYA09M451OJA0KNLWGMX4H8N58FCGDEMYCLSEDD6ITBTU9R93CMSHKHB"
