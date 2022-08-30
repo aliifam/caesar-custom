@@ -1,3 +1,11 @@
+tanggal        = 2022-08-30 16:36:54
+key            = 17 
+plain text     = "MJ8J7YUQLAG9N7WG5"
+encrypted text = "75$7%HEB>4;.D.O@/"
+decrypted text = "MJ8J7YUQLAG9N7WG5"
+plain text     = "MJ8J7YUQLAG9N7WG5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-30 15:48:31
 key            = 35 
 plain text     = "HKIR2RG82JXGI6NH5TEQ10ZSK97867ISYE5"
