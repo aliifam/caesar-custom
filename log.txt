@@ -1,3 +1,11 @@
+tanggal        = 2022-08-30 09:44:26
+key            = 85 
+plain text     = "0I45H80DBB8D2K5MWJ9SHLAYUNX2XBYA09M451OJA0KNLWGMX4H8N58FCGDEMYCLSEDD6ITBTU9R93CMSHKHB"
+encrypted text = "d~jl"qj!~!v%r.w2=1!<27-FC=H#J5M6&0E-/,KG?/KONZKR^;PAX@DSQVTV_lWai\\]Pdp_rtYs[Vgryosql"
+decrypted text = "0I45H80DBB8D2K5MWJ9SHLAYUNX2XBYA09M451OJA0KNLWGMX4H8N58FCGDEMYCLSEDD6ITBTU9R93CMSHKHB"
+plain text     = "0I45H80DBB8D2K5MWJ9SHLAYUNX2XBYA09M451OJA0KNLWGMX4H8N58FCGDEMYCLSEDD6ITBTU9R93CMSHKHB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-30 09:24:12
 key            = 31 
 plain text     = "1PWLBSXB4AS9N5YOO2SWXC6MN2TF7ZA"
