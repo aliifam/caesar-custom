@@ -1,3 +1,11 @@
+tanggal        = 2022-08-30 04:55:40
+key            = 95 
+plain text     = "WLEPQD89G7XRN5BLMAKHXLDCI8JKRAE8HQLFOJLKMICDZ5GDHG7SSMCABIZ5TP9X51O7L0UBMDP4SLHUILVLCIKXT3FJHDN"
+encrypted text = "xnhtvj_apa%~{cq|~s~|/${{$r')1!&x+51,62558502I%86;;,IJE<;=EW3SP:Z85T=S8^LXP]Bb\Yg\`kbZadroOchgdo"
+decrypted text = "WLEPQD89G7XRN5BLMAKHXLDCI8JKRAE8HQLFOJLKMICDZ5GDHG7SSMCABIZ5TP9X51O7L0UBMDP4SLHUILVLCIKXT3FJHDN"
+plain text     = "WLEPQD89G7XRN5BLMAKHXLDCI8JKRAE8HQLFOJLKMICDZ5GDHG7SSMCABIZ5TP9X51O7L0UBMDP4SLHUILVLCIKXT3FJHDN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-30 02:45:53
 key            = 3 
 plain text     = "WIY"
