@@ -1,3 +1,11 @@
+tanggal        = 2022-08-31 02:52:19
+key            = 10 
+plain text     = "WV1XCXPBZ1"
+encrypted text = "++e/y1*{6l"
+decrypted text = "WV1XCXPBZ1"
+plain text     = "WV1XCXPBZ1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-30 23:47:31
 key            = 40 
 plain text     = "67REFYGPH6Z044KSDSCPFTZC1ZD9W0M1A2MNCTLL"
