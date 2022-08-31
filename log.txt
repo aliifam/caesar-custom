@@ -1,3 +1,11 @@
+tanggal        = 2022-08-31 08:30:13
+key            = 10 
+plain text     = "CB8RZLLWTG"
+encrypted text = "}}t1:-.:8,"
+decrypted text = "CB8RZLLWTG"
+plain text     = "CB8RZLLWTG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-31 07:38:58
 key            = 83 
 plain text     = "MDAU2M38IQ22HHJ7QLGUNIWRCO848TZ656KE25BIXCIN7PFA6TIACPSBXXLRIXFJLW2ZI5MLZ0J68CE269D"
