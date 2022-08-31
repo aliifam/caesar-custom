@@ -1,3 +1,11 @@
+tanggal        = 2022-08-31 13:47:32
+key            = 17 
+plain text     = "HIADJGDRQ7S43YHFX"
+encrypted text = ">@9=DB@OO6S55\LK^"
+decrypted text = "HIADJGDRQ7S43YHFX"
+plain text     = "HIADJGDRQ7S43YHFX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-08-31 12:52:25
 key            = 38 
 plain text     = "0GNNDLIYMC0RVG6VPBWD9KHAFM2W28JUV7XA40"
