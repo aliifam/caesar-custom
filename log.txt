@@ -1,3 +1,11 @@
+tanggal        = 2022-09-01 04:37:17
+key            = 38 
+plain text     = "7UMUZDJ9JUF8XK9NDRSHIESKAU3UYMJVKGET8N"
+encrypted text = "h)"+1z#q%1#t7+x0'68.0-<5,A~CH=;H>;:J/F"
+decrypted text = "7UMUZDJ9JUF8XK9NDRSHIESKAU3UYMJVKGET8N"
+plain text     = "7UMUZDJ9JUF8XK9NDRSHIESKAU3UYMJVKGET8N"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-01 02:33:02
 key            = 10 
 plain text     = "S02NQZ6ILM"
