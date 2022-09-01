@@ -1,3 +1,11 @@
+tanggal        = 2022-09-01 19:19:18
+key            = 10 
+plain text     = "QBH0QB445I"
+encrypted text = ")y"i-}pqs*"
+decrypted text = "QBH0QB445I"
+plain text     = "QBH0QB445I"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-01 18:31:42
 key            = 57 
 plain text     = "N8I3XI4EVUIS681OJ88TOOJKRZYJ0NUABEKY6S66VTVIIVZZIIOCLOYU9"
