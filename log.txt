@@ -1,3 +1,11 @@
+tanggal        = 2022-09-01 18:31:42
+key            = 57 
+plain text     = "N8I3XI4EVUIS681OJ88TOOJKRZYJ0NUABEKY6S66VTVIIVZZIIOCLOYU9"
+encrypted text = "[FXCi[GYkk`kORLkgVWtpqmow""rYx"mosz+g'ij-,/#$278()0%/3>;~"
+decrypted text = "N8I3XI4EVUIS681OJ88TOOJKRZYJ0NUABEKY6S66VTVIIVZZIIOCLOYU9"
+plain text     = "N8I3XI4EVUIS681OJ88TOOJKRZYJ0NUABEKY6S66VTVIIVZZIIOCLOYU9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-01 17:47:03
 key            = 28 
 plain text     = "O9GNZH26WMSBLKK8AGZRXMUK0VOR"
