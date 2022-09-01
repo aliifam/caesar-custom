@@ -1,3 +1,11 @@
+tanggal        = 2022-09-01 14:23:00
+key            = 40 
+plain text     = "NIB7DCH8NC97FCIAGFXROXJ9Y76MGT1VIOQPXGBB"
+encrypted text = "TPJ@NNTE\RIHXV]V]]pkisfVwVVniwU{ovyyrno"
+decrypted text = "NIB7DCH8NC97FCIAGFXROXJ9Y76MGT1VIOQPXGBB"
+plain text     = "NIB7DCH8NC97FCIAGFXROXJ9Y76MGT1VIOQPXGBB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-01 13:40:57
 key            = 59 
 plain text     = "4G673TO2L6SI6EDWGOLV0QB2BS23ZUL5DJ6RV15I7CEKHVAYTN41V1FL611"
