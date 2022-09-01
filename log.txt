@@ -1,3 +1,11 @@
+tanggal        = 2022-09-01 17:27:41
+key            = 7 
+plain text     = "5SP2CLY"
+encrypted text = "i*(i{'5"
+decrypted text = "5SP2CLY"
+plain text     = "5SP2CLY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-01 16:34:37
 key            = 23 
 plain text     = "MBDODHXO5QM2EIK7EGB3XA8"
