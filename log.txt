@@ -1,3 +1,11 @@
+tanggal        = 2022-09-02 20:25:35
+key            = 8 
+plain text     = "NO0L2T75"
+encrypted text = "79y8}B&%"
+decrypted text = "NO0L2T75"
+plain text     = "NO0L2T75"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-02 19:39:21
 key            = 45 
 plain text     = "BSTF19GMZG213CUOMDIP91NN6T1E6Q6QSIE2CTGPQTSTB"
