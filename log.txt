@@ -1,3 +1,11 @@
+tanggal        = 2022-09-02 23:46:20
+key            = 19 
+plain text     = "AH7B0MB1UGXA3GK6OP9"
+encrypted text = "ltdp_}sc*{/wj!&p,.v"
+decrypted text = "AH7B0MB1UGXA3GK6OP9"
+plain text     = "AH7B0MB1UGXA3GK6OP9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-02 23:24:28
 key            = 64 
 plain text     = "SDAZS4QUA06I6AJF4C1DSI5001GYA9ZD4PINBNZZTV1HYV21HORU34KWAICNEVIO"
