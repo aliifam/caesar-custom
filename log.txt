@@ -1,3 +1,11 @@
+tanggal        = 2022-09-02 21:41:55
+key            = 19 
+plain text     = "N21752R1JJQKHYFLZ6E"
+encrypted text = "mRRYXVwWqrzus'sz+fv"
+decrypted text = "N21752R1JJQKHYFLZ6E"
+plain text     = "N21752R1JJQKHYFLZ6E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-02 21:19:29
 key            = 65 
 plain text     = "VCO1F6O8R54XRJ6ZFUA28H1S012EJ33271ME05M2QITFUAYDBX87OLQC9B5J92WRJ"
