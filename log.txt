@@ -1,3 +1,11 @@
+tanggal        = 2022-09-02 14:22:05
+key            = 14 
+plain text     = "9LAFOD8NACW54J"
+encrypted text = "DXNT^TI`TWlKKb"
+decrypted text = "9LAFOD8NACW54J"
+plain text     = "9LAFOD8NACW54J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-02 13:43:25
 key            = 82 
 plain text     = "N3QET0Y97B9HN0E80L99HCXMY7UCU1GJLDZPQZA2KL8BSDS4PJQ612OI016849KPEH8FJZGUHTXFRO5WSM"
