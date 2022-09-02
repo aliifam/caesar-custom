@@ -1,3 +1,11 @@
+tanggal        = 2022-09-02 15:25:47
+key            = 30 
+plain text     = "V5DUGPO874XLY2PYGD69KTL61HF550"
+encrypted text = "}]m!r||ffd+~.f'1~|os(2+tp*)wxt"
+decrypted text = "V5DUGPO874XLY2PYGD69KTL61HF550"
+plain text     = "V5DUGPO874XLY2PYGD69KTL61HF550"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-02 14:42:22
 key            = 61 
 plain text     = "41EQ0AL7CBBPC139VLY0Y2YDWIPY4EIM75K6S44LTO3ZCSAG40XXNOMKR72H5"
