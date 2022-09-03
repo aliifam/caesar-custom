@@ -1,3 +1,11 @@
+tanggal        = 2022-09-03 05:51:11
+key            = 35 
+plain text     = "XONTZ5251A1GODVC5R07U70M7Q8UQBH91EQ"
+encrypted text = ",$$+2ljnk|m&/%8&w7t|=~x8#>&DA3:,%:G"
+decrypted text = "XONTZ5251A1GODVC5R07U70M7Q8UQBH91EQ"
+plain text     = "XONTZ5251A1GODVC5R07U70M7Q8UQBH91EQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-03 05:18:23
 key            = 21 
 plain text     = "00YCA6FRV9L1NC5T4ORZQ"
