@@ -1,3 +1,11 @@
+tanggal        = 2022-09-03 20:24:43
+key            = 16 
+plain text     = "BSAFACKIIQ59NB2H"
+encrypted text = "FXGMILUTU^CH^SD["
+decrypted text = "BSAFACKIIQ59NB2H"
+plain text     = "BSAFACKIIQ59NB2H"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-03 19:39:12
 key            = 10 
 plain text     = "BOA3MBX6EN"
