@@ -1,3 +1,11 @@
+tanggal        = 2022-09-03 08:29:13
+key            = 13 
+plain text     = "SJZ4OOOZURXUU"
+encrypted text = "!w*c!"#/+)0./"
+decrypted text = "SJZ4OOOZURXUU"
+plain text     = "SJZ4OOOZURXUU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-03 07:40:44
 key            = 30 
 plain text     = "W7YKW90AUDGU59HQ55PK0J4SQYZIA1"
