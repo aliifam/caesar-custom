@@ -1,3 +1,11 @@
+tanggal        = 2022-09-03 06:51:49
+key            = 13 
+plain text     = "4G0WV7BDH3RTE"
+encrypted text = "fzd..nz}$n03%"
+decrypted text = "4G0WV7BDH3RTE"
+plain text     = "4G0WV7BDH3RTE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-03 06:29:05
 key            = 64 
 plain text     = "RVE3RLVNB5LXLJORC90RGZSQDTYW37NFFBWPXEN7DV85CWU5D7ZGDJD3NZCN3R6Y"
