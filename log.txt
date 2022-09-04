@@ -1,3 +1,11 @@
+tanggal        = 2022-09-04 09:22:57
+key            = 16 
+plain text     = "PLK9E0ZYFM9FY224"
+encrypted text = "wttcp\))u}jx.fgj"
+decrypted text = "PLK9E0ZYFM9FY224"
+plain text     = "PLK9E0ZYFM9FY224"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-04 08:49:12
 key            = 94 
 plain text     = "MTNOPFD96W3E7LSFHBXCY9S2KM8GR1UF928CPUUH2R1BTPZZUXMKR4Q40JMH8VIWM8ZOK1ARWI6ZWSSO5WXFMLBKAMS0XC"
