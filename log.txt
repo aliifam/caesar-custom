@@ -1,3 +1,11 @@
+tanggal        = 2022-09-04 05:38:21
+key            = 24 
+plain text     = "N3JPUCU1JWMJNG7NF7QJW052"
+encrypted text = "4x29?.A|8F=;@:+C<.ICQ+1/"
+decrypted text = "N3JPUCU1JWMJNG7NF7QJW052"
+plain text     = "N3JPUCU1JWMJNG7NF7QJW052"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-04 04:33:03
 key            = 3 
 plain text     = "GE9"
