@@ -1,3 +1,11 @@
+tanggal        = 2022-09-04 19:39:07
+key            = 39 
+plain text     = "ROX9DKAVANMA3WWCBLHOMSYN41S7AYQTYOIA0WN"
+encrypted text = "PNX:FNE[GUUJ=bcPP[X`_fmcJHkP[tmqwnibRzr"
+decrypted text = "ROX9DKAVANMA3WWCBLHOMSYN41S7AYQTYOIA0WN"
+plain text     = "ROX9DKAVANMA3WWCBLHOMSYN41S7AYQTYOIA0WN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-04 19:19:17
 key            = 87 
 plain text     = "ZHL2DDVL05MKB9M1UYQGTAHGJKNWVHGIENAF91FE0ODJLUS23OFY3623ZN9IHJVBBZPPPJSFFSM3PMEJCED5CCK"
