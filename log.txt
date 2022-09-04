@@ -1,3 +1,11 @@
+tanggal        = 2022-09-04 04:33:03
+key            = 3 
+plain text     = "GE9"
+encrypted text = "FE:"
+decrypted text = "GE9"
+plain text     = "GE9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-04 02:35:57
 key            = 92 
 plain text     = "K8PX9K6ZWBCHTA165IIXS1YO7VBP6OP4HKUVBYLI3W12H5G8VL3V8XRLYMO7PQ7JMWRCKH6KUILUFLKLDE91809C6GFA"
