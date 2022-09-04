@@ -1,3 +1,11 @@
+tanggal        = 2022-09-04 15:45:26
+key            = 36 
+plain text     = "M1JA053RBC8AENBFEJE7E7U1VFJT146WKSYS"
+encrypted text = "Q6PH8>=]NPFPU_TYY_[N]PoLrchsQUXzox!z"
+decrypted text = "M1JA053RBC8AENBFEJE7E7U1VFJT146WKSYS"
+plain text     = "M1JA053RBC8AENBFEJE7E7U1VFJT146WKSYS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-04 15:24:35
 key            = 36 
 plain text     = "TMIF8HPNMDMCT6R58ZS1J2ROZ3E0AJOE2GWD"
