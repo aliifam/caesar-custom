@@ -1,3 +1,11 @@
+tanggal        = 2022-09-04 11:39:37
+key            = 10 
+plain text     = "06K798XT30"
+encrypted text = "Y`vcff)&db"
+decrypted text = "06K798XT30"
+plain text     = "06K798XT30"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-04 11:19:26
 key            = 95 
 plain text     = "CG6QFZKKVNYQL73SXJ24SVGT2P7BEQVZ5SI6F36ENZH28S22LBZLVNE5T8CGSBJD8495K6VUT13QFFAMQ09FLU5VV9RWQVH"
