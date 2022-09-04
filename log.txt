@@ -1,3 +1,11 @@
+tanggal        = 2022-09-04 18:49:57
+key            = 7 
+plain text     = "X3A9DLD"
+encrypted text = "b>MFR[T"
+decrypted text = "X3A9DLD"
+plain text     = "X3A9DLD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-04 18:28:41
 key            = 21 
 plain text     = "OWPNTJUFKWL15Q2JEDTIK"
