@@ -1,3 +1,11 @@
+tanggal        = 2022-09-04 06:28:45
+key            = 34 
+plain text     = "2AF8C8GRCTRTLLOVNGEC01O4VALPSWY6OC"
+encrypted text = "q#)z(|.:,>=@9:>F?987%'F,O;GLPUX6PE"
+decrypted text = "2AF8C8GRCTRTLLOVNGEC01O4VALPSWY6OC"
+plain text     = "2AF8C8GRCTRTLLOVNGEC01O4VALPSWY6OC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-04 05:38:21
 key            = 24 
 plain text     = "N3JPUCU1JWMJNG7NF7QJW052"
