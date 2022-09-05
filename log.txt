@@ -1,3 +1,11 @@
+tanggal        = 2022-09-05 23:48:46
+key            = 6 
+plain text     = "EDGJ0M"
+encrypted text = "ddhlSq"
+decrypted text = "EDGJ0M"
+plain text     = "EDGJ0M"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-05 23:26:29
 key            = 24 
 plain text     = "URPA4063GQPQ1FF6ZPQ94TJQ"
