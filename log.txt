@@ -1,3 +1,11 @@
+tanggal        = 2022-09-05 14:43:38
+key            = 10 
+plain text     = "SJME8R0WTM"
+encrypted text = "RJNG;V5][U"
+decrypted text = "SJME8R0WTM"
+plain text     = "SJME8R0WTM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-05 14:24:15
 key            = 11 
 plain text     = "U2EXVKHUWDP"
