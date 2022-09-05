@@ -1,3 +1,11 @@
+tanggal        = 2022-09-05 23:26:29
+key            = 24 
+plain text     = "URPA4063GQPQ1FF6ZPQ94TJQ"
+encrypted text = "#!~pdahf{((*i!"q8/1xt7.6"
+decrypted text = "URPA4063GQPQ1FF6ZPQ94TJQ"
+plain text     = "URPA4063GQPQ1FF6ZPQ94TJQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-05 22:44:44
 key            = 88 
 plain text     = "EUOHHL2TZR4TDOXGF7TXLHRT0BGPDSPGHAT0X78GZ11SBX0QAYDMRVB0VO0RN2UZ427KZVGTRD3JHGNGY67OY8ZJ"
