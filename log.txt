@@ -1,3 +1,11 @@
+tanggal        = 2022-09-05 14:24:15
+key            = 11 
+plain text     = "U2EXVKHUWDP"
+encrypted text = "I';ONDBPSAN"
+decrypted text = "U2EXVKHUWDP"
+plain text     = "U2EXVKHUWDP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-05 13:48:24
 key            = 50 
 plain text     = "P2HFLBTVD49695QZP7LMSP45V0VSIOP2RW9T7SNVTUNFQMROHV"
