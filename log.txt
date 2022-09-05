@@ -1,3 +1,11 @@
+tanggal        = 2022-09-05 18:31:14
+key            = 22 
+plain text     = "OPL3TAGUZ8ACASH8WGTZG2"
+encrypted text = "574z>,3BH'143F<-M>LSA-"
+decrypted text = "OPL3TAGUZ8ACASH8WGTZG2"
+plain text     = "OPL3TAGUZ8ACASH8WGTZG2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-05 17:47:40
 key            = 82 
 plain text     = "CDSTSRIAQZQV9U837DPOPH8IJSJ359F0SU2WV45O1S9K3IG9HC0K24CUU80563B85BDQPS88FER0IRXIKQ"
