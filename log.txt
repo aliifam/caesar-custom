@@ -1,3 +1,11 @@
+tanggal        = 2022-09-05 08:51:59
+key            = 37 
+plain text     = "D596HWLVMMF08527SC69IMO93QC28ARAVCXAJ"
+encrypted text = "(x}{0@6A9:4}(&$*G8,0AFI4/NA18BTDZH^HR"
+decrypted text = "D596HWLVMMF08527SC69IMO93QC28ARAVCXAJ"
+plain text     = "D596HWLVMMF08527SC69IMO93QC28ARAVCXAJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-05 08:29:36
 key            = 24 
 plain text     = "EM3W13WDRBB2X2GPX5FQGAFL"
