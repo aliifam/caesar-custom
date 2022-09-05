@@ -1,3 +1,11 @@
+tanggal        = 2022-09-05 20:25:38
+key            = 29 
+plain text     = "HS90D9F03M6NSW0RLUPG12UJLFM6W"
+encrypted text = "$0um$x(qu2z5;@x=8B>6!#G=@;C-O"
+decrypted text = "HS90D9F03M6NSW0RLUPG12UJLFM6W"
+plain text     = "HS90D9F03M6NSW0RLUPG12UJLFM6W"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-05 19:39:17
 key            = 38 
 plain text     = "EIG3SL354OXXEP0HNSYG4EOOP2SG1GRTNXXZRO"
