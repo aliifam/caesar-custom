@@ -1,3 +1,11 @@
+tanggal        = 2022-09-05 07:08:32
+key            = 12 
+plain text     = "NK4K8E5XAN5Z"
+encrypted text = "OM7O=K<`JX@f"
+decrypted text = "NK4K8E5XAN5Z"
+plain text     = "NK4K8E5XAN5Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-05 06:05:57
 key            = 44 
 plain text     = "UHUKU2T7Q4CKUSI22I7Q3T8YY8RA0BDS2CTBUWKU2A18"
