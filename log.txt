@@ -1,3 +1,11 @@
+tanggal        = 2022-09-05 19:19:08
+key            = 23 
+plain text     = "VMLE9W4Y4MI6C2DE0P2BKZD"
+encrypted text = "vnnh]|Z"\vsao_rt`#du!1z"
+decrypted text = "VMLE9W4Y4MI6C2DE0P2BKZD"
+plain text     = "VMLE9W4Y4MI6C2DE0P2BKZD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-05 18:31:14
 key            = 22 
 plain text     = "OPL3TAGUZ8ACASH8WGTZG2"
