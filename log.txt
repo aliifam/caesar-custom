@@ -1,3 +1,11 @@
+tanggal        = 2022-09-05 22:25:02
+key            = 36 
+plain text     = "251U6XSHKNXJ6015TQC1OUWO83OV0LAJY5W9"
+encrypted text = "lpm4t95+/3>1|wy~@>1~?FIB,(EM(E;EU2U8"
+decrypted text = "251U6XSHKNXJ6015TQC1OUWO83OV0LAJY5W9"
+plain text     = "251U6XSHKNXJ6015TQC1OUWO83OV0LAJY5W9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-05 21:43:04
 key            = 31 
 plain text     = "W4HKBP55NGZ4RC9D2QLYHAP7V3KRQ8K"
