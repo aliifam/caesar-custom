@@ -1,3 +1,11 @@
+tanggal        = 2022-09-06 20:45:18
+key            = 48 
+plain text     = "UGDG2XNW42NMXGZD5RPDDU92FTHXGYIQO4RORWLIZ4FUMNMV"
+encrypted text = "$uswc,#-ih''3#7"r21&'9|v-<1B2E6?>$CAEKA?Q,?OHJJT"
+decrypted text = "UGDG2XNW42NMXGZD5RPDDU92FTHXGYIQO4RORWLIZ4FUMNMV"
+plain text     = "UGDG2XNW42NMXGZD5RPDDU92FTHXGYIQO4RORWLIZ4FUMNMV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-06 20:26:01
 key            = 19 
 plain text     = "V857T7UKD3AF5Y3P0G9"
