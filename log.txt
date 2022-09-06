@@ -1,3 +1,11 @@
+tanggal        = 2022-09-06 11:40:59
+key            = 23 
+plain text     = "69S4640YMS2Y27RASLGHU62"
+encrypted text = "\`{]`_\({$b,dj(v+%!#1qn"
+decrypted text = "69S4640YMS2Y27RASLGHU62"
+plain text     = "69S4640YMS2Y27RASLGHU62"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-06 11:21:24
 key            = 11 
 plain text     = "IP703373EEN"
