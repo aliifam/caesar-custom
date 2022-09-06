@@ -1,3 +1,11 @@
+tanggal        = 2022-09-06 13:49:25
+key            = 50 
+plain text     = "MBL3LGIXW14AOL52Z7KPTE6YUTK5MPS77AX9QRCKX25OFM3QF1"
+encrypted text = "8.9!;7:JJ%)7FD.,U3HNSE7[XXP;TX\ABMeG`bT]kFJe]eLkaM"
+decrypted text = "MBL3LGIXW14AOL52Z7KPTE6YUTK5MPS77AX9QRCKX25OFM3QF1"
+plain text     = "MBL3LGIXW14AOL52Z7KPTE6YUTK5MPS77AX9QRCKX25OFM3QF1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-06 12:52:25
 key            = 4 
 plain text     = "YRNS"
