@@ -1,3 +1,11 @@
+tanggal        = 2022-09-06 21:42:54
+key            = 29 
+plain text     = "KC27DLCB858XAVFB09DIJGUR7TJKY"
+encrypted text = ";4$*8A990.2S=SDA0:FLNL[Y?]TVe"
+decrypted text = "KC27DLCB858XAVFB09DIJGUR7TJKY"
+plain text     = "KC27DLCB858XAVFB09DIJGUR7TJKY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-06 21:22:04
 key            = 3 
 plain text     = "2T7"
