@@ -1,3 +1,11 @@
+tanggal        = 2022-09-06 17:29:38
+key            = 45 
+plain text     = "EKQLL63GT6QG5QBUW7T9YWG8H72RK98BDWPW1802C2ONN"
+encrypted text = "kryuva_t$e#xg&v,/n.r54%u(vr5/||),@:B{%|!3#AAB"
+decrypted text = "EKQLL63GT6QG5QBUW7T9YWG8H72RK98BDWPW1802C2ONN"
+plain text     = "EKQLL63GT6QG5QBUW7T9YWG8H72RK98BDWPW1802C2ONN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-06 16:36:22
 key            = 55 
 plain text     = "JROF9G2GIQW241YZILPDL1Q1KKUJ944USGCWVSIJYHC4F6YYTX30BSA"
