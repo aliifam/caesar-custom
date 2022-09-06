@@ -1,3 +1,11 @@
+tanggal        = 2022-09-06 19:19:44
+key            = 10 
+plain text     = "H21A4888X4"
+encrypted text = "t__pdijk.i"
+decrypted text = "H21A4888X4"
+plain text     = "H21A4888X4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-06 18:30:36
 key            = 79 
 plain text     = "A4U8IBSZZ6MZQHXCMT3N0OQT256OGGQVEWJCDP0RJW98EGHY5XYF0EUPRGLJ7MTSL3GOYCV61NUJ057"
