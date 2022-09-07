@@ -1,3 +1,11 @@
+tanggal        = 2022-09-07 02:45:02
+key            = 14 
+plain text     = "XGZM67NGQQ3MAH"
+encrypted text = "[K_S=?WQ\]@[PX"
+decrypted text = "XGZM67NGQQ3MAH"
+plain text     = "XGZM67NGQQ3MAH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-06 23:49:34
 key            = 84 
 plain text     = "NZIEEO8Y3WZCHEU12VOTSJGJPKA5Z4M4U32Z1SUTWR9JLF7OILDZYNK4FHT4OGLA14TRQXJ672TGMVQ24QJ1"
