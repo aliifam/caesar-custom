@@ -1,3 +1,11 @@
+tanggal        = 2022-09-07 10:29:23
+key            = 41 
+plain text     = "EW0OSFROFTB6727AYDCSBOLT3B49NPCY6WDMG1FD4"
+encrypted text = "@S-MRFSQIXG<>:@KdPPaQ_]fFVIOeh\sQsakfQgfW"
+decrypted text = "EW0OSFROFTB6727AYDCSBOLT3B49NPCY6WDMG1FD4"
+plain text     = "EW0OSFROFTB6727AYDCSBOLT3B49NPCY6WDMG1FD4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-07 09:45:43
 key            = 78 
 plain text     = "0ZX7S25B88C67EDNCSMOK9CHTSTR6OZO6T06HX352C5I3AUKO607IT13L9YGC4JDCGBU5A144H1SCZ"
