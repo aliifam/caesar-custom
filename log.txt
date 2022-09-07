@@ -1,3 +1,11 @@
+tanggal        = 2022-09-07 15:51:24
+key            = 14 
+plain text     = "NGINOWX33NV3CK"
+encrypted text = "6039;DF"#?H&7@"
+decrypted text = "NGINOWX33NV3CK"
+plain text     = "NGINOWX33NV3CK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-07 15:27:54
 key            = 69 
 plain text     = "NCWZGTLM2Z2LU57FEZYCYL0P2LFC8Y3OH4RXH9055RX8GRVGBZ4INKRRQYXDL676MMDER"
