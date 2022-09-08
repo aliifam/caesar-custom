@@ -1,3 +1,11 @@
+tanggal        = 2022-09-08 14:24:03
+key            = 14 
+plain text     = "JC225G48P65ZP7"
+encrypted text = "]WGHL_MRkRRxoW"
+decrypted text = "JC225G48P65ZP7"
+plain text     = "JC225G48P65ZP7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-08 13:38:47
 key            = 93 
 plain text     = "MARM6X7FKXC6QYXSO5D2DAZ69FST8Z6X9RHPGH59FF96PYMG0ZJTLY6HY6N6UT18QEFOUQME2VBKHP4VYZIWV2EPJ6J23"
