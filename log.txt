@@ -1,3 +1,11 @@
+tanggal        = 2022-09-08 09:48:04
+key            = 16 
+plain text     = "KI2DT81LXUFDWJ7C"
+encrypted text = "cbL_pUOkxvhg{o]j"
+decrypted text = "KI2DT81LXUFDWJ7C"
+plain text     = "KI2DT81LXUFDWJ7C"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-08 09:26:38
 key            = 22 
 plain text     = "9EIIWEV1NOHW2HJWTNE5BO"
