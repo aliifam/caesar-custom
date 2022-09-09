@@ -1,3 +1,11 @@
+tanggal        = 2022-09-09 04:36:55
+key            = 66 
+plain text     = "GCAEDZKWGFHS29I09GFOAPC05VXZLFOCFOGLBVE36ABO955QC9VL4DTSAJX7POAXYP"
+encrypted text = "[XW\\serccfrRZkS]llviym[a%(+|w#vz&}%z1!nr~"0yvw6)~>5|/@@/9H(BB5MOG"
+decrypted text = "GCAEDZKWGFHS29I09GFOAPC05VXZLFOCFOGLBVE36ABO955QC9VL4DTSAJX7POAXYP"
+plain text     = "GCAEDZKWGFHS29I09GFOAPC05VXZLFOCFOGLBVE36ABO955QC9VL4DTSAJX7POAXYP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-09 02:43:33
 key            = 5 
 plain text     = "DUM8I"
