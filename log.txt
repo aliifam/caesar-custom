@@ -1,3 +1,11 @@
+tanggal        = 2022-09-09 02:43:33
+key            = 5 
+plain text     = "DUM8I"
+encrypted text = "6HA-?"
+decrypted text = "DUM8I"
+plain text     = "DUM8I"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-08 23:51:51
 key            = 97 
 plain text     = "JILHRSQUO5QHSJY75BNXG8L1IZ3ZGSFK4DPER0N0XI61QIJIRN9C0U41CUUDI1EX3KQ7IC5FOW93S2KT4KXH18HXPF4OJ7UQ5"
