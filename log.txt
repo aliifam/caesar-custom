@@ -1,3 +1,11 @@
+tanggal        = 2022-09-09 06:46:37
+key            = 2 
+plain text     = "TP"
+encrypted text = "-*"
+decrypted text = "TP"
+plain text     = "TP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-09 05:58:22
 key            = 25 
 plain text     = "A3Z4TEFMCDL19QHZMP7PX7L5J"
