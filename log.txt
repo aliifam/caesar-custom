@@ -1,3 +1,11 @@
+tanggal        = 2022-09-09 23:52:33
+key            = 16 
+plain text     = "TDCGY8SR93ZLLIDO"
+encrypted text = "8)).A!==%~H;<:6B"
+decrypted text = "TDCGY8SR93ZLLIDO"
+plain text     = "TDCGY8SR93ZLLIDO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-09 23:28:29
 key            = 60 
 plain text     = "JVB4XRK28NSUPYRC7WDT67KV3ZNHZFPCNN5BEZU28SP3E2J08D178PFWCTUP"
