@@ -1,3 +1,11 @@
+tanggal        = 2022-09-09 08:34:49
+key            = 57 
+plain text     = "FM2KNLJCUJPJH30DCIDHRBHY188RSJX0OQTEV0JPER0ZP5PVY5Z9F3MHR"
+encrypted text = ";C)CGFE?RHOJI53HHOKP[LSe>FGbd\kDdgk]oJelbpOzqWsz~[ao]xt"
+decrypted text = "FM2KNLJCUJPJH30DCIDHRBHY188RSJX0OQTEV0JPER0ZP5PVY5Z9F3MHR"
+plain text     = "FM2KNLJCUJPJH30DCIDHRBHY188RSJX0OQTEV0JPER0ZP5PVY5Z9F3MHR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-09 07:48:32
 key            = 24 
 plain text     = "23PPXRJEYW81TO17SZVBOUT5"
