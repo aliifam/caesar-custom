@@ -1,3 +1,11 @@
+tanggal        = 2022-09-09 17:30:37
+key            = 27 
+plain text     = "R0HXJ2RJJ9NNKTCQXIT41U7KEEG"
+encrypted text = "G&?PC,MFG7MNLVFU]O[<:_BWRSV"
+decrypted text = "R0HXJ2RJJ9NNKTCQXIT41U7KEEG"
+plain text     = "R0HXJ2RJJ9NNKTCQXIT41U7KEEG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-09 16:36:54
 key            = 100 
 plain text     = "LEMCQ1A2CTQQ95O6VR5IM8UD3925UFEQH6DA88A6730UH43FPX8H9ZCOQXKWZ9CZPJ5DRSV9L18GS9MQXRZ97PML81AIA3LRYEYS"
