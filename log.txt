@@ -1,3 +1,11 @@
+tanggal        = 2022-09-10 14:43:42
+key            = 5 
+plain text     = "CZD2P"
+encrypted text = "Xp[Ji"
+decrypted text = "CZD2P"
+plain text     = "CZD2P"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-10 14:23:06
 key            = 30 
 plain text     = "B841S5B7SQLQR3UUVZ7HSJ2S0G6VFD"
