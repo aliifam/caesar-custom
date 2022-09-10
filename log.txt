@@ -1,3 +1,11 @@
+tanggal        = 2022-09-10 14:23:06
+key            = 30 
+plain text     = "B841S5B7SQLQR3UUVZ7HSJ2S0G6VFD"
+encrypted text = "JA><_BPFcb^dfHklnsQcogPrPhXyji"
+decrypted text = "B841S5B7SQLQR3UUVZ7HSJ2S0G6VFD"
+plain text     = "B841S5B7SQLQR3UUVZ7HSJ2S0G6VFD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-10 13:37:27
 key            = 67 
 plain text     = "LHCMDTZWMVZ1QRKPKT2J4LF3PSYQCH6OVGISO5DHWI13L5C8ZQK5TKXVP2V8T9TD4Z2"
