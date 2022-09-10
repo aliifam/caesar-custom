@@ -1,3 +1,11 @@
+tanggal        = 2022-09-10 23:25:30
+key            = 12 
+plain text     = "XPXQY5LABUWN"
+encrypted text = "LENHQ.F<>RUM"
+decrypted text = "XPXQY5LABUWN"
+plain text     = "XPXQY5LABUWN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-10 22:45:11
 key            = 100 
 plain text     = "1SZN1776SGO3CRC7EGQVAMES7WVU2MXQNJNL68TVOW3Y63HWF4IKIRR4FWHK5ZPLH9U11HCTK5MBGA7062HTGZCUKEP8NLKTAJ0F"
