@@ -1,3 +1,11 @@
+tanggal        = 2022-09-10 16:34:27
+key            = 6 
+plain text     = "WDA1DG"
+encrypted text = "A/-|26"
+decrypted text = "WDA1DG"
+plain text     = "WDA1DG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-10 15:47:50
 key            = 75 
 plain text     = "X4XC1WULTFE58EDNZGKWM29LMBI2L3PCNFE9NRZVVJ5KTPN4QVL2G1XNDSDFTDEWQWHYLF94RMS"
