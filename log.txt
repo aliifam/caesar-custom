@@ -1,3 +1,11 @@
+tanggal        = 2022-09-10 02:44:16
+key            = 16 
+plain text     = "GMXG2WRXRCD09CGC"
+encrypted text = "ls!o[#}&!qs`juzw"
+decrypted text = "GMXG2WRXRCD09CGC"
+plain text     = "GMXG2WRXRCD09CGC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-09 23:52:33
 key            = 16 
 plain text     = "TDCGY8SR93ZLLIDO"
