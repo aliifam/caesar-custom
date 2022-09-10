@@ -1,3 +1,11 @@
+tanggal        = 2022-09-10 09:45:16
+key            = 11 
+plain text     = "7CDBQBVZ29H"
+encrypted text = "(576F8MR+3C"
+decrypted text = "7CDBQBVZ29H"
+plain text     = "7CDBQBVZ29H"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-10 09:24:52
 key            = 99 
 plain text     = "AG3WPCZAAOU7A8PTZ7IVUE0HQQM3TBXSXLC4CXOBBJDJAORAESXK16J8BADQZD9G4LUPBN45TK8VXA2L7NWW4NKR22T8803R3CQ"
