@@ -1,3 +1,11 @@
+tanggal        = 2022-09-10 17:27:23
+key            = 14 
+plain text     = "NRSKDU9QDFNPWR"
+encrypted text = "mrtmgy^wknwz$~"
+decrypted text = "NRSKDU9QDFNPWR"
+plain text     = "NRSKDU9QDFNPWR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-10 16:34:27
 key            = 6 
 plain text     = "WDA1DG"
