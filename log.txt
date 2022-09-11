@@ -1,3 +1,11 @@
+tanggal        = 2022-09-11 06:32:14
+key            = 27 
+plain text     = "EQXJIY7OCKVV03XSS5G30JLGLRY"
+encrypted text = "6CK>>O.G<EQR-1WST7J75PSOU\d"
+decrypted text = "EQXJIY7OCKVV03XSS5G30JLGLRY"
+plain text     = "EQXJIY7OCKVV03XSS5G30JLGLRY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-11 05:42:23
 key            = 13 
 plain text     = "X6G7ZUQSO8NOM"
