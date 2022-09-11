@@ -1,3 +1,11 @@
+tanggal        = 2022-09-11 21:44:15
+key            = 7 
+plain text     = "BR3QHSI"
+encrypted text = "/@"A9E<"
+decrypted text = "BR3QHSI"
+plain text     = "BR3QHSI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-11 21:22:40
 key            = 6 
 plain text     = "RXF46E"
