@@ -1,3 +1,11 @@
+tanggal        = 2022-09-11 05:42:23
+key            = 13 
+plain text     = "X6G7ZUQSO8NOM"
+encrypted text = "D#5&JFCFC-DFE"
+decrypted text = "X6G7ZUQSO8NOM"
+plain text     = "X6G7ZUQSO8NOM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-11 04:31:48
 key            = 11 
 plain text     = "S1B29V0WHIF"
