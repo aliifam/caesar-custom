@@ -1,3 +1,11 @@
+tanggal        = 2022-09-11 16:34:46
+key            = 19 
+plain text     = "8MXTVFC2CY4UYYWGJP7"
+encrypted text = "n&2/2#!o#:t8=>=.29!"
+decrypted text = "8MXTVFC2CY4UYYWGJP7"
+plain text     = "8MXTVFC2CY4UYYWGJP7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-11 15:48:26
 key            = 92 
 plain text     = "IEPEJPKU5CHHHUXPMCPY0ZN6UG601XNF4VHD0V3RZVXZ2GWWKA9YK280D1GLY7YMYXH6TTKT8Z5BBXE46CO6JXNEDHD7"
