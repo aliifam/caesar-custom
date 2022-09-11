@@ -1,3 +1,11 @@
+tanggal        = 2022-09-11 09:45:42
+key            = 24 
+plain text     = "8EOUH3SIG2PJSLHWR55CKSXE"
+encrypted text = "~.9@4~A87#B=GA>NJ./>GPVD"
+decrypted text = "8EOUH3SIG2PJSLHWR55CKSXE"
+plain text     = "8EOUH3SIG2PJSLHWR55CKSXE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-11 09:24:41
 key            = 82 
 plain text     = "FPIEWZBRZY52DUQDA3C3UL43H5U5G0YHU2M19401EOSAW4TM84P9EMS633XOSTKBQAVLGFRHMT6DAMBPPZ"
