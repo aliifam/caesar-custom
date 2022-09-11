@@ -1,3 +1,11 @@
+tanggal        = 2022-09-11 02:45:38
+key            = 7 
+plain text     = "CGBIQ3C"
+encrypted text = ").*2;|/"
+decrypted text = "CGBIQ3C"
+plain text     = "CGBIQ3C"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-10 23:48:36
 key            = 2 
 plain text     = "WQ"
