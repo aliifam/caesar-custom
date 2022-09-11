@@ -1,3 +1,11 @@
+tanggal        = 2022-09-11 13:37:59
+key            = 79 
+plain text     = "VDFZ3W21R4ASASRRTCMIRAOY6RUMEMGC141D2K5K65EQYIXZ0304BVY0K7D55ZVBQDR42PM54ML2GI3"
+encrypted text = "udg|V{WWy\j}l!!"%s~{'u&1m,0)"+&#ptr(u1z3}}0=F7GJ!%#(7LP(D1?12XUBRFU87VT==WW>TWB"
+decrypted text = "VDFZ3W21R4ASASRRTCMIRAOY6RUMEMGC141D2K5K65EQYIXZ0304BVY0K7D55ZVBQDR42PM54ML2GI3"
+plain text     = "VDFZ3W21R4ASASRRTCMIRAOY6RUMEMGC141D2K5K65EQYIXZ0304BVY0K7D55ZVBQDR42PM54ML2GI3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-11 12:46:39
 key            = 11 
 plain text     = "CARUL2TUF2N"
