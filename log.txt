@@ -1,3 +1,11 @@
+tanggal        = 2022-09-11 15:26:21
+key            = 4 
+plain text     = "QSQA"
+encrypted text = "lon_"
+decrypted text = "QSQA"
+plain text     = "QSQA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-11 14:43:34
 key            = 80 
 plain text     = "ELEMKA5YY9EX6YQL5PSPO91DRXLVP2MX9THOK5EEHN4G4ZUI5ZL7N3U9FPJ57G1B2DNN20TCQX8JTA2I"
