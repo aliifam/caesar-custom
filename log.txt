@@ -1,3 +1,11 @@
+tanggal        = 2022-09-11 12:46:39
+key            = 11 
+plain text     = "CARUL2TUF2N"
+encrypted text = ".-?C;"EG9&C"
+decrypted text = "CARUL2TUF2N"
+plain text     = "CARUL2TUF2N"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-11 11:41:25
 key            = 15 
 plain text     = "CN4DSHRDPB7HLYV"
