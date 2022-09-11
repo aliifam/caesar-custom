@@ -1,3 +1,11 @@
+tanggal        = 2022-09-11 21:22:40
+key            = 6 
+plain text     = "RXF46E"
+encrypted text = "ho^MP`"
+decrypted text = "RXF46E"
+plain text     = "RXF46E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-11 20:48:44
 key            = 17 
 plain text     = "7Q1ECO0XWU0GC2XXE"
