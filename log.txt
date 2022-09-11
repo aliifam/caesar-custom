@@ -1,3 +1,11 @@
+tanggal        = 2022-09-11 04:31:48
+key            = 11 
+plain text     = "S1B29V0WHIF"
+encrypted text = "&cufn.g1#%#"
+decrypted text = "S1B29V0WHIF"
+plain text     = "S1B29V0WHIF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-11 02:45:38
 key            = 7 
 plain text     = "CGBIQ3C"
