@@ -1,3 +1,11 @@
+tanggal        = 2022-09-11 23:49:47
+key            = 37 
+plain text     = "0NQA4BQJHQKXPTB50TB5MHLHRQG6NFQZ6842E"
+encrypted text = "Yx|map"zy%~.',ymi0}q,(-*55,z5.:D!$!~4"
+decrypted text = "0NQA4BQJHQKXPTB50TB5MHLHRQG6NFQZ6842E"
+plain text     = "0NQA4BQJHQKXPTB50TB5MHLHRQG6NFQZ6842E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-11 23:26:24
 key            = 24 
 plain text     = "CWOU6ZEWKY5IKX54X9BGAX99"
