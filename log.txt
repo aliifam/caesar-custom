@@ -1,3 +1,11 @@
+tanggal        = 2022-09-12 22:26:06
+key            = 6 
+plain text     = "SCP3JY"
+encrypted text = "rcqUm}"
+decrypted text = "SCP3JY"
+plain text     = "SCP3JY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-12 21:45:44
 key            = 70 
 plain text     = "J0FH64DCRF5Y24M3RONNJROMEJAKKFO7ZJP8ME02J3DT3V610JLDQX0A2MARVCMT494APG"
