@@ -1,3 +1,11 @@
+tanggal        = 2022-09-12 15:30:49
+key            = 29 
+plain text     = "HR7GEWW3BCNL9OSAFB78XQPUOHXF4"
+encrypted text = "q|bsr'(csu#"n',y!|rt71172,=,y"
+decrypted text = "HR7GEWW3BCNL9OSAFB78XQPUOHXF4"
+plain text     = "HR7GEWW3BCNL9OSAFB78XQPUOHXF4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-12 14:30:47
 key            = 67 
 plain text     = "QYYGRQA3JVVTGJ9BAFE6VY519FR6V90O26YOEIAXMY43CDWDAREXHEEZ5EXMRW31WF9"
