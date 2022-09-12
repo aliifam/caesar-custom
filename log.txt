@@ -1,3 +1,11 @@
+tanggal        = 2022-09-12 22:46:58
+key            = 92 
+plain text     = "OMZ74N2KJD7X76HBS7R6NMWWDT1672JHHZAA8QM1XB3EO0OVBKOH5RW9Y247AYQ9JBOQYIX9KFRJRFSGU2AD7Q0GQGI9"
+encrypted text = "ts#_]x]wwrf*hh{v*m+n))45#4pvxt/./B*+#=:}G2$7B$DL9CHB0NT7X259D]V?QJX[dUeGZVc\eZh]lJZ^RmMepgj["
+decrypted text = "OMZ74N2KJD7X76HBS7R6NMWWDT1672JHHZAA8QM1XB3EO0OVBKOH5RW9Y247AYQ9JBOQYIX9KFRJRFSGU2AD7Q0GQGI9"
+plain text     = "OMZ74N2KJD7X76HBS7R6NMWWDT1672JHHZAA8QM1XB3EO0OVBKOH5RW9Y247AYQ9JBOQYIX9KFRJRFSGU2AD7Q0GQGI9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-12 22:26:06
 key            = 6 
 plain text     = "SCP3JY"
