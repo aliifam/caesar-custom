@@ -1,3 +1,11 @@
+tanggal        = 2022-09-13 10:29:33
+key            = 25 
+plain text     = "NHOF4QP040I9BFA356P7NHXLL"
+encrypted text = "upxp_}}^c`zkuzviln+q+&7,-"
+decrypted text = "NHOF4QP040I9BFA356P7NHXLL"
+plain text     = "NHOF4QP040I9BFA356P7NHXLL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-13 09:49:26
 key            = 65 
 plain text     = "HJW7ZSPTK16JNCLV8XJV4RUU3CT7SJEOZKT33AANG3XPF4EUPOYEB2QRK02HTLB2E"
