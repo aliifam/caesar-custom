@@ -1,3 +1,11 @@
+tanggal        = 2022-09-13 15:52:07
+key            = 56 
+plain text     = "REF88ARS6POYSU4CVDFX6VBDZGNJBIHH87SSMWKXTWGZ6PVPYOGWTTZI"
+encrypted text = "$vxklv*,n++614r$8'*=z=*-D2:70889**GHCNCQNRCW4OVQ[RK\Z[bR"
+decrypted text = "REF88ARS6POYSU4CVDFX6VBDZGNJBIHH87SSMWKXTWGZ6PVPYOGWTTZI"
+plain text     = "REF88ARS6POYSU4CVDFX6VBDZGNJBIHH87SSMWKXTWGZ6PVPYOGWTTZI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-13 15:28:26
 key            = 7 
 plain text     = "620IDUK"
