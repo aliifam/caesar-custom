@@ -1,3 +1,11 @@
+tanggal        = 2022-09-13 11:23:03
+key            = 3 
+plain text     = "SLC"
+encrypted text = "B<4"
+decrypted text = "SLC"
+plain text     = "SLC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-13 10:51:04
 key            = 40 
 plain text     = "TNGTNJX686J18SZ9H3V4ZU2JHEMN9D5MT5OI61U8"
