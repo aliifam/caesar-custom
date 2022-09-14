@@ -1,3 +1,11 @@
+tanggal        = 2022-09-14 19:41:55
+key            = 24 
+plain text     = "Q1Q24NKDIA96YFVAJQL1NQ5F"
+encrypted text = ";z=}"=;5;4-+O=N:DLH.LP5G"
+decrypted text = "Q1Q24NKDIA96YFVAJQL1NQ5F"
+plain text     = "Q1Q24NKDIA96YFVAJQL1NQ5F"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-14 19:22:13
 key            = 4 
 plain text     = "QO2D"
