@@ -1,3 +1,11 @@
+tanggal        = 2022-09-14 13:56:41
+key            = 1 
+plain text     = "C"
+encrypted text = ","
+decrypted text = "C"
+plain text     = "C"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-14 12:54:21
 key            = 34 
 plain text     = "SDMVOUIBKPRYKQW57XQK0Y8IJ6XOE4YJRM"
