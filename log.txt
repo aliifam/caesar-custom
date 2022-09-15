@@ -1,3 +1,11 @@
+tanggal        = 2022-09-15 14:31:42
+key            = 11 
+plain text     = "ZKDSFV02GBX"
+encrypted text = "=/)9->wz2.E"
+decrypted text = "ZKDSFV02GBX"
+plain text     = "ZKDSFV02GBX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-15 13:57:00
 key            = 27 
 plain text     = "ICJZNVY6M4OO1JUQP6EVFL10NT8"
