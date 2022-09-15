@@ -1,3 +1,11 @@
+tanggal        = 2022-09-15 20:51:42
+key            = 45 
+plain text     = "73JMHYM5MTNN64X9OZIOD9BL6JVEKELNF1HSI2IS8EOD0"
+encrypted text = "PMeiewlUnvqr[Z!ax&t{qgq|g|+y"{%(!k%1(p*5y)4*u"
+decrypted text = "73JMHYM5MTNN64X9OZIOD9BL6JVEKELNF1HSI2IS8EOD0"
+plain text     = "73JMHYM5MTNN64X9OZIOD9BL6JVEKELNF1HSI2IS8EOD0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-15 20:29:17
 key            = 68 
 plain text     = "S9ZISJHR576VAAA8ZGHX5INI1VWSARK0NDNPCY8MK719QM89EX39OWJPRYTF7CO4V11E"
