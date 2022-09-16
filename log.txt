@@ -1,3 +1,11 @@
+tanggal        = 2022-09-16 21:22:46
+key            = 7 
+plain text     = "11B8YAX"
+encrypted text = "fgyp4{5"
+decrypted text = "11B8YAX"
+plain text     = "11B8YAX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-16 20:48:25
 key            = 30 
 plain text     = "L13734NYE153H038Y560SNBOCQ9GIK"
