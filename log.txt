@@ -1,3 +1,11 @@
+tanggal        = 2022-09-16 11:22:37
+key            = 5 
+plain text     = "4Y09M"
+encrypted text = "3Y1;P"
+decrypted text = "4Y09M"
+plain text     = "4Y09M"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-16 10:52:54
 key            = 92 
 plain text     = "V5QCM7P9W0KONGREMO4XR6XM3LR8K11OAF8B4MEZYJNRM5YK3RR6Z6W02GWH9JI0D2E3EMJZHJ3TPGVXM13QZ2QHYXCL"
