@@ -1,3 +1,11 @@
+tanggal        = 2022-09-16 07:07:43
+key            = 19 
+plain text     = "EU5OEM97EK4BTN1OZWO"
+encrypted text = "ZkLg^gTSbiSbupTs!}v"
+decrypted text = "EU5OEM97EK4BTN1OZWO"
+plain text     = "EU5OEM97EK4BTN1OZWO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-16 06:12:26
 key            = 62 
 plain text     = "OVDP0LHZIF3N2D0SQ0BYHJH33OPSS77LFB2S0RS7WE4OXVLYXQZNKKONV5XLMU"
