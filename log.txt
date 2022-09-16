@@ -1,3 +1,11 @@
+tanggal        = 2022-09-16 20:48:25
+key            = 30 
+plain text     = "L13734NYE153H038Y560SNBOCQ9GIK"
+encrypted text = "<"%*')DP=*/.D-17Y683WSHVKZCRUX"
+decrypted text = "L13734NYE153H038Y560SNBOCQ9GIK"
+plain text     = "L13734NYE153H038Y560SNBOCQ9GIK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-16 20:27:52
 key            = 31 
 plain text     = "SJTZOCGCAB0SKEIDNDJ39MYK5W9KQAK"
