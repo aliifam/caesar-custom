@@ -1,3 +1,11 @@
+tanggal        = 2022-09-17 19:20:13
+key            = 46 
+plain text     = "FHPT125V4GHHZEN2J2FN1MRFXMS9FUS92CX60G6S0B41B0"
+encrypted text = "_bkpNPTvUikl!kuZs\qz^{#v+!(m{-,qk}5rm'u5q&wu)v"
+decrypted text = "FHPT125V4GHHZEN2J2FN1MRFXMS9FUS92CX60G6S0B41B0"
+plain text     = "FHPT125V4GHHZEN2J2FN1MRFXMS9FUS92CX60G6S0B41B0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-17 18:31:22
 key            = 40 
 plain text     = "IK67ZUE81R2OIGMROZJVSYNZEJEU1KUNLJ4GMBMO"
