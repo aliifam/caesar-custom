@@ -1,3 +1,11 @@
+tanggal        = 2022-09-17 11:41:50
+key            = 7 
+plain text     = "JFJVR7G"
+encrypted text = "olq~{ar"
+decrypted text = "JFJVR7G"
+plain text     = "JFJVR7G"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-17 11:21:41
 key            = 27 
 plain text     = "B1XCLZ1YP5OFRTRJ0F0O80ZX0BX"
