@@ -1,3 +1,11 @@
+tanggal        = 2022-09-17 21:22:45
+key            = 42 
+plain text     = "NEL3TKVWAPC0MHM2PP3G0Y91NPVQMWYVR4S17AO6SW"
+encrypted text = "umu]!w%'p"tb"|$h)*l#k7vo/2952=@>;|>{$/>&DI"
+decrypted text = "NEL3TKVWAPC0MHM2PP3G0Y91NPVQMWYVR4S17AO6SW"
+plain text     = "NEL3TKVWAPC0MHM2PP3G0Y91NPVQMWYVR4S17AO6SW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-17 20:46:58
 key            = 2 
 plain text     = "0I"
