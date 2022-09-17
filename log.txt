@@ -1,3 +1,11 @@
+tanggal        = 2022-09-17 15:26:33
+key            = 14 
+plain text     = "GGH3QK9C7KQ1ZE"
+encrypted text = "^_aMlgVaVkrS}i"
+decrypted text = "GGH3QK9C7KQ1ZE"
+plain text     = "GGH3QK9C7KQ1ZE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-17 14:43:54
 key            = 64 
 plain text     = "XVNZ5GC3JXF3C4N82F87UOWJBM63X49KFBIMTPCK14ETPXYSRCXJE6WMLURJIM13"
