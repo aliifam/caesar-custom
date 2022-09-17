@@ -1,3 +1,11 @@
+tanggal        = 2022-09-17 17:48:26
+key            = 9 
+plain text     = "FG6RDGBE0"
+encrypted text = "13#@3737#"
+decrypted text = "FG6RDGBE0"
+plain text     = "FG6RDGBE0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-17 17:28:23
 key            = 82 
 plain text     = "FNPPV5OJ3AN0M0RPCWEUK3JHDX5KLOGTJSFGT2V41OQR1YP866JZTIAZNFWISV3TTAWDJDM63I9YRD59SY"
