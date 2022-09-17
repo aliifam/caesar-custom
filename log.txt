@@ -1,3 +1,11 @@
+tanggal        = 2022-09-17 15:48:25
+key            = 55 
+plain text     = "VIJQZUK500TLVMG9IJOT8CIE6GY3L3IAQZEATAW2J8MMR8G6L2OX9BA"
+encrypted text = ""tv~*&{fbc*#.&!r%'-3v$+(x,?x4z3,=G30D2I%>-CDJ1A1H/MW9CC"
+decrypted text = "VIJQZUK500TLVMG9IJOT8CIE6GY3L3IAQZEATAW2J8MMR8G6L2OX9BA"
+plain text     = "VIJQZUK500TLVMG9IJOT8CIE6GY3L3IAQZEATAW2J8MMR8G6L2OX9BA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-17 15:26:33
 key            = 14 
 plain text     = "GGH3QK9C7KQ1ZE"
