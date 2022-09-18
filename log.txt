@@ -1,3 +1,11 @@
+tanggal        = 2022-09-18 06:32:28
+key            = 19 
+plain text     = "R6H15S0BNRC6G5FHBO5"
+encrypted text = "S8K5:Y7JW\NBTCUXSaH"
+decrypted text = "R6H15S0BNRC6G5FHBO5"
+plain text     = "R6H15S0BNRC6G5FHBO5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-18 05:47:22
 key            = 27 
 plain text     = "6JLAMLS5XX9GQ6NL9Y84Y7AEO8E"
