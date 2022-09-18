@@ -1,3 +1,11 @@
+tanggal        = 2022-09-18 13:40:04
+key            = 7 
+plain text     = "I0PGFY0"
+encrypted text = "/u800Dz"
+decrypted text = "I0PGFY0"
+plain text     = "I0PGFY0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-18 12:47:55
 key            = 29 
 plain text     = "2AR1GO9RX67CG5XRRWLKS1VP50P8E"
