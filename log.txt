@@ -1,3 +1,11 @@
+tanggal        = 2022-09-18 09:25:08
+key            = 4 
+plain text     = "QIXQ"
+encrypted text = ">7GA"
+decrypted text = "QIXQ"
+plain text     = "QIXQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-18 08:30:33
 key            = 47 
 plain text     = "UD28H7GK6IU4JIGO29ZRY9HNIO3W4Q53DGBS88RAHLRT5ZW"
