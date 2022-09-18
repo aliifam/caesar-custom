@@ -1,3 +1,11 @@
+tanggal        = 2022-09-18 15:49:18
+key            = 34 
+plain text     = "UQ424EM2HYK1BR0UBA9MOSHIM5L105HZTV"
+encrypted text = "KH,+.@I/FXK2DU4ZHHAVY^TV[D\BBH\ojm"
+decrypted text = "UQ424EM2HYK1BR0UBA9MOSHIM5L105HZTV"
+plain text     = "UQ424EM2HYK1BR0UBA9MOSHIM5L105HZTV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-18 15:26:49
 key            = 12 
 plain text     = "L3N7UBKLG8T0"
