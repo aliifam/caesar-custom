@@ -1,3 +1,11 @@
+tanggal        = 2022-09-18 16:35:32
+key            = 7 
+plain text     = "RWRCDUB"
+encrypted text = "%+'wy-y"
+decrypted text = "RWRCDUB"
+plain text     = "RWRCDUB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-18 15:49:18
 key            = 34 
 plain text     = "UQ424EM2HYK1BR0UBA9MOSHIM5L105HZTV"
