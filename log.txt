@@ -1,3 +1,11 @@
+tanggal        = 2022-09-19 13:57:26
+key            = 20 
+plain text     = "9QGDJ02BY0AO76F8OXAO"
+encrypted text = ">WNLS:=Nf>P_HHYLdnXg"
+decrypted text = "9QGDJ02BY0AO76F8OXAO"
+plain text     = "9QGDJ02BY0AO76F8OXAO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-19 12:56:09
 key            = 24 
 plain text     = "JBKXHTHQYZFYPASBX4ES2X52"
