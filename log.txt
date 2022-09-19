@@ -1,3 +1,11 @@
+tanggal        = 2022-09-19 22:25:55
+key            = 20 
+plain text     = "VOVDT8SFVDTE9EL1M3M2"
+encrypted text = "WQYHY>ZN_N_QFS[A^E`F"
+decrypted text = "VOVDT8SFVDTE9EL1M3M2"
+plain text     = "VOVDT8SFVDTE9EL1M3M2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-19 21:46:11
 key            = 3 
 plain text     = "UXT"
