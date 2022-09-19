@@ -1,3 +1,11 @@
+tanggal        = 2022-09-19 21:46:11
+key            = 3 
+plain text     = "UXT"
+encrypted text = "485"
+decrypted text = "UXT"
+plain text     = "UXT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-19 21:25:12
 key            = 13 
 plain text     = "3A95MUEPPXVOS"
