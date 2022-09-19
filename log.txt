@@ -1,3 +1,11 @@
+tanggal        = 2022-09-19 07:23:34
+key            = 20 
+plain text     = "QJLWCG0E8ZSD7QUTYKKI"
+encrypted text = "$|!-x}g}q60"t166</0/"
+decrypted text = "QJLWCG0E8ZSD7QUTYKKI"
+plain text     = "QJLWCG0E8ZSD7QUTYKKI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-19 06:20:25
 key            = 2 
 plain text     = "MI"
