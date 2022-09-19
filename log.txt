@@ -1,3 +1,11 @@
+tanggal        = 2022-09-19 22:46:32
+key            = 38 
+plain text     = "BE7C5X71PTILBNFK266FR39PN5Z493OO2NAX4O"
+encrypted text = "x|o|o5sn05+/&3,2x}~1>~'?>&L'-(EF*G;S0L"
+decrypted text = "BE7C5X71PTILBNFK266FR39PN5Z493OO2NAX4O"
+plain text     = "BE7C5X71PTILBNFK266FR39PN5Z493OO2NAX4O"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-19 22:25:55
 key            = 20 
 plain text     = "VOVDT8SFVDTE9EL1M3M2"
