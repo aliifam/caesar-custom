@@ -1,3 +1,11 @@
+tanggal        = 2022-09-19 12:56:09
+key            = 24 
+plain text     = "JBKXHTHQYZFYPASBX4ES2X52"
+encrypted text = "${'5&3(2;=*>6(;+B}1@~G%#"
+decrypted text = "JBKXHTHQYZFYPASBX4ES2X52"
+plain text     = "JBKXHTHQYZFYPASBX4ES2X52"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-19 11:43:09
 key            = 64 
 plain text     = "2CYLBCQTTU5EJKIXV5YWK4HFIF6ER8YX2V18EPI1W6Z4VV3C20JO2Y7TXY8RVCJ4"
