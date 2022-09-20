@@ -1,3 +1,11 @@
+tanggal        = 2022-09-20 14:35:50
+key            = 53 
+plain text     = "GIA8644LBPMRUY5KHJJJU73CO9V7JDGU2BK24QYXIHAQKEOLB0ABE"
+encrypted text = ",/(~}|}8/><BFK(?=@ABN1.?L7U7KFJY7HR:=[ddVVPa\Wb`WFXZ^"
+decrypted text = "GIA8644LBPMRUY5KHJJJU73CO9V7JDGU2BK24QYXIHAQKEOLB0ABE"
+plain text     = "GIA8644LBPMRUY5KHJJJU73CO9V7JDGU2BK24QYXIHAQKEOLB0ABE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-20 13:57:57
 key            = 1 
 plain text     = "V"
