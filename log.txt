@@ -1,3 +1,11 @@
+tanggal        = 2022-09-20 20:49:17
+key            = 6 
+plain text     = "KIQSTG"
+encrypted text = "TS\_aU"
+decrypted text = "KIQSTG"
+plain text     = "KIQSTG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-20 20:28:17
 key            = 33 
 plain text     = "V04J87UFYESYDOCNN8QSC20VJABHMS7VI"
