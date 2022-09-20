@@ -1,3 +1,11 @@
+tanggal        = 2022-09-20 07:05:20
+key            = 15 
+plain text     = "RBBHLGPSKM1E28F"
+encrypted text = "sdelqmw{tw\q_fu"
+decrypted text = "RBBHLGPSKM1E28F"
+plain text     = "RBBHLGPSKM1E28F"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-20 06:10:59
 key            = 70 
 plain text     = "4Z3LSAZ9WN5G2RGR2UA8Q8ZXQWTBB7H1MDSWVBYD3MIHIAOCR1L479M7MA76PUEU75BBJS"
