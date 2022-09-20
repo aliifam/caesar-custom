@@ -1,3 +1,11 @@
+tanggal        = 2022-09-20 21:46:12
+key            = 15 
+plain text     = "EW7BA78UCMF2UDS"
+encrypted text = "PcDPPGIgVa[Hl\l"
+decrypted text = "EW7BA78UCMF2UDS"
+plain text     = "EW7BA78UCMF2UDS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-20 21:24:55
 key            = 10 
 plain text     = "TN5NRAHVSF"
