@@ -1,3 +1,11 @@
+tanggal        = 2022-09-21 20:49:09
+key            = 39 
+plain text     = "LTLT2ZT27HL492CPL1TN386SLXI8RBIAIYUWUNQ"
+encrypted text = "PYR[:c^=CUZCICUc`FjeKQPnhugWrckdm~{~}w{"
+decrypted text = "LTLT2ZT27HL492CPL1TN386SLXI8RBIAIYUWUNQ"
+plain text     = "LTLT2ZT27HL492CPL1TN386SLXI8RBIAIYUWUNQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-21 20:28:22
 key            = 86 
 plain text     = "90HVMYFZ9L20RX5AC5B8AGFWLC2MR0U9LAEF4M4L3NAPXVD62SRECZ544MIKYFGD07ML3JLBQW866WOY83BCNW"
