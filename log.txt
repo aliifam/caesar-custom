@@ -1,3 +1,11 @@
+tanggal        = 2022-09-21 08:41:09
+key            = 45 
+plain text     = "JDC8PMXBDWYL4IUQ5A1IGUIS9J537WA3IUF7RETOV7GK4"
+encrypted text = "kff\us!jm#&xaw&#fsd}|-"-r&pot7"s,9+{9-=9A#49#"
+decrypted text = "JDC8PMXBDWYL4IUQ5A1IGUIS9J537WA3IUF7RETOV7GK4"
+plain text     = "JDC8PMXBDWYL4IUQ5A1IGUIS9J537WA3IUF7RETOV7GK4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-21 07:59:38
 key            = 1 
 plain text     = "4"
