@@ -1,3 +1,11 @@
+tanggal        = 2022-09-21 09:50:31
+key            = 3 
+plain text     = "YUP"
+encrypted text = "nkg"
+decrypted text = "YUP"
+plain text     = "YUP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-21 09:28:21
 key            = 5 
 plain text     = "F9K8B"
