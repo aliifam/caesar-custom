@@ -1,3 +1,11 @@
+tanggal        = 2022-09-21 10:51:18
+key            = 17 
+plain text     = "GJB5081LXFR91G0SJ"
+encrypted text = "PTMA=F@\iXeMF]Gkc"
+decrypted text = "GJB5081LXFR91G0SJ"
+plain text     = "GJB5081LXFR91G0SJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-21 10:29:53
 key            = 99 
 plain text     = "LL6JOFOK7UOX19WD9SM37DIX1TTYQNR8AEN8VXTSWOMVYS56MY78726UWD8GI9RZF4THMYITUXME3THDLX9HN749OVJPGA8H3JR"
