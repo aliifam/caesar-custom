@@ -1,3 +1,11 @@
+tanggal        = 2022-09-21 21:24:06
+key            = 12 
+plain text     = "WF2Q6FLKSO7Q"
+encrypted text = "F6#C):AAJG0K"
+decrypted text = "WF2Q6FLKSO7Q"
+plain text     = "WF2Q6FLKSO7Q"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-21 20:49:09
 key            = 39 
 plain text     = "LTLT2ZT27HL492CPL1TN386SLXI8RBIAIYUWUNQ"
