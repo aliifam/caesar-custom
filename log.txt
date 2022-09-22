@@ -1,3 +1,11 @@
+tanggal        = 2022-09-22 21:24:36
+key            = 15 
+plain text     = "9YBKHC9LPQPSNV6"
+encrypted text = "LmWa_[RfkmmqmvW"
+decrypted text = "9YBKHC9LPQPSNV6"
+plain text     = "9YBKHC9LPQPSNV6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-22 20:49:36
 key            = 82 
 plain text     = "0E1E6ISC0V0AHNDAKT3W8H8N7GY56MDAQ41HWUD6Z2RZNO9FFCHDRBTDOFY2Y2AH3HWW3X7IRPY6EDUWI9"
