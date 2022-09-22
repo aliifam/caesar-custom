@@ -1,3 +1,11 @@
+tanggal        = 2022-09-22 22:49:05
+key            = 1 
+plain text     = "8"
+encrypted text = """
+decrypted text = "8"
+plain text     = "8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-22 22:27:52
 key            = 89 
 plain text     = "CBZ2EF6TJSCJMKNDOQBAKDE3D1FAHFC274DLVURC7BRCLPQSLVYWSZFXO84SJW6B0FEGN1JAG5FQVYFURFI6D9QEX"
