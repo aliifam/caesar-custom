@@ -1,3 +1,11 @@
+tanggal        = 2022-09-22 21:46:19
+key            = 5 
+plain text     = "9BBIF"
+encrypted text = "BLMUS"
+decrypted text = "9BBIF"
+plain text     = "9BBIF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-22 21:24:36
 key            = 15 
 plain text     = "9YBKHC9LPQPSNV6"
