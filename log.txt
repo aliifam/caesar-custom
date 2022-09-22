@@ -1,3 +1,11 @@
+tanggal        = 2022-09-22 09:52:20
+key            = 9 
+plain text     = "PRP5ENNDT"
+encrypted text = ":=<"3=>5F"
+decrypted text = "PRP5ENNDT"
+plain text     = "PRP5ENNDT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-22 09:29:38
 key            = 55 
 plain text     = "M0XEB8T1743HVRKBEZVIZ4F3QG409KAQMB4HRNIR1Z3K6BGH2BUFIJV"
