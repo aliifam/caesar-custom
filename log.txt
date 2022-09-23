@@ -1,3 +1,11 @@
+tanggal        = 2022-09-23 07:10:26
+key            = 47 
+plain text     = "1LPKZ7BSWWF7LNNHIDI7AU6B6J87R524MM3KY6WPA6AF656"
+encrypted text = "(DIEU3?QVWG9ORSNPLRALaCPEZIIeIGJdeLetRtn`VbhYY["
+decrypted text = "1LPKZ7BSWWF7LNNHIDI7AU6B6J87R524MM3KY6WPA6AF656"
+plain text     = "1LPKZ7BSWWF7LNNHIDI7AU6B6J87R524MM3KY6WPA6AF656"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-23 06:05:08
 key            = 4 
 plain text     = "ZT2D"
