@@ -1,3 +1,11 @@
+tanggal        = 2022-09-23 20:49:29
+key            = 11 
+plain text     = "ZE31E6A1XKL"
+encrypted text = "1{ji~p|m7+-"
+decrypted text = "ZE31E6A1XKL"
+plain text     = "ZE31E6A1XKL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-23 20:28:26
 key            = 94 
 plain text     = "OWZOB4WQ23MLWJ3MDTIXK0RCN94M5S1R2LKSPEXW1LLOEHWMI09JT2YLRHCNFNYP963FW4LQ28917F3K6I4LC57BW4UIBG"
