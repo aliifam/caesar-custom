@@ -1,3 +1,11 @@
+tanggal        = 2022-09-23 21:45:51
+key            = 19 
+plain text     = "ZHPDENVUF27TSKDLWHL"
+encrypted text = "O>G<>HQQC06TTMGP\NS"
+decrypted text = "ZHPDENVUF27TSKDLWHL"
+plain text     = "ZHPDENVUF27TSKDLWHL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-23 21:24:12
 key            = 19 
 plain text     = "B18V3Q3J5DN1U4GOX0B"
