@@ -1,3 +1,11 @@
+tanggal        = 2022-09-24 12:49:05
+key            = 8 
+plain text     = "2VLVBCLW"
+encrypted text = "t;2=*,6B"
+decrypted text = "2VLVBCLW"
+plain text     = "2VLVBCLW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-24 11:42:47
 key            = 61 
 plain text     = "8XQTS5P7NPY432DOTKNG7HG2HUY3STN9XU1CK88V22D9A7P42OJM56XACYTAM"
