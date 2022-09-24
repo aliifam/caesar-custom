@@ -1,3 +1,11 @@
+tanggal        = 2022-09-24 20:26:58
+key            = 42 
+plain text     = "RBVYMARTMR3J2MW3H3KZJ1XR51G1F5VB6GEDUOZFRY"
+encrypted text = "}n%)|q%("(h"i'2m%o*:+q;6xu.w/}A.#544FAM:GO"
+decrypted text = "RBVYMARTMR3J2MW3H3KZJ1XR51G1F5VB6GEDUOZFRY"
+plain text     = "RBVYMARTMR3J2MW3H3KZJ1XR51G1F5VB6GEDUOZFRY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-24 19:40:51
 key            = 2 
 plain text     = "WX"
