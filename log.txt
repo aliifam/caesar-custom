@@ -1,3 +1,11 @@
+tanggal        = 2022-09-24 07:43:32
+key            = 33 
+plain text     = "PQHMV9SMHUU5YPU4TWS3YUXHB6XS3W6AZ"
+encrypted text = "SUMS]A\WSabCh`fFgkhIpmqb]RuqRwWc}"
+decrypted text = "PQHMV9SMHUU5YPU4TWS3YUXHB6XS3W6AZ"
+plain text     = "PQHMV9SMHUU5YPU4TWS3YUXHB6XS3W6AZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-24 07:24:56
 key            = 47 
 plain text     = "4IAT2US0NPSFEYYEVH3C2G72ZBXNAVG8E6AAHSJBL4EFP99"
