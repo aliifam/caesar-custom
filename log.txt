@@ -1,3 +1,11 @@
+tanggal        = 2022-09-24 21:44:52
+key            = 11 
+plain text     = "4E23K76G85N"
+encrypted text = "btbd}jj|nl("
+decrypted text = "4E23K76G85N"
+plain text     = "4E23K76G85N"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-24 21:23:01
 key            = 89 
 plain text     = "1KK1EFNLAPCLQN9K8NGVH8B480WO0JKRUVXIW0BIASWK7L35GFOPQF6YQ94SYWE41FMYA0O7O8IZYEKIXG0BAYZ09"
