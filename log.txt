@@ -1,3 +1,11 @@
+tanggal        = 2022-09-24 23:27:08
+key            = 2 
+plain text     = "CS"
+encrypted text = "|/"
+decrypted text = "CS"
+plain text     = "CS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-24 22:45:54
 key            = 83 
 plain text     = "YQAJYTA86ROQ5DOXA9P75422LFU7SRUXN7WIASNOVKX37LDXJZ8JIMMQ8RCJUDJB0RDVOWGRY9U6I6VOY22"
