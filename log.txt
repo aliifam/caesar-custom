@@ -1,3 +1,11 @@
+tanggal        = 2022-09-24 05:48:40
+key            = 23 
+plain text     = "GJN6UGTP7OHHG2OKAEEF8JG"
+encrypted text = "ptyb$u%"h#{||h(%z!"$u*("
+decrypted text = "GJN6UGTP7OHHG2OKAEEF8JG"
+plain text     = "GJN6UGTP7OHHG2OKAEEF8JG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-24 04:45:35
 key            = 6 
 plain text     = "ZDYU0K"
