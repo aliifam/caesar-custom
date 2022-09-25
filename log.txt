@@ -1,3 +1,11 @@
+tanggal        = 2022-09-25 16:35:10
+key            = 6 
+plain text     = "TTU2K8"
+encrypted text = "IJL*D2"
+decrypted text = "TTU2K8"
+plain text     = "TTU2K8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-25 15:49:20
 key            = 22 
 plain text     = "86UAM6QYJ345KV36MGODXV"
