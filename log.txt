@@ -1,3 +1,11 @@
+tanggal        = 2022-09-25 04:35:03
+key            = 43 
+plain text     = "2GP2XV78MAPVCWQB0SJ0FRH90L10BLNUI9ORL14YO24"
+encrypted text = "9OY<cbDF\QahVkfXGkcJaneWOlRReps{pax|w]a~be"
+decrypted text = "2GP2XV78MAPVCWQB0SJ0FRH90L10BLNUI9ORL14YO24"
+plain text     = "2GP2XV78MAPVCWQB0SJ0FRH90L10BLNUI9ORL14YO24"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-25 02:45:38
 key            = 27 
 plain text     = "Q2O7FVLO2739YFJWXGZZJ9H5HVB"
