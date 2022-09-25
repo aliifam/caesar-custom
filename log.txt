@@ -1,3 +1,11 @@
+tanggal        = 2022-09-25 07:43:09
+key            = 36 
+plain text     = "6T0X7FN5Q0E9VZAXSA9U941PK6JSDSCYY2MS"
+encrypted text = "NmJsSclTqQg\z!g!{jc"ea_!{g|(x*y23k)0"
+decrypted text = "6T0X7FN5Q0E9VZAXSA9U941PK6JSDSCYY2MS"
+plain text     = "6T0X7FN5Q0E9VZAXSA9U941PK6JSDSCYY2MS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-25 07:24:51
 key            = 5 
 plain text     = "BYKIA"
