@@ -1,3 +1,11 @@
+tanggal        = 2022-09-25 07:24:51
+key            = 5 
+plain text     = "BYKIA"
+encrypted text = "{5('~"
+decrypted text = "BYKIA"
+plain text     = "BYKIA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-25 06:33:59
 key            = 86 
 plain text     = "BKGNVZXP8X2107LWTL1BZPDVIH3AVNSLX7WM33WOP4IEF1L8HSXV7VAPE7GFT2883VIP6UOVXX0CNYCIL0VUDH"
