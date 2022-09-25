@@ -1,3 +1,11 @@
+tanggal        = 2022-09-25 11:43:05
+key            = 9 
+plain text     = "CDPJ62IGT"
+encrypted text = "hjwr_\ts#"
+decrypted text = "CDPJ62IGT"
+plain text     = "CDPJ62IGT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-25 11:21:58
 key            = 50 
 plain text     = "VL13R6JIICUSM7N3MWETRQEOTCPC73349SYVDX09JFFTO3PYTY"
