@@ -1,3 +1,11 @@
+tanggal        = 2022-09-26 20:49:29
+key            = 38 
+plain text     = "QD7N43FCCD89U3JDVPFP1FNKGK4PM0QNTA3PTK"
+encrypted text = "MA5M44HFGI>@]<TOb]T_AW`^[`JgeIkip^Qotl"
+decrypted text = "QD7N43FCCD89U3JDVPFP1FNKGK4PM0QNTA3PTK"
+plain text     = "QD7N43FCCD89U3JDVPFP1FNKGK4PM0QNTA3PTK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-26 20:28:19
 key            = 5 
 plain text     = "RSOYZ"
