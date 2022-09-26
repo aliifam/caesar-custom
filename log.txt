@@ -1,3 +1,11 @@
+tanggal        = 2022-09-26 12:56:54
+key            = 45 
+plain text     = "B2VJGLRSHQUZU2YWEDE17M3T7M84FGDIISGR5DXL4DDE1"
+encrypted text = "-|C86<CE;EJPL*RQ@@B/6M4V:Q=:MOMST_T`DTi^GXY[H"
+decrypted text = "B2VJGLRSHQUZU2YWEDE17M3T7M84FGDIISGR5DXL4DDE1"
+plain text     = "B2VJGLRSHQUZU2YWEDE17M3T7M84FGDIISGR5DXL4DDE1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-26 11:44:15
 key            = 41 
 plain text     = "TX2IKHRAV9Y70VVDMP63I0ATFE742YNGV7XPE0T1C"
