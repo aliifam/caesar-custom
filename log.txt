@@ -1,3 +1,11 @@
+tanggal        = 2022-09-26 02:48:41
+key            = 10 
+plain text     = "H38DH8WJTU"
+encrypted text = "+u{*/~@4?A"
+decrypted text = "H38DH8WJTU"
+plain text     = "H38DH8WJTU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-25 23:51:56
 key            = 43 
 plain text     = "CO9G1RIU80SA36YRWZ3W3ATSWMNJNH1VZS61EH0RR49"
