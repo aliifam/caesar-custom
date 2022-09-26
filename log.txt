@@ -1,3 +1,11 @@
+tanggal        = 2022-09-26 09:51:09
+key            = 16 
+plain text     = "YF2PJS7XV5ZZ2HKH"
+encrypted text = "P>+JEO4VU5[\5LPN"
+decrypted text = "YF2PJS7XV5ZZ2HKH"
+plain text     = "YF2PJS7XV5ZZ2HKH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-26 09:29:44
 key            = 72 
 plain text     = "T70XI4L6HACR3UG4471N370EA7WD4G0RYCQWZVJSU8B9RKGLXR4MHDEKBBVPREUXVL9B6CF3"
