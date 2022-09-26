@@ -1,3 +1,11 @@
+tanggal        = 2022-09-26 17:36:34
+key            = 29 
+plain text     = "KLMTMVTRZR6H66ECZFB761QGLFRVD"
+encrypted text = "9;=E?IHGPI.A01A@XEB884ULRMZ_N"
+decrypted text = "KLMTMVTRZR6H66ECZFB761QGLFRVD"
+plain text     = "KLMTMVTRZR6H66ECZFB761QGLFRVD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-26 16:39:35
 key            = 91 
 plain text     = "KW8D2020AGB3RWC4F5FAY2K8D2ANHFC96N4I7P1PHC6XLND9FS9ZRLNQ5RATP4JTBVVEEYDTC1XG07L7W470AAZF403"
