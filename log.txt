@@ -1,3 +1,11 @@
+tanggal        = 2022-09-26 20:28:19
+key            = 5 
+plain text     = "RSOYZ"
+encrypted text = "oqny{"
+decrypted text = "RSOYZ"
+plain text     = "RSOYZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-26 19:42:27
 key            = 64 
 plain text     = "LXAS8BTR4UC267ZPZPFODPDLSQ8049D9L9DCE5CWVKL4HBID123P173UZN4FMBDP"
