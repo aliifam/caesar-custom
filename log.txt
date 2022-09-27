@@ -1,3 +1,11 @@
+tanggal        = 2022-09-27 11:45:12
+key            = 32 
+plain text     = "M06757H10Z3FYKKBIXUMERSXO21RGPF0"
+encrypted text = "fJQSRUgQQ|Vj~qrjr$"yr"$*"dd(|(}h"
+decrypted text = "M06757H10Z3FYKKBIXUMERSXO21RGPF0"
+plain text     = "M06757H10Z3FYKKBIXUMERSXO21RGPF0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-27 11:23:53
 key            = 2 
 plain text     = "DI"
