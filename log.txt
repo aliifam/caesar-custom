@@ -1,3 +1,11 @@
+tanggal        = 2022-09-27 09:02:40
+key            = 17 
+plain text     = "WMZN3A417O7YOLSIY"
+encrypted text = "mdrgM\PNUnWzqown!"
+decrypted text = "WMZN3A417O7YOLSIY"
+plain text     = "WMZN3A417O7YOLSIY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-27 08:03:05
 key            = 94 
 plain text     = "QDNZPWQDZIX0T7BK8ICLWI37GTM25H5XWM7YD1YHUN25KRD58SFD4JSNV5XE02XSKOBUALFBQ8U9H6TNJR4UZ6ESXE4O0U"
