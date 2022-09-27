@@ -1,3 +1,11 @@
+tanggal        = 2022-09-27 11:23:53
+key            = 2 
+plain text     = "DI"
+encrypted text = "GM"
+decrypted text = "DI"
+plain text     = "DI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-27 10:31:53
 key            = 74 
 plain text     = "HTZUB6X1QEC9HS82O7VZ5Q08MAW9GZCIRZHSWWTC0MH4BED1LR0JEQ34Y2KZ97BBWG0NPGQFWY"
