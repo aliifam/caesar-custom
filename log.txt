@@ -1,3 +1,11 @@
+tanggal        = 2022-09-27 14:55:34
+key            = 56 
+plain text     = "LVZ71CSEP7OGJN04KE9MPH55EFJJPAVUGQ65UF9N9H3HKSLQMK08B5T9"
+encrypted text = "?JO-(;L?K3LEIN16NI>SWP>?PRWX_QggZeKKl^RhTdPfjsmspoU^i]}c"
+decrypted text = "LVZ71CSEP7OGJN04KE9MPH55EFJJPAVUGQ65UF9N9H3HKSLQMK08B5T9"
+plain text     = "LVZ71CSEP7OGJN04KE9MPH55EFJJPAVUGQ65UF9N9H3HKSLQMK08B5T9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-27 14:02:02
 key            = 14 
 plain text     = "V2LZ5MME4MUVZ1"
