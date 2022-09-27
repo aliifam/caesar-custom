@@ -1,3 +1,11 @@
+tanggal        = 2022-09-27 04:45:13
+key            = 33 
+plain text     = "8Z572CE6D50OQ01Y9OF4RZWQIW67DBTXL"
+encrypted text = "j/ilhz}o~pl.1oq<{4,y:CA<5D$&43FK@"
+decrypted text = "8Z572CE6D50OQ01Y9OF4RZWQIW67DBTXL"
+plain text     = "8Z572CE6D50OQ01Y9OF4RZWQIW67DBTXL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-27 02:36:58
 key            = 1 
 plain text     = "V"
