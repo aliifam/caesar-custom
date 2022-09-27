@@ -1,3 +1,11 @@
+tanggal        = 2022-09-27 14:02:02
+key            = 14 
+plain text     = "V2LZ5MME4MUVZ1"
+encrypted text = "c@[jF_`YIclnsK"
+decrypted text = "V2LZ5MME4MUVZ1"
+plain text     = "V2LZ5MME4MUVZ1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-27 12:57:55
 key            = 31 
 plain text     = "IF8T09CS6NKRP25793ZPF06FTT3CAKO"
