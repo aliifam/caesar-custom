@@ -1,3 +1,11 @@
+tanggal        = 2022-09-27 20:52:19
+key            = 29 
+plain text     = "J24RN5ZZRGF2MYNUJAR2SKVF2VK47"
+encrypted text = "dMPolTz{tjjWs"v~tl~_#z(wd+!im"
+decrypted text = "J24RN5ZZRGF2MYNUJAR2SKVF2VK47"
+plain text     = "J24RN5ZZRGF2MYNUJAR2SKVF2VK47"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-27 20:30:04
 key            = 2 
 plain text     = "IE"
