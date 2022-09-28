@@ -1,3 +1,11 @@
+tanggal        = 2022-09-28 21:47:32
+key            = 15 
+plain text     = "31SYZ4IUWVXTULU"
+encrypted text = "KJmtvQgtwwzwyq{"
+decrypted text = "31SYZ4IUWVXTULU"
+plain text     = "31SYZ4IUWVXTULU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-28 21:25:41
 key            = 37 
 plain text     = "S2HL8WLE7OF1G9S6J8VWSK4WZUT2JK1CHF2GY"
