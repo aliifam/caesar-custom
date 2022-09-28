@@ -1,3 +1,11 @@
+tanggal        = 2022-09-28 06:13:24
+key            = 49 
+plain text     = "PESTYX7SNAYNAW6WWXY8Z6EWHI5BBWP593K5Q7JVSQ7967VVL"
+encrypted text = "wm|~&&d#}q,"t-k/024r7r$7)+v&'=7{"{6!>%9FDC*-+-MNE"
+decrypted text = "PESTYX7SNAYNAW6WWXY8Z6EWHI5BBWP593K5Q7JVSQ7967VVL"
+plain text     = "PESTYX7SNAYNAW6WWXY8Z6EWHI5BBWP593K5Q7JVSQ7967VVL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-28 04:54:48
 key            = 43 
 plain text     = "161N26JWL1SYOLMD5LXP49GIMHLF9MMT380LDGWM0L8"
