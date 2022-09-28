@@ -1,3 +1,11 @@
+tanggal        = 2022-09-28 22:29:03
+key            = 43 
+plain text     = "SVCGJQ4Z2EJJUBVEF3DGVHVAFWSU5VQU95NCMNZ4TET"
+encrypted text = "jn\aemQxQeklxf{km[mq#t%ou)&)h,(-pm)}*,9r5'7"
+decrypted text = "SVCGJQ4Z2EJJUBVEF3DGVHVAFWSU5VQU95NCMNZ4TET"
+plain text     = "SVCGJQ4Z2EJJUBVEF3DGVHVAFWSU5VQU95NCMNZ4TET"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-28 21:47:32
 key            = 15 
 plain text     = "31SYZ4IUWVXTULU"
