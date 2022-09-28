@@ -1,3 +1,11 @@
+tanggal        = 2022-09-28 16:45:53
+key            = 30 
+plain text     = "I2W8VO5A8E09ESJ4MM99YC7IEVYJV9"
+encrypted text = "s]%e&~erjxdn{,$m)*uv9$w,);?1>""
+decrypted text = "I2W8VO5A8E09ESJ4MM99YC7IEVYJV9"
+plain text     = "I2W8VO5A8E09ESJ4MM99YC7IEVYJV9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-28 15:33:07
 key            = 40 
 plain text     = "BATP21307N6GZA1CUPV4FS1LBLGXJTTIKPUQ2C0C"
