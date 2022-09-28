@@ -1,3 +1,11 @@
+tanggal        = 2022-09-28 15:33:07
+key            = 40 
+plain text     = "BATP21307N6GZA1CUPV4FS1LBLGXJTTIKPUQ2C0C"
+encrypted text = "::NK..1/7O8J^F7J]Y`?R`?[R]Yk^ij`ciolN`Nb"
+decrypted text = "BATP21307N6GZA1CUPV4FS1LBLGXJTTIKPUQ2C0C"
+plain text     = "BATP21307N6GZA1CUPV4FS1LBLGXJTTIKPUQ2C0C"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-28 14:44:27
 key            = 89 
 plain text     = "VM60CD4EGGPKNR9ZCES08FHZPUERYGR8D3REFA4DI01OPZ4KWXJO4538QH46C6A4QF2MTLM0CI03IHLYK17QOSPNF"
