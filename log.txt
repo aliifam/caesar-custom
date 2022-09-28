@@ -1,3 +1,11 @@
+tanggal        = 2022-09-28 11:24:39
+key            = 57 
+plain text     = "Z1Y2TXRK6Y8EGDW8AKJPCFWVDS87M4S8JK68BCYZM7PYFGQJN8BGT9UHQ"
+encrypted text = "xPySv{vp\"`nqo%eozz#uy--z,pp)o1u*,vy&(?A5~:D24?9>)4:H.K?I"
+decrypted text = "Z1Y2TXRK6Y8EGDW8AKJPCFWVDS87M4S8JK68BCYZM7PYFGQJN8BGT9UHQ"
+plain text     = "Z1Y2TXRK6Y8EGDW8AKJPCFWVDS87M4S8JK68BCYZM7PYFGQJN8BGT9UHQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-28 10:31:51
 key            = 27 
 plain text     = "ZUNC291HD56U1ZM0MBL609BZ0X0"
