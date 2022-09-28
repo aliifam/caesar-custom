@@ -1,3 +1,11 @@
+tanggal        = 2022-09-28 04:54:48
+key            = 43 
+plain text     = "161N26JWL1SYOLMD5LXP49GIMHLF9MMT380LDGWM0L8"
+encrypted text = "`fb"ej!/%i.5,*,$t.;4w}.16272&;<D$*#@9=NE)F3"
+decrypted text = "161N26JWL1SYOLMD5LXP49GIMHLF9MMT380LDGWM0L8"
+plain text     = "161N26JWL1SYOLMD5LXP49GIMHLF9MMT380LDGWM0L8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-28 02:40:46
 key            = 43 
 plain text     = "HSQUVCFPD7O098EJJY0YBCV4I9W946DTQROASC0GCEL"
