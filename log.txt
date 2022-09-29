@@ -1,3 +1,11 @@
+tanggal        = 2022-09-29 22:29:01
+key            = 10 
+plain text     = "MH49UYYIME"
+encrypted text = "%!lr167(-&"
+decrypted text = "MH49UYYIME"
+plain text     = "MH49UYYIME"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-29 21:49:54
 key            = 32 
 plain text     = "8TZZWL82LROYRT3ES6Q90R24KPTHTZYU"
