@@ -1,3 +1,11 @@
+tanggal        = 2022-09-29 21:26:19
+key            = 16 
+plain text     = "JQFG48BE397798J3"
+encrypted text = ":B8:(-8<+21255H2"
+decrypted text = "JQFG48BE397798J3"
+plain text     = "JQFG48BE397798J3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-29 20:30:55
 key            = 77 
 plain text     = "92DKAVLTDHLSVSQBEDB5V5A4IOHA3W6NE9VHBHLFX7UZH6LQYDLTQGENGL2QFHZEOYRHVHN288ZI1"
