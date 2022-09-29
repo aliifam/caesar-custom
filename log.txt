@@ -1,3 +1,11 @@
+tanggal        = 2022-09-29 14:35:32
+key            = 20 
+plain text     = "4O7M3K85Z1KJPDAQ07W0"
+encrypted text = "?[D[B[IGmE``g\ZkKStN"
+decrypted text = "4O7M3K85Z1KJPDAQ07W0"
+plain text     = "4O7M3K85Z1KJPDAQ07W0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-29 13:58:19
 key            = 50 
 plain text     = "UOGZD3OO582D2EWWFTZF1BVG1T940190BBJ2XYDOGHLANL5RWP"
