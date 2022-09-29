@@ -1,3 +1,11 @@
+tanggal        = 2022-09-29 11:24:10
+key            = 22 
+plain text     = "IN89N5NG83YZ1P4GV5B25Z"
+encrypted text = "V\GI_Ga[MIprJjOcsSaRV|"
+decrypted text = "IN89N5NG83YZ1P4GV5B25Z"
+plain text     = "IN89N5NG83YZ1P4GV5B25Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-29 10:30:37
 key            = 74 
 plain text     = "3DGR9BZOSJK3YJUOENTUJ444F3LNMYDN1HPGKM2AXZ48J7CNQBP3EAXFDMH47XKR7FTRMULJOA"
