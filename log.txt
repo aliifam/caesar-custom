@@ -1,3 +1,11 @@
+tanggal        = 2022-09-29 08:38:59
+key            = 3 
+plain text     = "AMM"
+encrypted text = "ERS"
+decrypted text = "AMM"
+plain text     = "AMM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-29 07:57:17
 key            = 91 
 plain text     = "6V3MDDDXOKVO6YJLMUJWVLWJLYV99504F4EU2FEPMRDLXS4THAELGIVG2J3D10GI4NN0M38NI92N7Z1F10EE6ICY1EE"
