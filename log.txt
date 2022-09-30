@@ -1,3 +1,11 @@
+tanggal        = 2022-09-30 20:30:02
+key            = 23 
+plain text     = "YU32B7LG951DZRQXA2LYTVW"
+encrypted text = "XU44E;QM@=:Ne^^fPB]kgjl"
+decrypted text = "YU32B7LG951DZRQXA2LYTVW"
+plain text     = "YU32B7LG951DZRQXA2LYTVW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-30 19:45:06
 key            = 76 
 plain text     = "OQV9KTY5K8ZWP9SMH4OP7KO169RIE8104GA5KFYGY8VC7XGJ0NN8VYX0FHLEGTFLFVK1RGZF4TGR"
