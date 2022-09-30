@@ -1,3 +1,11 @@
+tanggal        = 2022-09-30 09:34:45
+key            = 29 
+plain text     = "H6UPZ961YNVSL9APW2N8LPDSSO89U"
+encrypted text = "\KkgrRPLuktrlZcs{Wt_tyn~!|fh'"
+decrypted text = "H6UPZ961YNVSL9APW2N8LPDSSO89U"
+plain text     = "H6UPZ961YNVSL9APW2N8LPDSSO89U"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-30 08:41:28
 key            = 7 
 plain text     = "QFYFDI0"
