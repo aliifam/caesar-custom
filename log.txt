@@ -1,3 +1,11 @@
+tanggal        = 2022-09-30 15:33:36
+key            = 8 
+plain text     = "RIGH1QYW"
+encrypted text = "NFEG1R[Z"
+decrypted text = "RIGH1QYW"
+plain text     = "RIGH1QYW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-09-30 14:57:35
 key            = 93 
 plain text     = "MP8P4FV3LP4RWZHGHHTI7RL1DEHTD3NQBQGAH6TZRRDS4GFLEFBN4BB35NXI3L2KJ2B6QVWYZEZNOVD2B0VTLKSGXQ3NT"
