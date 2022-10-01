@@ -1,3 +1,11 @@
+tanggal        = 2022-10-01 21:46:41
+key            = 46 
+plain text     = "7K4NGRX41O1MP7HA9QKJHK1GJVHEG0M0I8N0JBLFXOI4OC"
+encrypted text = "AV@[UahECbEbfN`ZSlggfjQhlyljmWuYscz]xq|w,$}i'z"
+decrypted text = "7K4NGRX41O1MP7HA9QKJHK1GJVHEG0M0I8N0JBLFXOI4OC"
+plain text     = "7K4NGRX41O1MP7HA9QKJHK1GJVHEG0M0I8N0JBLFXOI4OC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-01 21:24:39
 key            = 3 
 plain text     = "UMC"
