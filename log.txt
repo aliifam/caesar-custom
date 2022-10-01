@@ -1,3 +1,11 @@
+tanggal        = 2022-10-01 15:28:46
+key            = 41 
+plain text     = "2Y2UZN0MXLDN84JM9CGTIFLL01G4SEVBX6UJ6K6OU"
+encrypted text = ",T.RXM0NZOHS>;RVCNSaWU\]BD[Ii\n[rQqgTjVpw"
+decrypted text = "2Y2UZN0MXLDN84JM9CGTIFLL01G4SEVBX6UJ6K6OU"
+plain text     = "2Y2UZN0MXLDN84JM9CGTIFLL01G4SEVBX6UJ6K6OU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-01 14:47:34
 key            = 22 
 plain text     = "GOPSDZ09C43FYHRHDCC8SW"
