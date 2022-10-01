@@ -1,3 +1,11 @@
+tanggal        = 2022-10-01 07:47:53
+key            = 32 
+plain text     = "4EONE9SNKWAINSL9RG2XL03F85Z38HQ1"
+encrypted text = "w+66.#>:8E09?E?-G=)PE*.B53Y39JT5"
+decrypted text = "4EONE9SNKWAINSL9RG2XL03F85Z38HQ1"
+plain text     = "4EONE9SNKWAINSL9RG2XL03F85Z38HQ1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-01 07:04:34
 key            = 54 
 plain text     = "N42IZ86KGPDQWRTT5GAMLGW5K14XW1EZK0U66H5ADBUJZ0MGBW73X8"
