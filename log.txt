@@ -1,3 +1,11 @@
+tanggal        = 2022-10-01 21:24:39
+key            = 3 
+plain text     = "UMC"
+encrypted text = "mf]"
+decrypted text = "UMC"
+plain text     = "UMC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-01 20:50:30
 key            = 95 
 plain text     = "OXMY7GRXX9528GJR9TIWN1A06O3R82VQDA9TE7XOLXM0F2AYY4BX88BJ4QUEEIFQRNNNJQ8TQT5UMY7H9EDXHK73A4W9JLK"
