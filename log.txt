@@ -1,3 +1,11 @@
+tanggal        = 2022-10-02 23:31:18
+key            = 28 
+plain text     = "3HXLJFPFC2UNWN90PUNPWSLOKFID"
+encrypted text = "1GXMLITKI9]WaYE=^d^aif`da]a]"
+decrypted text = "3HXLJFPFC2UNWN90PUNPWSLOKFID"
+plain text     = "3HXLJFPFC2UNWN90PUNPWSLOKFID"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-02 22:48:37
 key            = 64 
 plain text     = "3XYKOR5J73XV4EGAUK24HUXCFKAIWFEU2EM74H63FM6ZA8DQRRGZOGNS6SWP7OKO"
