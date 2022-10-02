@@ -1,3 +1,11 @@
+tanggal        = 2022-10-02 21:24:57
+key            = 10 
+plain text     = "FJ24ZSL023"
+encrypted text = "IN7:a[U:=?"
+decrypted text = "FJ24ZSL023"
+plain text     = "FJ24ZSL023"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-02 20:50:13
 key            = 10 
 plain text     = "46X9OZZ6QT"
