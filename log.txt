@@ -1,3 +1,11 @@
+tanggal        = 2022-10-02 19:23:09
+key            = 2 
+plain text     = "Z9"
+encrypted text = "5s"
+decrypted text = "Z9"
+plain text     = "Z9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-02 18:33:22
 key            = 79 
 plain text     = "M73DC6JJGDVJUW4FZPNRMEKPO3YMQ8VRLO2IPIZC0U9Z3RZZO756UTRJ1EC1TY83DJOTPPPVH7PXFE1"
