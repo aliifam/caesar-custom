@@ -1,3 +1,11 @@
+tanggal        = 2022-10-02 14:46:08
+key            = 35 
+plain text     = "994GT8K4YOOK0V58KDIOBBZF1LE9HY7VUX8"
+encrypted text = "RSOcqVjTzqroU|\`tnt{op+vb~xm}1n004s"
+decrypted text = "994GT8K4YOOK0V58KDIOBBZF1LE9HY7VUX8"
+plain text     = "994GT8K4YOOK0V58KDIOBBZF1LE9HY7VUX8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-02 14:25:36
 key            = 5 
 plain text     = "IPDKF"
