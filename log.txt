@@ -1,3 +1,11 @@
+tanggal        = 2022-10-02 14:25:36
+key            = 5 
+plain text     = "IPDKF"
+encrypted text = "OWLTP"
+decrypted text = "IPDKF"
+plain text     = "IPDKF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-02 13:43:35
 key            = 55 
 plain text     = "6FUPO7DGVP65P02KESAHUKDA8A523GXKWFHTI3T9KEVZ4127N18OADE"
