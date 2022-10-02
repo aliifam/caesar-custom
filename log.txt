@@ -1,3 +1,11 @@
+tanggal        = 2022-10-02 10:29:36
+key            = 2 
+plain text     = "SR"
+encrypted text = "cc"
+decrypted text = "SR"
+plain text     = "SR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-02 09:51:01
 key            = 84 
 plain text     = "F77M6NHX43QRVYA1UER1H41UXG626P9G8T0K9UFL1CW7DA64OYHABR2160ZLYDAKQ00VN7WHWZMEP3UIWAAY"
