@@ -1,3 +1,11 @@
+tanggal        = 2022-10-03 11:45:33
+key            = 7 
+plain text     = "FR6INYV"
+encrypted text = "8E*>DPN"
+decrypted text = "FR6INYV"
+plain text     = "FR6INYV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-03 11:24:43
 key            = 41 
 plain text     = "YL2LU0F6X5FHAL6G7X8KOFGRCA8UWBPNUUDQGD48Q"
