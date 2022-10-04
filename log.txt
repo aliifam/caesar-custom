@@ -1,3 +1,11 @@
+tanggal        = 2022-10-04 13:01:03
+key            = 20 
+plain text     = "RCS2D3OMM3OZ4EYMLL5U"
+encrypted text = "G9J*=-JIJ1NZ5G\QQR<]"
+decrypted text = "RCS2D3OMM3OZ4EYMLL5U"
+plain text     = "RCS2D3OMM3OZ4EYMLL5U"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-04 11:45:13
 key            = 84 
 plain text     = "YELA6PI66CYZHPLVRUT7FVFXABURZ7WMB7GUAW6XR7G90NR7O5RA6GTAPE3AGGYGTM027E0UB9BMXF6Y9RUP"
