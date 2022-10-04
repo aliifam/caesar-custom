@@ -1,3 +1,11 @@
+tanggal        = 2022-10-04 20:32:36
+key            = 7 
+plain text     = "6RFKIRU"
+encrypted text = "-J?EDNR"
+decrypted text = "6RFKIRU"
+plain text     = "6RFKIRU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-04 19:46:21
 key            = 59 
 plain text     = "IGCTZBFA2HSZLBLAUTSCB1XYEVTT1GZKTFVKGMJ7MAPBO2F9MBHKAM33M2Y"
