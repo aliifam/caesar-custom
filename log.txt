@@ -1,3 +1,11 @@
+tanggal        = 2022-10-04 11:24:19
+key            = 2 
+plain text     = "V3"
+encrypted text = "=y"
+decrypted text = "V3"
+plain text     = "V3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-04 10:30:45
 key            = 100 
 plain text     = "2MMKXANBWQABX33Q8QZYODUDXKWVURGCGSZSKXCI1A8E2Q4C455LATP821GIADRU3OCWOLA40YPI29XKVI5S8DUWF6RTOKKUBY60"
