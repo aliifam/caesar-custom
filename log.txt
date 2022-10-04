@@ -1,3 +1,11 @@
+tanggal        = 2022-10-04 14:20:45
+key            = 57 
+plain text     = "MEZXVMC44UDH7S9WGON8FSMIAUH07FAHMD7VLVSH2M6GIN4Q33LWFDZYY"
+encrypted text = "f_utskbTUwgl\y`!pyyds#|yr){dl|x"(~r4+64*s1y-06{;|}9E54KKL"
+decrypted text = "MEZXVMC44UDH7S9WGON8FSMIAUH07FAHMD7VLVSH2M6GIN4Q33LWFDZYY"
+plain text     = "MEZXVMC44UDH7S9WGON8FSMIAUH07FAHMD7VLVSH2M6GIN4Q33LWFDZYY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-04 13:01:03
 key            = 20 
 plain text     = "RCS2D3OMM3OZ4EYMLL5U"
