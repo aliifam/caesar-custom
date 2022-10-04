@@ -1,3 +1,11 @@
+tanggal        = 2022-10-04 19:27:43
+key            = 56 
+plain text     = "N0TA70UH0NAWJNLXA6FLC8RHYLZBSVANYIZZ256U4ZPG0ZWLM66I3MBM"
+encrypted text = "Z=bPGAg[DcWnbgfs]SdkcYtk}q"i{!ky'v*+bfh*h1(~h53)+st*s0&2"
+decrypted text = "N0TA70UH0NAWJNLXA6FLC8RHYLZBSVANYIZZ256U4ZPG0ZWLM66I3MBM"
+plain text     = "N0TA70UH0NAWJNLXA6FLC8RHYLZBSVANYIZZ256U4ZPG0ZWLM66I3MBM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-04 18:40:35
 key            = 15 
 plain text     = "8079VDVTPTPISGC"
