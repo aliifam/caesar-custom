@@ -1,3 +1,11 @@
+tanggal        = 2022-10-04 18:40:35
+key            = 15 
+plain text     = "8079VDVTPTPISGC"
+encrypted text = "-&.1O>QPMROITIF"
+decrypted text = "8079VDVTPTPISGC"
+plain text     = "8079VDVTPTPISGC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-04 17:44:37
 key            = 95 
 plain text     = "4WC4OYUE9Z1L9JID76SUNNF87PSL6RQ1JXCX8JC7ROV1507VZ8ZSJ97X0ZLSF06FU16KOJFJ4W9OWCJLMFOQL4EVH3QODIC"
