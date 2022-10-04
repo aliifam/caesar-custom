@@ -1,3 +1,11 @@
+tanggal        = 2022-10-04 22:51:53
+key            = 97 
+plain text     = "TLGKTRSA34Q0NY9GM5I0QGIIXOS4V30XD890TNJ1JDBPVZ8HZQEVAHLP3V6D1M5HGWM8PRLYK6SV7SFWC341GBKDDTVBR2ML7"
+encrypted text = "F?;@JIK:-/M-LX9HO8M5WNQRbZ_AdB@iVKMEjebJd_^mtyXi|ti{goty]bq_|eyymquvxv¢ "
+decrypted text = "TLGKTRSA34Q0NY9GM5I0QGIIXOS4V30XD890TNJ1JDBPVZ8HZQEVAHLP3V6D1M5HGWM8PRLYK6SV7SFWC341GBKDDTVBR2ML7"
+plain text     = "TLGKTRSA34Q0NY9GM5I0QGIIXOS4V30XD890TNJ1JDBPVZ8HZQEVAHLP3V6D1M5HGWM8PRLYK6SV7SFWC341GBKDDTVBR2ML7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-04 22:28:40
 key            = 16 
 plain text     = "OWT3YKR0WJAG9BS0"
