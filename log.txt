@@ -1,3 +1,11 @@
+tanggal        = 2022-10-05 15:27:13
+key            = 30 
+plain text     = "APVAQGB3KJ2LJH2A61EK51CVQBI18S"
+encrypted text = "EU\HYPL>WW@[ZYDTJF[bMJ]qm_gPXt"
+decrypted text = "APVAQGB3KJ2LJH2A61EK51CVQBI18S"
+plain text     = "APVAQGB3KJ2LJH2A61EK51CVQBI18S"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-05 14:36:26
 key            = 7 
 plain text     = "R3WX4FV"
