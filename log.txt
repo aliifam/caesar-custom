@@ -1,3 +1,11 @@
+tanggal        = 2022-10-06 19:30:24
+key            = 25 
+plain text     = "VLCVH2CK156T4RPI3WHSF826I"
+encrypted text = "E<4H;&8A(-/N/NMG2WIUI<7<P"
+decrypted text = "VLCVH2CK156T4RPI3WHSF826I"
+plain text     = "VLCVH2CK156T4RPI3WHSF826I"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-06 18:37:49
 key            = 1 
 plain text     = "Z"
