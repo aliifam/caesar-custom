@@ -1,3 +1,11 @@
+tanggal        = 2022-10-06 10:32:12
+key            = 5 
+plain text     = "G5WPL"
+encrypted text = "yh-'$"
+decrypted text = "G5WPL"
+plain text     = "G5WPL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-06 09:32:57
 key            = 17 
 plain text     = "WILQLQNAZWN2FXAYM"
