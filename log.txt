@@ -1,3 +1,11 @@
+tanggal        = 2022-10-06 09:32:57
+key            = 17 
+plain text     = "WILQLQNAZWN2FXAYM"
+encrypted text = "A48>:@>2LJB'<O9RG"
+decrypted text = "WILQLQNAZWN2FXAYM"
+plain text     = "WILQLQNAZWN2FXAYM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-06 08:35:58
 key            = 73 
 plain text     = "6TJHPBCX3WHS8MQSXRKDFRAEYOUU2PO5723P227I7N568MELDWDP2I6U86ZEU7GR0TRR4LGXP"
