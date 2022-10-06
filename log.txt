@@ -1,3 +1,11 @@
+tanggal        = 2022-10-06 18:37:49
+key            = 1 
+plain text     = "Z"
+encrypted text = "\"
+decrypted text = "Z"
+plain text     = "Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-06 17:38:36
 key            = 88 
 plain text     = "BGQJ0TJXN6K19614PKPSOMIHPQB2PX3DTNTPPY4T332H86VLR9Y0TY9EUTT85GI7S4R6ZOX7FTNYS86KP6PXC19F"
