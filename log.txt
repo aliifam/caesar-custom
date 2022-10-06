@@ -1,3 +1,11 @@
+tanggal        = 2022-10-06 02:23:07
+key            = 29 
+plain text     = "T4MAXVUUSMC677IATT3V4C8QHQK0N"
+encrypted text = "|]wl&%%&%~uikl!x./m3p"v2*4/s4"
+decrypted text = "T4MAXVUUSMC677IATT3V4C8QHQK0N"
+plain text     = "T4MAXVUUSMC677IATT3V4C8QHQK0N"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-05 23:33:12
 key            = 35 
 plain text     = "7EZXZEMM3ZL5DA57312HDWGRQ0E4OURE63S"
