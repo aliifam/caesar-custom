@@ -1,3 +1,11 @@
+tanggal        = 2022-10-06 03:49:03
+key            = 41 
+plain text     = "QN93X783T9BCOLVHOKVK6TE7POE39925SM2UQ8E1Z"
+encrypted text = "omYTzZ\Xz`jlyw$u}z(|h)yl((}lstnr3.r85{+vB"
+decrypted text = "QN93X783T9BCOLVHOKVK6TE7POE39925SM2UQ8E1Z"
+plain text     = "QN93X783T9BCOLVHOKVK6TE7POE39925SM2UQ8E1Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-06 02:23:07
 key            = 29 
 plain text     = "T4MAXVUUSMC677IATT3V4C8QHQK0N"
