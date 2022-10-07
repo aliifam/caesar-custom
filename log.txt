@@ -1,3 +1,11 @@
+tanggal        = 2022-10-07 16:45:17
+key            = 14 
+plain text     = "P4EUAHGC4LX7PU"
+encrypted text = "O4FWDLLI;TaA[a"
+decrypted text = "P4EUAHGC4LX7PU"
+plain text     = "P4EUAHGC4LX7PU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-07 15:32:33
 key            = 89 
 plain text     = "GDBWEMCF4L1PK29KBSCIDYRBKAG5EF4I85CVC8QKMP9UZO27KLULBL4KM3T176LQ2GEYB0QWK88H8D0T76J2X3BEI"
