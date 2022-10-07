@@ -1,3 +1,11 @@
+tanggal        = 2022-10-07 10:32:50
+key            = 26 
+plain text     = "IWHRWLEPK6CUC5BEWWKJK622LS"
+encrypted text = "M\NY_UO[WCQdSFTXklaacOLMhp"
+decrypted text = "IWHRWLEPK6CUC5BEWWKJK622LS"
+plain text     = "IWHRWLEPK6CUC5BEWWKJK622LS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-07 09:30:56
 key            = 32 
 plain text     = "RWN4H1MCI6VEYB5J299VI54RHZSHZ975"
