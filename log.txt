@@ -1,3 +1,11 @@
+tanggal        = 2022-10-07 14:03:01
+key            = 16 
+plain text     = "WT1O23SEDLR4NEI8"
+encrypted text = "JH&E)+L??HO2MEJ:"
+decrypted text = "WT1O23SEDLR4NEI8"
+plain text     = "WT1O23SEDLR4NEI8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-07 12:59:40
 key            = 78 
 plain text     = "HF48MZB6YVIV82U66IPS4PNUCH7A7B9CNX8164RW5QDWG2CBLJ4X9SOA2LDM9Y6WRVEGCTX7JG8SDJ"
