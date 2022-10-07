@@ -1,3 +1,11 @@
+tanggal        = 2022-10-07 05:57:33
+key            = 52 
+plain text     = "UID94DBQJ2JBRDMLBIDPU8RXM5Q4JSSLFCQBVR5DBKPC83NNFZ9R"
+encrypted text = "LA=3/@?OI2KDUHRRIQMZ`D_f\EbF]ghb][j\qnRbakqe[Wstmb|"
+decrypted text = "UID94DBQJ2JBRDMLBIDPU8RXM5Q4JSSLFCQBVR5DBKPC83NNFZ9R"
+plain text     = "UID94DBQJ2JBRDMLBIDPU8RXM5Q4JSSLFCQBVR5DBKPC83NNFZ9R"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-07 05:18:16
 key            = 84 
 plain text     = "XDAKGWCR1AZVJNT6JN4BSTT86YJPIQYKBJL6IJJHKI5ZL833K41SOBOA4OHMWEGTIPENMOPVGK1D6SROHQ80"
