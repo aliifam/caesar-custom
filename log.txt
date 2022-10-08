@@ -1,3 +1,11 @@
+tanggal        = 2022-10-08 13:48:27
+key            = 30 
+plain text     = "12F63OGO4R2IFELRU14S9QLZYDO6P5"
+encrypted text = "km$sq0)2v7v0..6=A|"B)B>MM9E-H."
+decrypted text = "12F63OGO4R2IFELRU14S9QLZYDO6P5"
+plain text     = "12F63OGO4R2IFELRU14S9QLZYDO6P5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-08 12:50:37
 key            = 4 
 plain text     = "SD69"
