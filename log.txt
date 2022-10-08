@@ -1,3 +1,11 @@
+tanggal        = 2022-10-08 04:50:15
+key            = 19 
+plain text     = "48DRRHRE3SPKVJPBYPW"
+encrypted text = ".3@OPGRF5VTP\QXKc[c"
+decrypted text = "48DRRHRE3SPKVJPBYPW"
+plain text     = "48DRRHRE3SPKVJPBYPW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-08 03:47:24
 key            = 85 
 plain text     = "8MHT2TN8ZUUDUBLN5YANEUIYAGLI2NO9CPQCGVSPL4SZCK0XTMBYHJ913L5XB6Q8YACFF9PZWQYV2KUBOICN1"
