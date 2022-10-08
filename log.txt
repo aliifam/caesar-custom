@@ -1,3 +1,11 @@
+tanggal        = 2022-10-08 18:32:40
+key            = 24 
+plain text     = "ZAPWLG5VTW4O3OVZLQ9UKEX6"
+encrypted text = "2x*2($q548t2u4<A4:#@72F%"
+decrypted text = "ZAPWLG5VTW4O3OVZLQ9UKEX6"
+plain text     = "ZAPWLG5VTW4O3OVZLQ9UKEX6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-08 17:31:45
 key            = 66 
 plain text     = "NKBP5CSF7KL2A7LARM1R305FC4YIVDZ6HZCSB9CS5782DAM5IDNO08901HOM91AD6T"
