@@ -1,3 +1,11 @@
+tanggal        = 2022-10-08 08:34:48
+key            = 22 
+plain text     = "VJQ4H8Y1Z99ZL66BGTKZ4Q"
+encrypted text = "VKS7L=_8bBCeXCDQWe]mHf"
+decrypted text = "VJQ4H8Y1Z99ZL66BGTKZ4Q"
+plain text     = "VJQ4H8Y1Z99ZL66BGTKZ4Q"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-08 07:47:09
 key            = 90 
 plain text     = "YK7M6BV554FGTWFY9CQ42SS8EMFE104PL48WAJCPCMWRXP564SOKVB1ULMAEWVLQ7B8G4Z1QUK3P4U98SKKHTPXNB4"
