@@ -1,3 +1,11 @@
+tanggal        = 2022-10-08 12:50:37
+key            = 4 
+plain text     = "SD69"
+encrypted text = "ZL?C"
+decrypted text = "SD69"
+plain text     = "SD69"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-08 11:43:47
 key            = 31 
 plain text     = "WK89J75NTJDXIP81RA50R9BPRSZXEZ9"
