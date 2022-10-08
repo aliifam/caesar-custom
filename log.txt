@@ -1,3 +1,11 @@
+tanggal        = 2022-10-08 14:28:58
+key            = 36 
+plain text     = "BZFLH3Q1RC6VSP3L2UMMAZNTY7XN9WP62GUF"
+encrypted text = "/H5<9%D%G9-NLJ.H/SLMB\QX^=_VBa[B?UdV"
+decrypted text = "BZFLH3Q1RC6VSP3L2UMMAZNTY7XN9WP62GUF"
+plain text     = "BZFLH3Q1RC6VSP3L2UMMAZNTY7XN9WP62GUF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-08 13:48:27
 key            = 30 
 plain text     = "12F63OGO4R2IFELRU14S9QLZYDO6P5"
