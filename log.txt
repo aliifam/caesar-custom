@@ -1,3 +1,11 @@
+tanggal        = 2022-10-09 05:59:06
+key            = 32 
+plain text     = "VXG2SOP3BCXJ62M5MA84N8HIMKLTIVTJ"
+encrypted text = "x{kWyvx\ln&wda}f!tli&o"$)(*3)76-"
+decrypted text = "VXG2SOP3BCXJ62M5MA84N8HIMKLTIVTJ"
+plain text     = "VXG2SOP3BCXJ62M5MA84N8HIMKLTIVTJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-09 05:25:05
 key            = 26 
 plain text     = "I9XAE0QBQA33FIVYH1YBENYCLS"
