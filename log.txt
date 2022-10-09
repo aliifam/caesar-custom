@@ -1,3 +1,11 @@
+tanggal        = 2022-10-09 02:41:42
+key            = 9 
+plain text     = "ED2WSVZJ0"
+encrypted text = "::)OLPUF-"
+decrypted text = "ED2WSVZJ0"
+plain text     = "ED2WSVZJ0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-08 23:31:28
 key            = 95 
 plain text     = "E7LNCCT15SBDA8XI9X5VVR7UVNY2B27VIJDDRIFF0CQG1HS1EH3BS3TREDSWEN64YF2I6NAQ7Y3RZ3WBBH3W8RXQ0BEKJJF"
