@@ -1,3 +1,11 @@
+tanggal        = 2022-10-09 19:42:48
+key            = 52 
+plain text     = "CCO3JMBOC6FVT10NHNQZZX7V0NLG66MEJ8I04QZ54BWTFZ78VPEG"
+encrypted text = "()6y37-;0$5FE##B=DHRSR2R-LKG78PIO>P8=[eAAPfdWlJLkf\_"
+decrypted text = "CCO3JMBOC6FVT10NHNQZZX7V0NLG66MEJ8I04QZ54BWTFZ78VPEG"
+plain text     = "CCO3JMBOC6FVT10NHNQZZX7V0NLG66MEJ8I04QZ54BWTFZ78VPEG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-09 19:23:16
 key            = 3 
 plain text     = "HKS"
