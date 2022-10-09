@@ -1,3 +1,11 @@
+tanggal        = 2022-10-09 07:27:28
+key            = 18 
+plain text     = "R0PD33VMN80DHAVLJT"
+encrypted text = "kJk`PQumoZShmg}ts~"
+decrypted text = "R0PD33VMN80DHAVLJT"
+plain text     = "R0PD33VMN80DHAVLJT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-09 06:39:26
 key            = 81 
 plain text     = "SMBAOQSN29PTF8UEICID1EA6OTYM0BCASAOKHDPY6ZX6BJZHZWKDLZHNN56VQ7M40EWJIE7GZU3GYWBHK"
