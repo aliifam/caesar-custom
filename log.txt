@@ -1,3 +1,11 @@
+tanggal        = 2022-10-09 12:50:41
+key            = 8 
+plain text     = "IT975WGT"
+encrypted text = "4@&%$G8F"
+decrypted text = "IT975WGT"
+plain text     = "IT975WGT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-09 11:43:55
 key            = 62 
 plain text     = "CYRTUR2QT1AW2MLISSMEZX6EOPI5FTPQ5C5Z98V5S180A0LIV1G1TVSKVB0391"
