@@ -1,3 +1,11 @@
+tanggal        = 2022-10-10 10:30:36
+key            = 45 
+plain text     = "IB0AYCIR9OKNNWJE57PFGDP8N9AGX81TYYA5S0JWZ0IDQ"
+encrypted text = "tn]o*sz&l%"&'1%!ps/&(&3z3}(/A"z@FG0%D"=KO&@<J"
+decrypted text = "IB0AYCIR9OKNNWJE57PFGDP8N9AGX81TYYA5S0JWZ0IDQ"
+plain text     = "IB0AYCIR9OKNNWJE57PFGDP8N9AGX81TYYA5S0JWZ0IDQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-10 09:32:57
 key            = 2 
 plain text     = "07"
