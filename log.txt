@@ -1,3 +1,11 @@
+tanggal        = 2022-10-10 20:30:52
+key            = 27 
+plain text     = "LOI72YBM80BCDTLB1KEHV9GE72U"
+encrypted text = "'+&so9#/yr')+<5,z726E)87*&J"
+decrypted text = "LOI72YBM80BCDTLB1KEHV9GE72U"
+plain text     = "LOI72YBM80BCDTLB1KEHV9GE72U"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-10 19:31:40
 key            = 83 
 plain text     = "A52A5709R2UPEPTGMUXHY0WS2YG9082J1U4DQ8YNO1LS8V1L8RXJQPG93Y8DWN42RC4U3J5WST3R1ZM2WA7"
