@@ -1,3 +1,11 @@
+tanggal        = 2022-10-10 23:34:17
+key            = 36 
+plain text     = "BKABGPMPXP1P43MJ80ETBAVVUI36YVVXTAM7"
+encrypted text = "JTKMS][_haCcHHcaPI_o^^tuujUY}{|!|jwb"
+decrypted text = "BKABGPMPXP1P43MJ80ETBAVVUI36YVVXTAM7"
+plain text     = "BKABGPMPXP1P43MJ80ETBAVVUI36YVVXTAM7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-10 22:53:07
 key            = 58 
 plain text     = "WBJRVRLQ0RG7A3OKKQDN8R1WYJLSGXJ906K6ET55IRJWTZAI7EF9PT7IBL"
