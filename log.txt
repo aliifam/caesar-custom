@@ -1,3 +1,11 @@
+tanggal        = 2022-10-10 21:25:51
+key            = 33 
+plain text     = "REUEEUDEJ0LCFB826ORDGBCVJYWCGXD9W"
+encrypted text = "SGXIJ[KMS:WOSPGBGaeX\XZncsr_dvcYx"
+decrypted text = "REUEEUDEJ0LCFB826ORDGBCVJYWCGXD9W"
+plain text     = "REUEEUDEJ0LCFB826ORDGBCVJYWCGXD9W"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-10 20:30:52
 key            = 27 
 plain text     = "LOI72YBM80BCDTLB1KEHV9GE72U"
