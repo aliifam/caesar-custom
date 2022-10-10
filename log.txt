@@ -1,3 +1,11 @@
+tanggal        = 2022-10-10 07:18:28
+key            = 15 
+plain text     = "0QIOF60Z63CMMAA"
+encrypted text = "^"y"xid1lj{()|}"
+decrypted text = "0QIOF60Z63CMMAA"
+plain text     = "0QIOF60Z63CMMAA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-10 06:06:55
 key            = 93 
 plain text     = "A2SGCKK4TBX289BBT86LK76IXTMWXGXXG1H2959K9URR2Y9QU8AAK67SG9C0OWNDDKXUTSJB8CCVHZDPT0AN8WWHPN4H0"
