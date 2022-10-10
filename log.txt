@@ -1,3 +1,11 @@
+tanggal        = 2022-10-10 09:32:57
+key            = 2 
+plain text     = "07"
+encrypted text = "AI"
+decrypted text = "07"
+plain text     = "07"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-10 08:45:08
 key            = 56 
 plain text     = "Y304BAE9CVSEBRP5V04SUAOTN7XRNDOFIPQ49807G36MFTJ4RV0EEBMA"
