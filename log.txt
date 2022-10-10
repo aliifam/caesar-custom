@@ -1,3 +1,11 @@
+tanggal        = 2022-10-10 11:25:00
+key            = 4 
+plain text     = "UUEQ"
+encrypted text = "PQBO"
+decrypted text = "UUEQ"
+plain text     = "UUEQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-10 10:30:36
 key            = 45 
 plain text     = "IB0AYCIR9OKNNWJE57PFGDP8N9AGX81TYYA5S0JWZ0IDQ"
