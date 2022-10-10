@@ -1,3 +1,11 @@
+tanggal        = 2022-10-10 17:43:22
+key            = 4 
+plain text     = "V5H1"
+encrypted text = "hH\F"
+decrypted text = "V5H1"
+plain text     = "V5H1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-10 16:42:21
 key            = 27 
 plain text     = "49EH9L4B1G61GOYLSV10W9ENG8D"
