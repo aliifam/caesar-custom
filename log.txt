@@ -1,3 +1,11 @@
+tanggal        = 2022-10-10 16:42:21
+key            = 27 
+plain text     = "49EH9L4B1G61GOYLSV10W9ENG8D"
+encrypted text = "IO\`RfO^NeUQhq|px|XX"cpztfs"
+decrypted text = "49EH9L4B1G61GOYLSV10W9ENG8D"
+plain text     = "49EH9L4B1G61GOYLSV10W9ENG8D"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-10 15:54:40
 key            = 59 
 plain text     = "Y4HDSY7I1M9T1NCM2E9ICYQ0FD6ZQ5EW1YNBWSL7RG1V1VU8YDTOVJU8L0F"
