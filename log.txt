@@ -1,3 +1,11 @@
+tanggal        = 2022-10-11 23:34:52
+key            = 8 
+plain text     = "7RN0BFKI"
+encrypted text = "IebEX]cb"
+decrypted text = "7RN0BFKI"
+plain text     = "7RN0BFKI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-11 22:54:30
 key            = 23 
 plain text     = "Y1GGLKWFOMOQ1K77UX0JH5V"
