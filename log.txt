@@ -1,3 +1,11 @@
+tanggal        = 2022-10-12 22:28:41
+key            = 10 
+plain text     = "NBGIKQ5ACI"
+encrypted text = "4)/25<!.18"
+decrypted text = "NBGIKQ5ACI"
+plain text     = "NBGIKQ5ACI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-12 21:49:26
 key            = 48 
 plain text     = "3CY5COMKBRKQ0HHN1FE783QUNDPAA9BMV7WH18SVZWV5KZ0L"
