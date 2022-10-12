@@ -1,3 +1,11 @@
+tanggal        = 2022-10-12 09:31:50
+key            = 53 
+plain text     = "WIZKC5HPN8ASH7NGT80A9MQ2678XMOYW38ISKYEVLWF874EBPDR67"
+encrypted text = "8+=/(y/87",?5%=7E*#5.CH*/13TJMXW4:LWP_L^UaQDDBTRaVeJL"
+decrypted text = "WIZKC5HPN8ASH7NGT80A9MQ2678XMOYW38ISKYEVLWF874EBPDR67"
+plain text     = "WIZKC5HPN8ASH7NGT80A9MQ2678XMOYW38ISKYEVLWF874EBPDR67"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-12 08:35:29
 key            = 31 
 plain text     = "QSZ3X9AD16QEPYHG48PTSH7VF1S3MH6"
