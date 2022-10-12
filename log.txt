@@ -1,3 +1,11 @@
+tanggal        = 2022-10-12 10:32:46
+key            = 13 
+plain text     = "7VBG99D597NBP"
+encrypted text = "b$ouhiuglk%x)"
+decrypted text = "7VBG99D597NBP"
+plain text     = "7VBG99D597NBP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-12 09:31:50
 key            = 53 
 plain text     = "WIZKC5HPN8ASH7NGT80A9MQ2678XMOYW38ISKYEVLWF874EBPDR67"
