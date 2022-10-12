@@ -1,3 +1,11 @@
+tanggal        = 2022-10-12 06:41:44
+key            = 5 
+plain text     = "FQTVU"
+encrypted text = "LX\__"
+decrypted text = "FQTVU"
+plain text     = "FQTVU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-12 05:50:56
 key            = 38 
 plain text     = "JMZWYF44LK04ZGLCIRC1EPEP5EUCTLCD04FXWJ"
