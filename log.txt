@@ -1,3 +1,11 @@
+tanggal        = 2022-10-12 17:46:49
+key            = 16 
+plain text     = "VNQTC7DCCEPA2J6O"
+encrypted text = "926:*}--.1=/!:'A"
+decrypted text = "VNQTC7DCCEPA2J6O"
+plain text     = "VNQTC7DCCEPA2J6O"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-12 16:51:07
 key            = 67 
 plain text     = "83MXTA3R4M10NOLZXFVCV1CO226GS9PTM5ZCTFL7JGQJNW33WC8XAH299A1OC5Q73BQ"
