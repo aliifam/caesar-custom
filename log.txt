@@ -1,3 +1,11 @@
+tanggal        = 2022-10-13 22:30:56
+key            = 14 
+plain text     = "4TRH2VLZHQCHQD"
+encrypted text = "JkjaLqhwfpcisg"
+decrypted text = "4TRH2VLZHQCHQD"
+plain text     = "4TRH2VLZHQCHQD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-13 21:49:01
 key            = 87 
 plain text     = "6GC4PAUQ2YCSPIN0YH8U7BIBAD75GNMDNSPTS9PR77DU2L1VR3JK3ZOCA0DOW3X1V1KLH7KKD0ZHWQ8II8G216X"
