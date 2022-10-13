@@ -1,3 +1,11 @@
+tanggal        = 2022-10-13 14:52:17
+key            = 9 
+plain text     = "3U1F70MZD"
+encrypted text = "^#^tf`~.w"
+decrypted text = "3U1F70MZD"
+plain text     = "3U1F70MZD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-13 14:06:50
 key            = 80 
 plain text     = "73P0P11LRJFSJ4IGSF5WB0G3H2EQ4IHDNNDBKZG82MYJNQO0783JB6NZOL0FSFZRZJAIJANKD4NEYLEZ"
