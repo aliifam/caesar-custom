@@ -1,3 +1,11 @@
+tanggal        = 2022-10-13 15:30:43
+key            = 43 
+plain text     = "LX55I6N578CKKIC8R1BWXUXLMTM26KCECZBY9DU2WPX"
+encrypted text = "%2no&r-svx&/0/*~;y-CECG<>F@&+A:=<T=U6BT2XR["
+decrypted text = "LX55I6N578CKKIC8R1BWXUXLMTM26KCECZBY9DU2WPX"
+plain text     = "LX55I6N578CKKIC8R1BWXUXLMTM26KCECZBY9DU2WPX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-13 14:52:17
 key            = 9 
 plain text     = "3U1F70MZD"
