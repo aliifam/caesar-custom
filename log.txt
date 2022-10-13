@@ -1,3 +1,11 @@
+tanggal        = 2022-10-13 07:54:40
+key            = 17 
+plain text     = "IYDMFQ1ZNNFOH88NN"
+encrypted text = "1B.82>}I>?8B<-.EF"
+decrypted text = "IYDMFQ1ZNNFOH88NN"
+plain text     = "IYDMFQ1ZNNFOH88NN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-13 07:17:35
 key            = 98 
 plain text     = "PX7X11YRROWFMYWDK3KJXATW3R9XSX3946A5NMMVI8ZLA0HWN9A61GMJYRCV7EAVY8DXKLHRDI36RX4K5WV1AW0VDZ08PIWQYP"
