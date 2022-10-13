@@ -1,3 +1,11 @@
+tanggal        = 2022-10-13 11:24:59
+key            = 21 
+plain text     = "R29HB0SQXWFYYMD96ZIBP"
+encrypted text = "fGO_ZImlttdxynf\Z!oix"
+decrypted text = "R29HB0SQXWFYYMD96ZIBP"
+plain text     = "R29HB0SQXWFYYMD96ZIBP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-13 10:31:16
 key            = 94 
 plain text     = "OYUKTOYP2N11U645EOTKZLHU7G4V1TDP87XBLWZBYURJ4ZE4OB8ZKCJ1PLWJ1Z24X3460IAOCD38CZDGE38QSIAWMA1ZBP"
