@@ -1,3 +1,11 @@
+tanggal        = 2022-10-14 06:14:46
+key            = 44 
+plain text     = "UJLZ7E5OA5Q0E1IRSZZTHH8T2H8PVJY7UVBEAB24R5IL"
+encrypted text = "SIL[9H9TG<Y9O<U_aijeZ[LiH_PipeuTsubfceVYx\qu"
+decrypted text = "UJLZ7E5OA5Q0E1IRSZZTHH8T2H8PVJY7UVBEAB24R5IL"
+plain text     = "UJLZ7E5OA5Q0E1IRSZZTHH8T2H8PVJY7UVBEAB24R5IL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-14 04:56:59
 key            = 5 
 plain text     = "I1DUW"
