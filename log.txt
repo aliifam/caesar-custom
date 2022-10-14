@@ -1,3 +1,11 @@
+tanggal        = 2022-10-14 23:32:23
+key            = 14 
+plain text     = "6GLFKNQC61Z78G"
+encrypted text = "3EKFLPTG;7a?AQ"
+decrypted text = "6GLFKNQC61Z78G"
+plain text     = "6GLFKNQC61Z78G"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-14 22:52:32
 key            = 66 
 plain text     = "9IAPIH9U2DZXFX9RT1E751MSOEFCZV7IV6IF4WNAYNXA0X0Y3BQ5THJ1WSPNKB03BN"
