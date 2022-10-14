@@ -1,3 +1,11 @@
+tanggal        = 2022-10-14 14:08:01
+key            = 30 
+plain text     = "8LIVZH0DZUNO4DX68XCMNZ5R0WZOMW"
+encrypted text = "f{y).{dy2.(*n!6sv9%02?y9v@D:9D"
+decrypted text = "8LIVZH0DZUNO4DX68XCMNZ5R0WZOMW"
+plain text     = "8LIVZH0DZUNO4DX68XCMNZ5R0WZOMW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-14 12:59:53
 key            = 61 
 plain text     = "4HTTYPYBII768I3XNDOTAKMFICTA4W7KC4D4ILUA3NWWQ81FADS9SNLAB530V"
