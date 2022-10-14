@@ -1,3 +1,11 @@
+tanggal        = 2022-10-14 19:44:24
+key            = 25 
+plain text     = "YLF248MP4085WGF4VTXT3KWBY"
+encrypted text = "]QL9<AW[@=FDgXXGjinkKdq]u"
+decrypted text = "YLF248MP4085WGF4VTXT3KWBY"
+plain text     = "YLF248MP4085WGF4VTXT3KWBY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-14 19:25:11
 key            = 97 
 plain text     = "DJ5PZUPCLBK8IMRWNRZ5THTCS6YVIAOKJ93XRR305ECKEFL73IP58SR5J71FKEBDR439ZLOYXEQ88772SRQKY8AMGQA7WP1Q6"
