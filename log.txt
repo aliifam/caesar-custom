@@ -1,3 +1,11 @@
+tanggal        = 2022-10-14 17:36:13
+key            = 25 
+plain text     = "FKRSWFMHZEEWIP1RRHDL9Z4LR"
+encrypted text = "fltv{kso$no$u}_#$yv!m1j%,"
+decrypted text = "FKRSWFMHZEEWIP1RRHDL9Z4LR"
+plain text     = "FKRSWFMHZEEWIP1RRHDL9Z4LR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-14 16:41:34
 key            = 27 
 plain text     = "R7YCU92V0WS514HVNC4N2MXFQUC"
