@@ -1,3 +1,11 @@
+tanggal        = 2022-10-15 15:29:11
+key            = 23 
+plain text     = "PRCS2HGRKP11DOI6W22TB6D"
+encrypted text = "WZL]=TT`Z`BCWc^LnJKn]Ra"
+decrypted text = "PRCS2HGRKP11DOI6W22TB6D"
+plain text     = "PRCS2HGRKP11DOI6W22TB6D"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-15 14:47:58
 key            = 46 
 plain text     = "P8O3W1HMVKU2EEG45GBLMTKX55SJG96HAK7G6ISYMQACMA"
