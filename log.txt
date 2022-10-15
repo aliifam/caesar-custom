@@ -1,3 +1,11 @@
+tanggal        = 2022-10-15 11:22:47
+key            = 39 
+plain text     = "Q3VPX288CCFSVGFWRWWBSMP6C2PYG0NX04QEX4I"
+encrypted text = "A$HCL'./;<@NRDDVRXYEWRV=K;ZdS=\g@EcXlI_"
+decrypted text = "Q3VPX288CCFSVGFWRWWBSMP6C2PYG0NX04QEX4I"
+plain text     = "Q3VPX288CCFSVGFWRWWBSMP6C2PYG0NX04QEX4I"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-15 10:53:05
 key            = 15 
 plain text     = "NKQTORJ4GTUDVH6"
