@@ -1,3 +1,11 @@
+tanggal        = 2022-10-15 20:51:29
+key            = 40 
+plain text     = "SJ00LHIJBYSND9D0US4Y6JXLMRCTW9M4FVB6AX1M"
+encrypted text = "$zab!|~"y3.*!u#n65u=y0?46<.@D'<$7H5*6N(E"
+decrypted text = "SJ00LHIJBYSND9D0US4Y6JXLMRCTW9M4FVB6AX1M"
+plain text     = "SJ00LHIJBYSND9D0US4Y6JXLMRCTW9M4FVB6AX1M"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-15 20:29:24
 key            = 77 
 plain text     = "X8626FXN0D05J977QJA8I60HTDW0OTIA2W1MHCK7KXTSX080BZ2SZTAB7JO4CD8S8JPBAG622YEHW"
