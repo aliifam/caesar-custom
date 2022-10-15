@@ -1,3 +1,11 @@
+tanggal        = 2022-10-15 04:45:54
+key            = 12 
+plain text     = "LBWU3JPJHE1Z"
+encrypted text = "90FE$<C>=;(R"
+decrypted text = "LBWU3JPJHE1Z"
+plain text     = "LBWU3JPJHE1Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-15 02:46:55
 key            = 70 
 plain text     = "M3G8VIKB0LA2YLYG23NG1KZ77V5HWSFK7QYX3NJH52PBCDD5S887FN6G4BPKQU2A5J8GNJ"
