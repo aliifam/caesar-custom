@@ -1,3 +1,11 @@
+tanggal        = 2022-10-15 12:52:13
+key            = 9 
+plain text     = "T8Y7HOCSP"
+encrypted text = ".q5r&.#42"
+decrypted text = "T8Y7HOCSP"
+plain text     = "T8Y7HOCSP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-15 11:44:21
 key            = 43 
 plain text     = "ET5P5YUF0PVMEBD074CEWHD0SJJ09M5GUTRFIZFJN5J"
