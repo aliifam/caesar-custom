@@ -1,3 +1,11 @@
+tanggal        = 2022-10-15 09:51:53
+key            = 12 
+plain text     = "BOB44AGQWUVZ"
+encrypted text = "gui\]kr}&%',"
+decrypted text = "BOB44AGQWUVZ"
+plain text     = "BOB44AGQWUVZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-15 09:29:14
 key            = 41 
 plain text     = "NHT7L35HDBPK2Q5YUCDOKXBCDEKGMC9BKA7K8K2TZ"
