@@ -1,3 +1,11 @@
+tanggal        = 2022-10-15 22:50:29
+key            = 8 
+plain text     = "S7KEG722"
+encrypted text = "_DYTWHDE"
+decrypted text = "S7KEG722"
+plain text     = "S7KEG722"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-15 22:27:39
 key            = 70 
 plain text     = "MYQQ1SAJFC31VCA09XB6S8XXGICAAVZFZ8MBZMKPCBEY2S2TC905ECPHRI2KGCPDGSGWP1"
