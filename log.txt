@@ -1,3 +1,11 @@
+tanggal        = 2022-10-15 09:29:14
+key            = 41 
+plain text     = "NHT7L35HDBPK2Q5YUCDOKXBCDEKGMC9BKA7K8K2TZ"
+encrypted text = "^YfJ`HK_\[jfNnSxudfro}hjlnurypgq{ri~l"h-4"
+decrypted text = "NHT7L35HDBPK2Q5YUCDOKXBCDEKGMC9BKA7K8K2TZ"
+plain text     = "NHT7L35HDBPK2Q5YUCDOKXBCDEKGMC9BKA7K8K2TZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-15 08:36:06
 key            = 29 
 plain text     = "OPAZHF5P3SDM58OFGSOHELF7FHQRS"
