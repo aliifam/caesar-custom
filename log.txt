@@ -1,3 +1,11 @@
+tanggal        = 2022-10-16 20:29:57
+key            = 47 
+plain text     = "LF1TB808Z88JBJRWEVA02J4JGLPKPTMLR3ARFKV9OWJ4296"
+encrypted text = "JE1UD;4=`?@SLU^dSeQAD]H_]chdjoiipRashnz^u~r]\db"
+decrypted text = "LF1TB808Z88JBJRWEVA02J4JGLPKPTMLR3ARFKV9OWJ4296"
+plain text     = "LF1TB808Z88JBJRWEVA02J4JGLPKPTMLR3ARFKV9OWJ4296"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-16 19:43:04
 key            = 51 
 plain text     = "40FGW0NTVNEBAVXCAKX0IDARHQWANTHWUTR71MROMU2RGALNU9K"
