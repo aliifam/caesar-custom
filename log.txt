@@ -1,3 +1,11 @@
+tanggal        = 2022-10-16 09:51:40
+key            = 10 
+plain text     = "YMHVUZCQEZ"
+encrypted text = "la]llr\k`v"
+decrypted text = "YMHVUZCQEZ"
+plain text     = "YMHVUZCQEZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-16 09:28:50
 key            = 13 
 plain text     = "XVF6HARCNM2V6"
