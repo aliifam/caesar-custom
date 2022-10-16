@@ -1,3 +1,11 @@
+tanggal        = 2022-10-16 21:47:18
+key            = 4 
+plain text     = "ECTX"
+encrypted text = "\[mr"
+decrypted text = "ECTX"
+plain text     = "ECTX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-16 21:25:15
 key            = 72 
 plain text     = "3BY3BU2CZHMUOVAG9P4TC1BTS0153RQ4FCK6PZ3YEUIHQKV7CHIFQZACU74SHD3JNTJTDZ4S"
