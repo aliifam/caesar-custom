@@ -1,3 +1,11 @@
+tanggal        = 2022-10-16 07:28:46
+key            = 12 
+plain text     = "4W9KEQBWL29A"
+encrypted text = "=aDWR_Qg]DLU"
+decrypted text = "4W9KEQBWL29A"
+plain text     = "4W9KEQBWL29A"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-16 06:37:43
 key            = 86 
 plain text     = "R3B4F1Q0MI6DCG3D4LGZ8QNY4L2ALYA90CQQRO5TPFERWTZTIHULI16SVV48VQBK4HDS3LXGS3SF7P9T2K2MAP"
