@@ -1,3 +1,11 @@
+tanggal        = 2022-10-16 16:38:50
+key            = 19 
+plain text     = "GNPSUNXNY3PYB2X2N6P"
+encrypted text = "FNQUXR]T`;YcM>e@]Fa"
+decrypted text = "GNPSUNXNY3PYB2X2N6P"
+plain text     = "GNPSUNXNY3PYB2X2N6P"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-16 15:53:52
 key            = 13 
 plain text     = "8W6NFURP7ID1Y"
