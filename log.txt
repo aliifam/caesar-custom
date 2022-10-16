@@ -1,3 +1,11 @@
+tanggal        = 2022-10-16 11:44:23
+key            = 17 
+plain text     = "7PXIQISF0GY32TVSN"
+encrypted text = "VpyktmxlWo$]]"%#}"
+decrypted text = "7PXIQISF0GY32TVSN"
+plain text     = "7PXIQISF0GY32TVSN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-16 11:23:06
 key            = 74 
 plain text     = "9B9TZ0DAJJBUCZNJG47LA1W6V9EJQA6A5OICX8O7MJ6OMP6Q2GU139V0GE3LXCFWBGC0A6VWE4"
