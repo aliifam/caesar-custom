@@ -1,3 +1,11 @@
+tanggal        = 2022-10-16 04:43:37
+key            = 39 
+plain text     = "3R458K8BJO0LHSAF56VQZB8M4LIVM73C9Y2PKEU"
+encrypted text = "6V9;?SALU[=ZWcRXHJkgqZQgOhftlWTe\}Wvrm~"
+decrypted text = "3R458K8BJO0LHSAF56VQZB8M4LIVM73C9Y2PKEU"
+plain text     = "3R458K8BJO0LHSAF56VQZB8M4LIVM73C9Y2PKEU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-16 02:53:33
 key            = 18 
 plain text     = "A7UHZL3NM4TENFKXTE"
