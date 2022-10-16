@@ -1,3 +1,11 @@
+tanggal        = 2022-10-16 09:28:50
+key            = 13 
+plain text     = "XVF6HARCNM2V6"
+encrypted text = "CB3$71C5AA'L-"
+decrypted text = "XVF6HARCNM2V6"
+plain text     = "XVF6HARCNM2V6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-16 08:34:31
 key            = 89 
 plain text     = "Z95LDUOKOVC2VBK403UQQG0IVREAE2813PD93NGTGOJUW20GU1EOYV10QPHXNBB8E3QGNZ8V0W5Y5S3OXNB335P9H"
