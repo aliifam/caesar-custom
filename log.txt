@@ -1,3 +1,11 @@
+tanggal        = 2022-10-16 14:48:03
+key            = 39 
+plain text     = "ZZUTTPAORDBVG73QEEVMLBMWGLEOM81JB190V1W"
+encrypted text = "lmiijgYhl_^seVSrghzrriu"qwq|{ga{tdme.h1"
+decrypted text = "ZZUTTPAORDBVG73QEEVMLBMWGLEOM81JB190V1W"
+plain text     = "ZZUTTPAORDBVG73QEEVMLBMWGLEOM81JB190V1W"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-16 14:26:19
 key            = 26 
 plain text     = "4FS0SOUM6YPVQ41N7WATWOMJJA"
