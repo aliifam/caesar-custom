@@ -1,3 +1,11 @@
+tanggal        = 2022-10-17 17:50:04
+key            = 43 
+plain text     = "PKE00DPO9TQ9PHOBWWMO5Q2M02DSB6I2K9UNWYQQFJZ"
+encrypted text = "73.xy0==(DB+C<D8NOFI0M/K/2EUE:N8RA^Xbe^_UZk"
+decrypted text = "PKE00DPO9TQ9PHOBWWMO5Q2M02DSB6I2K9UNWYQQFJZ"
+plain text     = "PKE00DPO9TQ9PHOBWWMO5Q2M02DSB6I2K9UNWYQQFJZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-17 16:49:23
 key            = 47 
 plain text     = "2TNGFFZYAF7034CIFWBLS9UFWED2PFGBNJYMWQATVUJ8LK8"
