@@ -1,3 +1,11 @@
+tanggal        = 2022-10-17 14:22:09
+key            = 17 
+plain text     = "EN0F54QR88X7HMANN"
+encrypted text = "oy\scc#%jk.l~&y)*"
+decrypted text = "EN0F54QR88X7HMANN"
+plain text     = "EN0F54QR88X7HMANN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-17 13:03:01
 key            = 9 
 plain text     = "ZZYQ9G1NW"
