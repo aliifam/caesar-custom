@@ -1,3 +1,11 @@
+tanggal        = 2022-10-17 18:48:59
+key            = 26 
+plain text     = "UFJMSJPN4DX91DTNCIN7JHFIN7"
+encrypted text = "tfkovnut[l#c\p#|ry!i}|{!'o"
+decrypted text = "UFJMSJPN4DX91DTNCIN7JHFIN7"
+plain text     = "UFJMSJPN4DX91DTNCIN7JHFIN7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-17 17:50:04
 key            = 43 
 plain text     = "PKE00DPO9TQ9PHOBWWMO5Q2M02DSB6I2K9UNWYQQFJZ"
