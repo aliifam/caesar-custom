@@ -1,3 +1,11 @@
+tanggal        = 2022-10-17 11:26:51
+key            = 14 
+plain text     = "J6LT0ALXYB0IG8"
+encrypted text = ")t-6q%1>@*w32$"
+decrypted text = "J6LT0ALXYB0IG8"
+plain text     = "J6LT0ALXYB0IG8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-17 10:35:14
 key            = 83 
 plain text     = "MYLV8F0TCSPKIWTQ7RV7B4E5T2HNMA0D9JL752MH02NOHGI5L7OX1LVZEDYYDSSJW42AHO0425LJH6OQ5YR"
