@@ -1,3 +1,11 @@
+tanggal        = 2022-10-17 22:30:04
+key            = 16 
+plain text     = "SQNG0KH9JJH8NFCO"
+encrypted text = "[ZXR<XVHZ[ZKb[Yf"
+decrypted text = "SQNG0KH9JJH8NFCO"
+plain text     = "SQNG0KH9JJH8NFCO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-17 21:48:05
 key            = 13 
 plain text     = "QIU996MAVNKEQ"
