@@ -1,3 +1,11 @@
+tanggal        = 2022-10-17 02:55:39
+key            = 17 
+plain text     = "IW7VH5CG2SW9TNRIT"
+encrypted text = "DS4TG5DI5W\?[V[S_"
+decrypted text = "IW7VH5CG2SW9TNRIT"
+plain text     = "IW7VH5CG2SW9TNRIT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-16 23:32:58
 key            = 82 
 plain text     = "JSSQ163LZ9LC20OSN42DLY7EUR5P4X13B3EISR7FHFAQKLHPB472EB9J9AEKT6BAV0L1QXCI6WY4QR148B"
