@@ -1,3 +1,11 @@
+tanggal        = 2022-10-18 07:59:40
+key            = 12 
+plain text     = "ENTPJVLCY07S"
+encrypted text = "=GNKFSJBY19V"
+decrypted text = "ENTPJVLCY07S"
+plain text     = "ENTPJVLCY07S"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-18 07:21:09
 key            = 99 
 plain text     = "RNAR3LZHO15TCXC5HRBW4JT5TJVXAM60MIL8K0KRBJBR9ET4HF7D2CERRQQF8DMFEBS5CJU5Z88AAFIS7GK2OC3ZR5IZN54KA48"
