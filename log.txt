@@ -1,3 +1,11 @@
+tanggal        = 2022-10-18 19:49:35
+key            = 12 
+plain text     = "ZM25HE4YMFMO"
+encrypted text = "eY?CWUEk`Zbe"
+decrypted text = "ZM25HE4YMFMO"
+plain text     = "ZM25HE4YMFMO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-18 19:30:19
 key            = 44 
 plain text     = "C57RL364NK678BI1WVOFS452G8HFZTJNHQ8MM0XDAZV6"
