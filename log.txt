@@ -1,3 +1,11 @@
+tanggal        = 2022-10-18 19:30:19
+key            = 44 
+plain text     = "C57RL364NK678BI1WVOFS452G8HFZTJNHQ8MM0XDAZV6"
+encrypted text = "bUXtoW[Zus_acnv_(("x(hjh~p#"72).)3y12t?,*DA""
+decrypted text = "C57RL364NK678BI1WVOFS452G8HFZTJNHQ8MM0XDAZV6"
+plain text     = "C57RL364NK678BI1WVOFS452G8HFZTJNHQ8MM0XDAZV6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-18 18:43:13
 key            = 35 
 plain text     = "SFJR9OVLPUZNNE0L9JUGYAIAGRJKB3WMHXN"
