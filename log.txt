@@ -1,3 +1,11 @@
+tanggal        = 2022-10-18 22:53:07
+key            = 18 
+plain text     = "YXK1ZOH93CTC6SR070"
+encrypted text = ")){b.$|niz.|p00muo"
+decrypted text = "YXK1ZOH93CTC6SR070"
+plain text     = "YXK1ZOH93CTC6SR070"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-18 22:29:45
 key            = 83 
 plain text     = "DZ678YOOA4UJ56V50HT4DAP1N16FYB0TVBUCJ8BY3MORWERR5D244D1RHGKPR29N4PZYDA4Q9QYUHCUW1IR"
