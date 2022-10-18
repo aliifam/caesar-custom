@@ -1,3 +1,11 @@
+tanggal        = 2022-10-18 02:45:51
+key            = 36 
+plain text     = "00ZTE53G55BWGJKD2YDBAWF5MVTVHOSJDAX7"
+encrypted text = "#$OJ<-,A01?UFJLF5]IHH_O?XbadW_d\WUmM"
+decrypted text = "00ZTE53G55BWGJKD2YDBAWF5MVTVHOSJDAX7"
+plain text     = "00ZTE53G55BWGJKD2YDBAWF5MVTVHOSJDAX7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-17 23:34:04
 key            = 80 
 plain text     = "CNUG7S3BZ6894ZCVMV365Z6MEKHA4RS5EL1HRK603MGTGGO7FSY6C1JRX3NC6JHKR0KHOOPC56KI4CAF"
