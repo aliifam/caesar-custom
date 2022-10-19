@@ -1,3 +1,11 @@
+tanggal        = 2022-10-19 23:34:39
+key            = 26 
+plain text     = "D26W0K5PHAX864AA9FMMV679ND"
+encrypted text = "{jo3k)r0)#;zyx()"089C$&)?6"
+decrypted text = "D26W0K5PHAX864AA9FMMV679ND"
+plain text     = "D26W0K5PHAX864AA9FMMV679ND"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-19 22:32:16
 key            = 80 
 plain text     = "NVCREZP7UTMJ8873D2FQ3CFT4I8UX9U5D6ZTAAE2VJDNYB0CQ5RUZJ5TFPJJLL5V7S2A13I48JXOHWWY"
