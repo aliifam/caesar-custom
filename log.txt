@@ -1,3 +1,11 @@
+tanggal        = 2022-10-19 21:50:02
+key            = 6 
+plain text     = "YEEEFG"
+encrypted text = "cPQRTV"
+decrypted text = "YEEEFG"
+plain text     = "YEEEFG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-19 21:27:00
 key            = 12 
 plain text     = "UK2R5M51AMK0"
