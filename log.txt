@@ -1,3 +1,11 @@
+tanggal        = 2022-10-19 10:38:19
+key            = 20 
+plain text     = "GOUCWH7SUO168MFP4TQY"
+encrypted text = "FOVEZL<Y\W:@CYS^Cdbk"
+decrypted text = "GOUCWH7SUO168MFP4TQY"
+plain text     = "GOUCWH7SUO168MFP4TQY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-19 09:57:14
 key            = 64 
 plain text     = "5XGY087CEFNI8J5FF3XY4FYIB6DV0V7UR2G4LDTP16B34PYRXAH1SH9EYIXB4LSL"
