@@ -1,3 +1,11 @@
+tanggal        = 2022-10-20 05:25:55
+key            = 22 
+plain text     = "7Q41751U3LW3RSRM2WL9SR"
+encrypted text = "HcGELKHmLfrOoqqmSyo]xx"
+decrypted text = "7Q41751U3LW3RSRM2WL9SR"
+plain text     = "7Q41751U3LW3RSRM2WL9SR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-20 04:25:33
 key            = 2 
 plain text     = "5C"
