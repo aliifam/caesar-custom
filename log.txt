@@ -1,3 +1,11 @@
+tanggal        = 2022-10-20 20:31:24
+key            = 7 
+plain text     = "Y217I2G"
+encrypted text = "pJJQdNd"
+decrypted text = "Y217I2G"
+plain text     = "Y217I2G"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-20 19:31:23
 key            = 38 
 plain text     = "H6M1TZ3P2KG7WKEIZKAXRY9XSL8XWHR6A252FW"
