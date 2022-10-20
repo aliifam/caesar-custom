@@ -1,3 +1,11 @@
+tanggal        = 2022-10-20 08:36:57
+key            = 38 
+plain text     = "CB4TTPA733JCSF32KAPQECVB4E0B3ZN6Q7SK09"
+encrypted text = "..!BC@2)&'?9J>,,F=MODCWD7I5H:bW@\C`Y?I"
+decrypted text = "CB4TTPA733JCSF32KAPQECVB4E0B3ZN6Q7SK09"
+plain text     = "CB4TTPA733JCSF32KAPQECVB4E0B3ZN6Q7SK09"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-20 07:52:40
 key            = 70 
 plain text     = "N3NS2BT3EWIVP6JDDFA18QQL0XEL7TS9D8Q9RTM8MFYDRH8CBDC76DTKQF2KMQKGVR85QE"
