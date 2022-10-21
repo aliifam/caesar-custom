@@ -1,3 +1,11 @@
+tanggal        = 2022-10-21 15:01:01
+key            = 37 
+plain text     = "RMZRPPDGGZ0DLY3FYNXZ4TNYQ0YIM1MZX69WR"
+encrypted text = "_[ibabW[\pG\esNbvlwzUvq}vV"qv[x('dh)%"
+decrypted text = "RMZRPPDGGZ0DLY3FYNXZ4TNYQ0YIM1MZX69WR"
+plain text     = "RMZRPPDGGZ0DLY3FYNXZ4TNYQ0YIM1MZX69WR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-21 14:07:34
 key            = 11 
 plain text     = "VZHVU6WYFSG"
