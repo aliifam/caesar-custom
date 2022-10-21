@@ -1,3 +1,11 @@
+tanggal        = 2022-10-21 12:58:59
+key            = 21 
+plain text     = "AFL2ODSABNSHFXUKG2EE9"
+encrypted text = "]cjQoeudfsyon#!vs_sti"
+decrypted text = "AFL2ODSABNSHFXUKG2EE9"
+plain text     = "AFL2ODSABNSHFXUKG2EE9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-21 11:46:26
 key            = 94 
 plain text     = "8U1SQKRGEHG52JEK4HKKDCHWUOQX52PWL4HRRB72K3VHKFD978JSG7EUKD7N9MZ2E5XR8EOOVKLCWBB5PG2ERQNAZUMFZ3"
