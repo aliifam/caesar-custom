@@ -1,3 +1,11 @@
+tanggal        = 2022-10-21 21:25:59
+key            = 59 
+plain text     = "PKI04T6W7T7RYZOW7OXVS48PI4T8R76WU9E2EFSKULLWSIGNMDN8EHWVXBO"
+encrypted text = "RNM5:[>`A_C_gi_hIblkiKPicOpUpVVxw\iWkm{t!wx&#xw!!w$m{!114}-"
+decrypted text = "PKI04T6W7T7RYZOW7OXVS48PI4T8R76WU9E2EFSKULLWSIGNMDN8EHWVXBO"
+plain text     = "PKI04T6W7T7RYZOW7OXVS48PI4T8R76WU9E2EFSKULLWSIGNMDN8EHWVXBO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-21 20:31:38
 key            = 16 
 plain text     = "VUQ3HGQX5W2SRB2S"
