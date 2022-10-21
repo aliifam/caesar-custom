@@ -1,3 +1,11 @@
+tanggal        = 2022-10-21 10:32:27
+key            = 7 
+plain text     = "QKFSRWA"
+encrypted text = "YTP^^dO"
+decrypted text = "QKFSRWA"
+plain text     = "QKFSRWA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-21 09:32:33
 key            = 4 
 plain text     = "FMEA"
