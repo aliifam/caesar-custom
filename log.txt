@@ -1,3 +1,11 @@
+tanggal        = 2022-10-21 23:33:39
+key            = 24 
+plain text     = "QS5ET4YER05K2ZKKBG9XDYFB"
+encrypted text = "14u(8w?,:w}6|G9:28+K8N<9"
+decrypted text = "QS5ET4YER05K2ZKKBG9XDYFB"
+plain text     = "QS5ET4YER05K2ZKKBG9XDYFB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-21 22:53:29
 key            = 4 
 plain text     = "AUKF"
