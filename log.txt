@@ -1,3 +1,11 @@
+tanggal        = 2022-10-21 11:25:41
+key            = 15 
+plain text     = "7ASYX3NI55H9H4M"
+encrypted text = "(3FMM)EA./C5E2L"
+decrypted text = "7ASYX3NI55H9H4M"
+plain text     = "7ASYX3NI55H9H4M"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-21 10:32:27
 key            = 7 
 plain text     = "QKFSRWA"
