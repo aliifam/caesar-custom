@@ -1,3 +1,11 @@
+tanggal        = 2022-10-21 22:53:29
+key            = 4 
+plain text     = "AUKF"
+encrypted text = "#8/+"
+decrypted text = "AUKF"
+plain text     = "AUKF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-21 22:29:15
 key            = 84 
 plain text     = "KLGMBTVV8H0TTJDNTUXPNHXGR4VMJHL0WC6Z6I38KZIRKVDFEAQCOLB2JPUUSH0GWV7K24V3K8TWU6C8HV31"
