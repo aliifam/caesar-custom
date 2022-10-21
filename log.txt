@@ -1,3 +1,11 @@
+tanggal        = 2022-10-21 07:35:11
+key            = 19 
+plain text     = "ZEGWKZOC4B8VN6JLW8L"
+encrypted text = "uadujzpeWf]|u^sv$dy"
+decrypted text = "ZEGWKZOC4B8VN6JLW8L"
+plain text     = "ZEGWKZOC4B8VN6JLW8L"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-21 06:46:09
 key            = 81 
 plain text     = "CZDE8VU5R0DABZGLD0O0ZWZI6PN2D2UKSUXTSD2LW4KDBT921DYKI7DBQSA2WP5T2R7ZQL4D744IPHJX1"
