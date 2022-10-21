@@ -1,3 +1,11 @@
+tanggal        = 2022-10-21 08:38:57
+key            = 17 
+plain text     = "R0OFGCT0CLZTKMTQG"
+encrypted text = "vUumol~[oy*%{~(&{"
+decrypted text = "R0OFGCT0CLZTKMTQG"
+plain text     = "R0OFGCT0CLZTKMTQG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-21 07:35:11
 key            = 19 
 plain text     = "ZEGWKZOC4B8VN6JLW8L"
