@@ -1,3 +1,11 @@
+tanggal        = 2022-10-22 11:23:21
+key            = 25 
+plain text     = "SXWPBZ377QNNQHKSR4O85F6MV"
+encrypted text = "1771$=uz{867;37@@#?)'9*BL"
+decrypted text = "SXWPBZ377QNNQHKSR4O85F6MV"
+plain text     = "SXWPBZ377QNNQHKSR4O85F6MV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-22 10:53:35
 key            = 20 
 plain text     = "JSV2LBFIXUAF66XUKQVP"
