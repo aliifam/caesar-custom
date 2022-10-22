@@ -1,3 +1,11 @@
+tanggal        = 2022-10-22 10:53:35
+key            = 20 
+plain text     = "JSV2LBFIXUAF66XUKQVP"
+encrypted text = "fptQlchl|zgm^_$"w~&!"
+decrypted text = "JSV2LBFIXUAF66XUKQVP"
+plain text     = "JSV2LBFIXUAF66XUKQVP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-22 10:29:51
 key            = 2 
 plain text     = "HK"
