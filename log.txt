@@ -1,3 +1,11 @@
+tanggal        = 2022-10-22 10:29:51
+key            = 2 
+plain text     = "HK"
+encrypted text = "NR"
+decrypted text = "HK"
+plain text     = "HK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-22 09:52:47
 key            = 46 
 plain text     = "MIMI3JGA9OEFHAYNSS8ILHLMS2ZIQ431NKNNEOHL1TVRUK"
