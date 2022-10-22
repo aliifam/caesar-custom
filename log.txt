@@ -1,3 +1,11 @@
+tanggal        = 2022-10-22 17:33:25
+key            = 21 
+plain text     = "H893NZDKHQRXE5KEQEXS5"
+encrypted text = ""qsn,9$,*46=+z3.;0D@#"
+decrypted text = "H893NZDKHQRXE5KEQEXS5"
+plain text     = "H893NZDKHQRXE5KEQEXS5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-22 16:39:37
 key            = 2 
 plain text     = "E8"
