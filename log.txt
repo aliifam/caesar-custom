@@ -1,3 +1,11 @@
+tanggal        = 2022-10-23 02:42:56
+key            = 50 
+plain text     = "IRGM80OH2IQKHJSHTLK26O5WB9VP858NQIZ406NCMMWVOLL59V"
+encrypted text = "lvls_Xxr]u~ywz&z)""hm)n3}u50wuy26/Azw~9/:;FF@>?).L"
+decrypted text = "IRGM80OH2IQKHJSHTLK26O5WB9VP858NQIZ406NCMMWVOLL59V"
+plain text     = "IRGM80OH2IQKHJSHTLK26O5WB9VP858NQIZ406NCMMWVOLL59V"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-22 23:33:09
 key            = 41 
 plain text     = "EWEWQRDELINM73L57277Y8EL66NT9K1BO2XXG4BWD"
