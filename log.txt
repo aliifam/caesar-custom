@@ -1,3 +1,11 @@
+tanggal        = 2022-10-23 07:50:07
+key            = 12 
+plain text     = "DPVUQX0X64T6"
+encrypted text = "JW^^[c<eDCdG"
+decrypted text = "DPVUQX0X64T6"
+plain text     = "DPVUQX0X64T6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-23 07:29:54
 key            = 100 
 plain text     = "V5HMV0BK8KHSW07HDO3XCZ29MUVR81NF231SS6OTO4JU19S7GK3QP39RK237UFDJAN5CU21W369O7BY3MA4WPF9DXP2O0OKDRK6C"
