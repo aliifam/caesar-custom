@@ -1,3 +1,11 @@
+tanggal        = 2022-10-23 20:30:06
+key            = 10 
+plain text     = "7GZVQO0260"
+encrypted text = "ar(%!~`chc"
+decrypted text = "7GZVQO0260"
+plain text     = "7GZVQO0260"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-23 19:43:24
 key            = 71 
 plain text     = "RTE2DL1LZO15LL5CH1SCUJNU4D5COZ2O15A5A39T3ED609CCN8H2GYCFCJT8FCLXD0EKOD3"
