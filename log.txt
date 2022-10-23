@@ -1,3 +1,11 @@
+tanggal        = 2022-10-23 18:34:13
+key            = 20 
+plain text     = "015BO9AG2ZFSNCXKOLOH"
+encrypted text = "249GU@IP<eR`\Rh\a_c]"
+decrypted text = "015BO9AG2ZFSNCXKOLOH"
+plain text     = "015BO9AG2ZFSNCXKOLOH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-23 17:33:40
 key            = 51 
 plain text     = "TJXUAJTPZ1PYBRLI2OIWBO9KE214337713F6A0TZMLH102SS87A"
