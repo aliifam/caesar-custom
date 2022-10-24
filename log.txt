@@ -1,3 +1,11 @@
+tanggal        = 2022-10-24 18:45:40
+key            = 7 
+plain text     = "8F497ZZ"
+encrypted text = "VeTZY}~"
+decrypted text = "8F497ZZ"
+plain text     = "8F497ZZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-24 17:42:51
 key            = 71 
 plain text     = "BU86RANKGORKZRSW327XAZYQGYEL5K888MJD1O9X5K56ODKSWIS1PH75GF3EG5REW7EJUZE"
