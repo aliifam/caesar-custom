@@ -1,3 +1,11 @@
+tanggal        = 2022-10-24 11:49:11
+key            = 23 
+plain text     = "X2LPFFMTO4PSD90GU71R8UU"
+encrypted text = "}Xsxopx"|b!%ukc{,mh,q12"
+decrypted text = "X2LPFFMTO4PSD90GU71R8UU"
+plain text     = "X2LPFFMTO4PSD90GU71R8UU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-24 11:28:22
 key            = 63 
 plain text     = "94Z0DZCTUCH92E0L0QUDQU8K3X5YULRASF49VFLEEO81ZRWSJYABJ4JIQMV6SK8"
