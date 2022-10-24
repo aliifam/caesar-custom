@@ -1,3 +1,11 @@
+tanggal        = 2022-10-24 10:36:05
+key            = 31 
+plain text     = "LIWXGA9J2UCMB17JLZ2WQ48Z57PQL6E"
+encrypted text = ".,;=-(!3z@/:0~';>M&LG+0S/2LNJ5E"
+decrypted text = "LIWXGA9J2UCMB17JLZ2WQ48Z57PQL6E"
+plain text     = "LIWXGA9J2UCMB17JLZ2WQ48Z57PQL6E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-24 09:39:23
 key            = 9 
 plain text     = "EN3JPSLA4"
