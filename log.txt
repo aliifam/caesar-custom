@@ -1,3 +1,11 @@
+tanggal        = 2022-10-24 08:45:39
+key            = 16 
+plain text     = "CO1055A4L74GAD77"
+encrypted text = "IV99?@MAZFDXSWKL"
+decrypted text = "CO1055A4L74GAD77"
+plain text     = "CO1055A4L74GAD77"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-24 07:52:10
 key            = 69 
 plain text     = "AWLOQF7N8JI2IKJST2998Y1POZOWMR4QHNY6NB0W3WTKHZWC8AN4NQG00H3JRK10H1D8N"
