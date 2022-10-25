@@ -1,3 +1,11 @@
+tanggal        = 2022-10-25 14:22:52
+key            = 13 
+plain text     = "L46R4Z36RB4A5"
+encrypted text = "/vy8yBz~=.!/$"
+decrypted text = "L46R4Z36RB4A5"
+plain text     = "L46R4Z36RB4A5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-25 13:02:58
 key            = 59 
 plain text     = "9550X40E0LORCJ4EGT6S6DA6QLKK110ROLYC7IHDX28M3Y97QJVOGY0Y00O"
