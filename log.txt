@@ -1,3 +1,11 @@
+tanggal        = 2022-10-25 15:38:56
+key            = 73 
+plain text     = "E97DU2DYWOUSSC7XLO6Q7WMN5KZGDAH6WDGX0JCLJ21PUC07RZJ8M3JELGU4P46L49MTYG97Y"
+encrypted text = "vkjx,h{32+212#v:/3y7|?68~7G5319(J8<N'B<FE..NTC19U^O>T;SOWSbB_DG^GMbjp_RQt"
+decrypted text = "E97DU2DYWOUSSC7XLO6Q7WMN5KZGDAH6WDGX0JCLJ21PUC07RZJ8M3JELGU4P46L49MTYG97Y"
+plain text     = "E97DU2DYWOUSSC7XLO6Q7WMN5KZGDAH6WDGX0JCLJ21PUC07RZJ8M3JELGU4P46L49MTYG97Y"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-25 15:00:03
 key            = 3 
 plain text     = "VNP"
