@@ -1,3 +1,11 @@
+tanggal        = 2022-10-25 06:40:11
+key            = 14 
+plain text     = "I8H37V55PHLG1X"
+encrypted text = "K;L8=]=>ZSXT?g"
+decrypted text = "I8H37V55PHLG1X"
+plain text     = "I8H37V55PHLG1X"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-25 05:03:16
 key            = 82 
 plain text     = "UTG8KLGT5ODPRTHXWR71R86GIIS1H36R5EUSH90Q28KORCOQVIJVINFL3E1QCHZMN2CRPGV3U0UFZ2SLY5"
