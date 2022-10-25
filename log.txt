@@ -1,3 +1,11 @@
+tanggal        = 2022-10-25 18:00:27
+key            = 14 
+plain text     = "RC1SQ84VD3WZQU"
+encrypted text = "1#p54zw<+y@D<A"
+decrypted text = "RC1SQ84VD3WZQU"
+plain text     = "RC1SQ84VD3WZQU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-25 16:52:44
 key            = 47 
 plain text     = "2AD6C0S5FJSPIPVDZWENJPQ9STIYKDSXRUIXBNXR0A8FPDR"
