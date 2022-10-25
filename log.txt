@@ -1,3 +1,11 @@
+tanggal        = 2022-10-25 15:00:03
+key            = 3 
+plain text     = "VNP"
+encrypted text = "wps"
+decrypted text = "VNP"
+plain text     = "VNP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-25 14:22:52
 key            = 13 
 plain text     = "L46R4Z36RB4A5"
