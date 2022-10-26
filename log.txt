@@ -1,3 +1,11 @@
+tanggal        = 2022-10-26 22:49:04
+key            = 37 
+plain text     = "XNCAL1EEXVCRRLVYCQHOBASLFI8D0VKCEY0Q4"
+encrypted text = "H?54@&;<PO=MNITXCRJRFFYSNRBO<cYRUjBdH"
+decrypted text = "XNCAL1EEXVCRRLVYCQHOBASLFI8D0VKCEY0Q4"
+plain text     = "XNCAL1EEXVCRRLVYCQHOBASLFI8D0VKCEY0Q4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-26 22:28:34
 key            = 49 
 plain text     = "WTWH08JZ3W3UF7KWR0EX0WPN02SOJJ45PTSODGBH8H200QAM3"
