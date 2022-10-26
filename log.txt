@@ -1,3 +1,11 @@
+tanggal        = 2022-10-26 06:36:12
+key            = 55 
+plain text     = "PWK4N6O6UMZDGQAVMRPJTWD9KFNS6BPLXCUS6Z79KDKFCPSFYCF2TN7"
+encrypted text = "hpeOjSmUun|gkvg}u{zu"&rh{w"(jw(%2|10r9ux-'/+)7;/C.2}B='"
+decrypted text = "PWK4N6O6UMZDGQAVMRPJTWD9KFNS6BPLXCUS6Z79KDKFCPSFYCF2TN7"
+plain text     = "PWK4N6O6UMZDGQAVMRPJTWD9KFNS6BPLXCUS6Z79KDKFCPSFYCF2TN7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-26 05:51:04
 key            = 3 
 plain text     = "N4H"
