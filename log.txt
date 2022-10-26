@@ -1,3 +1,11 @@
+tanggal        = 2022-10-26 05:51:04
+key            = 3 
+plain text     = "N4H"
+encrypted text = "_F["
+decrypted text = "N4H"
+plain text     = "N4H"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-26 05:10:36
 key            = 45 
 plain text     = "ODN4K10OGN5F194QDMRFHCBYA0CG7VJNMIXY02ZK4L0AO"
