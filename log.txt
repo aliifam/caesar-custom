@@ -1,3 +1,11 @@
+tanggal        = 2022-10-26 15:49:47
+key            = 13 
+plain text     = "ZUAM6V22S3N24"
+encrypted text = "HD1>(I&'I*F+."
+decrypted text = "ZUAM6V22S3N24"
+plain text     = "ZUAM6V22S3N24"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-26 15:27:52
 key            = 13 
 plain text     = "6U95TIVLSDKN0"
