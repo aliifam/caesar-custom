@@ -1,3 +1,11 @@
+tanggal        = 2022-10-26 13:57:51
+key            = 28 
+plain text     = "48AVQON2Y2PA832S5B9POQW6LOTZ"
+encrypted text = "v{'=988{E}>0($$F)7/GGJQ1HLRY"
+decrypted text = "48AVQON2Y2PA832S5B9POQW6LOTZ"
+plain text     = "48AVQON2Y2PA832S5B9POQW6LOTZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-26 12:58:54
 key            = 3 
 plain text     = "QKB"
