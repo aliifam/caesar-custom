@@ -1,3 +1,11 @@
+tanggal        = 2022-10-26 17:48:03
+key            = 34 
+plain text     = "P6DIQJ9MO0US1YLY3RKUZX954XHDHLN80C"
+encrypted text = "/t%+4.|36v>=zE9G"B<GML.++PA>CHK6/C"
+decrypted text = "P6DIQJ9MO0US1YLY3RKUZX954XHDHLN80C"
+plain text     = "P6DIQJ9MO0US1YLY3RKUZX954XHDHLN80C"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-26 17:28:17
 key            = 34 
 plain text     = "7W94LFWIO9GKXS2S1BZEY9HXO9YRDCG370"
