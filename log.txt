@@ -1,3 +1,11 @@
+tanggal        = 2022-10-27 17:49:53
+key            = 9 
+plain text     = "SRI4HMHRA"
+encrypted text = "kkcOdjfqa"
+decrypted text = "SRI4HMHRA"
+plain text     = "SRI4HMHRA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-27 17:29:33
 key            = 85 
 plain text     = "GWYX890VRFJHD5CK9H5B3AN3LKFU031K0FKMZB9IBZF0SK08JBD28DJ2QXW1G5U4C80GSNHYKA823M62KNQGZ"
