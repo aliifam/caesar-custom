@@ -1,3 +1,11 @@
+tanggal        = 2022-10-27 13:54:39
+key            = 3 
+plain text     = "6KI"
+encrypted text = "]sr"
+decrypted text = "6KI"
+plain text     = "6KI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-27 12:56:44
 key            = 100 
 plain text     = "JPO2OR5IKOQGVYT1DIVUET4B85CXRTEN7OZEC49D56ETMXNWQ4O4NGZ0VAS1C2M5MO8EI65CPHSGMLVFAJR5XZ9P5RFAVH14MLEC"
