@@ -1,3 +1,11 @@
+tanggal        = 2022-10-27 02:22:32
+key            = 8 
+plain text     = "BSA53EDJ"
+encrypted text = "|0}rq&&-"
+decrypted text = "BSA53EDJ"
+plain text     = "BSA53EDJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-26 23:50:03
 key            = 59 
 plain text     = "0BYYS385AN0IXFTBK8M6RTV7S89PAY5FH1085EKWVDBR9RBXFLRP5CZ4MMK"
