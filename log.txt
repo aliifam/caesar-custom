@@ -1,3 +1,11 @@
+tanggal        = 2022-10-28 11:42:02
+key            = 8 
+plain text     = "ECA83CTW"
+encrypted text = "^]\TPasw"
+decrypted text = "ECA83CTW"
+plain text     = "ECA83CTW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-28 11:22:06
 key            = 92 
 plain text     = "PJ1DMA84BOQFAEQ8KSFGVB2MJD7HUIGKT0T3T0ZXS30TOD9N6TADCGTQWIYWCZEX8ZPMHZLEIZA51UTMYWACKQ46UGC3"
