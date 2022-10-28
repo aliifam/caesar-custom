@@ -1,3 +1,11 @@
+tanggal        = 2022-10-28 20:28:03
+key            = 49 
+plain text     = "61KHEZINNNO1I7817OMP9P9WM5TRU44RZ8O06O3B140IJ7S5H"
+encrypted text = "_[vtr*x~!"$e~moip+*.v0x90w98<z{<E$<|%?$4$(%?A/L/C"
+decrypted text = "61KHEZINNNO1I7817OMP9P9WM5TRU44RZ8O06O3B140IJ7S5H"
+plain text     = "61KHEZINNNO1I7817OMP9P9WM5TRU44RZ8O06O3B140IJ7S5H"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-28 19:39:58
 key            = 33 
 plain text     = "XU5V373TPROPQ9C7GRXEDBQK9IF6NXM1U"
