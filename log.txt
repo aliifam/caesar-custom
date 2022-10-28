@@ -1,3 +1,11 @@
+tanggal        = 2022-10-28 10:48:33
+key            = 20 
+plain text     = "DS17FOXCSG35MNFZX5T1"
+encrypted text = "M]<CS]gSdYFIbd]rqOoM"
+decrypted text = "DS17FOXCSG35MNFZX5T1"
+plain text     = "DS17FOXCSG35MNFZX5T1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-28 10:28:06
 key            = 18 
 plain text     = "H2X1N3KEX3QUIH4KI7"
