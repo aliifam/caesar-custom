@@ -1,3 +1,11 @@
+tanggal        = 2022-10-28 12:57:09
+key            = 33 
+plain text     = "Y3RW9Z354SIK27DASOF6G18S28FD0GOLA"
+encrypted text = "*c%+l0hkk-$'ms#!41)x,u};y"10{5><2"
+decrypted text = "Y3RW9Z354SIK27DASOF6G18S28FD0GOLA"
+plain text     = "Y3RW9Z354SIK27DASOF6G18S28FD0GOLA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-28 11:42:02
 key            = 8 
 plain text     = "ECA83CTW"
