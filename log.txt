@@ -1,3 +1,11 @@
+tanggal        = 2022-10-28 17:47:30
+key            = 13 
+plain text     = "LXHPGYTLP3RMV"
+encrypted text = "w&u~v+'~%g)%/"
+decrypted text = "LXHPGYTLP3RMV"
+plain text     = "LXHPGYTLP3RMV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-28 17:27:25
 key            = 83 
 plain text     = "SE7G7SBOK2P1H972XG13CTXBG1F7TMZHJM5ZI5EZ3UEI2J9631WNYNAWA9R0R1AP4QGGFD77UBGOZ2ZR21Z"
