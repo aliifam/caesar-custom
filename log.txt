@@ -1,3 +1,11 @@
+tanggal        = 2022-10-28 09:46:29
+key            = 42 
+plain text     = "BPE7O5KHTSKYUXR16I6VSTYCZQCSOHVFH28L53P2NV"
+encrypted text = "p!uh#h!},,%4150nt*v979?*B:->;5D58#*?)(F)FO"
+decrypted text = "BPE7O5KHTSKYUXR16I6VSTYCZQCSOHVFH28L53P2NV"
+plain text     = "BPE7O5KHTSKYUXR16I6VSTYCZQCSOHVFH28L53P2NV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-28 09:26:21
 key            = 12 
 plain text     = "VKBV7O794OFQ"
