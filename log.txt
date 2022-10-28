@@ -1,3 +1,11 @@
+tanggal        = 2022-10-28 06:32:34
+key            = 52 
+plain text     = "P5W0FE5NE17K8BPRNAK197K7LNYTSPPU74Z4582MD8MAPO47XAXP"
+encrypted text = "!e*byyj&|ip's~/2/#.s|{2}58D@@>?E(&M(*.)E=2H=MM37YC[T"
+decrypted text = "P5W0FE5NE17K8BPRNAK197K7LNYTSPPU74Z4582MD8MAPO47XAXP"
+plain text     = "P5W0FE5NE17K8BPRNAK197K7LNYTSPPU74Z4582MD8MAPO47XAXP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-28 05:49:47
 key            = 81 
 plain text     = "ZO6CCNXITQ95GCVUHQF9XZDFGKJ44VETE152RQ62B9N8KM6MB6SRJD8HQCZUETRAET180N6H9VQLTKG6W"
