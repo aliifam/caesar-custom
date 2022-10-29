@@ -1,3 +1,11 @@
+tanggal        = 2022-10-29 07:41:15
+key            = 7 
+plain text     = "TVU4OBV"
+encrypted text = "<??};/D"
+decrypted text = "TVU4OBV"
+plain text     = "TVU4OBV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-29 07:22:27
 key            = 72 
 plain text     = "EZLVDSDBWCKAV2FAFJC1IWTX3WJJ08I8UV9DMLPSNVPEV8USXTO0OUPHV1RGJJIBX1E20JSK"
