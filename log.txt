@@ -1,3 +1,11 @@
+tanggal        = 2022-10-29 13:35:56
+key            = 9 
+plain text     = "X7XCUHSTE"
+encrypted text = ".l0z/#/1#"
+decrypted text = "X7XCUHSTE"
+plain text     = "X7XCUHSTE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-29 12:45:21
 key            = 65 
 plain text     = "H701XREA1PPQQD0NBXM546SUHLFU90VKZU1ADKWIK5NJ2L2J46NNYKUSRKOW2EK2A"
