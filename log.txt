@@ -1,3 +1,11 @@
+tanggal        = 2022-10-29 05:27:40
+key            = 48 
+plain text     = "8R87CZ98BP8YYS8S35WOFTNZFK50WM2705JP31BG9N77L6G4"
+encrypted text = ";V==JbBBM\EghcIeFIle]lgtagRNvmSYSYovZYkqdzde{fxf"
+decrypted text = "8R87CZ98BP8YYS8S35WOFTNZFK50WM2705JP31BG9N77L6G4"
+plain text     = "8R87CZ98BP8YYS8S35WOFTNZFK50WM2705JP31BG9N77L6G4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-29 04:41:58
 key            = 24 
 plain text     = "ELYLZ20IH1DWZ4HTXIPXQ3GB"
