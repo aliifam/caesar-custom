@@ -1,3 +1,11 @@
+tanggal        = 2022-10-29 09:24:02
+key            = 1 
+plain text     = "9"
+encrypted text = "@"
+decrypted text = "9"
+plain text     = "9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-29 08:31:34
 key            = 94 
 plain text     = "0DU3U1CYHN5CF2OJBQVI8VGRKKLMX2O6XJ08JBC4DNUC2H7M00VAYAK05TI9RCN3AQC50Z5F199J29S90O4FLAIQG890IC"
