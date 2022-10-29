@@ -1,3 +1,11 @@
+tanggal        = 2022-10-29 23:47:57
+key            = 12 
+plain text     = "ZEH0AES6JVGB"
+encrypted text = "D04{/4C'<I;7"
+decrypted text = "ZEH0AES6JVGB"
+plain text     = "ZEH0AES6JVGB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-29 23:28:23
 key            = 92 
 plain text     = "ETAZVV2OJOIBT0TK5GDAOL7QEXRGWR7DQS9720KTHVA98RG8ZA6WEVLW1TDJZWLPE3FXBJ81SRLOHZ4PO7XG8BEPTXG7"
