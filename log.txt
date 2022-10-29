@@ -1,3 +1,11 @@
+tanggal        = 2022-10-29 08:31:34
+key            = 94 
+plain text     = "0DU3U1CYHN5CF2OJBQVI8VGRKKLMX2O6XJ08JBC4DNUC2H7M00VAYAK05TI9RCN3AQC50Z5F199J29S90O4FLAIQG890IC"
+encrypted text = "RgyX{Xk$ryapta!{t&,~n/!-'(*,8q1w</t}2+-}0;C2"9)@$%L8Q:E+1QG8RDP6EVI<8c?Q=FGYBJeLDdJ]dZclcUWOid"
+decrypted text = "0DU3U1CYHN5CF2OJBQVI8VGRKKLMX2O6XJ08JBC4DNUC2H7M00VAYAK05TI9RCN3AQC50Z5F199J29S90O4FLAIQG890IC"
+plain text     = "0DU3U1CYHN5CF2OJBQVI8VGRKKLMX2O6XJ08JBC4DNUC2H7M00VAYAK05TI9RCN3AQC50Z5F199J29S90O4FLAIQG890IC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-29 07:41:15
 key            = 7 
 plain text     = "TVU4OBV"
