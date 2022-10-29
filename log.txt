@@ -1,3 +1,11 @@
+tanggal        = 2022-10-29 04:41:58
+key            = 24 
+plain text     = "ELYLZ20IH1DWZ4HTXIPXQ3GB"
+encrypted text = "nv&x)`_yycw-1j!.3%-60q($"
+decrypted text = "ELYLZ20IH1DWZ4HTXIPXQ3GB"
+plain text     = "ELYLZ20IH1DWZ4HTXIPXQ3GB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-29 03:46:15
 key            = 83 
 plain text     = "3CI5443P3T1KOUOOMJXP4X3UU824LZEAJZ5XOIV6LHX6T45QYHBFSQKODZ14X9A3HV90LFZZBXN99BMG6NM"
