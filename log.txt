@@ -1,3 +1,11 @@
+tanggal        = 2022-10-29 14:43:19
+key            = 20 
+plain text     = "A102L176R9A7XEMN5PBH"
+encrypted text = "N??B]CJJgOXOq_hjRnah"
+decrypted text = "A102L176R9A7XEMN5PBH"
+plain text     = "A102L176R9A7XEMN5PBH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-29 14:23:33
 key            = 49 
 plain text     = "ZTBWZX9C69WJHX3S455M3R1N7ISSYI4RYKJFJDVKX0DT1MFMJ"
