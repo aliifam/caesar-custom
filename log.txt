@@ -1,3 +1,11 @@
+tanggal        = 2022-10-29 11:20:31
+key            = 21 
+plain text     = "FRMKB70PLGUKFZEVY6J62"
+encrypted text = "s"|{sic&#}.%!6"48t+vs"
+decrypted text = "FRMKB70PLGUKFZEVY6J62"
+plain text     = "FRMKB70PLGUKFZEVY6J62"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-29 10:47:14
 key            = 54 
 plain text     = "U6NSG2TJF1ZWLWNJ2VF4H7CTFMB6PFWI4V3C5890Z0J3FJ5ENWZOFZ"
