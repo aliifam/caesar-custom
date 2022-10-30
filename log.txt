@@ -1,3 +1,11 @@
+tanggal        = 2022-10-30 05:04:45
+key            = 6 
+plain text     = "RN753E"
+encrypted text = ""}gfex"
+decrypted text = "RN753E"
+plain text     = "RN753E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-30 04:11:21
 key            = 6 
 plain text     = "2G9HBW"
