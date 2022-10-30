@@ -1,3 +1,11 @@
+tanggal        = 2022-10-30 14:42:33
+key            = 41 
+plain text     = "GRXHJZ4LGQ0J947RUAES19CGDGIVXBHDOEF06D456"
+encrypted text = "9EL=@Q,EAL,G737SWDIX7@KPNRUcfQXUaXZEL[LNP"
+decrypted text = "GRXHJZ4LGQ0J947RUAES19CGDGIVXBHDOEF06D456"
+plain text     = "GRXHJZ4LGQ0J947RUAES19CGDGIVXBHDOEF06D456"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-30 14:22:02
 key            = 28 
 plain text     = "MNXLWKJ4VKWIECPIUTRWFHHQ3AV6"
