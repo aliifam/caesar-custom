@@ -1,3 +1,11 @@
+tanggal        = 2022-10-30 13:37:04
+key            = 16 
+plain text     = "TC2MMB4INFJANVBP"
+encrypted text = "ZJ:VWM@V\UZR`iVe"
+decrypted text = "TC2MMB4INFJANVBP"
+plain text     = "TC2MMB4INFJANVBP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-30 12:48:00
 key            = 99 
 plain text     = "RCR1M9SKKTCB4HNVQD4Z38OEZXJH862CTUWPEUEELNH1OXQ5KW7YF5N9CFW83D0QCVD0VAJ06IWDXVCTYJMOUVH0F0PX3WB85SW"
