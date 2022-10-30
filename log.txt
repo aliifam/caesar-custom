@@ -1,3 +1,11 @@
+tanggal        = 2022-10-30 04:11:21
+key            = 6 
+plain text     = "2G9HBW"
+encrypted text = ":PCSNd"
+decrypted text = "2G9HBW"
+plain text     = "2G9HBW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-30 02:38:10
 key            = 80 
 plain text     = "95B6AWVPQNO3DLXGN6GC5CYSUAKH8PUU5SK8XJPVTNVE1K6X71N2UQULTYGKS8ENCJ3AXJH1MN4EGS6E"
