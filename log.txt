@@ -1,3 +1,11 @@
+tanggal        = 2022-10-30 20:26:18
+key            = 25 
+plain text     = "QEO78F524IQ7TM4V4HFZ7Q0N3"
+encrypted text = "A6A*,;+),BK2PJ2U4IH];V6U;"
+decrypted text = "QEO78F524IQ7TM4V4HFZ7Q0N3"
+plain text     = "QEO78F524IQ7TM4V4HFZ7Q0N3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-30 19:39:21
 key            = 73 
 plain text     = "DAXPIEWPCO4VB44HTS7SH1LLIVE0F00J63EZM0WUP2Y8K379RI2VJ9G4M6TYIBZT5HPR72RZQ"
