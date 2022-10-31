@@ -1,3 +1,11 @@
+tanggal        = 2022-10-31 13:57:23
+key            = 13 
+plain text     = "CW5QEJ7HG18AS"
+encrypted text = "DY8UJP>PP;CM`"
+decrypted text = "CW5QEJ7HG18AS"
+plain text     = "CW5QEJ7HG18AS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-31 12:55:59
 key            = 73 
 plain text     = "SAVI9W4PFMJ52KNAVWR8J8OV0TUV7HG4A80DRD85XNUFIHZ7W3GEQHWKIMRYXIQGDU3GXFZKG"
