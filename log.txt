@@ -1,3 +1,11 @@
+tanggal        = 2022-10-31 07:24:21
+key            = 11 
+plain text     = "GSMJR8SC3UC"
+encrypted text = "DQLJS:VG8[J"
+decrypted text = "GSMJR8SC3UC"
+plain text     = "GSMJR8SC3UC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-31 06:32:45
 key            = 81 
 plain text     = "RQMWA11YXGBZ2U6W3GD2GOXCZN63KXTVFF0C3QJ1BHLWCQJQ32UM5AH2H1ZRO3WIYUXR1E4MXNJ04VOA7"
