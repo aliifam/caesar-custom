@@ -1,3 +1,11 @@
+tanggal        = 2022-10-31 11:42:58
+key            = 11 
+plain text     = "MQ7DRVLN22H"
+encrypted text = "_dKYhmdgLMd"
+decrypted text = "MQ7DRVLN22H"
+plain text     = "MQ7DRVLN22H"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-31 11:23:12
 key            = 89 
 plain text     = "9UBHH19T2EOCY8XNME3BCWH9T1STPF73EDWU5MLH2F6HQBBJAKNXA6A9UYAUL9E0OLH2W2W8KANYEFFOSQJLDY7R1"
