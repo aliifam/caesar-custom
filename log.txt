@@ -1,3 +1,11 @@
+tanggal        = 2022-10-31 14:33:43
+key            = 8 
+plain text     = "C3ZTKNYQ"
+encrypted text = "O@hc[_kd"
+decrypted text = "C3ZTKNYQ"
+plain text     = "C3ZTKNYQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-31 13:57:23
 key            = 13 
 plain text     = "CW5QEJ7HG18AS"
