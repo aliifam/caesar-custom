@@ -1,3 +1,11 @@
+tanggal        = 2022-10-31 16:39:24
+key            = 17 
+plain text     = "VQZND8DHR0YS4TP0M"
+encrypted text = "LHRG>3@EP/YT6WT5S"
+decrypted text = "VQZND8DHR0YS4TP0M"
+plain text     = "VQZND8DHR0YS4TP0M"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-10-31 15:49:22
 key            = 82 
 plain text     = "CKS5A6XNJF88L43Q5G520S8K781UP1J2ZNBYFB8KQI92160OKT082P3B5JOVLWFM4TSW578RDFRK137X66"
