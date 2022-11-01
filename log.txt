@@ -1,3 +1,11 @@
+tanggal        = 2022-11-01 07:25:50
+key            = 32 
+plain text     = "2DJ2CJ3MXTP2QQ5HZ3JLE7K681SSYCSV"
+encrypted text = "PcjSemWr~{x[{|au*bz}wj!knh-.5~15"
+decrypted text = "2DJ2CJ3MXTP2QQ5HZ3JLE7K681SSYCSV"
+plain text     = "2DJ2CJ3MXTP2QQ5HZ3JLE7K681SSYCSV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-01 06:37:31
 key            = 3 
 plain text     = "3S1"
