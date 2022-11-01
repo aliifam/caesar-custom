@@ -1,3 +1,11 @@
+tanggal        = 2022-11-01 06:37:31
+key            = 3 
+plain text     = "3S1"
+encrypted text = "Z{Z"
+decrypted text = "3S1"
+plain text     = "3S1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-01 05:51:33
 key            = 31 
 plain text     = "RFV5W3R6EI4DA603GR0SY24Z9PGBG3U"
