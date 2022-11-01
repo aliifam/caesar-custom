@@ -1,3 +1,11 @@
+tanggal        = 2022-11-01 13:00:37
+key            = 7 
+plain text     = "OA1V34Y"
+encrypted text = "!rc+gi1"
+decrypted text = "OA1V34Y"
+plain text     = "OA1V34Y"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-01 11:42:13
 key            = 70 
 plain text     = "1KGD6SQSRJFEOJ1RZMF6GJ3PJIB2FUE1W4K37VQURO1ZQXGUSHFELPML3BCN1EJG2Q93ZF"
