@@ -1,3 +1,11 @@
+tanggal        = 2022-11-01 05:51:33
+key            = 31 
+plain text     = "RFV5W3R6EI4DA603GR0SY24Z9PGBG3U"
+encrypted text = ":/@~C~@%5:&75+&*?K*NU/2Y9QIEK8["
+decrypted text = "RFV5W3R6EI4DA603GR0SY24Z9PGBG3U"
+plain text     = "RFV5W3R6EI4DA603GR0SY24Z9PGBG3U"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-01 04:42:19
 key            = 4 
 plain text     = "Q3WD"
