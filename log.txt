@@ -1,3 +1,11 @@
+tanggal        = 2022-11-02 07:25:15
+key            = 11 
+plain text     = "MY55WX21XJZ"
+encrypted text = "_lIJmoJJrev"
+decrypted text = "MY55WX21XJZ"
+plain text     = "MY55WX21XJZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-02 06:55:48
 key            = 34 
 plain text     = "LQNWPKJ7P7UQ1UHLEXPAJRT9HNH8MD3881"
