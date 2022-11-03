@@ -1,3 +1,11 @@
+tanggal        = 2022-11-03 07:40:25
+key            = 19 
+plain text     = "KDA12E77UNJI599X071"
+encrypted text = "PJH9;OBCb\YYFKLlEMH"
+decrypted text = "KDA12E77UNJI599X071"
+plain text     = "KDA12E77UNJI599X071"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-03 07:22:32
 key            = 5 
 plain text     = "B02FQ"
