@@ -1,3 +1,11 @@
+tanggal        = 2022-11-03 09:24:25
+key            = 14 
+plain text     = "J5L1LNIQLQWMQ4"
+encrypted text = "$n(l*-)2.4;27y"
+decrypted text = "J5L1LNIQLQWMQ4"
+plain text     = "J5L1LNIQLQWMQ4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-03 08:33:19
 key            = 33 
 plain text     = "QIUROJUXMNA4O3J9YUNEYMQDGE4CCJIQC"
