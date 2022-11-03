@@ -1,3 +1,11 @@
+tanggal        = 2022-11-03 20:39:10
+key            = 24 
+plain text     = "QV581OLQ2Y6MQ4WPWIVC6CLC"
+encrypted text = "%+img(&,l6r,1s93;.<*|,6."
+decrypted text = "QV581OLQ2Y6MQ4WPWIVC6CLC"
+plain text     = "QV581OLQ2Y6MQ4WPWIVC6CLC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-03 20:20:49
 key            = 18 
 plain text     = "TZOWWF926VE485GSSP"
