@@ -1,3 +1,11 @@
+tanggal        = 2022-11-03 23:26:38
+key            = 3 
+plain text     = "NRC"
+encrypted text = ".3%"
+decrypted text = "NRC"
+plain text     = "NRC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-03 22:41:41
 key            = 2 
 plain text     = "17"
