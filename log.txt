@@ -1,3 +1,11 @@
+tanggal        = 2022-11-03 11:20:08
+key            = 66 
+plain text     = "KVMOOTPHWSKBA3QAVD43QL7DBKJ11FZOCDD69K1P2THJQRSZ6IZLBO97KVT7O6FNG4"
+encrypted text = "myqtu{xq#~woob#r*whh)%o}|((no'<2')*{!4y;|A69ACEM*>PC:H32GSR6O7HQK9"
+decrypted text = "KVMOOTPHWSKBA3QAVD43QL7DBKJ11FZOCDD69K1P2THJQRSZ6IZLBO97KVT7O6FNG4"
+plain text     = "KVMOOTPHWSKBA3QAVD43QL7DBKJ11FZOCDD69K1P2THJQRSZ6IZLBO97KVT7O6FNG4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-03 10:49:51
 key            = 52 
 plain text     = "WK9FZFXOQUZEXJUBV1WOPD32IW7GVXHX4LYD9QQV32QF0BN6C4S3"
