@@ -1,3 +1,11 @@
+tanggal        = 2022-11-03 20:20:49
+key            = 18 
+plain text     = "TZOWWF926VE485GSSP"
+encrypted text = "Y`V_`PD>CdTDIGZghf"
+decrypted text = "TZOWWF926VE485GSSP"
+plain text     = "TZOWWF926VE485GSSP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-03 19:39:38
 key            = 67 
 plain text     = "5FF0UT4Z358QC4PR4221YM6OFYJBRVP02GUIF9Q8X8BFTHI86TI3D8MOA1B0JY728VB"
