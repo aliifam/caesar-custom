@@ -1,3 +1,11 @@
+tanggal        = 2022-11-04 23:45:48
+key            = 64 
+plain text     = "0S1HKI4SEDXODI9TJOJSVMU87QCUT2BBN5D8AUKGN66U46TC2DXDE3GM6SLY6YZD"
+encrypted text = "QuTlpo[{nn%{qwh&{#})-%.pp-~33p#$1w)|(=419"#C#&E5%8M:<+@G1OIW5Y[F"
+decrypted text = "0S1HKI4SEDXODI9TJOJSVMU87QCUT2BBN5D8AUKGN66U46TC2DXDE3GM6SLY6YZD"
+plain text     = "0S1HKI4SEDXODI9TJOJSVMU87QCUT2BBN5D8AUKGN66U46TC2DXDE3GM6SLY6YZD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-04 23:27:37
 key            = 41 
 plain text     = "6E2LPI1GBI1MMSUMHQ6M1DJ4OGEMAZJWK9B5FOIFI"
