@@ -1,3 +1,11 @@
+tanggal        = 2022-11-04 11:20:26
+key            = 42 
+plain text     = "ANF6T539USSST2SWUSVKPPWH8DBWDHPZ2YCK40060R"
+encrypted text = "%3,{<|{$A@ABD#EJIHLBHIQC4A@VDIR]6^IR<9:A<_"
+decrypted text = "ANF6T539USSST2SWUSVKPPWH8DBWDHPZ2YCK40060R"
+plain text     = "ANF6T539USSST2SWUSVKPPWH8DBWDHPZ2YCK40060R"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-04 10:45:57
 key            = 11 
 plain text     = "0VKLF8FSHHM"
