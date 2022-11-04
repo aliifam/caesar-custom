@@ -1,3 +1,11 @@
+tanggal        = 2022-11-04 17:25:19
+key            = 47 
+plain text     = "TG2B9AIX4CVTY4U29GSMPFWPEFR09ALP665792SXK8NL0CI"
+encrypted text = "TH4E=FO_<L`_eAcAIXe`d[mg]_lKU^joVWWZ]Wysaxw\pw"
+decrypted text = "TG2B9AIX4CVTY4U29GSMPFWPEFR09ALP665792SXK8NL0CI"
+plain text     = "TG2B9AIX4CVTY4U29GSMPFWPEFR09ALP665792SXK8NL0CI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-04 16:34:19
 key            = 42 
 plain text     = "BD4GUJITSTF0KARUC27PT5DFDAY4TTQC7P5KL9836V"
