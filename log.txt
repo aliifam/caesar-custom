@@ -1,3 +1,11 @@
+tanggal        = 2022-11-05 11:18:27
+key            = 29 
+plain text     = "BVZEEVTALNOD3EXNKYDP12ZTFDE81"
+encrypted text = "q(-wx,+w%(*~n#7.,;'4tvA</.0$|"
+decrypted text = "BVZEEVTALNOD3EXNKYDP12ZTFDE81"
+plain text     = "BVZEEVTALNOD3EXNKYDP12ZTFDE81"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-05 10:44:12
 key            = 7 
 plain text     = "E6NHH6I"
