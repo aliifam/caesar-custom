@@ -1,3 +1,11 @@
+tanggal        = 2022-11-06 15:25:53
+key            = 9 
+plain text     = "DCS24RJL0"
+encrypted text = "**;y|=69|"
+decrypted text = "DCS24RJL0"
+plain text     = "DCS24RJL0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-06 14:41:05
 key            = 57 
 plain text     = "GHU02U1VYOKIYJ09QU0HZACA0YNHHHP11Q2N68RU4VOZ446YZU4RYVISA"
