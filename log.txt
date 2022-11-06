@@ -1,3 +1,11 @@
+tanggal        = 2022-11-06 14:21:03
+key            = 27 
+plain text     = "E79P431NNKX0K89WTBJUHB0WGSB"
+encrypted text = "5(+C(('EFDR+G57VTCLXLG6^O\L"
+decrypted text = "E79P431NNKX0K89WTBJUHB0WGSB"
+plain text     = "E79P431NNKX0K89WTBJUHB0WGSB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-06 13:33:23
 key            = 48 
 plain text     = "76P6KYD26R6IX39B1UHJVPWRNOX94VRDY121DUY0VGH3TGXV"
