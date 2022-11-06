@@ -1,3 +1,11 @@
+tanggal        = 2022-11-06 22:24:07
+key            = 19 
+plain text     = "XCCN1N5P583DDHEHJR4"
+encrypted text = "xdeqUs[w]a]opuswz%f"
+decrypted text = "XCCN1N5P583DDHEHJR4"
+plain text     = "XCCN1N5P583DDHEHJR4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-06 21:40:57
 key            = 2 
 plain text     = "QI"
