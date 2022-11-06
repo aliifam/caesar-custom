@@ -1,3 +1,11 @@
+tanggal        = 2022-11-06 05:40:48
+key            = 19 
+plain text     = "WUE144K0NQT1UDC9FUJ"
+encrypted text = "TSD156N4SW[9^NNEScY"
+decrypted text = "WUE144K0NQT1UDC9FUJ"
+plain text     = "WUE144K0NQT1UDC9FUJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-06 05:21:07
 key            = 38 
 plain text     = "VX82S3F54FYE2OKBXZGXIJMPZWDO38I31BOKE3"
