@@ -1,3 +1,11 @@
+tanggal        = 2022-11-06 11:18:38
+key            = 16 
+plain text     = "KQXWRMYSOTDHES4G"
+encrypted text = "SZbb^Zgb_eV[YhJ^"
+decrypted text = "KQXWRMYSOTDHES4G"
+plain text     = "KQXWRMYSOTDHES4G"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-06 10:43:29
 key            = 88 
 plain text     = "NXG1BJHWVNPQPDD1DZUK9B0OAM1EVKMYHDL8XR61YQT93PZH9BQDHLFJ61O59VQ4YHZUKIPFJYWBWQ4ZOMQPP5DC"
