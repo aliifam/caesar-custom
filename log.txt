@@ -1,3 +1,11 @@
+tanggal        = 2022-11-07 04:49:42
+key            = 7 
+plain text     = "SKGYAHU"
+encrypted text = "lebu^ft"
+decrypted text = "SKGYAHU"
+plain text     = "SKGYAHU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-07 03:48:07
 key            = 37 
 plain text     = "70BC1Z5U471C65Z0BIFPB9F0IFFMZULZ7J2E9"
