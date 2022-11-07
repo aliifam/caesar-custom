@@ -1,3 +1,11 @@
+tanggal        = 2022-11-07 16:34:03
+key            = 4 
+plain text     = "U2AM"
+encrypted text = "I'7D"
+decrypted text = "U2AM"
+plain text     = "U2AM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-07 15:45:36
 key            = 72 
 plain text     = "T5WH4072MY9HAUROR7ZPJ26P9KI3P2E4P7JBACRNP734QXDG0C6KW6VSD9BIISIF5DS2S6DP"
