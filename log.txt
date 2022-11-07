@@ -1,3 +1,11 @@
+tanggal        = 2022-11-07 12:53:20
+key            = 6 
+plain text     = "RIFNTP"
+encrypted text = "VNLU\Y"
+decrypted text = "RIFNTP"
+plain text     = "RIFNTP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-07 11:40:23
 key            = 44 
 plain text     = "8ZU7CDCLF6OYRRE1O6VTGLOASUKMDG4UZYXNUZLQ6TNT"
