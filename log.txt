@@ -1,3 +1,11 @@
+tanggal        = 2022-11-07 23:28:44
+key            = 22 
+plain text     = "GBN806ZCJL4GT5UXHSSET0"
+encrypted text = "gcp[T["jru^r"b%)x&'x*e"
+decrypted text = "GBN806ZCJL4GT5UXHSSET0"
+plain text     = "GBN806ZCJL4GT5UXHSSET0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-07 22:44:40
 key            = 40 
 plain text     = "XCVRP1HBJ0TUQEOF7SU8KNZQ3PBO3RMN094QFRSC"
