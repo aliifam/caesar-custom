@@ -1,3 +1,11 @@
+tanggal        = 2022-11-07 19:39:15
+key            = 21 
+plain text     = "YWZ2HH22QXD0DKJDHO3UV"
+encrypted text = "EDH!89$%EM:'<DD?DL1TV"
+decrypted text = "YWZ2HH22QXD0DKJDHO3UV"
+plain text     = "YWZ2HH22QXD0DKJDHO3UV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-07 19:19:19
 key            = 79 
 plain text     = "0YFUL7RUI15ELY1J7MVEJXM41YGKSC1VXKN7TGQMY767OWWT3VZMNLK2D86WRTDSVUIEB9WZYVJYRAW"
