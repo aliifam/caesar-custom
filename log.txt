@@ -1,3 +1,11 @@
+tanggal        = 2022-11-07 17:30:13
+key            = 23 
+plain text     = "RYVWF5GM0JYNJZEZXZR94TB"
+encrypted text = "^fdfVFY`D_oebs_utwpXTud"
+decrypted text = "RYVWF5GM0JYNJZEZXZR94TB"
+plain text     = "RYVWF5GM0JYNJZEZXZR94TB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-07 16:34:03
 key            = 4 
 plain text     = "U2AM"
