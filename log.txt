@@ -1,3 +1,11 @@
+tanggal        = 2022-11-07 05:31:52
+key            = 46 
+plain text     = "5SMBVISVFXWGBK8QRNV9SBJQ859H97YJW700FN5DN984U4"
+encrypted text = "Oni_thswh{{lhr`z|y$f#qz$jhm}on3%3rlm&/u'2||y={"
+decrypted text = "5SMBVISVFXWGBK8QRNV9SBJQ859H97YJW700FN5DN984U4"
+plain text     = "5SMBVISVFXWGBK8QRNV9SBJQ859H97YJW700FN5DN984U4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-07 04:49:42
 key            = 7 
 plain text     = "SKGYAHU"
