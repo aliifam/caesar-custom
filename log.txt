@@ -1,3 +1,11 @@
+tanggal        = 2022-11-08 17:29:06
+key            = 16 
+plain text     = "38VZ3T0AR208KELL"
+encrypted text = "]c$)a%`r&edm#|&'"
+decrypted text = "38VZ3T0AR208KELL"
+plain text     = "38VZ3T0AR208KELL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-08 16:38:21
 key            = 90 
 plain text     = "JG7FZUYX7D1AHRJQXJJASEBYIY1S8F7YH037BBCEAL2ZTWT6GG66MJQFCK97T4P7O2TQ1RWPJR71K2TFHZ5XVNSQAY"
