@@ -1,3 +1,11 @@
+tanggal        = 2022-11-08 21:42:18
+key            = 7 
+plain text     = "CGBSMOY"
+encrypted text = "495GBEP"
+decrypted text = "CGBSMOY"
+plain text     = "CGBSMOY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-08 21:21:49
 key            = 31 
 plain text     = "ZOCLWPOU7BEW8EZ8BVKGJ0XJD19RSQ8"
