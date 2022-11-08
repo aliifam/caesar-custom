@@ -1,3 +1,11 @@
+tanggal        = 2022-11-08 22:25:06
+key            = 43 
+plain text     = "7A7F8L4VSEASSZM5ZPPDX8HJ4HPCPXNYEG53YHWD92C"
+encrypted text = "ITK[NcLom`]pqymV|sti~_ps^s|p~)~,wzih1!1}sm!"
+decrypted text = "7A7F8L4VSEASSZM5ZPPDX8HJ4HPCPXNYEG53YHWD92C"
+plain text     = "7A7F8L4VSEASSZM5ZPPDX8HJ4HPCPXNYEG53YHWD92C"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-08 21:42:18
 key            = 7 
 plain text     = "CGBSMOY"
