@@ -1,3 +1,11 @@
+tanggal        = 2022-11-08 08:33:43
+key            = 45 
+plain text     = "5QUODOJJO421Z0IRTLWTH831WA7J9ZGT7TDRZXB4Y6S9G"
+encrypted text = ""?D?5A=>D*))S*DNQJVTI:65\G>RBdR`DbSbkjUHnLjQ`"
+decrypted text = "5QUODOJJO421Z0IRTLWTH831WA7J9ZGT7TDRZXB4Y6S9G"
+plain text     = "5QUODOJJO421Z0IRTLWTH831WA7J9ZGT7TDRZXB4Y6S9G"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-08 07:40:43
 key            = 4 
 plain text     = "KE6R"
