@@ -1,3 +1,11 @@
+tanggal        = 2022-11-08 23:49:18
+key            = 7 
+plain text     = "7U4NY05"
+encrypted text = "f'e".dj"
+decrypted text = "7U4NY05"
+plain text     = "7U4NY05"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-08 23:29:37
 key            = 90 
 plain text     = "HTWNRXUACGRV64E9UCFTUA4PICAO3I98BC1S1WHCSWK13CBPLO69D8KCWOI546WJUESCWRN6P9PQ7PR0HLKU5YD2EH"
