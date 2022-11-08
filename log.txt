@@ -1,3 +1,11 @@
+tanggal        = 2022-11-08 15:46:27
+key            = 49 
+plain text     = "3SDF1ILQZAKFVKBJYTC3WCFCWFN98TBJL51Z6M4LKKVSYDDFW"
+encrypted text = "4UGJ6OSYcKVRcYQZjfVGlY][p`iUUrajmWT~[s[ttursv"
+decrypted text = "3SDF1ILQZAKFVKBJYTC3WCFCWFN98TBJL51Z6M4LKKVSYDDFW"
+plain text     = "3SDF1ILQZAKFVKBJYTC3WCFCWFN98TBJL51Z6M4LKKVSYDDFW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-08 15:25:58
 key            = 4 
 plain text     = "Y7M8"
