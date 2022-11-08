@@ -1,3 +1,11 @@
+tanggal        = 2022-11-08 22:44:32
+key            = 14 
+plain text     = "CQD7HMV9L4MYFL"
+encrypted text = "#2&x,2<~4{7D29"
+decrypted text = "CQD7HMV9L4MYFL"
+plain text     = "CQD7HMV9L4MYFL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-08 22:25:06
 key            = 43 
 plain text     = "7A7F8L4VSEASSZM5ZPPDX8HJ4HPCPXNYEG53YHWD92C"
