@@ -1,3 +1,11 @@
+tanggal        = 2022-11-09 06:36:51
+key            = 21 
+plain text     = "FE0VVD1AI2GOJDBT2R366"
+encrypted text = "ccOvwfTenXnwsnm"_"bfg"
+decrypted text = "FE0VVD1AI2GOJDBT2R366"
+plain text     = "FE0VVD1AI2GOJDBT2R366"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-09 05:32:56
 key            = 99 
 plain text     = "KIPT0GDXYWA1L1NJ1B7A7SCC1RRSRW89EHJOWVF2CT5BHCXGZ2FHRJCUMSHQ7JD4HVDSTHDST5ZV793QOOHSLODA4UT9WG5E402"
