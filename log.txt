@@ -1,3 +1,11 @@
+tanggal        = 2022-11-09 22:44:10
+key            = 23 
+plain text     = "T9AS7B5I2WGU2QY8FKP8CH4"
+encrypted text = "/s|1t"t+s;,;w9B"17=&28%"
+decrypted text = "T9AS7B5I2WGU2QY8FKP8CH4"
+plain text     = "T9AS7B5I2WGU2QY8FKP8CH4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-09 22:23:45
 key            = 67 
 plain text     = "H4N35JNS2X6WJ9WQDR75O7UXUH0X3UDD8Y6ZD2P7NCZEX5UWWAVMPZ9436K9QNG85JP"
