@@ -1,3 +1,11 @@
+tanggal        = 2022-11-09 18:51:22
+key            = 39 
+plain text     = "07LE2A1QHCUW3WOH41FSU0O18BYH9SCATWEK7EX"
+encrypted text = "s{3-y+z=51DG$IB<)'=KN*J-5@XH:UFEY]LS@Oc"
+decrypted text = "07LE2A1QHCUW3WOH41FSU0O18BYH9SCATWEK7EX"
+plain text     = "07LE2A1QHCUW3WOH41FSU0O18BYH9SCATWEK7EX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-09 18:29:47
 key            = 28 
 plain text     = "LQBOA2SWM721NIWKLUWIFZCBUHZV"
