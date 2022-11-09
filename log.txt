@@ -1,3 +1,11 @@
+tanggal        = 2022-11-09 14:27:20
+key            = 53 
+plain text     = "UO2MLOYQ150TQBDPQZBBIAUXVP975NMQMN8WYKO03QCTGVFYIRV85"
+encrypted text = "LG+GGKVO051VTFIVXbKLTMbfe`JIHbbgdfQqtglNRqdvjzkpzb`"
+decrypted text = "UO2MLOYQ150TQBDPQZBBIAUXVP975NMQMN8WYKO03QCTGVFYIRV85"
+plain text     = "UO2MLOYQ150TQBDPQZBBIAUXVP975NMQMN8WYKO03QCTGVFYIRV85"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-09 13:51:40
 key            = 11 
 plain text     = "Z7K66B69NE1"
