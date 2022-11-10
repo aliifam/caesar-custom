@@ -1,3 +1,11 @@
+tanggal        = 2022-11-10 21:22:54
+key            = 17 
+plain text     = "NR8C8ISCLXZHG7ACS"
+encrypted text = "AF-9/AL=GTWFF7BEV"
+decrypted text = "NR8C8ISCLXZHG7ACS"
+plain text     = "NR8C8ISCLXZHG7ACS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-10 20:45:18
 key            = 66 
 plain text     = "128IQFOJH5LPD9Q1OAE7OX23ARU70DFPODHWRIE25KB49Q24L0ZVQEDO0WSF3OMW69"
