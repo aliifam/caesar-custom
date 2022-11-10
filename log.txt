@@ -1,3 +1,11 @@
+tanggal        = 2022-11-10 22:44:24
+key            = 19 
+plain text     = "LCJYGQ23MXHKRDGP9EE"
+encrypted text = "1)1A0;{}:F7;C6:D.;<"
+decrypted text = "LCJYGQ23MXHKRDGP9EE"
+plain text     = "LCJYGQ23MXHKRDGP9EE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-10 22:24:19
 key            = 84 
 plain text     = "D6HJTYYE0SSXQ4Q1CPL0WPGWWTHNCFJ3VAOZNNTUZ5OGKJ8ZLBQHWUAEDJH5CVOKGKX6RFNGF5GYS78843W9"
