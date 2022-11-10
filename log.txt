@@ -1,3 +1,11 @@
+tanggal        = 2022-11-10 15:45:56
+key            = 22 
+plain text     = "T6KW6BZ8OEL0DFA3VMA3VN"
+encrypted text = "V9O\<IbAYPX=RUQDh`UHle"
+decrypted text = "T6KW6BZ8OEL0DFA3VMA3VN"
+plain text     = "T6KW6BZ8OEL0DFA3VMA3VN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-10 15:25:25
 key            = 61 
 plain text     = "C1QHXE31DYMRCJ5U5B6OSEIZTNFS8KPNAASO02E0RNF6XVCU5XFL8SPIPMFUQ"
