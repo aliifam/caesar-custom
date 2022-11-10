@@ -1,3 +1,11 @@
+tanggal        = 2022-11-10 03:42:28
+key            = 49 
+plain text     = "45RPEJH0M1VZVHABGMMMSTPLM2XSDG4FSP1BHEPYG73G847Y8"
+encrypted text = "gi)(|$#j*m5:7*$&,345<>;8:~GC59':HF(:A?KUD52G96:]="
+decrypted text = "45RPEJH0M1VZVHABGMMMSTPLM2XSDG4FSP1BHEPYG73G847Y8"
+plain text     = "45RPEJH0M1VZVHABGMMMSTPLM2XSDG4FSP1BHEPYG73G847Y8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-10 02:13:38
 key            = 2 
 plain text     = "NM"
