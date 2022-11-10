@@ -1,3 +1,11 @@
+tanggal        = 2022-11-10 10:26:53
+key            = 17 
+plain text     = "S2JA9LYYA82OMBF7O"
+encrypted text = "C#<4-AOP91,JI?D6O"
+decrypted text = "S2JA9LYYA82OMBF7O"
+plain text     = "S2JA9LYYA82OMBF7O"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-10 09:44:25
 key            = 85 
 plain text     = "RPQOBQ3QWCUEWBHLDVFI2M75N5P3RXE2YOB6EGIUF695B6IFMWF3FRUSR700NRV8VQ4623T5EQXFRKS9OF1SM"
