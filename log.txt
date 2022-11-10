@@ -1,3 +1,11 @@
+tanggal        = 2022-11-10 02:13:38
+key            = 2 
+plain text     = "NM"
+encrypted text = "99"
+decrypted text = "NM"
+plain text     = "NM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-09 23:47:17
 key            = 1 
 plain text     = "Y"
