@@ -1,3 +1,11 @@
+tanggal        = 2022-11-10 17:25:37
+key            = 10 
+plain text     = "3RPQEA4UN5"
+encrypted text = "}?>@52&HB*"
+decrypted text = "3RPQEA4UN5"
+plain text     = "3RPQEA4UN5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-10 16:34:51
 key            = 74 
 plain text     = "N6GGNATTZNIOATREW3YOB7NRQKQ7JC8IKTKJMOFQ7PS1EPCMBKO1R8WZ4GNI5L1DLSFP6Q46DS"
