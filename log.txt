@@ -1,3 +1,11 @@
+tanggal        = 2022-11-10 07:40:52
+key            = 34 
+plain text     = "FXKGSE8FQKWSK5B9FQWPOX5P1JP8N6EC6B"
+encrypted text = "exlivi]lxs"}vaogu#*$$.j(h$+r+r$#u$"
+decrypted text = "FXKGSE8FQKWSK5B9FQWPOX5P1JP8N6EC6B"
+plain text     = "FXKGSE8FQKWSK5B9FQWPOX5P1JP8N6EC6B"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-10 07:22:27
 key            = 37 
 plain text     = "AKE44UZT0FS8RKPYFDDTJYLX0W1T3LT0A3UA2"
