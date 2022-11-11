@@ -1,3 +1,11 @@
+tanggal        = 2022-11-11 09:24:23
+key            = 11 
+plain text     = "LHUHV18CPN3"
+encrypted text = "QN\P_;CO]\B"
+decrypted text = "LHUHV18CPN3"
+plain text     = "LHUHV18CPN3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-11 08:33:28
 key            = 19 
 plain text     = "L37GZLX24NVL2QEM0KL"
