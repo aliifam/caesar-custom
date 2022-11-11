@@ -1,3 +1,11 @@
+tanggal        = 2022-11-11 20:25:52
+key            = 8 
+plain text     = "91W9WWPG"
+encrypted text = "vo8y:;5-"
+decrypted text = "91W9WWPG"
+plain text     = "91W9WWPG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-11 19:39:20
 key            = 86 
 plain text     = "24N8I2EE7HWLG5FMNMSMTG7O6362H2NOKIUYVF1VL2GE5UKO68P2XK74QJGD6VTM7OZUDW02IP8J2ER2VTYEG5"
