@@ -1,3 +1,11 @@
+tanggal        = 2022-11-11 15:26:39
+key            = 27 
+plain text     = "832XB5VR05ZL35DJCDVFLTKT8EV"
+encrypted text = "_[[$ma%"_e-~fiy"z|1")2*4w'9"
+decrypted text = "832XB5VR05ZL35DJCDVFLTKT8EV"
+plain text     = "832XB5VR05ZL35DJCDVFLTKT8EV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-11 14:42:36
 key            = 83 
 plain text     = "YNYVI47I4RTTH5EOTY6Z70R55WHRKT1DN46BZZ1PIW730WDR5G6PIOTDBQ2EB11NZ8KXPRS0ZLKOQB1HAYK"
