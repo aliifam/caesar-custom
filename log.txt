@@ -1,3 +1,11 @@
+tanggal        = 2022-11-11 05:45:28
+key            = 5 
+plain text     = "PQEF3"
+encrypted text = "VXMO="
+decrypted text = "PQEF3"
+plain text     = "PQEF3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-11 05:27:22
 key            = 21 
 plain text     = "X1NZYD4EL9AQLLAG8EEG3"
