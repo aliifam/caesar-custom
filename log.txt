@@ -1,3 +1,11 @@
+tanggal        = 2022-11-12 19:18:28
+key            = 15 
+plain text     = "BBE5UTQF3YLW619"
+encrypted text = "ijn_""~tb+}+ien"
+decrypted text = "BBE5UTQF3YLW619"
+plain text     = "BBE5UTQF3YLW619"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-12 18:48:54
 key            = 83 
 plain text     = "FZ22XRKTOV0C2DXBIPIYB1IXZFFYKFSCGVN5Q2O09K6STBCQB8TFTACSSI0HT6VMQ6KK2V2QT02DFOB67TW"
