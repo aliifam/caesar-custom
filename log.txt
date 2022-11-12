@@ -1,3 +1,11 @@
+tanggal        = 2022-11-12 20:24:36
+key            = 4 
+plain text     = "68JA"
+encrypted text = "SVia"
+decrypted text = "68JA"
+plain text     = "68JA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-12 19:39:24
 key            = 63 
 plain text     = "7HRIX2VNJELAWSRAG34EM9GOMC001N9FHZDEJO0AAQZLYXE0ZYR5HK4SGK5MHPH"
