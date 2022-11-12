@@ -1,3 +1,11 @@
+tanggal        = 2022-11-12 05:22:42
+key            = 10 
+plain text     = "UWBQ39IPC9"
+encrypted text = "X[GW:ARZNE"
+decrypted text = "UWBQ39IPC9"
+plain text     = "UWBQ39IPC9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-12 04:36:01
 key            = 88 
 plain text     = "XAJRLQTF4U44IM1899L9IKP2SDI1YMGIMC574VRBKZ329DKM8QTF4IPBDMVN41BJKEC3Z0OYLA3G00TDRZX9K1W1"
