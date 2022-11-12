@@ -1,3 +1,11 @@
+tanggal        = 2022-11-12 11:19:27
+key            = 5 
+plain text     = "D748T"
+encrypted text = "L@>C`"
+decrypted text = "D748T"
+plain text     = "D748T"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-12 10:43:58
 key            = 55 
 plain text     = "8OUOA90SG03BUGSAIH3YEOUWPFB0838T0ZKXQMX1TUDM2A7YC0D8KR9"
