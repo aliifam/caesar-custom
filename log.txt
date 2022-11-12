@@ -1,3 +1,11 @@
+tanggal        = 2022-11-12 11:39:19
+key            = 30 
+plain text     = "C4QXH4U0XGNJMXFBVL9HCPTXZ1A92S"
+encrypted text = "pb"*yf*d/}'$(4#~5,x*&49>Aw*#{?"
+decrypted text = "C4QXH4U0XGNJMXFBVL9HCPTXZ1A92S"
+plain text     = "C4QXH4U0XGNJMXFBVL9HCPTXZ1A92S"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-12 11:19:27
 key            = 5 
 plain text     = "D748T"
