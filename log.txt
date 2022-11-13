@@ -1,3 +1,11 @@
+tanggal        = 2022-11-13 12:44:57
+key            = 15 
+plain text     = "L67PL4GTJNVLDF4"
+encrypted text = "\GIc`I]kbgpg`cR"
+decrypted text = "L67PL4GTJNVLDF4"
+plain text     = "L67PL4GTJNVLDF4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-13 11:39:25
 key            = 69 
 plain text     = "6XIH9P246UOYIFBD7IKI2DV7V3UT51135LNDG5TMYC554XP1310E81CPWESV47LU3SFNP"
