@@ -1,3 +1,11 @@
+tanggal        = 2022-11-13 18:28:32
+key            = 17 
+plain text     = "P8D40EXDMQB321313"
+encrypted text = "8!.}z2F3=B4&&&)(+"
+decrypted text = "P8D40EXDMQB321313"
+plain text     = "P8D40EXDMQB321313"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-13 17:42:51
 key            = 29 
 plain text     = "2APVDNTATQXRG4QCNJVAFTIGKX3IF"
