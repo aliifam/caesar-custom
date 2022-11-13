@@ -1,3 +1,11 @@
+tanggal        = 2022-11-13 15:44:27
+key            = 4 
+plain text     = "J22Y"
+encrypted text = "!hi3"
+decrypted text = "J22Y"
+plain text     = "J22Y"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-13 15:24:26
 key            = 17 
 plain text     = "04Z84KXHYKXEGQIQP"
