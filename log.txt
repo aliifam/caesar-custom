@@ -1,3 +1,11 @@
+tanggal        = 2022-11-13 15:24:26
+key            = 17 
+plain text     = "04Z84KXHYKXEGQIQP"
+encrypted text = "BGnMJbpasftbepirr"
+decrypted text = "04Z84KXHYKXEGQIQP"
+plain text     = "04Z84KXHYKXEGQIQP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-13 14:41:19
 key            = 85 
 plain text     = "ER17MRBDKB2DNM6YXL12QZP3HUEOKWGTT0NDP9MIKOAVWMI1G9VCL2X1DOND4Q8W90U3ND7NKL2LL4O77YTRV"
