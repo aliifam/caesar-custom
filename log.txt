@@ -1,3 +1,11 @@
+tanggal        = 2022-11-13 17:42:51
+key            = 29 
+plain text     = "2APVDNTATQXRG4QCNJVAFTIGKX3IF"
+encrypted text = "p"29(3:(<:B=3!?2>;H4:I?>CQ-DB"
+decrypted text = "2APVDNTATQXRG4QCNJVAFTIGKX3IF"
+plain text     = "2APVDNTATQXRG4QCNJVAFTIGKX3IF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-13 17:22:51
 key            = 62 
 plain text     = "KUO2B8QK5UT2DP0X96ZYQQIXDYYNUJP9XL3A1NHKUHNU74KS7LCH2LDO4ZQ9YW"
