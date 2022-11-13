@@ -1,3 +1,11 @@
+tanggal        = 2022-11-13 10:25:24
+key            = 3 
+plain text     = "66V"
+encrypted text = "op3"
+decrypted text = "66V"
+plain text     = "66V"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-13 09:42:43
 key            = 51 
 plain text     = "823CJFXXUJIQMCWQ3DCS4D0DZIII09TODPE862BMH4X9UL12ART"
