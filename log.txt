@@ -1,3 +1,11 @@
+tanggal        = 2022-11-13 16:32:37
+key            = 42 
+plain text     = "CQVE91XQDS8D0720BFKOOPGV8BLZ0FSC42ODDPHG8Q"
+encrypted text = "x)/}rk5/#3w&qyut).49:<4D'2=L#:H9+*H>?LEE7Q"
+decrypted text = "CQVE91XQDS8D0720BFKOOPGV8BLZ0FSC42ODDPHG8Q"
+plain text     = "CQVE91XQDS8D0720BFKOOPGV8BLZ0FSC42ODDPHG8Q"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-13 15:44:27
 key            = 4 
 plain text     = "J22Y"
