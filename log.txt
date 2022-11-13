@@ -1,3 +1,11 @@
+tanggal        = 2022-11-13 10:44:19
+key            = 95 
+plain text     = "2XRY563X670VP7L6PIKJDRRHY38YFQMU7D2JDP8EQM4DHBM1TMACFH7O1XKNCLY3VLY3JOU6BIXC5BSH5P9EFDTQAT0DCSG"
+encrypted text = "Szu}Z\Z"_a[$}e{f#{~~y*+"4ms7%1.7x(u0+8!/<9!272>#GA69=@0I,THLBLZ5YP^9QW^@MUeQDRdZHdN[]\mk\pMbbsh"
+decrypted text = "2XRY563X670VP7L6PIKJDRRHY38YFQMU7D2JDP8EQM4DHBM1TMACFH7O1XKNCLY3VLY3JOU6BIXC5BSH5P9EFDTQAT0DCSG"
+plain text     = "2XRY563X670VP7L6PIKJDRRHY38YFQMU7D2JDP8EQM4DHBM1TMACFH7O1XKNCLY3VLY3JOU6BIXC5BSH5P9EFDTQAT0DCSG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-13 10:25:24
 key            = 3 
 plain text     = "66V"
