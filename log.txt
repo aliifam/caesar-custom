@@ -1,3 +1,11 @@
+tanggal        = 2022-11-14 03:45:18
+key            = 22 
+plain text     = "SMGVPAQY1QGRPOWV5RRZB3"
+encrypted text = "'"{-(x+4k.%10099w78A*z"
+decrypted text = "SMGVPAQY1QGRPOWV5RRZB3"
+plain text     = "SMGVPAQY1QGRPOWV5RRZB3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-14 02:05:20
 key            = 70 
 plain text     = "QNNZTV269O9CUAIWF5PKCUB82FCW5E4Y16SON268ULMYY3YFO5IOT83HDILOS3PUS1SVHF"
