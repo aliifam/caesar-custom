@@ -1,3 +1,11 @@
+tanggal        = 2022-11-14 13:54:07
+key            = 11 
+plain text     = "S0DF245SAPQ"
+encrypted text = "Y7LO<?A`O_a"
+decrypted text = "S0DF245SAPQ"
+plain text     = "S0DF245SAPQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-14 12:58:02
 key            = 68 
 plain text     = "02ZOD1ACIKFPYVHJF9GCFKOM239S49RS16CBX3U6QBB0S5Y1AYAV4OSB3QGDFR50JV9G"
