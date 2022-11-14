@@ -1,3 +1,11 @@
+tanggal        = 2022-11-14 15:46:16
+key            = 22 
+plain text     = "70VGBD9XP8I6LD8C57W95Z"
+encrypted text = "71XJFI?_XASAXQFREHiLIo"
+decrypted text = "70VGBD9XP8I6LD8C57W95Z"
+plain text     = "70VGBD9XP8I6LD8C57W95Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-14 15:27:02
 key            = 56 
 plain text     = "RE3GW2PD17RUUQ6M6PQA10XBPCXS932Q1C70DVFJH0AI67RQUKBA7COR"
