@@ -1,3 +1,11 @@
+tanggal        = 2022-11-15 13:38:46
+key            = 75 
+plain text     = "ME7IIDSSM3TXJSWGHOS16J3QT7LPOOA8LA2TUS2G8WW7ZC86Y8AE6LUOPBYIX6BED9WV3TEGQ9Q"
+encrypted text = "c\Obc_opkRtylv{lnv{Z`u_~$f|##$um$xj/10n&v89x>(|{A!+0"9C>@3K<L+8<<2QQ/QCFQ:S"
+decrypted text = "ME7IIDSSM3TXJSWGHOS16J3QT7LPOOA8LA2TUS2G8WW7ZC86Y8AE6LUOPBYIX6BED9WV3TEGQ9Q"
+plain text     = "ME7IIDSSM3TXJSWGHOS16J3QT7LPOOA8LA2TUS2G8WW7ZC86Y8AE6LUOPBYIX6BED9WV3TEGQ9Q"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-15 12:50:01
 key            = 84 
 plain text     = "8X6CW5FL86EW091FXUZJIJU4C19L1EMWYTM2V6SCPR3HAWQXFYRM132KXG6D0XOPND080V3REZREVZ9E0TR0"
