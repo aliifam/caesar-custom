@@ -1,3 +1,11 @@
+tanggal        = 2022-11-15 08:31:34
+key            = 4 
+plain text     = "OWX5"
+encrypted text = "gprP"
+decrypted text = "OWX5"
+plain text     = "OWX5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-15 07:39:03
 key            = 21 
 plain text     = "XXI5LKFFUNE1DLS3AIUY0"
