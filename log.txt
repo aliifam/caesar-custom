@@ -1,3 +1,11 @@
+tanggal        = 2022-11-15 18:48:38
+key            = 18 
+plain text     = "ROGJ10ZAD4V1XCNE9X"
+encrypted text = "1/(,rr?'+z?yC/;3(H"
+decrypted text = "ROGJ10ZAD4V1XCNE9X"
+plain text     = "ROGJ10ZAD4V1XCNE9X"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-15 18:28:42
 key            = 25 
 plain text     = "YVSG02ZAFLYELSO2LFP9XNIGI"
