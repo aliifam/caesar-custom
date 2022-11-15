@@ -1,3 +1,11 @@
+tanggal        = 2022-11-15 23:23:52
+key            = 16 
+plain text     = "2UIP95ZQP868T8Z8"
+encrypted text = "_%x"jg/''nmp/r7t"
+decrypted text = "2UIP95ZQP868T8Z8"
+plain text     = "2UIP95ZQP868T8Z8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-15 22:42:18
 key            = 97 
 plain text     = "6VDR56GHLUQ5YLK2PNQFSPS84VPM8FNNJGKBX2FVJRK0GHV17EL3TKQU0YQ3T6Z7ZJ21V2INZ23MFT2NAX4N31EDAFWA344T8"
