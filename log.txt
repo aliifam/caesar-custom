@@ -1,3 +1,11 @@
+tanggal        = 2022-11-15 02:03:33
+key            = 4 
+plain text     = "IHC2"
+encrypted text = "LLH8"
+decrypted text = "IHC2"
+plain text     = "IHC2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-14 23:42:24
 key            = 84 
 plain text     = "8MUCF1T6NOKOU0LIT2Q5PAJPF3RGID5VYN1GTY4AOCGH89ZPELKYPNERCMX3LRJU5IBPP5AU2I47VAB5Q0SM"
