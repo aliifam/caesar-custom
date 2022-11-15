@@ -1,3 +1,11 @@
+tanggal        = 2022-11-15 09:23:06
+key            = 16 
+plain text     = "5XZO2B5JJEP6PNOG"
+encrypted text = "u;>4v){340<#>=?8"
+decrypted text = "5XZO2B5JJEP6PNOG"
+plain text     = "5XZO2B5JJEP6PNOG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-15 08:31:34
 key            = 4 
 plain text     = "OWX5"
