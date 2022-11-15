@@ -1,3 +1,11 @@
+tanggal        = 2022-11-15 16:34:16
+key            = 14 
+plain text     = "7M8HXDM15FC8ZE"
+encrypted text = "\s_p#nx]btrh-w"
+decrypted text = "7M8HXDM15FC8ZE"
+plain text     = "7M8HXDM15FC8ZE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-15 15:44:02
 key            = 9 
 plain text     = "8J1I2KQ7S"
