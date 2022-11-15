@@ -1,3 +1,11 @@
+tanggal        = 2022-11-15 03:33:00
+key            = 39 
+plain text     = "PAXIKFK152L0GFA13S360J0I0F63B2ZHQB4GG5E"
+encrypted text = "WIaSVRX?DB]BZZVGJkLPKfMgOfWUeV!nxj]qrar"
+decrypted text = "PAXIKFK152L0GFA13S360J0I0F63B2ZHQB4GG5E"
+plain text     = "PAXIKFK152L0GFA13S360J0I0F63B2ZHQB4GG5E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-15 02:03:33
 key            = 4 
 plain text     = "IHC2"
