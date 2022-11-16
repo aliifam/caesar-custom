@@ -1,3 +1,11 @@
+tanggal        = 2022-11-16 13:41:59
+key            = 25 
+plain text     = "DUALTNW5MLR86HLDQX0F39OQP"
+encrypted text = "HZGS\Wa@YY`GFY^WemF]KRill"
+decrypted text = "DUALTNW5MLR86HLDQX0F39OQP"
+plain text     = "DUALTNW5MLR86HLDQX0F39OQP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-16 12:47:35
 key            = 26 
 plain text     = "XPGYL302QGIA3BRJ5ELQP9PGS9"
