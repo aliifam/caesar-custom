@@ -1,3 +1,11 @@
+tanggal        = 2022-11-16 23:23:28
+key            = 21 
+plain text     = "NHNG7L41WKC512XZ0D5NW"
+encrypted text = "XSZTE[DBi^WJGIpsJ_Qku"
+decrypted text = "NHNG7L41WKC512XZ0D5NW"
+plain text     = "NHNG7L41WKC512XZ0D5NW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-16 22:42:07
 key            = 74 
 plain text     = "L5U4PIMB1NRBZMGGZLRRTSLZVODIPHAQ2GWD5D72UINHH9CVKRDBSV7K5BKC1XUGLURMFRP5BQ"
