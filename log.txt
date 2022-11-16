@@ -1,3 +1,11 @@
+tanggal        = 2022-11-16 05:40:33
+key            = 27 
+plain text     = "GD715O5FQCEEXWQILF4D29J4HA8"
+encrypted text = "0."{"=$6B589MMHAE@/@/7I4IC;"
+decrypted text = "GD715O5FQCEEXWQILF4D29J4HA8"
+plain text     = "GD715O5FQCEEXWQILF4D29J4HA8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-16 05:20:54
 key            = 69 
 plain text     = "AKBFOVGGSTT47I3KOGW1TTS8G322FDB8A07MQAW54OOQF3JK2P31L0I8D3MV1JXK6T1QB"
