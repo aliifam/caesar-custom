@@ -1,3 +1,11 @@
+tanggal        = 2022-11-16 09:42:39
+key            = 11 
+plain text     = "LLQK6GD34HU"
+encrypted text = "/061{/-{}4B"
+decrypted text = "LLQK6GD34HU"
+plain text     = "LLQK6GD34HU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-16 09:22:57
 key            = 77 
 plain text     = "24AOTA35R7V4XVN3DWUREHXJEC6LERR7VUBF5ZBC0LTTCO48OE32QXMQX0OYKKXP2DASNQA81GHSP"
