@@ -1,3 +1,11 @@
+tanggal        = 2022-11-17 10:43:47
+key            = 15 
+plain text     = "RWB3BBEHF131UVK"
+encrypted text = "z"l^noswvbed+-#"
+decrypted text = "RWB3BBEHF131UVK"
+plain text     = "RWB3BBEHF131UVK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-17 10:24:48
 key            = 81 
 plain text     = "5LOFVMX0MKOAH1ACB9W8EQSXYSO5I60FOB7R7A4GTUBP4V3VBQQGRMSESPTVQSVC1GHC8MEEAVC9SEMYZ"
