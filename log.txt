@@ -1,3 +1,11 @@
+tanggal        = 2022-11-17 20:42:20
+key            = 39 
+plain text     = "LF75YCXASRIHI43EU0M1RDHWFL2J4ISM8D4BRH6"
+encrypted text = "wrdc*s+s((~~"ll!2l,o3&+;+2w2{3>9%2#2C:)"
+decrypted text = "LF75YCXASRIHI43EU0M1RDHWFL2J4ISM8D4BRH6"
+plain text     = "LF75YCXASRIHI43EU0M1RDHWFL2J4ISM8D4BRH6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-17 20:24:00
 key            = 29 
 plain text     = "XIQBIJND4N52IMZHTSCHD8OYI63GU"
