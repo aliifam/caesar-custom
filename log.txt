@@ -1,3 +1,11 @@
+tanggal        = 2022-11-17 07:38:48
+key            = 24 
+plain text     = "7QFHGC5OTEDZATUPZXX9QB5J"
+encrypted text = "_zpsspc~&vv/u+-)434t/!s+"
+decrypted text = "7QFHGC5OTEDZATUPZXX9QB5J"
+plain text     = "7QFHGC5OTEDZATUPZXX9QB5J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-17 07:20:31
 key            = 1 
 plain text     = "X"
