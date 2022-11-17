@@ -1,3 +1,11 @@
+tanggal        = 2022-11-17 16:33:31
+key            = 51 
+plain text     = "MSMG8KIZX32V28PUJBOBZ8Z7L2SD6VQ2L3KWL0009XZYX66D3Q5"
+encrypted text = "BID?1EDVU11V3:SYOHVJcBeCY@bTGhdFaIboeJKLVvyyyXYhXw\"
+decrypted text = "MSMG8KIZX32V28PUJBOBZ8Z7L2SD6VQ2L3KWL0009XZYX66D3Q5"
+plain text     = "MSMG8KIZX32V28PUJBOBZ8Z7L2SD6VQ2L3KWL0009XZYX66D3Q5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-17 15:43:58
 key            = 18 
 plain text     = "QZ8BIHXYKJOLHY78BX"
