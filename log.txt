@@ -1,3 +1,11 @@
+tanggal        = 2022-11-18 19:18:25
+key            = 23 
+plain text     = "LDAFO14ZD23BNQ18JXTX9TD"
+encrypted text = "!xv|(im6!np"/3rz/>;@">/"
+decrypted text = "LDAFO14ZD23BNQ18JXTX9TD"
+plain text     = "LDAFO14ZD23BNQ18JXTX9TD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-18 18:50:17
 key            = 78 
 plain text     = "B9C7JA13QE99ZRSORQHKEDPIA9D396E51RQKVG642VPSO7CXXTVVVDMK10CB7DQ0MI23RP7D2B66LY"
