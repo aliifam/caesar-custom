@@ -1,3 +1,11 @@
+tanggal        = 2022-11-18 17:41:58
+key            = 7 
+plain text     = "SAAHIZW"
+encrypted text = ";*+35GE"
+decrypted text = "SAAHIZW"
+plain text     = "SAAHIZW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-18 17:22:27
 key            = 85 
 plain text     = "ZHFSM7C8AN3BX26Y0V2X0K57STA0XF2IOZ2CMP7YR6IRBSBJ3AC4UR9KWY82JEOUFO02FNPNRXKRWKMAQJ95Q"
