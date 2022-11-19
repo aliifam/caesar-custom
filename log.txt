@@ -1,3 +1,11 @@
+tanggal        = 2022-11-19 14:40:02
+key            = 17 
+plain text     = "D77A6MC4JH140XLPV"
+encrypted text = "J>?J@XOAXWAEBk`el"
+decrypted text = "D77A6MC4JH140XLPV"
+plain text     = "D77A6MC4JH140XLPV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-19 14:19:23
 key            = 57 
 plain text     = "VEBU15CCWZJBC0P0GVD0L2W6LYPM7WG1WP8X9GDONA5PHVER4EVJG7OUU"
