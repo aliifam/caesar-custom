@@ -1,3 +1,11 @@
+tanggal        = 2022-11-19 15:22:34
+key            = 51 
+plain text     = "JOGBW9S0R30GYGT3CW3LXMOOKEFQB2NEF6KT5KF7Z1LY8PD06YL"
+encrypted text = "FLEAW:U3V86NaP^>OdA[h^ab_Z\hZKh`bSisUlhZ~Vr`yn[bz"
+decrypted text = "JOGBW9S0R30GYGT3CW3LXMOOKEFQB2NEF6KT5KF7Z1LY8PD06YL"
+plain text     = "JOGBW9S0R30GYGT3CW3LXMOOKEFQB2NEF6KT5KF7Z1LY8PD06YL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-19 14:40:02
 key            = 17 
 plain text     = "D77A6MC4JH140XLPV"
