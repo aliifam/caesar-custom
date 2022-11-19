@@ -1,3 +1,11 @@
+tanggal        = 2022-11-19 18:26:58
+key            = 42 
+plain text     = "J3GK6MOXW1NIN6VP5S7OR0DNBEI7U4I1W8DSZ4Z3OK"
+encrypted text = "R<QVBZ]ggB`\bKlgMlQjnMbmbfkZyYoX!an~(a*b!|"
+decrypted text = "J3GK6MOXW1NIN6VP5S7OR0DNBEI7U4I1W8DSZ4Z3OK"
+plain text     = "J3GK6MOXW1NIN6VP5S7OR0DNBEI7U4I1W8DSZ4Z3OK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-19 17:40:15
 key            = 3 
 plain text     = "MVN"
