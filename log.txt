@@ -1,3 +1,11 @@
+tanggal        = 2022-11-19 21:19:15
+key            = 11 
+plain text     = "Q30B6QD3NWC"
+encrypted text = "x[Yla}qa})t"
+decrypted text = "Q30B6QD3NWC"
+plain text     = "Q30B6QD3NWC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-19 20:41:29
 key            = 96 
 plain text     = "FSUZ8ZGSQUGYKTXMFXZLYFQJZG8MSHOMBAN0BNL761BX8U9PWU5GS180BVMA6ZG35UM40FH7D5J8LNOUNEQK6I3354PG4PQ0"
