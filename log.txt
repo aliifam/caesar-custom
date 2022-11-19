@@ -1,3 +1,11 @@
+tanggal        = 2022-11-19 16:31:05
+key            = 13 
+plain text     = "25QFATX0RSIVU"
+encrypted text = "TXukg{"Y|~u%%"
+decrypted text = "25QFATX0RSIVU"
+plain text     = "25QFATX0RSIVU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-19 15:42:27
 key            = 31 
 plain text     = "5NEGLK5OQQ0HK3TYDYPT1QK93LJS5MO"
