@@ -1,3 +1,11 @@
+tanggal        = 2022-11-20 04:50:11
+key            = 38 
+plain text     = "VPM98Y1AD0SIBB4ZKF87G2NO7VEMPN0PNNI7S8"
+encrypted text = "!zxee)`qub(}wxk4&"ss&p/1x:*376w:9:6%B("
+decrypted text = "VPM98Y1AD0SIBB4ZKF87G2NO7VEMPN0PNNI7S8"
+plain text     = "VPM98Y1AD0SIBB4ZKF87G2NO7VEMPN0PNNI7S8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-20 04:29:19
 key            = 54 
 plain text     = "DE7H9DYHQ4201NGFEOU32XKPTYKJ06B9NLU9WQ05I2BMB9ADLZ8QAC"
