@@ -1,3 +1,11 @@
+tanggal        = 2022-11-20 02:08:03
+key            = 20 
+plain text     = "JSM0MZM5B3FMXL40AY78"
+encrypted text = "mwrVt$v_m_s{)|ebt/ln"
+decrypted text = "JSM0MZM5B3FMXL40AY78"
+plain text     = "JSM0MZM5B3FMXL40AY78"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-19 23:41:27
 key            = 79 
 plain text     = "7QSJHQYQLT40B0RVQBEHCCQF7ZVQV9X9MQ3ZT0VAMJ15S44Y2MBPWQ8EDHY7LML85DAHSA5DTV7F7FE"
