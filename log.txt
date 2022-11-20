@@ -1,3 +1,11 @@
+tanggal        = 2022-11-20 09:40:54
+key            = 14 
+plain text     = "6KADITV9AU8EBK"
+encrypted text = "z2)-3?B&/D(64>"
+decrypted text = "6KADITV9AU8EBK"
+plain text     = "6KADITV9AU8EBK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-20 09:21:18
 key            = 64 
 plain text     = "J47PFFXPNONXT0M2EMTA4NYY4D5YKPTW9SZOB4I8EJKI3QT3XGR0I7IALAPHT8WQ"
