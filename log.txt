@@ -1,3 +1,11 @@
+tanggal        = 2022-11-20 23:24:16
+key            = 31 
+plain text     = "AZXAVM0Y15AGYIP4R9VW66A1M86YR38"
+encrypted text = "&@?)?7yE|#07J;C(G/MO/0<-J65YS5;"
+decrypted text = "AZXAVM0Y15AGYIP4R9VW66A1M86YR38"
+plain text     = "AZXAVM0Y15AGYIP4R9VW66A1M86YR38"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-20 22:41:40
 key            = 8 
 plain text     = "FNOKUL35"
