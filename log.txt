@@ -1,3 +1,11 @@
+tanggal        = 2022-11-20 21:39:34
+key            = 37 
+plain text     = "5T8K9A5E2J7R6670QUSHLUQXBCFWVD2CWOK1G"
+encrypted text = "h*m#pyn!m(t2uvxr6;:05?<D/15GG6%7LEB)@"
+decrypted text = "5T8K9A5E2J7R6670QUSHLUQXBCFWVD2CWOK1G"
+plain text     = "5T8K9A5E2J7R6670QUSHLUQXBCFWVD2CWOK1G"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-20 21:19:15
 key            = 75 
 plain text     = "1SLXT20X9QCX43Q042DE0CR1YBMISTDI0BYVHDL0S0NUPRGF2I68HEO72CNIR077FAJC3GS0T6N"
