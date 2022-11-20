@@ -1,3 +1,11 @@
+tanggal        = 2022-11-20 06:27:41
+key            = 31 
+plain text     = "OM6E7B98PFNMQDIBF4VFLY7XLMAEYA4"
+encrypted text = "{zdtgskk&{&&+}%}$q6'.<y=24).C,~"
+decrypted text = "OM6E7B98PFNMQDIBF4VFLY7XLMAEYA4"
+plain text     = "OM6E7B98PFNMQDIBF4VFLY7XLMAEYA4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-20 05:39:59
 key            = 94 
 plain text     = "9GLHAAGNPJKB6S4PAIVS8QH6UC1CERI6F9VSQMDVCKO9RES29ZTLJUITG7D91P9ZY8LTJMCFK5DOL78WI7NQQ9GMKF41FN"
