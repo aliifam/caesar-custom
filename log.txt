@@ -1,3 +1,11 @@
+tanggal        = 2022-11-20 22:41:40
+key            = 8 
+plain text     = "FNOKUL35"
+encrypted text = "+463>6|!"
+decrypted text = "FNOKUL35"
+plain text     = "FNOKUL35"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-20 22:21:30
 key            = 91 
 plain text     = "6DTSNORUBLG94LYPSH0SKQPCEVD3DCBDY62BTW3655HDIP3O3D0TUSIT1UAOJ15HRYMIJJ3FPJMLG9VH6C9B2MYU4SP"
