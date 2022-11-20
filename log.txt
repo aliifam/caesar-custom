@@ -1,3 +1,11 @@
+tanggal        = 2022-11-20 16:31:03
+key            = 4 
+plain text     = "8897"
+encrypted text = "vwyx"
+decrypted text = "8897"
+plain text     = "8897"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-20 15:42:14
 key            = 40 
 plain text     = "2S32KO6CUDXQBHT7EHBG4I5EUGKUEFOPPO3N26UX"
