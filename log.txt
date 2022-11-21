@@ -1,3 +1,11 @@
+tanggal        = 2022-11-21 14:41:42
+key            = 95 
+plain text     = "PKFG6CDG4I3YYO1HO8W9D6CDOPD76T4CPFNSHFRRKX9U7GPXMY7P7JJB8E6J8RRVI8GWTCU9GLPQMF2CB78JOCDOEX8LZZQ"
+encrypted text = "]YUWGUW[I_JqriLdlVvYeXfhtvk__~_o}t}%yx'("0p/p#-6,9v2x./(}-}4#>?D8(8IG7J/>DIKHB/AA79LRGIUL`AVef^"
+decrypted text = "PKFG6CDG4I3YYO1HO8W9D6CDOPD76T4CPFNSHFRRKX9U7GPXMY7P7JJB8E6J8RRVI8GWTCU9GLPQMF2CB78JOCDOEX8LZZQ"
+plain text     = "PKFG6CDG4I3YYO1HO8W9D6CDOPD76T4CPFNSHFRRKX9U7GPXMY7P7JJB8E6J8RRVI8GWTCU9GLPQMF2CB78JOCDOEX8LZZQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-21 14:20:42
 key            = 7 
 plain text     = "APFKM32"
