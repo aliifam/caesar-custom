@@ -1,3 +1,11 @@
+tanggal        = 2022-11-21 19:39:17
+key            = 16 
+plain text     = "TZNBG375WRCOZCXP"
+encrypted text = "t{pekX]\!{mz(p(!"
+decrypted text = "TZNBG375WRCOZCXP"
+plain text     = "TZNBG375WRCOZCXP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-21 19:18:18
 key            = 32 
 plain text     = "X2OO893NNFM0BZXMN2W3O6VYHSKD5AD9"
