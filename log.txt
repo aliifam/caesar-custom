@@ -1,3 +1,11 @@
+tanggal        = 2022-11-21 22:43:01
+key            = 7 
+plain text     = "FAUT79I"
+encrypted text = "TPeeIL]"
+decrypted text = "FAUT79I"
+plain text     = "FAUT79I"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-21 22:22:20
 key            = 78 
 plain text     = "1RWM1M9KM2Q17RNVV236NG0U2X6XXHZM1INMVVR7JB3LGN1D43RTEPB53OVTTLKRK4Q1PS5UX2QPSQ"
