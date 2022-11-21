@@ -1,3 +1,11 @@
+tanggal        = 2022-11-21 23:25:36
+key            = 37 
+plain text     = "G26ROL09HU17W8H6MB2OYILZDBR63ZJC3SAAU"
+encrypted text = "?+0MKI.8HV3:[=N=UK<ZeVZiTSdIGo`ZKl[\q"
+decrypted text = "G26ROL09HU17W8H6MB2OYILZDBR63ZJC3SAAU"
+plain text     = "G26ROL09HU17W8H6MB2OYILZDBR63ZJC3SAAU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-21 22:43:01
 key            = 7 
 plain text     = "FAUT79I"
