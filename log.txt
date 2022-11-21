@@ -1,3 +1,11 @@
+tanggal        = 2022-11-21 14:20:42
+key            = 7 
+plain text     = "APFKM32"
+encrypted text = "EULRU<<"
+decrypted text = "APFKM32"
+plain text     = "APFKM32"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-21 13:44:50
 key            = 47 
 plain text     = "BRED3NQZC1S4MEWZG4QUE9O36UJZ6IDAJDTQVE4A6QQQAFC"
