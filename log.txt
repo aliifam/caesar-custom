@@ -1,3 +1,11 @@
+tanggal        = 2022-11-21 18:28:57
+key            = 19 
+plain text     = "SZ9CZ72J0SOJFJXF8T9"
+encrypted text = "08v#;ws.s962/4C2%B("
+decrypted text = "SZ9CZ72J0SOJFJXF8T9"
+plain text     = "SZ9CZ72J0SOJFJXF8T9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-21 17:42:39
 key            = 4 
 plain text     = "44MA"
