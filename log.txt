@@ -1,3 +1,11 @@
+tanggal        = 2022-11-21 17:42:39
+key            = 4 
+plain text     = "44MA"
+encrypted text = "kl({"
+decrypted text = "44MA"
+plain text     = "44MA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-21 17:23:09
 key            = 100 
 plain text     = "4OLL2ALBU45EPJ33BZES8IA8ZNBUQMD3DCSG4830OQW5MFOX55NFW0U3AGWIXYEZ21KFJW1T08TGOGZBAKWZLOZ5Y27JZ3J9D2DL"
