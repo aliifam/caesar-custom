@@ -1,3 +1,11 @@
+tanggal        = 2022-11-22 12:47:23
+key            = 14 
+plain text     = "DMU6CJCGEHWAAG"
+encrypted text = "z&/o}'!&%)9$%,"
+decrypted text = "DMU6CJCGEHWAAG"
+plain text     = "DMU6CJCGEHWAAG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-22 11:39:10
 key            = 59 
 plain text     = "HCQ7O46YM2KB8A2G1QGF4P3ECRHXX0NXTA47PQ5R60ABZY9ZTG0WKQH387D"
