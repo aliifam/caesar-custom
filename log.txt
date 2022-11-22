@@ -1,3 +1,11 @@
+tanggal        = 2022-11-22 20:22:31
+key            = 6 
+plain text     = "4YEJQM"
+encrypted text = "/UBHPM"
+decrypted text = "4YEJQM"
+plain text     = "4YEJQM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-22 19:39:09
 key            = 98 
 plain text     = "GOV0S7DLOSC2K69BO35XL15R45LN4IITGYEN5FBZFF2BOL9WN6ZXA88UD1QDB22YSKLVQDEEL7HAWTLAQV2INHOCLEPA5AZ2PH"
