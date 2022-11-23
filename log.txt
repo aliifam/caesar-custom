@@ -1,3 +1,11 @@
+tanggal        = 2022-11-23 07:19:06
+key            = 17 
+plain text     = "XSLWPE8YPDENLUC5H"
+encrypted text = "xtnztj^"xmoyx$qdx"
+decrypted text = "XSLWPE8YPDENLUC5H"
+plain text     = "XSLWPE8YPDENLUC5H"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-23 06:46:01
 key            = 81 
 plain text     = "Z8D1E9BAN739NOPXYPZ1MO0FRYG7S67K3SLF4TB4JT0GGO2CCFLA4ZC5A4K4788VKN81QANOSKJSVFFNK"
