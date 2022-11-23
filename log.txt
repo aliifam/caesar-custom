@@ -1,3 +1,11 @@
+tanggal        = 2022-11-23 01:53:19
+key            = 14 
+plain text     = "BBS8LF2VJ1WEKS"
+encrypted text = "mn"f{vc*}e.{$-"
+decrypted text = "BBS8LF2VJ1WEKS"
+plain text     = "BBS8LF2VJ1WEKS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-22 23:40:39
 key            = 93 
 plain text     = "3YXQZT8QHVOIC7YIZ8MH8018B7BXWS4F21YD9HFTH7ZY6ZSP0DAA02HZB8EQ6SVST5KKL1QG960PHMUKN80P0VWXYHW98"
