@@ -1,3 +1,11 @@
+tanggal        = 2022-11-23 18:44:44
+key            = 8 
+plain text     = "EU4M52IH"
+encrypted text = "+<z6}{55"
+decrypted text = "EU4M52IH"
+plain text     = "EU4M52IH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-23 18:26:19
 key            = 92 
 plain text     = "ENSAFSWUNH5PRM0TOLBR6RFM7OH0URX00P35N707RO1MVECURRRN30QYCMBBNPHYIQ9BJUN31JGHBKPU80YS6LHP5H8E"
