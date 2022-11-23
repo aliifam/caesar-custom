@@ -1,3 +1,11 @@
+tanggal        = 2022-11-23 09:50:29
+key            = 3 
+plain text     = "FNC"
+encrypted text = "!*~"
+decrypted text = "FNC"
+plain text     = "FNC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-23 09:49:52
 key            = 3 
 plain text     = "AQ0"
