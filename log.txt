@@ -1,3 +1,11 @@
+tanggal        = 2022-11-23 09:49:52
+key            = 3 
+plain text     = "AQ0"
+encrypted text = "DU5"
+decrypted text = "AQ0"
+plain text     = "AQ0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-23 09:20:53
 key            = 91 
 plain text     = "BA45RBDKS0N0GLVBA6HS8ZJ2UQYDH172M4O78R2W06BRKG591VHFRAXV1S3T0HWZSD1XVGCR64B9YYS02BRZ9QOHN85"
