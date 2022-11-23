@@ -1,3 +1,11 @@
+tanggal        = 2022-11-23 10:42:27
+key            = 18 
+plain text     = "ZPLBF039ZJB7UY879Y"
+encrypted text = "ULI@E04;]NG=\aAADe"
+decrypted text = "ZPLBF039ZJB7UY879Y"
+plain text     = "ZPLBF039ZJB7UY879Y"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-23 10:23:57
 key            = 23 
 plain text     = "2GVI33ZR2DTRUTVDR1CY6UN"
