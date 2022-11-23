@@ -1,3 +1,11 @@
+tanggal        = 2022-11-23 05:38:56
+key            = 9 
+plain text     = "VOM97TQO4"
+encrypted text = "ysr_^|zy_"
+decrypted text = "VOM97TQO4"
+plain text     = "VOM97TQO4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-23 05:19:43
 key            = 69 
 plain text     = "JYAKS09JIGO3AZ6UOSWR3FV85OV1ZMP6WQUZJ3EO484CW1S9ZDIL3DXRV8YVE7VJKDIPZ"
