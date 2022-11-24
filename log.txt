@@ -1,3 +1,11 @@
+tanggal        = 2022-11-24 10:42:02
+key            = 5 
+plain text     = "D2MFE"
+encrypted text = "zi'!!"
+decrypted text = "D2MFE"
+plain text     = "D2MFE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-24 10:23:10
 key            = 95 
 plain text     = "6DUUHFZ69224PPQ8EWPJQQKT1KARBKY0G05OCF2WBGPBLTPTL22A3Q6NUMRF2YTAG1SO5TSP2B9KOWKC4F8KRXB0M85U3QG"
