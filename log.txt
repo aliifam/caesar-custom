@@ -1,3 +1,11 @@
+tanggal        = 2022-11-24 21:38:45
+key            = 14 
+plain text     = "YEWJRVXINCV845"
+encrypted text = "bObV_dgY_UiLIK"
+decrypted text = "YEWJRVXINCV845"
+plain text     = "YEWJRVXINCV845"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-24 21:18:39
 key            = 99 
 plain text     = "VMCKOOFPJCXZIYEW6SR28H1F3G0MZTECY9EY2DJA09SZDP0V5U49PGL3AZOHQFPJ1IPLUCK593EBVOCIQ23TKM41LXD2Y4I4KIJ"
