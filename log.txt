@@ -1,3 +1,11 @@
+tanggal        = 2022-11-24 18:45:20
+key            = 37 
+plain text     = "9PU22AJBXJ6JEZO9ZZO1NZ3EM29VHM6K3ZAIO"
+encrypted text = "XpvTUeoh!r_tp(|g+,"c#0h{&jr2%+s+r<$-4"
+decrypted text = "9PU22AJBXJ6JEZO9ZZO1NZ3EM29VHM6K3ZAIO"
+plain text     = "9PU22AJBXJ6JEZO9ZZO1NZ3EM29VHM6K3ZAIO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-24 18:27:01
 key            = 7 
 plain text     = "OFLXXIP"
