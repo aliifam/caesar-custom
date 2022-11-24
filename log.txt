@@ -1,3 +1,11 @@
+tanggal        = 2022-11-24 06:46:02
+key            = 24 
+plain text     = "AH24JEKKLKX599XKB2GR4LOK"
+encrypted text = "9A,/FBIJLLZ8=>^RJ;Q]@Y]Z"
+decrypted text = "AH24JEKKLKX599XKB2GR4LOK"
+plain text     = "AH24JEKKLKX599XKB2GR4LOK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-24 06:26:53
 key            = 96 
 plain text     = "1U9O49AU53PZ1CMF5B9WOZ6R6LT2I8LL67RT1V2GD4ZOHFTRVY32DYR2PDQNZ8W1M1GX88U1YUIQABHHE423B1J1JP5RNJTB"
