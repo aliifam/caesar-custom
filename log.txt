@@ -1,3 +1,11 @@
+tanggal        = 2022-11-24 19:16:57
+key            = 6 
+plain text     = "JS8CJ9"
+encrypted text = "Q[AMUE"
+decrypted text = "JS8CJ9"
+plain text     = "JS8CJ9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-24 18:45:20
 key            = 37 
 plain text     = "9PU22AJBXJ6JEZO9ZZO1NZ3EM29VHM6K3ZAIO"
