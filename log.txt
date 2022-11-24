@@ -1,3 +1,11 @@
+tanggal        = 2022-11-24 19:38:29
+key            = 4 
+plain text     = "LDUC"
+encrypted text = "vo#p"
+decrypted text = "LDUC"
+plain text     = "LDUC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-24 19:16:57
 key            = 6 
 plain text     = "JS8CJ9"
