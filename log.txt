@@ -1,3 +1,11 @@
+tanggal        = 2022-11-24 08:27:30
+key            = 15 
+plain text     = "I9CVP994J9350RV"
+encrypted text = "5&1E@*+'>.),(KP"
+decrypted text = "I9CVP994J9350RV"
+plain text     = "I9CVP994J9350RV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-24 07:38:17
 key            = 69 
 plain text     = "71ASVDCCXLHWKIRNDNZH2XJY3G5CDIBQPV0IG4JKNRSSI9664XON60VA5562YVOQ1JRQ5"
