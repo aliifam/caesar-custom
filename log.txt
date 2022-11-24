@@ -1,3 +1,11 @@
+tanggal        = 2022-11-24 18:27:01
+key            = 7 
+plain text     = "OFLXXIP"
+encrypted text = "g_fstfn"
+decrypted text = "OFLXXIP"
+plain text     = "OFLXXIP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-24 17:39:09
 key            = 88 
 plain text     = "UPHMQDZWR6N2HQF5FRTYKM8U5QHE7BN2P4RYZF3T84O65DAVQ0CCPWBKZM4IV6U55BUSF1U51SZX38EB8ZPIP20P"
