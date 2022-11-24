@@ -1,3 +1,11 @@
+tanggal        = 2022-11-24 23:23:19
+key            = 35 
+plain text     = "FKMCG9VD0PFZ2PMVOOKJ2K9V83TC1J03O4R"
+encrypted text = "u{~uzm-zg*!6m.,601..u1~>!{?/|8}#@&E"
+decrypted text = "FKMCG9VD0PFZ2PMVOOKJ2K9V83TC1J03O4R"
+plain text     = "FKMCG9VD0PFZ2PMVOOKJ2K9V83TC1J03O4R"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-24 22:39:54
 key            = 93 
 plain text     = "ZI99052AKYV6YCCEQ77U5T36DMC8ND2ML0MAJWRM8AGP9G4T1DAFS6H388S8DUJTU5OCV1SCS9GYVK6JQK9HO1P3YADU5"
