@@ -1,3 +1,11 @@
+tanggal        = 2022-11-25 01:52:18
+key            = 24 
+plain text     = "KMH10OSMTHAH349UXPRCGOMA"
+encrypted text = "QTP::Z_ZbWQYEGMjngj\aji^"
+decrypted text = "KMH10OSMTHAH349UXPRCGOMA"
+plain text     = "KMH10OSMTHAH349UXPRCGOMA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-24 23:40:56
 key            = 59 
 plain text     = "2NCLIUH25F9KEYK7LCR6QT19OH26I5VYW3N87X540AZERMMWBN0VZCHESDR"
