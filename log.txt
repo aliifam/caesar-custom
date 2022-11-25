@@ -1,3 +1,11 @@
+tanggal        = 2022-11-25 09:40:01
+key            = 36 
+plain text     = "DAEZWU7ZUB2WDCYMJDBB3U1TTIINJZXXJP22"
+encrypted text = "`^cywvY}ygX~ll%xvqpqc(c)*~!'$545(/pq"
+decrypted text = "DAEZWU7ZUB2WDCYMJDBB3U1TTIINJZXXJP22"
+plain text     = "DAEZWU7ZUB2WDCYMJDBB3U1TTIINJZXXJP22"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-25 09:20:48
 key            = 7 
 plain text     = "HLFX97S"
