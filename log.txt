@@ -1,3 +1,11 @@
+tanggal        = 2022-11-25 19:38:18
+key            = 37 
+plain text     = "LOJZXSOMJ55FC3D7ZR4N33GP84WSPXP5628M0"
+encrypted text = "OSO`_[XWUABTRCUImfIdJK`jSPtqoxqWYV]sW"
+decrypted text = "LOJZXSOMJ55FC3D7ZR4N33GP84WSPXP5628M0"
+plain text     = "LOJZXSOMJ55FC3D7ZR4N33GP84WSPXP5628M0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-25 19:16:20
 key            = 3 
 plain text     = "XV4"
