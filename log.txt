@@ -1,3 +1,11 @@
+tanggal        = 2022-11-25 23:39:58
+key            = 13 
+plain text     = "LGFXWQXRZCPUP"
+encrypted text = "C??RRMUPYCQWS"
+decrypted text = "LGFXWQXRZCPUP"
+plain text     = "LGFXWQXRZCPUP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-25 23:21:23
 key            = 70 
 plain text     = "PO7IC76JJSIXOBYKFG8UNOY7K4QQWBK6H67PS2Z03RMO1A5JKH5OJTHJNOWXIOYK87F1FN"
