@@ -1,3 +1,11 @@
+tanggal        = 2022-11-25 14:39:20
+key            = 15 
+plain text     = "JRWKNJK47T4QC2C"
+encrypted text = "[dj_c`bLPnOm`Pb"
+decrypted text = "JRWKNJK47T4QC2C"
+plain text     = "JRWKNJK47T4QC2C"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-25 14:19:09
 key            = 67 
 plain text     = "FFPCV0B6KQCA3G5GO6GOJJ75W58UGG7EX63ZM454QFSEUM8THC1ERPSJ7N3HYTV4MH5"
