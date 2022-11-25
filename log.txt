@@ -1,3 +1,11 @@
+tanggal        = 2022-11-25 07:38:21
+key            = 12 
+plain text     = "V8E0GW4ABRAR"
+encrypted text = "L/=)AR0>@QAS"
+decrypted text = "V8E0GW4ABRAR"
+plain text     = "V8E0GW4ABRAR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-25 07:19:03
 key            = 71 
 plain text     = "56R9ZPXYTL4JJN3U5R8U2NDSR819F16S902DU5WSE1JTG0CQQC4UOZ4MLAEG92L9WU88QK4"
