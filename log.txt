@@ -1,3 +1,11 @@
+tanggal        = 2022-11-25 13:30:05
+key            = 20 
+plain text     = "CCNRLPKC0313UV35V9CI"
+encrypted text = "JKW\W\XQ?CBEhjHKmQ\c"
+decrypted text = "CCNRLPKC0313UV35V9CI"
+plain text     = "CCNRLPKC0313UV35V9CI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-25 12:41:37
 key            = 34 
 plain text     = "1E0JUC9V6XRINFGYXELW1SP07V6MBMMDHX"
