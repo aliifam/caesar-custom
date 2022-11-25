@@ -1,3 +1,11 @@
+tanggal        = 2022-11-25 09:20:48
+key            = 7 
+plain text     = "HLFX97S"
+encrypted text = "pup%ed#"
+decrypted text = "HLFX97S"
+plain text     = "HLFX97S"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-25 08:44:53
 key            = 48 
 plain text     = "P9YWN73MQFC4HIKV66ROS0JW9AY5MZ5U6MUO0799XWBQ1EU9"
