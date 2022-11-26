@@ -1,3 +1,11 @@
+tanggal        = 2022-11-26 12:37:42
+key            = 20 
+plain text     = "7JAPU1DD263X3NV8GWP3"
+encrypted text = "AUM]c@TUDIGmIenQarlP"
+decrypted text = "7JAPU1DD263X3NV8GWP3"
+plain text     = "7JAPU1DD263X3NV8GWP3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-26 11:38:19
 key            = 37 
 plain text     = "4EZOKWWMKFH33SIS7GY6VUDBQF67LNBF4X02M"
