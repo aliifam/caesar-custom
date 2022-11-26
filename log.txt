@@ -1,3 +1,11 @@
+tanggal        = 2022-11-26 05:18:30
+key            = 34 
+plain text     = "VPWM5DF6XRAL7B8D1L1WH07XVT9OQOG39F"
+encrypted text = "|w!v_orc(#q}iulyg%i2$ks765y254-x!/"
+decrypted text = "VPWM5DF6XRAL7B8D1L1WH07XVT9OQOG39F"
+plain text     = "VPWM5DF6XRAL7B8D1L1WH07XVT9OQOG39F"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-26 04:44:56
 key            = 46 
 plain text     = "X9AALR6TGLYO4CWOK28M5RMOABVMS8XXUOBKIU1L9BFZR6"
