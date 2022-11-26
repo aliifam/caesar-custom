@@ -1,3 +1,11 @@
+tanggal        = 2022-11-26 22:19:36
+key            = 59 
+plain text     = "IT6G3RO14NABVCTTEZR2VB43BU3H18R5B90YM9E6DE9WR0YU3A9OPAI9P7D"
+encrypted text = "FR5G4TR59THJ_M_`RhaBgTGGWkJ`JRmQ_WOyn[hZik`{Z`ohs|mm{"
+decrypted text = "IT6G3RO14NABVCTTEZR2VB43BU3H18R5B90YM9E6DE9WR0YU3A9OPAI9P7D"
+plain text     = "IT6G3RO14NABVCTTEZR2VB43BU3H18R5B90YM9E6DE9WR0YU3A9OPAI9P7D"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-26 21:38:45
 key            = 7 
 plain text     = "NMPN411"
