@@ -1,3 +1,11 @@
+tanggal        = 2022-11-26 21:38:45
+key            = 7 
+plain text     = "NMPN411"
+encrypted text = "**.-rpq"
+decrypted text = "NMPN411"
+plain text     = "NMPN411"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-26 21:18:09
 key            = 94 
 plain text     = "X0WV3KHTSMVH7TRT18S7H5A4LV8NVYWKDCJBUI6H1I357JLNQXLP8EQZZSGJYNETT47O85UN1DMLSAF0MKO9RW6X0R8RNB"
