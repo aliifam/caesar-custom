@@ -1,3 +1,11 @@
+tanggal        = 2022-11-26 17:38:23
+key            = 3 
+plain text     = "CSS"
+encrypted text = "l}~"
+decrypted text = "CSS"
+plain text     = "CSS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-26 17:18:06
 key            = 50 
 plain text     = "FG6ZOQ1LP3QYU9HOG4T5C79D0QAA5QEH71EWFA9HX8K3N8J8Y3"
