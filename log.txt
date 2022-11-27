@@ -1,3 +1,11 @@
+tanggal        = 2022-11-27 04:26:01
+key            = 3 
+plain text     = "KJK"
+encrypted text = "ooq"
+decrypted text = "KJK"
+plain text     = "KJK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-27 03:51:47
 key            = 68 
 plain text     = "WQBY2EB8I86QQRRCITCBLHXO8Q6NN1KN60C8EZNH044STATY9QN34O2VY6XZY3668C9L"
