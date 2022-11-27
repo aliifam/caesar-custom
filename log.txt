@@ -1,3 +1,11 @@
+tanggal        = 2022-11-27 23:40:31
+key            = 21 
+plain text     = "86HHPEY4TRHFVK14SB48E"
+encrypted text = "ts()2(=w:90/@6{!A1$)7"
+decrypted text = "86HHPEY4TRHFVK14SB48E"
+plain text     = "86HHPEY4TRHFVK14SB48E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-27 23:22:32
 key            = 88 
 plain text     = "6IAV7M67P2D7JP83K8J7VVKSAKQTEKB8A5FOCSEPP9N7J6LQJSF17OA0AACE7HAC15DMF5HX846G3UQKPMUK7QEB"
