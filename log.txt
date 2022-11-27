@@ -1,3 +1,11 @@
+tanggal        = 2022-11-27 22:40:02
+key            = 34 
+plain text     = "KE2QR7H9TF3KNZHNU6WPITUIM2U76QDHNB"
+encrypted text = "TO=]_EWIeXF_cp_fnPrlfrtinTx[[wkpwl"
+decrypted text = "KE2QR7H9TF3KNZHNU6WPITUIM2U76QDHNB"
+plain text     = "KE2QR7H9TF3KNZHNU6WPITUIM2U76QDHNB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-27 22:20:38
 key            = 85 
 plain text     = "CL9QAIR5XEWD6PAIWTAWL5MHA5PZ1ZCTSYBA9F28G2D4XOC562IBQ4ZE4OSXP5NYA2RP52OP9EBT43SLRFE12"
