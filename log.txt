@@ -1,3 +1,11 @@
+tanggal        = 2022-11-27 11:38:13
+key            = 12 
+plain text     = "3K6REZUQTIE9"
+encrypted text = "*C/L@VROSIF;"
+decrypted text = "3K6REZUQTIE9"
+plain text     = "3K6REZUQTIE9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-27 11:17:16
 key            = 56 
 plain text     = "QT1B7M7L5HM5Z9HOPM91BYSKL8I245OJLV3VJCT8MRUNHYSIIM08GRRP"
