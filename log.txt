@@ -1,3 +1,11 @@
+tanggal        = 2022-11-27 19:16:27
+key            = 3 
+plain text     = "WBQ"
+encrypted text = "ZFV"
+decrypted text = "WBQ"
+plain text     = "WBQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-27 18:43:09
 key            = 48 
 plain text     = "286376JU6F8JD1ZF5EPE34W66SN7SIRW6PXL1LFR2WX703MS"
