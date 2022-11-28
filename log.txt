@@ -1,3 +1,11 @@
+tanggal        = 2022-11-28 10:42:51
+key            = 3 
+plain text     = "PR7"
+encrypted text = "mpV"
+decrypted text = "PR7"
+plain text     = "PR7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-28 10:24:25
 key            = 95 
 plain text     = "FPRUPXBWOWCP30YLXHAIKO8PV511GUXPZLPX2Y7KWR56PUTD94ON5TG23QRR7PE0CRHX03X78CST20OXVK0ISY4AFGK6ONS"
