@@ -1,3 +1,11 @@
+tanggal        = 2022-11-28 22:41:11
+key            = 37 
+plain text     = "HEBB7FW6J2YB9DPDBC7G2CGCIVDGLNN6BAX0E"
+encrypted text = "@><=3CU5J3[E=IVKJLAR>PURYgVZ`cdMZZrKa"
+decrypted text = "HEBB7FW6J2YB9DPDBC7G2CGCIVDGLNN6BAX0E"
+plain text     = "HEBB7FW6J2YB9DPDBC7G2CGCIVDGLNN6BAX0E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-28 22:21:08
 key            = 21 
 plain text     = "2OI61JVMEPTGTRD663D86"
