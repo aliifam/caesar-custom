@@ -1,3 +1,11 @@
+tanggal        = 2022-11-28 15:19:49
+key            = 28 
+plain text     = "WVJF8CWQPT79YXNZS6MDJRFJQ82X"
+encrypted text = "uujgZf{vv{_b%%z)#e}u|'z!)oj3"
+decrypted text = "WVJF8CWQPT79YXNZS6MDJRFJQ82X"
+plain text     = "WVJF8CWQPT79YXNZS6MDJRFJQ82X"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-28 14:38:13
 key            = 58 
 plain text     = "WIBO4V44IUW0VOURZO1AUNNNJWDKUMK8G3T39ZEXAOO3S6MX910GHLVHE8"
