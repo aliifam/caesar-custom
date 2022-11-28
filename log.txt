@@ -1,3 +1,11 @@
+tanggal        = 2022-11-28 13:31:29
+key            = 8 
+plain text     = "787MFO3Y"
+encrypted text = "=??VPZ?f"
+decrypted text = "787MFO3Y"
+plain text     = "787MFO3Y"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-28 12:41:30
 key            = 39 
 plain text     = "4I12TO5TI5URSYTQMTYJTK77JLEBXUQBFPVGFNW"
