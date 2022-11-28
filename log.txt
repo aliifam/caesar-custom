@@ -1,3 +1,11 @@
+tanggal        = 2022-11-28 22:21:08
+key            = 21 
+plain text     = "2OI61JVMEPTGTRD663D86"
+encrypted text = "z:5#}9F>7CH<JI</0.@54"
+decrypted text = "2OI61JVMEPTGTRD663D86"
+plain text     = "2OI61JVMEPTGTRD663D86"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-28 21:39:13
 key            = 64 
 plain text     = "0ILB30E2DCNBGAL0WJH4AJDH3POTP9ZEF7ZQ78IUL962TR2LQD2B2JVZ990P9AHC"
