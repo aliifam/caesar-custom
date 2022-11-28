@@ -1,3 +1,11 @@
+tanggal        = 2022-11-28 11:18:10
+key            = 19 
+plain text     = "MN825AT2RVSMFCKU6R0"
+encrypted text = "*,upt#7t7<:5/-6A#@}"
+decrypted text = "MN825AT2RVSMFCKU6R0"
+plain text     = "MN825AT2RVSMFCKU6R0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-28 10:42:51
 key            = 3 
 plain text     = "PR7"
