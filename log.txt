@@ -1,3 +1,11 @@
+tanggal        = 2022-11-28 06:47:17
+key            = 15 
+plain text     = "WIAZK1YPMVJCNUA"
+encrypted text = "-~w3%j5-+5*$08%"
+decrypted text = "WIAZK1YPMVJCNUA"
+plain text     = "WIAZK1YPMVJCNUA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-28 06:28:07
 key            = 58 
 plain text     = "PLCLW2IU14M4BIV5LJFZS73ZMMEB76TDMJHM0A87Y52SDDA0MFETZQYRTY"
