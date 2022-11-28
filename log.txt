@@ -1,3 +1,11 @@
+tanggal        = 2022-11-28 07:18:33
+key            = 39 
+plain text     = "CJ54SPHGS3SG26BI4R1CVFG60HFAH3BI68BPK6V"
+encrypted text = "jr^^~|uu$c&yejw!k,j}3$&to*)%-w)1}"-<8$E"
+decrypted text = "CJ54SPHGS3SG26BI4R1CVFG60HFAH3BI68BPK6V"
+plain text     = "CJ54SPHGS3SG26BI4R1CVFG60HFAH3BI68BPK6V"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-28 06:47:17
 key            = 15 
 plain text     = "WIAZK1YPMVJCNUA"
