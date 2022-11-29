@@ -1,3 +1,11 @@
+tanggal        = 2022-11-29 19:17:12
+key            = 29 
+plain text     = "DV49OMG0JDYNEOV23XXWWQY49A2IS"
+encrypted text = "cvU[rqlVql$xp{%`b*++,'0jpyk%0"
+decrypted text = "DV49OMG0JDYNEOV23XXWWQY49A2IS"
+plain text     = "DV49OMG0JDYNEOV23XXWWQY49A2IS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-29 18:44:06
 key            = 93 
 plain text     = "618FEK1A88TM94RI7AP6TH8XNTGIHKS8ZMP53D5YE4OPS1203OYDXR8JN706YMHJI132C1V41VYHREIRUHYDFXD7ZDEYT"
