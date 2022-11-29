@@ -1,3 +1,11 @@
+tanggal        = 2022-11-29 05:39:04
+key            = 22 
+plain text     = "B33VQGJ6X7NTQFL4WB0EQB"
+encrypted text = "B45YULP=`@X_]SZCgSBXeW"
+decrypted text = "B33VQGJ6X7NTQFL4WB0EQB"
+plain text     = "B33VQGJ6X7NTQFL4WB0EQB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-29 05:19:41
 key            = 37 
 plain text     = "7M0THYDZPULZLTOJL1NTX6O3U39VU91JJ8MCF"
