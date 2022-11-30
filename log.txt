@@ -1,3 +1,11 @@
+tanggal        = 2022-11-30 08:28:02
+key            = 14 
+plain text     = "S93MIOSISFPT8U"
+encrypted text = ":!z74;@7B6AF+I"
+decrypted text = "S93MIOSISFPT8U"
+plain text     = "S93MIOSISFPT8U"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-30 07:38:45
 key            = 59 
 plain text     = "OIZ2ARAF5CWTO06UN985F1YXJHV9CDD9RUXWTV5B1TW95D5SGGE95R60Y1S"
