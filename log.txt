@@ -1,3 +1,11 @@
+tanggal        = 2022-11-30 03:29:10
+key            = 4 
+plain text     = "IYAN"
+encrypted text = "du^l"
+decrypted text = "IYAN"
+plain text     = "IYAN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-30 02:54:21
 key            = 59 
 plain text     = "5EM9ND0FDWVHYOZ08XUOJB8W8BQOL7UZ94BR2Z8V8Y7X78A4MAODS1B0E15"
