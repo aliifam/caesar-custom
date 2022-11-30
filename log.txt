@@ -1,3 +1,11 @@
+tanggal        = 2022-11-30 22:21:26
+key            = 15 
+plain text     = "ZLMISHNE2CFABQN"
+encrypted text = "^QSP[QXP>PTPRb`"
+decrypted text = "ZLMISHNE2CFABQN"
+plain text     = "ZLMISHNE2CFABQN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-30 21:39:18
 key            = 85 
 plain text     = "E5J50SUUL7G0DUQE5T8X1HTZR2HV34XAKN8K46UTCHTUT7EE7MBPAOEYSSJPXJJ7633ZG3O81ZODAET4BKFCD"
