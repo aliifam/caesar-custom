@@ -1,3 +1,11 @@
+tanggal        = 2022-11-30 03:46:50
+key            = 14 
+plain text     = "YEJP1MPWIL4OXM"
+encrypted text = "&qw~`}#+|"i'1'"
+decrypted text = "YEJP1MPWIL4OXM"
+plain text     = "YEJP1MPWIL4OXM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-30 03:29:10
 key            = 4 
 plain text     = "IYAN"
