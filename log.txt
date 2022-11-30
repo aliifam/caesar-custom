@@ -1,3 +1,11 @@
+tanggal        = 2022-11-30 18:46:24
+key            = 47 
+plain text     = "JHZYAL9GD5DV49LBNNRWR6RMW8195PPJFL71NXOUWYXBN3S"
+encrypted text = "dcvv_kYhfXh{Z`tkxy~&"e$~+kenk)*%")sn.918;>>)6z="
+decrypted text = "JHZYAL9GD5DV49LBNNRWR6RMW8195PPJFL71NXOUWYXBN3S"
+plain text     = "JHZYAL9GD5DV49LBNNRWR6RMW8195PPJFL71NXOUWYXBN3S"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-30 18:27:12
 key            = 57 
 plain text     = "1R9SS4S5N1MPBTINBW4PSUT04BGSTBA4L89YWU7P598CDNZLVDPUZKNW7"
