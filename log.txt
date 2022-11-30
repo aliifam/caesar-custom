@@ -1,3 +1,11 @@
+tanggal        = 2022-11-30 20:22:47
+key            = 34 
+plain text     = "YS8ZYT6FGVVC100P9FHBYQBEF61G123493"
+encrypted text = "94x==9z-/?@.{{|?)7:5MF8<>/+B-/1394"
+decrypted text = "YS8ZYT6FGVVC100P9FHBYQBEF61G123493"
+plain text     = "YS8ZYT6FGVVC100P9FHBYQBEF61G123493"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-30 19:38:13
 key            = 18 
 plain text     = "Y5W34V0SPH1F3SVL30"
