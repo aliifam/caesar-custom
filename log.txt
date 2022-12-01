@@ -1,3 +1,11 @@
+tanggal        = 2022-12-01 07:19:54
+key            = 12 
+plain text     = "VXYOGDYEF09U"
+encrypted text = "Z]_VOMcPR=Gd"
+decrypted text = "VXYOGDYEF09U"
+plain text     = "VXYOGDYEF09U"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-01 06:48:00
 key            = 51 
 plain text     = "ZA0IUIC38H7XQ2VGB4X2WA348F3T6FHNW73Y4SIVDA1PRUX9F0T"
