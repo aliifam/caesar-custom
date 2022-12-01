@@ -1,3 +1,11 @@
+tanggal        = 2022-12-01 13:37:17
+key            = 49 
+plain text     = "HTAGCDJI0FTLNVNSZBFZRBLUO6HEHPCS6H4TAKBKZMNRTA2IK"
+encrypted text = "AN<C@BII1HWPS\U[cLQf_P[e`H[Y]fZkObOp^iak{oqvygYqt"
+decrypted text = "HTAGCDJI0FTLNVNSZBFZRBLUO6HEHPCS6H4TAKBKZMNRTA2IK"
+plain text     = "HTAGCDJI0FTLNVNSZBFZRBLUO6HEHPCS6H4TAKBKZMNRTA2IK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-01 12:45:45
 key            = 7 
 plain text     = "MLHVYSK"
