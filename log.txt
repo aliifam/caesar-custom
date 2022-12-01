@@ -1,3 +1,11 @@
+tanggal        = 2022-12-01 02:04:27
+key            = 15 
+plain text     = "82D1B0LXSNQX9YO"
+encrypted text = "sn#o#p/<848@"C:"
+decrypted text = "82D1B0LXSNQX9YO"
+plain text     = "82D1B0LXSNQX9YO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-11-30 23:40:44
 key            = 95 
 plain text     = "WISD4HZEEU4OBTXI5BHLLDWI8DL4R3GY6ULR83WNS0E62I3TFBOLYB35UAB9RMGJ3D76HBC4V1RW1AC8ZV3QPD6LG6T6GNT"
