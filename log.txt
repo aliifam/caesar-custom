@@ -1,3 +1,11 @@
+tanggal        = 2022-12-01 05:20:39
+key            = 58 
+plain text     = "B678HHR12HVCG0QQYN16X0NG8GNV434IQL82YDYMCUASRILFSZF4UC83XN"
+encrypted text = "xmoq$%0np)8&+s78A7y!D{<6(8@I((*@IE2-UAWLCVCVVNRM[cP?aPFBh_"
+decrypted text = "B678HHR12HVCG0QQYN16X0NG8GNV434IQL82YDYMCUASRILFSZF4UC83XN"
+plain text     = "B678HHR12HVCG0QQYN16X0NG8GNV434IQL82YDYMCUASRILFSZF4UC83XN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-01 04:47:06
 key            = 45 
 plain text     = "2U2QK602DPX35RX19UAEPQQHEG626IYZHGXFOI9VS2ATV"
