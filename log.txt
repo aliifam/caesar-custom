@@ -1,3 +1,11 @@
+tanggal        = 2022-12-01 17:19:53
+key            = 5 
+plain text     = "1W6X7"
+encrypted text = "T{[~^"
+decrypted text = "1W6X7"
+plain text     = "1W6X7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-01 16:31:24
 key            = 61 
 plain text     = "EITLU154LXABYQXDBRRK4HDYHV9BOOB1ERI2L1CA6SUG8YBR1SGBPD5XWDJA4"
