@@ -1,3 +1,11 @@
+tanggal        = 2022-12-01 19:39:01
+key            = 41 
+plain text     = "F42RV2UVKHUXTJCYPED8S1UWQ72313OMK2977WRTS"
+encrypted text = "M<;\a>bdZXfjg^Xog]]RnMrupWSUTWtsrZbab"
+decrypted text = "F42RV2UVKHUXTJCYPED8S1UWQ72313OMK2977WRTS"
+plain text     = "F42RV2UVKHUXTJCYPED8S1UWQ72313OMK2977WRTS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-01 19:17:27
 key            = 36 
 plain text     = "Z7JD330QR71NUJZDJUF4C0961XOGN2HUK1CC"
