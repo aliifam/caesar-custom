@@ -1,3 +1,11 @@
+tanggal        = 2022-12-01 03:52:37
+key            = 12 
+plain text     = "UM4HDF2QBUEB"
+encrypted text = "IB*?<?,L>RCA"
+decrypted text = "UM4HDF2QBUEB"
+plain text     = "UM4HDF2QBUEB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-01 03:25:02
 key            = 2 
 plain text     = "BA"
