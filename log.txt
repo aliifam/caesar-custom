@@ -1,3 +1,11 @@
+tanggal        = 2022-12-01 08:47:02
+key            = 15 
+plain text     = "NTN0TR1RBEQQC5F"
+encrypted text = "v}x["!_#rv%&wj|"
+decrypted text = "NTN0TR1RBEQQC5F"
+plain text     = "NTN0TR1RBEQQC5F"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-01 08:28:15
 key            = 66 
 plain text     = "GOMSSI3GBZ7VT0JM86BR49MEE9F2Q5SEZABYNHMIUJBMX0LYQ3GPXUB1T6UXA212T0"
