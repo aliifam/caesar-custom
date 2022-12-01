@@ -1,3 +1,11 @@
+tanggal        = 2022-12-01 12:45:45
+key            = 7 
+plain text     = "MLHVYSK"
+encrypted text = "hhetxsl"
+decrypted text = "MLHVYSK"
+plain text     = "MLHVYSK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-01 11:38:47
 key            = 53 
 plain text     = "BGM2Z0PMU7AOEJ6UT5PSAYM9APHS5OUYHJE2FQDNXQH3STHYQ81RC"
