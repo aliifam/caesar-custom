@@ -1,3 +1,11 @@
+tanggal        = 2022-12-02 22:19:39
+key            = 8 
+plain text     = "HZSF5AEY"
+encrypted text = "|1+}mz!6"
+decrypted text = "HZSF5AEY"
+plain text     = "HZSF5AEY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-02 21:38:48
 key            = 66 
 plain text     = "E96BLJVLTSDWDWLN5RTTI1UBUAIR9GZZSMYX3XWPHOMBIF169K5VZ3THX8GMO5GVLS"
