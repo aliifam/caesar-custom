@@ -1,3 +1,11 @@
+tanggal        = 2022-12-02 05:18:28
+key            = 13 
+plain text     = "ZAJRW50NV2MNJ"
+encrypted text = "pXbkqPLktQmol"
+decrypted text = "ZAJRW50NV2MNJ"
+plain text     = "ZAJRW50NV2MNJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-02 04:43:04
 key            = 99 
 plain text     = "J5LJ0NK7V0PDV7W3LA64O6J0VY7H9PZANT1PMI2AWXCUWPIWXXP7KNM5AUT7CYPR0ZQ5QSO2P1MAI0NJA4N88FCQO0OZB7EKXFG"
