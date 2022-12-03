@@ -1,3 +1,11 @@
+tanggal        = 2022-12-03 23:38:52
+key            = 9 
+plain text     = "K710YQ21N"
+encrypted text = "}jee1*jj*"
+decrypted text = "K710YQ21N"
+plain text     = "K710YQ21N"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-03 23:19:31
 key            = 16 
 plain text     = "R941I3IE34ONG3V2"
