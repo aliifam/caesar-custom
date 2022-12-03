@@ -1,3 +1,11 @@
+tanggal        = 2022-12-03 18:23:31
+key            = 16 
+plain text     = "P1CCHPCBQ8V4FWDK"
+encrypted text = "7w,-3<00@(G&9K9A"
+decrypted text = "P1CCHPCBQ8V4FWDK"
+plain text     = "P1CCHPCBQ8V4FWDK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-03 17:38:19
 key            = 88 
 plain text     = "GONQO6EQAF7L9J4W67FQ1RC666535BJLCFNC0STRZKVDIJ1Y7T399H6MU24OLWVVHZHDEGFUZ3D4I3DD99H3Q2OY"
