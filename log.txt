@@ -1,3 +1,11 @@
+tanggal        = 2022-12-03 20:38:44
+key            = 56 
+plain text     = "QU04DENK92E644FIOIVFO1ARJP2LI50WUED7K3H2UY88AXI40IIRNGMM"
+encrypted text = "KP,1BDNL;5I;:;NRYTbS]@Qc\cFa_LHpo``TiRhSw|\]gq]Ztu|v}~"
+decrypted text = "QU04DENK92E644FIOIVFO1ARJP2LI50WUED7K3H2UY88AXI40IIRNGMM"
+plain text     = "QU04DENK92E644FIOIVFO1ARJP2LI50WUED7K3H2UY88AXI40IIRNGMM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-03 20:20:04
 key            = 4 
 plain text     = "CRI7"
