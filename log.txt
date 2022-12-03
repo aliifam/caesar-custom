@@ -1,3 +1,11 @@
+tanggal        = 2022-12-03 05:38:25
+key            = 15 
+plain text     = "OJJZF0HROJWXC8J"
+encrypted text = "/+,=*s.973AC/%8"
+decrypted text = "OJJZF0HROJWXC8J"
+plain text     = "OJJZF0HROJWXC8J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-03 05:17:50
 key            = 74 
 plain text     = "BSVD7GWJBU4XJH9NXU072I10UD38Z9VTRWWMZWG7KXZL69G1W7EHWL61K2ZH47HDMPJTWRV7RE"
