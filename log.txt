@@ -1,3 +1,11 @@
+tanggal        = 2022-12-03 23:19:31
+key            = 16 
+plain text     = "R941I3IE34ONG3V2"
+encrypted text = "fNJHaLc`OQmmgTxU"
+decrypted text = "R941I3IE34ONG3V2"
+plain text     = "R941I3IE34ONG3V2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-03 22:38:17
 key            = 85 
 plain text     = "6HAMXG31Z2W0BGMT0UAIX6CYISFZNE6Q2YM8Z7U392IOVLFJJXMPFKCBM4WMX4UFQZT5K72FRHC1MU9XIUTW2"
