@@ -1,3 +1,11 @@
+tanggal        = 2022-12-04 20:20:22
+key            = 18 
+plain text     = "TRV75WM61OVTEID5Y5"
+encrypted text = "KJO10SJ40OWVHMI;`="
+decrypted text = "TRV75WM61OVTEID5Y5"
+plain text     = "TRV75WM61OVTEID5Y5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-04 19:38:13
 key            = 67 
 plain text     = "F3F3ML2GRYUODEBDX6ELTH86SBH3U5S6HO1QO15SO27XPLIH1EK7AZKKVPPF5MWINKE"
