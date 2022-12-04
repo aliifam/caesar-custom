@@ -1,3 +1,11 @@
+tanggal        = 2022-12-04 03:21:26
+key            = 12 
+plain text     = "7FMU2PTF1K3P"
+encrypted text = "?OW`>]bUA\Ec"
+decrypted text = "7FMU2PTF1K3P"
+plain text     = "7FMU2PTF1K3P"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-04 02:46:36
 key            = 77 
 plain text     = "E98XFL0ZJAUIYQL69X7KR2G3ICZC7352Z92FLGPYOVBMRZAAW7CBM5PU8ZQFDXK5KV0SR5Q7YTP14"
