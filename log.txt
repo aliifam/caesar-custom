@@ -1,3 +1,11 @@
+tanggal        = 2022-12-04 05:38:18
+key            = 28 
+plain text     = "PGV61WV22JXUNSFV7Y7YLITH89H0"
+encrypted text = "SK[<8__<=Vec]cWhJmLocambSUeN"
+decrypted text = "PGV61WV22JXUNSFV7Y7YLITH89H0"
+plain text     = "PGV61WV22JXUNSFV7Y7YLITH89H0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-04 05:17:42
 key            = 2 
 plain text     = "NI"
