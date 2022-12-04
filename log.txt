@@ -1,3 +1,11 @@
+tanggal        = 2022-12-04 17:17:51
+key            = 54 
+plain text     = "1XDP6ST7TVLG08L3PEL47DY5DTHKYS32BHVYTHTIRETRCCUSQG0DRC"
+encrypted text = "5]JW>\^B`cZV@I^FdZbKO]sP`qfjytUUfm||q~t~rst|f{|"
+decrypted text = "1XDP6ST7TVLG08L3PEL47DY5DTHKYS32BHVYTHTIRETRCCUSQG0DRC"
+plain text     = "1XDP6ST7TVLG08L3PEL47DY5DTHKYS32BHVYTHTIRETRCCUSQG0DRC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-04 16:47:48
 key            = 7 
 plain text     = "EKJNA22"
