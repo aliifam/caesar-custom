@@ -1,3 +1,11 @@
+tanggal        = 2022-12-04 05:17:42
+key            = 2 
+plain text     = "NI"
+encrypted text = "VR"
+decrypted text = "NI"
+plain text     = "NI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-04 04:42:52
 key            = 9 
 plain text     = "3A0D8BORZ"
