@@ -1,3 +1,11 @@
+tanggal        = 2022-12-04 03:39:39
+key            = 10 
+plain text     = "ZBX6CUJNLY"
+encrypted text = "S<S2@SINM["
+decrypted text = "ZBX6CUJNLY"
+plain text     = "ZBX6CUJNLY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-04 03:21:26
 key            = 12 
 plain text     = "7FMU2PTF1K3P"
