@@ -1,3 +1,11 @@
+tanggal        = 2022-12-04 16:47:48
+key            = 7 
+plain text     = "EKJNA22"
+encrypted text = "ovv{oab"
+decrypted text = "EKJNA22"
+plain text     = "EKJNA22"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-04 16:27:09
 key            = 13 
 plain text     = "XQIYM061L61U4"
