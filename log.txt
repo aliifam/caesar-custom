@@ -1,3 +1,11 @@
+tanggal        = 2022-12-04 06:41:50
+key            = 1 
+plain text     = "V"
+encrypted text = "o"
+decrypted text = "V"
+plain text     = "V"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-04 06:24:04
 key            = 77 
 plain text     = "DHLP2CP4I0N3CCRZ446V7KYRA2QICFMQ2FWR8S69CFDTYIEYJ08ERT121LF6RTFK2NE3HX07IO0WF"
