@@ -1,3 +1,11 @@
+tanggal        = 2022-12-05 20:39:14
+key            = 3 
+plain text     = "H69"
+encrypted text = "5$("
+decrypted text = "H69"
+plain text     = "H69"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-05 20:21:23
 key            = 44 
 plain text     = "FE9B1QKXZMNBKU2T12IUY0VCQ4016K0M8VUB088PF2TN"
