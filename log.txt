@@ -1,3 +1,11 @@
+tanggal        = 2022-12-05 04:25:42
+key            = 1 
+plain text     = "G"
+encrypted text = ")"
+decrypted text = "G"
+plain text     = "G"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-05 03:40:13
 key            = 99 
 plain text     = "GODI7803DW6DDS6QL6D3OLLQWEY47R77962OH7A3OE24FW2HWTS9U2GXC6GW9WENIRK4Z290LDUQEUJDEQF6FYQZOHSGEZS3HYV"
