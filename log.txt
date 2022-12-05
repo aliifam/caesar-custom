@@ -1,3 +1,11 @@
+tanggal        = 2022-12-05 09:38:54
+key            = 53 
+plain text     = "XXRQGZGZ84XKLPLIEXJBW8J5ZZSU1S0FD2ZKNPIQIU7F2MQDY6QDI"
+encrypted text = "-.))~4"6sp7+-2/-*>1*@"5!GHBE"E#:9(QCGJDMFS6F3OTH^<XLR"
+decrypted text = "XXRQGZGZ84XKLPLIEXJBW8J5ZZSU1S0FD2ZKNPIQIU7F2MQDY6QDI"
+plain text     = "XXRQGZGZ84XKLPLIEXJBW8J5ZZSU1S0FD2ZKNPIQIU7F2MQDY6QDI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-05 09:20:09
 key            = 76 
 plain text     = "4LDUG73DZ6EXZIQXFOXZOQWER2UMTDVNHVI91FDZ96OVQ28FDWYC3OPQDV6F5YVQE8DUSVCCAJMC"
