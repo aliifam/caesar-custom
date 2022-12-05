@@ -1,3 +1,11 @@
+tanggal        = 2022-12-05 21:17:51
+key            = 86 
+plain text     = "OPOP66BY6SCX0YNV3PGUUBSASVQF9X2214ZXDAKPQED2G8W55AGRKHHE6XAPF6PEMAWBFCOJTTFIT4K6YY7RP7"
+encrypted text = "UWWY@ANfDbSiBlbkIg_no]o^quqg[{VWW[nlw}ttcykjkxty¢£¦¯°«ª"
+decrypted text = "OPOP66BY6SCX0YNV3PGUUBSASVQF9X2214ZXDAKPQED2G8W55AGRKHHE6XAPF6PEMAWBFCOJTTFIT4K6YY7RP7"
+plain text     = "OPOP66BY6SCX0YNV3PGUUBSASVQF9X2214ZXDAKPQED2G8W55AGRKHHE6XAPF6PEMAWBFCOJTTFIT4K6YY7RP7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-05 20:39:14
 key            = 3 
 plain text     = "H69"
