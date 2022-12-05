@@ -1,3 +1,11 @@
+tanggal        = 2022-12-05 10:40:52
+key            = 4 
+plain text     = "OL4T"
+encrypted text = "nlUv"
+decrypted text = "OL4T"
+plain text     = "OL4T"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-05 10:22:40
 key            = 39 
 plain text     = "I18O7RGXZ3KPGCOWEO2B54WB9J6C5Z9E8FWZT8O"
