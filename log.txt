@@ -1,3 +1,11 @@
+tanggal        = 2022-12-05 15:40:54
+key            = 13 
+plain text     = "ZGPYWIRSBRAIU"
+encrypted text = "q_isreoqarbkx"
+decrypted text = "ZGPYWIRSBRAIU"
+plain text     = "ZGPYWIRSBRAIU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-05 15:21:52
 key            = 81 
 plain text     = "8TE7609VRZ8URHHKIHBZCH63Y7K0ECQV5ZR3OX03I61EDARFTQT1VJPWK8FNU57AUERSHS1IBBG0RWNSC"
