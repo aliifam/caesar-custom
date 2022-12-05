@@ -1,3 +1,11 @@
+tanggal        = 2022-12-05 16:51:32
+key            = 24 
+plain text     = "QX47ERCG2GR3S5N5G546ZE2P"
+encrypted text = "MU26ESEJ6LX:[>X@SBBEjVDc"
+decrypted text = "QX47ERCG2GR3S5N5G546ZE2P"
+plain text     = "QX47ERCG2GR3S5N5G546ZE2P"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-05 16:29:29
 key            = 18 
 plain text     = "U5J8QIQ8TJQHBX5UIG"
