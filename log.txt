@@ -1,3 +1,11 @@
+tanggal        = 2022-12-06 11:16:47
+key            = 4 
+plain text     = "QBD2"
+encrypted text = "/!$q"
+decrypted text = "QBD2"
+plain text     = "QBD2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-06 10:40:31
 key            = 83 
 plain text     = "U0UP2PX5H5EWV6G280NWOCHXPLBRREP1SPFGM42C39X7VSPZKU6XGS98FBGEIE023D9F3GFM7DTR0JYNB5T"
