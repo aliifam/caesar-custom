@@ -1,3 +1,11 @@
+tanggal        = 2022-12-06 13:28:58
+key            = 16 
+plain text     = "TTRK810LRRRWYPRQ"
+encrypted text = "./.(tnn-456<?7::"
+decrypted text = "TTRK810LRRRWYPRQ"
+plain text     = "TTRK810LRRRWYPRQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-06 12:40:31
 key            = 54 
 plain text     = "2QQ4DVDZX6KC7HCHKSORJRY05Z3SCZA9PZ33L1FL5M5DJCADS27LUE"
