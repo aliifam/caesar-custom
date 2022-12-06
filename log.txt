@@ -1,3 +1,11 @@
+tanggal        = 2022-12-06 03:40:07
+key            = 76 
+plain text     = "DWA0BMCTDDUHJ65NAQ4AJNP5HKZ36W7CTC7CII9UQJK0XN8ZJRHFOHWMZYT4PZO27QHAUP1BOBAD"
+encrypted text = "t*scv$y-|}1%(ss/#4v&058|26F~$F'4F6+8?@1NKEG-VM8[LULKUO_Vdd`A^i_CId\VkgI[i]]a"
+decrypted text = "DWA0BMCTDDUHJ65NAQ4AJNP5HKZ36W7CTC7CII9UQJK0XN8ZJRHFOHWMZYT4PZO27QHAUP1BOBAD"
+plain text     = "DWA0BMCTDDUHJ65NAQ4AJNP5HKZ36W7CTC7CII9UQJK0XN8ZJRHFOHWMZYT4PZO27QHAUP1BOBAD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-06 03:21:58
 key            = 7 
 plain text     = "ROVCIV0"
