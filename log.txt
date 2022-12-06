@@ -1,3 +1,11 @@
+tanggal        = 2022-12-06 03:21:58
+key            = 7 
+plain text     = "ROVCIV0"
+encrypted text = "YW_MTb="
+decrypted text = "ROVCIV0"
+plain text     = "ROVCIV0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-06 02:45:56
 key            = 71 
 plain text     = "4DWSCO92MR65GTIJNVVV44OPG6PU8KPGBYI8X9ZEFOTL2I8Z37E0GKFK5NSZYMW1PZ5P4YN"
