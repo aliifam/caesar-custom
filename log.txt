@@ -1,3 +1,11 @@
+tanggal        = 2022-12-06 07:38:34
+key            = 25 
+plain text     = "P967X8TPYBEMD1KPE2ID1B1GM"
+encrypted text = "P:8:\=ZWaKOXP>Y_UC[WEWG^e"
+decrypted text = "P967X8TPYBEMD1KPE2ID1B1GM"
+plain text     = "P967X8TPYBEMD1KPE2ID1B1GM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-06 07:18:04
 key            = 64 
 plain text     = "GCOYFJI0MQEYOU5P0GFKSMTU3JEQEW56B59VF1POSUWZ7WMRZJTELLQWGMNZ6ZER"
