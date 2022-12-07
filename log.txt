@@ -1,3 +1,11 @@
+tanggal        = 2022-12-07 10:41:17
+key            = 33 
+plain text     = "6N4HTD9I6GUGDOZ19MO948FI3QR8CY1DE"
+encrypted text = "m(m$1"v)u)8+)5Aw"7:%!&59$CE,8O(<>"
+decrypted text = "6N4HTD9I6GUGDOZ19MO948FI3QR8CY1DE"
+plain text     = "6N4HTD9I6GUGDOZ19MO948FI3QR8CY1DE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-07 10:22:32
 key            = 40 
 plain text     = "4GUE8NSZNXLTS5QV32WOU4R7W72BN1QXM6MVDYHY"
