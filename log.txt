@@ -1,3 +1,11 @@
+tanggal        = 2022-12-07 05:18:37
+key            = 26 
+plain text     = "BUA1W1GMHSRYQ3W6G4D7DO5MRQ"
+encrypted text = "=Q>/V1HOKWW_X;`@R@QES_F_ee"
+decrypted text = "BUA1W1GMHSRYQ3W6G4D7DO5MRQ"
+plain text     = "BUA1W1GMHSRYQ3W6G4D7DO5MRQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-07 04:43:27
 key            = 38 
 plain text     = "HCHARFS71778ZI5GI2OJ80MEEO8936T6M55Z7Q"
