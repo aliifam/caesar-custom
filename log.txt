@@ -1,3 +1,11 @@
+tanggal        = 2022-12-07 08:42:54
+key            = 25 
+plain text     = "B7CKSE6MK3Y0CFFJ3G0FBVRXM"
+encrypted text = "aWdmvi[sr[$Znrsxbwaxu,)0&"
+decrypted text = "B7CKSE6MK3Y0CFFJ3G0FBVRXM"
+plain text     = "B7CKSE6MK3Y0CFFJ3G0FBVRXM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-07 08:26:14
 key            = 94 
 plain text     = "SBGFTCX0M5TM4MTA24WXXXJ5HPUKOFC61VHO2F9MLTAWFUWFT0VTNQUZA92FRVAONKBI7BVVMUA99WBIIL73LMX7K16UEM"
