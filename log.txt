@@ -1,3 +1,11 @@
+tanggal        = 2022-12-07 20:38:13
+key            = 14 
+plain text     = "5KLHYEBYA51H62"
+encrypted text = "\sur&qo)pebzif"
+decrypted text = "5KLHYEBYA51H62"
+plain text     = "5KLHYEBYA51H62"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-07 20:21:35
 key            = 73 
 plain text     = "HO0K28RD02RWDLLEGCEEMPUICYRY5Z9ERNTZIXOJ5T38UGM6LTFQY083R8YH180W3TC26QVWC"
