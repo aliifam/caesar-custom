@@ -1,3 +1,11 @@
+tanggal        = 2022-12-07 21:38:47
+key            = 5 
+plain text     = "54AZY"
+encrypted text = "!!/II"
+decrypted text = "54AZY"
+plain text     = "54AZY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-07 21:18:08
 key            = 56 
 plain text     = "FHSP52BQDIK2LYNTJSVBTVEHTIBKKX0YOKC9XQPC0MZFFLHJOQ3QQW7R"
