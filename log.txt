@@ -1,3 +1,11 @@
+tanggal        = 2022-12-07 04:43:27
+key            = 38 
+plain text     = "HCHARFS71778ZI5GI2OJ80MEEO8936T6M55Z7Q"
+encrypted text = ""|$|0%3vqxy{@0{03{;7&}=67B,.)-L/G01W5P"
+decrypted text = "HCHARFS71778ZI5GI2OJ80MEEO8936T6M55Z7Q"
+plain text     = "HCHARFS71778ZI5GI2OJ80MEEO8936T6M55Z7Q"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-07 04:25:25
 key            = 53 
 plain text     = "U3GL76608WF1SAA5D5MZIWUBL108H6501XJANU0LNDPBDJGFQT5BJ"
