@@ -1,3 +1,11 @@
+tanggal        = 2022-12-07 05:38:19
+key            = 14 
+plain text     = "MT21SXQC4LGMZB"
+encrypted text = "x"__$*$ug"|%3z"
+decrypted text = "MT21SXQC4LGMZB"
+plain text     = "MT21SXQC4LGMZB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-07 05:18:37
 key            = 26 
 plain text     = "BUA1W1GMHSRYQ3W6G4D7DO5MRQ"
