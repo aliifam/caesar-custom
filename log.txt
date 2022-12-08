@@ -1,3 +1,11 @@
+tanggal        = 2022-12-08 21:38:43
+key            = 56 
+plain text     = "2NUHNHBYZBNCIQDX7N438AQJKWSOH509CMDQBO4KAGDGMW2HXYSOKWHE"
+encrypted text = "Vs{ovql&(o|ry$v-k%jjpz-')630*vr|)4,:,:~8/648?J&=NPKHERDB"
+decrypted text = "2NUHNHBYZBNCIQDX7N438AQJKWSOH509CMDQBO4KAGDGMW2HXYSOKWHE"
+plain text     = "2NUHNHBYZBNCIQDX7N438AQJKWSOH509CMDQBO4KAGDGMW2HXYSOKWHE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-08 21:18:28
 key            = 9 
 plain text     = "0W1JA2RE4"
