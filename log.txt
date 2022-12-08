@@ -1,3 +1,11 @@
+tanggal        = 2022-12-08 09:19:29
+key            = 17 
+plain text     = "KPGSRVUB76I1FWSPA"
+encrypted text = ":@8EEJJ8..B+ASPN@"
+decrypted text = "KPGSRVUB76I1FWSPA"
+plain text     = "KPGSRVUB76I1FWSPA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-08 08:43:18
 key            = 100 
 plain text     = "W1CSL5Q6ZHFRHPFKWTSRGA4Q8AX1IR8P7BLH33NVRZDKEA28V5XJ4DDH52Q3P06MFP8R7UHD3UZIE23R94DUG8FFHCAZOSDGB012"
