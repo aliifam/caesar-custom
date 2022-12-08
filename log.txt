@@ -1,3 +1,11 @@
+tanggal        = 2022-12-08 10:40:45
+key            = 24 
+plain text     = "MMJ83XRG8ETO90GJINHDS08D"
+encrypted text = "GHF51WRH:HXT?7OSSYTQa?HU"
+decrypted text = "MMJ83XRG8ETO90GJINHDS08D"
+plain text     = "MMJ83XRG8ETO90GJINHDS08D"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-08 10:22:17
 key            = 55 
 plain text     = "UTM23XTF2B2NOFLIQD71HH5E348WCSHAR83MI5BG26USO7X9B4BBIU5"
