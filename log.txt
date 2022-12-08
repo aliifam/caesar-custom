@@ -1,3 +1,11 @@
+tanggal        = 2022-12-08 17:38:21
+key            = 17 
+plain text     = "R78DMRLPAVGXF9OXT"
+encrypted text = "2vx'1727)?1C2&=GD"
+decrypted text = "R78DMRLPAVGXF9OXT"
+plain text     = "R78DMRLPAVGXF9OXT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-08 17:18:34
 key            = 31 
 plain text     = "7CXC8YBH2KQGZ9X1EJYQUSL3ZM10B7W"
