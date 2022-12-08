@@ -1,3 +1,11 @@
+tanggal        = 2022-12-08 05:38:28
+key            = 7 
+plain text     = "KBRUB1T"
+encrypted text = "NFW[I9]"
+decrypted text = "KBRUB1T"
+plain text     = "KBRUB1T"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-08 05:19:10
 key            = 23 
 plain text     = "C6ZD24201WMFLDY65BRTSXH"
