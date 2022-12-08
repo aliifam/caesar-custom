@@ -1,3 +1,11 @@
+tanggal        = 2022-12-08 15:40:08
+key            = 22 
+plain text     = "PJSQ3UX72P8H9H2PZKPSQN"
+encrypted text = "VQ[Z=`dD@_HYK[Fepbhlki"
+decrypted text = "PJSQ3UX72P8H9H2PZKPSQN"
+plain text     = "PJSQ3UX72P8H9H2PZKPSQN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-08 15:20:55
 key            = 82 
 plain text     = "TQVB4ZS1LP3PR086G703Y8TS5I43BFKN6TQTDZWUI3ZJ59JE9WP93RTD0UAAH3DF9JVP8E77YE4YU1UMXK"
