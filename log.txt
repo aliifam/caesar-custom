@@ -1,3 +1,11 @@
+tanggal        = 2022-12-08 15:20:55
+key            = 82 
+plain text     = "TQVB4ZS1LP3PR086G703Y8TS5I43BFKN6TQTDZWUI3ZJ59JE9WP93RTD0UAAH3DF9JVP8E77YE4YU1UMXK"
+encrypted text = "~|$ob+%b~%g'*gpo#rlp9w66w.xx*/59"A?C4KIH=(PA-2D@5TN83SVG4ZGHP<NQEWd_HVIJmZJpmJohth"
+decrypted text = "TQVB4ZS1LP3PR086G703Y8TS5I43BFKN6TQTDZWUI3ZJ59JE9WP93RTD0UAAH3DF9JVP8E77YE4YU1UMXK"
+plain text     = "TQVB4ZS1LP3PR086G703Y8TS5I43BFKN6TQTDZWUI3ZJ59JE9WP93RTD0UAAH3DF9JVP8E77YE4YU1UMXK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-08 14:38:36
 key            = 65 
 plain text     = "NSCZANUN2WTMX649QM9F3A2HJVHX9JMK5BVHDVS2ENNGCUXO9E955894DKCT0GX37"
