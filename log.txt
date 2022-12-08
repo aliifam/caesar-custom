@@ -1,3 +1,11 @@
+tanggal        = 2022-12-08 19:38:17
+key            = 49 
+plain text     = "48PSWJQCT1SS1VEDMLHNFUFOAFVEUQUL4MU1VUXJ1FRSI743G"
+encrypted text = "(-FJOCK>P.QR1WGGQQNUN^PZMSdTebg_HbkHnnreMcpriXVVk"
+decrypted text = "48PSWJQCT1SS1VEDMLHNFUFOAFVEUQUL4MU1VUXJ1FRSI743G"
+plain text     = "48PSWJQCT1SS1VEDMLHNFUFOAFVEUQUL4MU1VUXJ1FRSI743G"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-08 19:15:56
 key            = 1 
 plain text     = "T"
