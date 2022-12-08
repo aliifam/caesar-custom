@@ -1,3 +1,11 @@
+tanggal        = 2022-12-08 14:18:21
+key            = 32 
+plain text     = "TKMIKZTF1WQWWUXS26ZN9J6Q9J1W8BHL"
+encrypted text = "}uxux*%vb+&-.-1-kp7,v*u3z.t=}*16"
+decrypted text = "TKMIKZTF1WQWWUXS26ZN9J6Q9J1W8BHL"
+plain text     = "TKMIKZTF1WQWWUXS26ZN9J6Q9J1W8BHL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-08 13:40:39
 key            = 5 
 plain text     = "IVXJ3"
