@@ -1,3 +1,11 @@
+tanggal        = 2022-12-08 05:19:10
+key            = 23 
+plain text     = "C6ZD24201WMFLDY65BRTSXH"
+encrypted text = "zn5~mponp90*1*@||,=@@F7"
+decrypted text = "C6ZD24201WMFLDY65BRTSXH"
+plain text     = "C6ZD24201WMFLDY65BRTSXH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-08 04:44:05
 key            = 74 
 plain text     = "99MSV9R7AWHIQ467Y163DR37XY46BHEPUDHQNU87EBN7NBAEREJS6PFIKA7OT0TI6EMDSXXXQ8"
