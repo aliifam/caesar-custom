@@ -1,3 +1,11 @@
+tanggal        = 2022-12-08 09:38:52
+key            = 42 
+plain text     = "LBBIF6JQH7QEDCARCT01JDQ5CITQAW9WN6CZPQRPAT"
+encrypted text = "ulmusdy#yi&yyyx,|0km)$2u&-97(?"A9"0H?ACB4H"
+decrypted text = "LBBIF6JQH7QEDCARCT01JDQ5CITQAW9WN6CZPQRPAT"
+plain text     = "LBBIF6JQH7QEDCARCT01JDQ5CITQAW9WN6CZPQRPAT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-08 09:19:29
 key            = 17 
 plain text     = "KPGSRVUB76I1FWSPA"
