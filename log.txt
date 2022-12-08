@@ -1,3 +1,11 @@
+tanggal        = 2022-12-08 10:22:17
+key            = 55 
+plain text     = "UTM23XTF2B2NOFLIQD71HH5E348WCSHAR83MI5BG26USO7X9B4BBIU5"
+encrypted text = "IIC)+QNA.?0MOGNLUI=8PQ?P?AFfSdZTfMIdaN\bNSsroXz\fYhiq~_"
+decrypted text = "UTM23XTF2B2NOFLIQD71HH5E348WCSHAR83MI5BG26USO7X9B4BBIU5"
+plain text     = "UTM23XTF2B2NOFLIQD71HH5E348WCSHAR83MI5BG26USO7X9B4BBIU5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-08 09:38:52
 key            = 42 
 plain text     = "LBBIF6JQH7QEDCARCT01JDQ5CITQAW9WN6CZPQRPAT"
