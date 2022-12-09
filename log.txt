@@ -1,3 +1,11 @@
+tanggal        = 2022-12-09 07:38:20
+key            = 33 
+plain text     = "6OT3JTGAN3BTDLA2C1EHCD4GF6A3IQIW6"
+encrypted text = "SmsSkvjesYi|mvl^p_txtvg{{lxk$-&5s"
+decrypted text = "6OT3JTGAN3BTDLA2C1EHCD4GF6A3IQIW6"
+plain text     = "6OT3JTGAN3BTDLA2C1EHCD4GF6A3IQIW6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-09 07:17:54
 key            = 80 
 plain text     = "E902746A9SX7NX44GEWT6X6106U19TF2HVM0O36ECMKP2R7F2IQT4PNHML6MKXBD16IUV58JS4IY7M3R"
