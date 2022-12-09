@@ -1,3 +1,11 @@
+tanggal        = 2022-12-09 04:43:35
+key            = 9 
+plain text     = "CFWUQO6EX"
+encrypted text = "GK]\YX@Pd"
+decrypted text = "CFWUQO6EX"
+plain text     = "CFWUQO6EX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-09 04:25:24
 key            = 28 
 plain text     = "KT4RO0R2Y82XQ49IRDY2TVZKLFIO"
