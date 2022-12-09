@@ -1,3 +1,11 @@
+tanggal        = 2022-12-09 22:19:38
+key            = 17 
+plain text     = "ZSWQ504CZF0DJSWBH"
+encrypted text = "WQVQ627G_L7LS]bNU"
+decrypted text = "ZSWQ504CZF0DJSWBH"
+plain text     = "ZSWQ504CZF0DJSWBH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-09 21:38:43
 key            = 82 
 plain text     = "MROHPFY3Y4FK2YBGCOJITNKX22QPZB85OC6KIFJXI3M43G2TV52GCQ4XG9LBRGRMGWV0Z1MZ5IRVKXNXJ8"
