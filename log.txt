@@ -1,3 +1,11 @@
+tanggal        = 2022-12-09 10:22:34
+key            = 3 
+plain text     = "PP3"
+encrypted text = "hiM"
+decrypted text = "PP3"
+plain text     = "PP3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-09 09:38:48
 key            = 64 
 plain text     = "U1FSMEAAWIXL24SHFGNMD49225GWYFXH4IT8HFPAEB4DS5R5B0GEPE9NZP8FR3OU"
