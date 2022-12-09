@@ -1,3 +1,11 @@
+tanggal        = 2022-12-09 08:42:46
+key            = 36 
+plain text     = "VQK42BVBAOSA7097SZH3WH060HM1OP1ETP67"
+encrypted text = "73.vu(=**9>-$|('DL;'L>'.)BH-LN0EUR9;"
+decrypted text = "VQK42BVBAOSA7097SZH3WH060HM1OP1ETP67"
+plain text     = "VQK42BVBAOSA7097SZH3WH060HM1OP1ETP67"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-09 08:25:49
 key            = 51 
 plain text     = "I9I01FEX9DWWE07L7N2Z5P8B5ZNYZFPUSBA9J51V9C8FV8NZU5N"
