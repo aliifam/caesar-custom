@@ -1,3 +1,11 @@
+tanggal        = 2022-12-10 21:16:55
+key            = 17 
+plain text     = "MSS4MIIME3MN368R9"
+encrypted text = "6=>~:78=6%@B(,/J2"
+decrypted text = "MSS4MIIME3MN368R9"
+plain text     = "MSS4MIIME3MN368R9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-10 20:38:43
 key            = 25 
 plain text     = "RCA1G2K5JGG0FEVVJBL2XBOI9"
