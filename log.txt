@@ -1,3 +1,11 @@
+tanggal        = 2022-12-10 23:38:54
+key            = 7 
+plain text     = "KFI923S"
+encrypted text = "VRVGACd"
+decrypted text = "KFI923S"
+plain text     = "KFI923S"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-10 23:19:56
 key            = 8 
 plain text     = "IOUSM1D0"
