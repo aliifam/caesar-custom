@@ -1,3 +1,11 @@
+tanggal        = 2022-12-10 11:15:46
+key            = 10 
+plain text     = "YJF8I8M6HX"
+encrypted text = "cUREWG]GZk"
+decrypted text = "YJF8I8M6HX"
+plain text     = "YJF8I8M6HX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-10 10:39:14
 key            = 65 
 plain text     = "K1WSUT5P1EXDDSUFA28HTOOZR8DYBEMUV23GVULVQ9KYYA2WZY5DUJDHLY2D9PEHY"
