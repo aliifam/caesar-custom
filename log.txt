@@ -1,3 +1,11 @@
+tanggal        = 2022-12-10 22:38:31
+key            = 14 
+plain text     = "PJQ97JN9EQ7H2F"
+encrypted text = "SNV?>RWCP]DVAV"
+decrypted text = "PJQ97JN9EQ7H2F"
+plain text     = "PJQ97JN9EQ7H2F"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-10 22:18:34
 key            = 58 
 plain text     = "0OQV46QON0AF61Q6F32CSJGVIQ014K1NIF9R7RPQUXBSAMKO8R7DUOOBLJ"
