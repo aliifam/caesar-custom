@@ -1,3 +1,11 @@
+tanggal        = 2022-12-10 17:17:08
+key            = 17 
+plain text     = "ST6W7WFRR4ZEVNOM7"
+encrypted text = "z|_#b%s"#d-w+$&%n"
+decrypted text = "ST6W7WFRR4ZEVNOM7"
+plain text     = "ST6W7WFRR4ZEVNOM7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-10 16:48:12
 key            = 90 
 plain text     = "KFJQH3RQPRXB9BYCSI3QMGWUCO5X0O3BFCBQN3VM75XBOMONBBFY94HZYT9G6J4D9CZ7FWAA5S3CM404CFUYBE4TFJ"
