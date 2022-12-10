@@ -1,3 +1,11 @@
+tanggal        = 2022-12-10 17:38:22
+key            = 46 
+plain text     = "RUKGFHLRYQ8QKQEXNAME95ZOG2VG7BO4AZQR7Y1QZXG0PT"
+encrypted text = "+/&##&+2:3y507,@7+81&#I?8$I;,8F,:TLN4W0Q[ZJ4UZ"
+decrypted text = "RUKGFHLRYQ8QKQEXNAME95ZOG2VG7BO4AZQR7Y1QZXG0PT"
+plain text     = "RUKGFHLRYQ8QKQEXNAME95ZOG2VG7BO4AZQR7Y1QZXG0PT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-10 17:17:08
 key            = 17 
 plain text     = "ST6W7WFRR4ZEVNOM7"
