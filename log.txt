@@ -1,3 +1,11 @@
+tanggal        = 2022-12-10 08:24:58
+key            = 5 
+plain text     = "NG31J"
+encrypted text = "]WDC]"
+decrypted text = "NG31J"
+plain text     = "NG31J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-10 07:38:18
 key            = 80 
 plain text     = "CHJZC06B7873N9AAUJMZIYLLPPGHQ560OA9HSVULUX31RGCQ00G0XQZIG7ROFTQDJI9JGY6AEEUOOIVF"
