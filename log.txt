@@ -1,3 +1,11 @@
+tanggal        = 2022-12-11 13:23:41
+key            = 38 
+plain text     = "ORABO1R5VTBA63OOZEKME5TPW70F37HXGSFPG1"
+encrypted text = "eiY[iLnRtsbbXVst"lsvo`"}'f`wej|/},~+#l"
+decrypted text = "ORABO1R5VTBA63OOZEKME5TPW70F37HXGSFPG1"
+plain text     = "ORABO1R5VTBA63OOZEKME5TPW70F37HXGSFPG1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-11 12:36:52
 key            = 59 
 plain text     = "GI3ICMHH3HKP6D7PITX4D44F6DEGQJWERHVWWYFIYFKN1KDJ1LES43C3A14"
