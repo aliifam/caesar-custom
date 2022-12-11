@@ -1,3 +1,11 @@
+tanggal        = 2022-12-11 14:17:34
+key            = 16 
+plain text     = "MKUX1CLRIVBF4FLG"
+encrypted text = "ONY]7JT[SaNSBU\X"
+decrypted text = "MKUX1CLRIVBF4FLG"
+plain text     = "MKUX1CLRIVBF4FLG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-11 13:38:28
 key            = 99 
 plain text     = "HWQXPRRC21KWIQHIP0T8OQ4PSCKQ1XTMPY2PLPW8I30RIWAQPAEUIR76XT4U7J9SNPVY0GUP02SEPY85J0A0LN2O8QIMMX3XXPB"
