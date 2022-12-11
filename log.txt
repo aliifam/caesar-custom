@@ -1,3 +1,11 @@
+tanggal        = 2022-12-11 09:18:32
+key            = 11 
+plain text     = "WOLTX26NUG9"
+encrypted text = ")"~).gl'/"s"
+decrypted text = "WOLTX26NUG9"
+plain text     = "WOLTX26NUG9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-11 08:41:14
 key            = 53 
 plain text     = "8OS2VYISSLO2VUP2H2U9HW8AE162K62T5CPXSZQTH6YRXY89HJB5S"
