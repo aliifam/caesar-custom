@@ -1,3 +1,11 @@
+tanggal        = 2022-12-11 08:24:51
+key            = 15 
+plain text     = "BIVW6W7ZUOPHUMD"
+encrypted text = "&.<>|@!EA<>7E>6"
+decrypted text = "BIVW6W7ZUOPHUMD"
+plain text     = "BIVW6W7ZUOPHUMD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-11 07:38:06
 key            = 31 
 plain text     = "CT3UTO0GJ4V1BHIWR6JZAX91UMEGJMX"
