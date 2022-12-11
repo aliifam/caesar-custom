@@ -1,3 +1,11 @@
+tanggal        = 2022-12-11 14:38:17
+key            = 45 
+plain text     = "AIAVCL4Y6EMO15CNGPW018V0Y91ZC3QDEQQOTR5ZZM445"
+encrypted text = "mvo's}f.jz%(in}+%/7oqy:s?~wC-|=13@A@FE)OPD,-/"
+decrypted text = "AIAVCL4Y6EMO15CNGPW018V0Y91ZC3QDEQQOTR5ZZM445"
+plain text     = "AIAVCL4Y6EMO15CNGPW018V0Y91ZC3QDEQQOTR5ZZM445"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-11 14:17:34
 key            = 16 
 plain text     = "MKUX1CLRIVBF4FLG"
