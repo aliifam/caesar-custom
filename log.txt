@@ -1,3 +1,11 @@
+tanggal        = 2022-12-11 07:38:06
+key            = 31 
+plain text     = "CT3UTO0GJ4V1BHIWR6JZAX91UMEGJMX"
+encrypted text = "J\<__[=UYDgCU\^miNct\tVOtmfimq}"
+decrypted text = "CT3UTO0GJ4V1BHIWR6JZAX91UMEGJMX"
+plain text     = "CT3UTO0GJ4V1BHIWR6JZAX91UMEGJMX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-11 07:17:37
 key            = 9 
 plain text     = "2XT3FJ6O8"
