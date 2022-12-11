@@ -1,3 +1,11 @@
+tanggal        = 2022-12-11 15:19:28
+key            = 26 
+plain text     = "0LCX9WFBJOCFZWANM36FOZ16TV"
+encrypted text = "u4,B$C309?48MK6DD+/@JV.4SV"
+decrypted text = "0LCX9WFBJOCFZWANM36FOZ16TV"
+plain text     = "0LCX9WFBJOCFZWANM36FOZ16TV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-11 14:38:17
 key            = 45 
 plain text     = "AIAVCL4Y6EMO15CNGPW018V0Y91ZC3QDEQQOTR5ZZM445"
