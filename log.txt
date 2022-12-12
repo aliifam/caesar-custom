@@ -1,3 +1,11 @@
+tanggal        = 2022-12-12 19:18:34
+key            = 15 
+plain text     = "DSI8B2NIYOY429E"
+encrypted text = "L\SCN?\Xi`kGFN["
+decrypted text = "DSI8B2NIYOY429E"
+plain text     = "DSI8B2NIYOY429E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-12 18:43:42
 key            = 57 
 plain text     = "WBDJ8AT75Q70NT2NO1X8W1TG9PNX8HZ3PDRQ6HH5RFOZSVQQFZA52876A"
