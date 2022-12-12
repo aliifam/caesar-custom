@@ -1,3 +1,11 @@
+tanggal        = 2022-12-12 05:18:53
+key            = 4 
+plain text     = "52LB"
+encrypted text = "75PG"
+decrypted text = "52LB"
+plain text     = "52LB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-12 04:42:59
 key            = 49 
 plain text     = "UM07TZN6QVUWG5DI6MT3GWCWG0O071U91XULFUMJS3JZFFXJD"
