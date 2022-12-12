@@ -1,3 +1,11 @@
+tanggal        = 2022-12-12 19:38:22
+key            = 2 
+plain text     = "H7"
+encrypted text = "eU"
+decrypted text = "H7"
+plain text     = "H7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-12 19:18:34
 key            = 15 
 plain text     = "DSI8B2NIYOY429E"
