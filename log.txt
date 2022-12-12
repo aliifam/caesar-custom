@@ -1,3 +1,11 @@
+tanggal        = 2022-12-12 14:39:10
+key            = 15 
+plain text     = "UBDZTV0VYRRZ56X"
+encrypted text = "_MPgbe@gkefoKMp"
+decrypted text = "UBDZTV0VYRRZ56X"
+plain text     = "UBDZTV0VYRRZ56X"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-12 14:18:47
 key            = 61 
 plain text     = "GEWECZRYFX3YZ1KFSH9G9KRRZIW0JKI8BY888DJYRWWHLSCBZRAG23EGVDT0S"
