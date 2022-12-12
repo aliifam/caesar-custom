@@ -1,3 +1,11 @@
+tanggal        = 2022-12-12 21:18:13
+key            = 26 
+plain text     = "TUQRO9HZUST3FWJCE3P5GIKW2M"
+encrypted text = "qsprp[k~zy{[o#uora!ex{~-g%"
+decrypted text = "TUQRO9HZUST3FWJCE3P5GIKW2M"
+plain text     = "TUQRO9HZUST3FWJCE3P5GIKW2M"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-12 20:39:13
 key            = 69 
 plain text     = "C8KKX00HE3N9134T67W6UH12E2T7AKNN4IJAT5PXDGYJ537RNK2PIZ7FPZQDYZ50PHAGQ"
