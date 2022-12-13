@@ -1,3 +1,11 @@
+tanggal        = 2022-12-13 20:21:48
+key            = 13 
+plain text     = "FAEEMANXLCCKP"
+encrypted text = "uqvw"u%0%{|'-"
+decrypted text = "FAEEMANXLCCKP"
+plain text     = "FAEEMANXLCCKP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-13 19:38:25
 key            = 95 
 plain text     = "GTIEGUKYW505A4OB38DHTOQ4PUQ4HTT4OKV5IT0Y98YSP4C8E3FQHY8U1Y9M9UE5ECMZ8VI30HOPN4BJHE60PHYA5GZ5NYT"
