@@ -1,3 +1,11 @@
+tanggal        = 2022-12-13 08:43:13
+key            = 13 
+plain text     = "FCP3WT4YNC4NN"
+encrypted text = ")'5w><{C9/!<="
+decrypted text = "FCP3WT4YNC4NN"
+plain text     = "FCP3WT4YNC4NN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-13 08:26:25
 key            = 98 
 plain text     = "LVW4E1SXAJXOIWHZV1FT7B0UMRS60FRPC63X0J7PNB82OPD3H86PGW1UXRS7LDQI6BX88ZVNAICYAAZ9JF6TCKKSEMSEGJZWMM"
