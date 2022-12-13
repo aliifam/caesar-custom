@@ -1,3 +1,11 @@
+tanggal        = 2022-12-13 20:39:25
+key            = 42 
+plain text     = "LTXEYO4ST5T9GI62BRS6W91IJEIACJW9MLW5XJ54Y6"
+encrypted text = "]fkYneKkmOoUdgURctvZ|_Xqsotmpx(i~~,i/"ll4p"
+decrypted text = "LTXEYO4ST5T9GI62BRS6W91IJEIACJW9MLW5XJ54Y6"
+plain text     = "LTXEYO4ST5T9GI62BRS6W91IJEIACJW9MLW5XJ54Y6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-13 20:21:48
 key            = 13 
 plain text     = "FAEEMANXLCCKP"
