@@ -1,3 +1,11 @@
+tanggal        = 2022-12-13 21:18:11
+key            = 17 
+plain text     = "01GT0JERT9K64CMEX"
+encrypted text = ")+BP-HDRU;N:9ITMa"
+decrypted text = "01GT0JERT9K64CMEX"
+plain text     = "01GT0JERT9K64CMEX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-13 20:39:25
 key            = 42 
 plain text     = "LTXEYO4ST5T9GI62BRS6W91IJEIACJW9MLW5XJ54Y6"
