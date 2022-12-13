@@ -1,3 +1,11 @@
+tanggal        = 2022-12-13 22:19:47
+key            = 7 
+plain text     = "QVBK6QZ"
+encrypted text = "OUBL8T^"
+decrypted text = "QVBK6QZ"
+plain text     = "QVBK6QZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-13 21:38:51
 key            = 93 
 plain text     = "YVI9RJZ6BN7JO6A9N9LO6C24VC432MHLNAT90KDE1CJJY13B9R2RF2NA1WIHNTT8EU3JMFZTQ0LHCR1AFBR2256LUDDEG"
