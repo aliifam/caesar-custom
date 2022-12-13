@@ -1,3 +1,11 @@
+tanggal        = 2022-12-13 16:29:41
+key            = 12 
+plain text     = "TGLXWJB1Y0WM"
+encrypted text = "RFLYYMF6_7_V"
+decrypted text = "TGLXWJB1Y0WM"
+plain text     = "TGLXWJB1Y0WM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-13 15:42:40
 key            = 92 
 plain text     = "OMTNCPSIA5YIHOFE9P8J6PVRC54OJRCVLLLPN04T5RKBU0HVE8QY76R7JDYIEEHMGH5TIVORTZOUNJV6BZIU0XQ2N6JI"
