@@ -1,3 +1,11 @@
+tanggal        = 2022-12-13 06:26:31
+key            = 7 
+plain text     = "9CTK07G"
+encrypted text = "w$6.rz-"
+decrypted text = "9CTK07G"
+plain text     = "9CTK07G"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-13 05:38:12
 key            = 48 
 plain text     = "M3R7XXMWC0X1BVHGC8V8MW56Y5EMWXGR1E6P9ER2HKV0MSNM"
