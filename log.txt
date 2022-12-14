@@ -1,3 +1,11 @@
+tanggal        = 2022-12-14 15:21:33
+key            = 15 
+plain text     = "H0OVBBER34R8IBB"
+encrypted text = "bKks`aesUWv]oij"
+decrypted text = "H0OVBBER34R8IBB"
+plain text     = "H0OVBBER34R8IBB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-14 14:39:08
 key            = 99 
 plain text     = "0ER45TVQTFULMRGHXFNVI11NYKJXGLWPFR04XV02W0W07U2AG0R66NV37X6JCW8QKDY0JPBEWV4B5K1YACY307359XH0HKVKFOV"
