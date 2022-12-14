@@ -1,3 +1,11 @@
+tanggal        = 2022-12-14 05:38:11
+key            = 5 
+plain text     = "1GT80"
+encrypted text = ">UcHA"
+decrypted text = "1GT80"
+plain text     = "1GT80"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-14 05:18:59
 key            = 27 
 plain text     = "LK8AB8JTRXQRSTN7JT26LTBVVPY"
