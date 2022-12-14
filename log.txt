@@ -1,3 +1,11 @@
+tanggal        = 2022-12-14 14:18:43
+key            = 34 
+plain text     = "9YPZ7RJQNP62CTJNL2HD9KB8LPELXN1F50"
+encrypted text = "f)!,h&}'%(mj|0',+p)&z/'|38.6C:|4$~"
+decrypted text = "9YPZ7RJQNP62CTJNL2HD9KB8LPELXN1F50"
+plain text     = "9YPZ7RJQNP62CTJNL2HD9KB8LPELXN1F50"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-14 13:41:21
 key            = 4 
 plain text     = "4TGG"
