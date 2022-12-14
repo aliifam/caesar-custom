@@ -1,3 +1,11 @@
+tanggal        = 2022-12-14 16:51:25
+key            = 26 
+plain text     = "O15VAGRDLTSOJSS4WPY1WPFEE8"
+encrypted text = "O27YELXKT]]ZV`aCgakDke\\]Q"
+decrypted text = "O15VAGRDLTSOJSS4WPY1WPFEE8"
+plain text     = "O15VAGRDLTSOJSS4WPY1WPFEE8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-14 16:29:30
 key            = 61 
 plain text     = "XCORBR5CYMPQLG2DY21DQU5RVETQH4IJDTSMLQRTCCDUBE4HH8KZS8J8KN5NI"
