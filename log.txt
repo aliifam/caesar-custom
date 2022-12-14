@@ -1,3 +1,11 @@
+tanggal        = 2022-12-14 11:38:15
+key            = 7 
+plain text     = "U6KMQS5"
+encrypted text = "uWmpux["
+decrypted text = "U6KMQS5"
+plain text     = "U6KMQS5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-14 11:16:54
 key            = 47 
 plain text     = "RBGIIIS6QUKKWLJFQ0174Z2AQ1M065MGNM0OYNV3CL3CVM8"
