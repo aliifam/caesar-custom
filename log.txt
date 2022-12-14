@@ -1,3 +1,11 @@
+tanggal        = 2022-12-14 06:26:11
+key            = 38 
+plain text     = "B8GZ4LBEPPAHBPHOU5WGV01K5TDHFC77L15AGB"
+encrypted text = "/&6J%>59EF8@;JCKR3VGW24O:ZKPOMBCY?DQXT"
+decrypted text = "B8GZ4LBEPPAHBPHOU5WGV01K5TDHFC77L15AGB"
+plain text     = "B8GZ4LBEPPAHBPHOU5WGV01K5TDHFC77L15AGB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-14 05:38:11
 key            = 5 
 plain text     = "1GT80"
