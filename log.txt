@@ -1,3 +1,11 @@
+tanggal        = 2022-12-14 15:40:31
+key            = 21 
+plain text     = "W2MSEQ4VSTR4R786RJOJ4"
+encrypted text = "P,HOBO3VTVU8W=?>[TZVA"
+decrypted text = "W2MSEQ4VSTR4R786RJOJ4"
+plain text     = "W2MSEQ4VSTR4R786RJOJ4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-14 15:21:33
 key            = 15 
 plain text     = "H0OVBBER34R8IBB"
