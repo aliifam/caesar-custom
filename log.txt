@@ -1,3 +1,11 @@
+tanggal        = 2022-12-14 17:38:29
+key            = 38 
+plain text     = "TY22F0EAX262NYTP0E8FE0ODT9OPI5O1L5Z38A"
+encrypted text = "/5mn%n&#;tyv5A=:y1%44~@6G-DF@-H+G1W17A"
+decrypted text = "TY22F0EAX262NYTP0E8FE0ODT9OPI5O1L5Z38A"
+plain text     = "TY22F0EAX262NYTP0E8FE0ODT9OPI5O1L5Z38A"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-14 17:18:36
 key            = 21 
 plain text     = "EJU6FIHSNYWFJENVEPXM4"
