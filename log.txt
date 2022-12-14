@@ -1,3 +1,11 @@
+tanggal        = 2022-12-14 19:38:15
+key            = 31 
+plain text     = "21AVGIJ3KI84BB406O4QZD2JLYAF4E1"
+encrypted text = "$$5K=@B,ED41@A418R8V`K:SVdMSBTA"
+decrypted text = "21AVGIJ3KI84BB406O4QZD2JLYAF4E1"
+plain text     = "21AVGIJ3KI84BB406O4QZD2JLYAF4E1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-14 19:16:21
 key            = 82 
 plain text     = "IFPICPUTBA1EIR0477MN6ETP095X22ZYH6ITXDGW59Y6W1JLRV50BCFT373D1UTYOKI43DF4WUIBS3SZJE"
