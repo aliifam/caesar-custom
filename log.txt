@@ -1,3 +1,11 @@
+tanggal        = 2022-12-14 06:44:06
+key            = 12 
+plain text     = "MDXOP6C5MB9U"
+encrypted text = "PH]UW>L?XNFc"
+decrypted text = "MDXOP6C5MB9U"
+plain text     = "MDXOP6C5MB9U"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-14 06:26:11
 key            = 38 
 plain text     = "B8GZ4LBEPPAHBPHOU5WGV01K5TDHFC77L15AGB"
