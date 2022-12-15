@@ -1,3 +1,11 @@
+tanggal        = 2022-12-15 14:39:16
+key            = 36 
+plain text     = "GMEWVIW59IJ585K8NZJOARUIW6U987K3W2A5"
+encrypted text = "$+$77+:w|/1{!}6$;H9?2DH=L,L111F/T0@5"
+decrypted text = "GMEWVIW59IJ585K8NZJOARUIW6U987K3W2A5"
+plain text     = "GMEWVIW59IJ585K8NZJOARUIW6U987K3W2A5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-15 14:19:04
 key            = 27 
 plain text     = "CQR579ZUNNUOTW6952JR0FC3IE9"
