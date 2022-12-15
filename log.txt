@@ -1,3 +1,11 @@
+tanggal        = 2022-12-15 14:19:04
+key            = 27 
+plain text     = "CQR579ZUNNUOTW6952JR0FC3IE9"
+encrypted text = "=LN258ZVPQYTZ^>B?=V_>USD[XM"
+decrypted text = "CQR579ZUNNUOTW6952JR0FC3IE9"
+plain text     = "CQR579ZUNNUOTW6952JR0FC3IE9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-15 13:41:43
 key            = 83 
 plain text     = "4TDXPQ0T4SVVM3QM8P5HYXFKH1PGUKTYBOM7R5G632Y55L5LO9YFBQ3OV7IPK8DZ0SUUB05GV4HG159BJ93"
