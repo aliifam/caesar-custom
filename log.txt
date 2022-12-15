@@ -1,3 +1,11 @@
+tanggal        = 2022-12-15 20:38:43
+key            = 21 
+plain text     = "FZNVZJDNZ8P51RXG6FF4V"
+encrypted text = "'<1:?0+6C";!|@G7'89(K"
+decrypted text = "FZNVZJDNZ8P51RXG6FF4V"
+plain text     = "FZNVZJDNZ8P51RXG6FF4V"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-15 20:19:48
 key            = 48 
 plain text     = "6H275RGKVPNC54RRKUCH3G94FDBYL38S70ENIRREUGJGIYD4"
