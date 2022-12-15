@@ -1,3 +1,11 @@
+tanggal        = 2022-12-15 09:39:05
+key            = 7 
+plain text     = "NM17KBU"
+encrypted text = "@@%,A9M"
+decrypted text = "NM17KBU"
+plain text     = "NM17KBU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-15 09:20:05
 key            = 77 
 plain text     = "AWTOSQMP4Y9AI5Q647K72AEKYPHBSXK728TQXQU51VXVRTZMJWDWELDJV8HE63KPK3WJRBA946GSU"
