@@ -1,3 +1,11 @@
+tanggal        = 2022-12-15 19:38:15
+key            = 15 
+plain text     = "QBC1USOW6IO31SQ"
+encrypted text = "B46%JIFO/CJ/.QP"
+decrypted text = "QBC1USOW6IO31SQ"
+plain text     = "QBC1USOW6IO31SQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-15 19:15:25
 key            = 21 
 plain text     = "KS44RRVFTEAW87XTP465Q"
