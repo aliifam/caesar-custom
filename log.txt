@@ -1,3 +1,11 @@
+tanggal        = 2022-12-15 03:42:08
+key            = 6 
+plain text     = "7802WA"
+encrypted text = "?A:=cN"
+decrypted text = "7802WA"
+plain text     = "7802WA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-15 03:25:22
 key            = 72 
 plain text     = "COWZ4N7VVG4F0TA840FOYZWBKFKDE7JEYAX1R84MAEAQ2XMYISUI23IULFM09JAL90VG1Z1B"
