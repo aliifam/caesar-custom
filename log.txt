@@ -1,3 +1,11 @@
+tanggal        = 2022-12-15 04:26:01
+key            = 7 
+plain text     = "PZ63CRX"
+encrypted text = "(3nl}/6"
+decrypted text = "PZ63CRX"
+plain text     = "PZ63CRX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-15 03:42:08
 key            = 6 
 plain text     = "7802WA"
