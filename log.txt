@@ -1,3 +1,11 @@
+tanggal        = 2022-12-15 23:20:43
+key            = 47 
+plain text     = "0010L1OG5F3U0JXV1ML7H4PG8XBE7RDLZ6RJDDYXL99BMFR"
+encrypted text = "uvxx7{<5$6$G#>ML(EE1C0ME7XCG:VIRa>[TOPff[IJT`Zg"
+decrypted text = "0010L1OG5F3U0JXV1ML7H4PG8XBE7RDLZ6RJDDYXL99BMFR"
+plain text     = "0010L1OG5F3U0JXV1ML7H4PG8XBE7RDLZ6RJDDYXL99BMFR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-15 22:38:34
 key            = 50 
 plain text     = "TA7WWAY32J9IJKWO4J66JW0Q1KMWBAPU5AVDD1V7576XXCOHXL"
