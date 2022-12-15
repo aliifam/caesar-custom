@@ -1,3 +1,11 @@
+tanggal        = 2022-12-15 16:29:45
+key            = 14 
+plain text     = "X76HWNYTFFKX45"
+encrypted text = "`@@Sc[gcVW]kHJ"
+decrypted text = "X76HWNYTFFKX45"
+plain text     = "X76HWNYTFFKX45"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-15 15:40:28
 key            = 91 
 plain text     = "4WQB1J324QFY8HQRJBPY4FDEPDNHCGL9K0DRGLHBF7GQDOGHJ5VEXMT8RHCQCSEJ0BP938KXCZLIEE55WL884AA84FB"
