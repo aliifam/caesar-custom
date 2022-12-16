@@ -1,3 +1,11 @@
+tanggal        = 2022-12-16 13:23:17
+key            = 41 
+plain text     = "QJGE2T12P1350R5O396A8WN01XDJFX2TICWB2NO49"
+encrypted text = "MGED2U35T69<8[?Z?FDPHh`CEmZa^qLoe`uaRoqW]"
+decrypted text = "QJGE2T12P1350R5O396A8WN01XDJFX2TICWB2NO49"
+plain text     = "QJGE2T12P1350R5O396A8WN01XDJFX2TICWB2NO49"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-16 12:35:06
 key            = 82 
 plain text     = "6B6GOOI03HDBGRPUYMV92QMQX77OBSTDI01N0KCVHD33N52BFYOY4UQ7O4O9XISKLW9OFZDHT13C9B3UHQ"
