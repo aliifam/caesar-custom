@@ -1,3 +1,11 @@
+tanggal        = 2022-12-16 08:23:58
+key            = 49 
+plain text     = "F3LRG21K0WGGMQFE17XOYEH13PJF2M1EXDAISMWKN9642KW7F"
+encrypted text = "*v29/yy6zD56=B88%,NFQ>B,/MHE2N3H\IGP[VaVZFDCB\iJZ"
+decrypted text = "F3LRG21K0WGGMQFE17XOYEH13PJF2M1EXDAISMWKN9642KW7F"
+plain text     = "F3LRG21K0WGGMQFE17XOYEH13PJF2M1EXDAISMWKN9642KW7F"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-16 07:38:08
 key            = 6 
 plain text     = "9DGXCA"
