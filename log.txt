@@ -1,3 +1,11 @@
+tanggal        = 2022-12-16 19:15:24
+key            = 17 
+plain text     = "197NPX7OGRQ8JUK4U"
+encrypted text = "|'&>AJ*C<HH0COF0R"
+decrypted text = "197NPX7OGRQ8JUK4U"
+plain text     = "197NPX7OGRQ8JUK4U"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-16 18:41:15
 key            = 65 
 plain text     = "CBYWPX00LJROCO9NMR15LNEIBXIKFA639O2B4C286AOM5QJVBSTMVXVR68BJT4B4U"
