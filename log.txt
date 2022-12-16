@@ -1,3 +1,11 @@
+tanggal        = 2022-12-16 14:38:17
+key            = 4 
+plain text     = "JRPF"
+encrypted text = "?HG>"
+decrypted text = "JRPF"
+plain text     = "JRPF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-16 14:17:18
 key            = 43 
 plain text     = "B2J0D32RVNVF204J256RJ6KZ3PRAVGULDO9HIQJTVVA"
