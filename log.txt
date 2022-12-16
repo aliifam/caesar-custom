@@ -1,3 +1,11 @@
+tanggal        = 2022-12-16 16:47:10
+key            = 50 
+plain text     = "C8T6JM0X4JS3Q2DZ5YEG665GSOC68DWZ96G7ZONZQIBN9EJVMH"
+encrypted text = "{q0q(,n9t-7v7w,C}D14$%%8EB7+.;OS31C4XNN[SLFS?LR_WS"
+decrypted text = "C8T6JM0X4JS3Q2DZ5YEG665GSOC68DWZ96G7ZONZQIBN9EJVMH"
+plain text     = "C8T6JM0X4JS3Q2DZ5YEG665GSOC68DWZ96G7ZONZQIBN9EJVMH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-16 16:27:09
 key            = 14 
 plain text     = "OT6GE7BVMPMHJZ"
