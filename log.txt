@@ -1,3 +1,11 @@
+tanggal        = 2022-12-16 19:38:11
+key            = 80 
+plain text     = "Z6POMYM81BIQ6GOX00AMZ4XTYTVQFYIIP2Y94BLB0DC0474902M1GZ9ZTFU86CYGI0XON3P2KLUXQLGT"
+encrypted text = "$_zzy({gas{&j|'1hi{*8q85;7:6,@12:{E&"1<3"77%*.,2*-I.EY9[VIY=<JaPS;d\\B`C]_imgc_m"
+decrypted text = "Z6POMYM81BIQ6GOX00AMZ4XTYTVQFYIIP2Y94BLB0DC0474902M1GZ9ZTFU86CYGI0XON3P2KLUXQLGT"
+plain text     = "Z6POMYM81BIQ6GOX00AMZ4XTYTVQFYIIP2Y94BLB0DC0474902M1GZ9ZTFU86CYGI0XON3P2KLUXQLGT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-16 19:15:24
 key            = 17 
 plain text     = "197NPX7OGRQ8JUK4U"
