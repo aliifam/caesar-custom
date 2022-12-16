@@ -1,3 +1,11 @@
+tanggal        = 2022-12-16 15:21:38
+key            = 80 
+plain text     = "ZMLJA4702NGGK7T98TVY6C63DV3UQR4IIQ5QE9Z9S1F0GZAVMIQX10CP5DFEYZAH3QKO00KL8RQXONTN"
+encrypted text = "dXXWOCGADa[\aNlRRorvTbVTfyWzwy\rs|a~sh,j'dze}3y1)&/7oo%3w),,AC+3}>9>~!=?,GGOGGNI"
+decrypted text = "ZMLJA4702NGGK7T98TVY6C63DV3UQR4IIQ5QE9Z9S1F0GZAVMIQX10CP5DFEYZAH3QKO00KL8RQXONTN"
+plain text     = "ZMLJA4702NGGK7T98TVY6C63DV3UQR4IIQ5QE9Z9S1F0GZAVMIQX10CP5DFEYZAH3QKO00KL8RQXONTN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-16 14:38:17
 key            = 4 
 plain text     = "JRPF"
