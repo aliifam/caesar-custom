@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 14:38:19
+key            = 15 
+plain text     = "LH84U390G3M080K"
+encrypted text = "daROqPWOgToS\Uq"
+decrypted text = "LH84U390G3M080K"
+plain text     = "LH84U390G3M080K"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 14:15:53
 key            = 16 
 plain text     = "21W6C3152T269T5J"
