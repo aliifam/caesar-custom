@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 18:39:31
+key            = 30 
+plain text     = "CXPIB0948777JIFETN8729JOAGUN53"
+encrypted text = "=SLF@/95::;<PPNN^YDD@HZ`SZicKJ"
+decrypted text = "CXPIB0948777JIFETN8729JOAGUN53"
+plain text     = "CXPIB0948777JIFETN8729JOAGUN53"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 18:22:03
 key            = 99 
 plain text     = "G39AZ1QOPJFJXV4XG1GWNHUKQS8AHQKSI0NE8ESH1CAAAWPIC5L3HZ4BQR8ZGRISCC4DI1WQM4UW1QC7JMPC9H9F836PW6KHJVQ"
