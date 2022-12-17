@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 09:38:17
+key            = 18 
+plain text     = "JJTGK6UCMATR728PAN"
+encrypted text = "$%0$)s5$/$87{w~9+9"
+decrypted text = "JJTGK6UCMATR728PAN"
+plain text     = "JJTGK6UCMATR728PAN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 09:17:10
 key            = 13 
 plain text     = "77F5714M1FXL7"
