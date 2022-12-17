@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 02:34:30
+key            = 25 
+plain text     = "M138L0UTBTQR3RRLQNTPUC19A"
+encrypted text = "="%+@%KK:MKM/OPKQOVSYH7@I"
+decrypted text = "M138L0UTBTQR3RRLQNTPUC19A"
+plain text     = "M138L0UTBTQR3RRLQNTPUC19A"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 01:36:08
 key            = 44 
 plain text     = "9WAQJLIW4LUHL284TSMG28WZ98JBRYAK8D86QF05U34T"
