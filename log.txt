@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 06:40:16
+key            = 25 
+plain text     = "JNTLJM8A5DNIWPLYOSO4F8OZH"
+encrypted text = "05<548$.#3>:IC@NEJG-@3KWF"
+decrypted text = "JNTLJM8A5DNIWPLYOSO4F8OZH"
+plain text     = "JNTLJM8A5DNIWPLYOSO4F8OZH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 06:22:41
 key            = 36 
 plain text     = "3NEONW5GLJQ01A7TA9ZE3OK48CC2ZI24CNYA"
