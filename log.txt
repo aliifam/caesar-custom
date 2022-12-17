@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 17:38:13
+key            = 6 
+plain text     = "M4HLWY"
+encrypted text = "gOdiux"
+decrypted text = "M4HLWY"
+plain text     = "M4HLWY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 17:15:37
 key            = 7 
 plain text     = "R7TCA6E"
