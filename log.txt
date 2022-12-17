@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 17:15:37
+key            = 7 
+plain text     = "R7TCA6E"
+encrypted text = "{a!ondt"
+decrypted text = "R7TCA6E"
+plain text     = "R7TCA6E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 16:43:58
 key            = 20 
 plain text     = "WIOR7NTB49I83VJ291U0"
