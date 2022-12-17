@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 16:43:58
+key            = 20 
+plain text     = "WIOR7NTB49I83VJ291U0"
+encrypted text = "%v}#g!(uhn!ok1&mun5o"
+decrypted text = "WIOR7NTB49I83VJ291U0"
+plain text     = "WIOR7NTB49I83VJ291U0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 16:25:16
 key            = 69 
 plain text     = "WPYS9RXMEBFZ94KM7XY46IUF77YZTHRJUV2PLB7IJIED3ZXWFFRT27RJ5A9LTUW2IW6DU"
