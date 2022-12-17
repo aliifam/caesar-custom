@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 03:38:30
+key            = 11 
+plain text     = "9XUVNEXTNWI"
+encrypted text = "y;9;4,@=8B5"
+decrypted text = "9XUVNEXTNWI"
+plain text     = "9XUVNEXTNWI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 03:20:13
 key            = 60 
 plain text     = "E1PXTFS91LGHQ8A65HML9NEW5Y3RSN6I3HA0ZT75SPICFLZ4P23EKZ5WXFZE"
