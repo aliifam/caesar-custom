@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 23:18:15
+key            = 53 
+plain text     = "Y1MUQ7GRT5BK9S8TW89QMFF35M2BHEG1EXXJ9HRX6F28LD1XYJI97"
+encrypted text = "By8A>%6BE'5?.I/LP24MJDE36O5FMKN9NbcVFVahGXELaZHprddUT"
+decrypted text = "Y1MUQ7GRT5BK9S8TW89QMFF35M2BHEG1EXXJ9HRX6F28LD1XYJI97"
+plain text     = "Y1MUQ7GRT5BK9S8TW89QMFF35M2BHEG1EXXJ9HRX6F28LD1XYJI97"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 22:38:12
 key            = 8 
 plain text     = "1WE9D1Z0"
