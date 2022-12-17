@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 15:17:53
+key            = 25 
+plain text     = "PL8URYHAS23L4KX5JSDTL0UA3"
+encrypted text = "MJ7US[KEX8:T=UcAWaSd]BhUH"
+decrypted text = "PL8URYHAS23L4KX5JSDTL0UA3"
+plain text     = "PL8URYHAS23L4KX5JSDTL0UA3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 14:38:19
 key            = 15 
 plain text     = "LH84U390G3M080K"
