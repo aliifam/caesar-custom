@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 14:15:53
+key            = 16 
+plain text     = "21W6C3152T269T5J"
+encrypted text = "((O/=.-20S27;W9O"
+decrypted text = "21W6C3152T269T5J"
+plain text     = "21W6C3152T269T5J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 13:38:22
 key            = 89 
 plain text     = "UI467Z5T8IZYLDK8C1EDC3RGXEMYAFRH0TIHKWNOYF079O4TR63G4BJZOOY3DUCU24K211Z7DAXTXMSAXWN2NNVTG"
