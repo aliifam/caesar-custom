@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 19:14:15
+key            = 50 
+plain text     = "ALTOSBTDG8ZGE0UDZIR9I6IYCSYAVFO6PPZQAA3YY2MKHVSCKJ"
+encrypted text = "o{&"'u*y}o4"!k3#:*4z-y/@+<C,B3=%@ALD56)PQ+GFDSQBKK"
+decrypted text = "ALTOSBTDG8ZGE0UDZIR9I6IYCSYAVFO6PPZQAA3YY2MKHVSCKJ"
+plain text     = "ALTOSBTDG8ZGE0UDZIR9I6IYCSYAVFO6PPZQAA3YY2MKHVSCKJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 18:39:31
 key            = 30 
 plain text     = "CXPIB0948777JIFETN8729JOAGUN53"
