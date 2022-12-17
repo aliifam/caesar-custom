@@ -1,3 +1,11 @@
+tanggal        = 2022-12-17 20:18:33
+key            = 45 
+plain text     = "ZN25Y0322GBUJCSYNYDNZ9456044G8EDYH7USUPEYA574"
+encrypted text = "/$gk2hllm%!5+%6=3?+6C#}!#|#$8*88N>.MLOKAV?475"
+decrypted text = "ZN25Y0322GBUJCSYNYDNZ9456044G8EDYH7USUPEYA574"
+plain text     = "ZN25Y0322GBUJCSYNYDNZ9456044G8EDYH7USUPEYA574"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 19:38:14
 key            = 61 
 plain text     = "FDNSR1DVJLXSFU9V6Z821E40DLC0OL31UZPUIPRQ8VNFSVDPCMG0FCXTX6R5Q"
