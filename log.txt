@@ -1,3 +1,11 @@
+tanggal        = 2022-12-18 01:38:46
+key            = 10 
+plain text     = "K59D420I2W"
+encrypted text = "T?DPA@?YCi"
+decrypted text = "K59D420I2W"
+plain text     = "K59D420I2W"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-17 23:38:35
 key            = 69 
 plain text     = "GEUIGXZF53S03ER0JJ6LWGY6N7NT38IYH3MIEIRKDBK12NF5RI8WEKBGABCQRAU7XWFQV"
