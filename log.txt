@@ -1,3 +1,11 @@
+tanggal        = 2022-12-18 21:15:28
+key            = 21 
+plain text     = "3DW873EVQAP4UQDDDJ204"
+encrypted text = "8J^@@=Pb^O_DfcWXY`IHM"
+decrypted text = "3DW873EVQAP4UQDDDJ204"
+plain text     = "3DW873EVQAP4UQDDDJ204"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-18 20:38:22
 key            = 4 
 plain text     = "ENJI"
