@@ -1,3 +1,11 @@
+tanggal        = 2022-12-18 18:22:00
+key            = 23 
+plain text     = "DIOA9DCPZB89EKW8KKMAY1J"
+encrypted text = "u{$unzz*5|su$+8x./2'@w3"
+decrypted text = "DIOA9DCPZB89EKW8KKMAY1J"
+plain text     = "DIOA9DCPZB89EKW8KKMAY1J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-18 17:38:22
 key            = 39 
 plain text     = "SCROI707FGWFRV4DT1R5661ACFP0Z41Q6EJGJAO"
