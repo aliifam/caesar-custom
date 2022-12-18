@@ -1,3 +1,11 @@
+tanggal        = 2022-12-18 07:38:21
+key            = 12 
+plain text     = "JFZKYVTHSYW1"
+encrypted text = "vs*z+)({)0/h"
+decrypted text = "JFZKYVTHSYW1"
+plain text     = "JFZKYVTHSYW1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-18 07:16:22
 key            = 56 
 plain text     = "XVGYURVZE1T6KW6K0196BC3CAUP85BK393N8NI18BEKMFY2KMWV88KJR"
