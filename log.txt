@@ -1,3 +1,11 @@
+tanggal        = 2022-12-18 20:38:22
+key            = 4 
+plain text     = "ENJI"
+encrypted text = "NXUU"
+decrypted text = "ENJI"
+plain text     = "ENJI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-18 20:19:03
 key            = 36 
 plain text     = "KGXAQLEP0RAV0F78JGBJ1NPJAVK2T5DGHYMY"
