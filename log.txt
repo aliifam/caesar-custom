@@ -1,3 +1,11 @@
+tanggal        = 2022-12-18 10:19:14
+key            = 4 
+plain text     = "VH9I"
+encrypted text = "NA3D"
+decrypted text = "VH9I"
+plain text     = "VH9I"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-18 09:38:12
 key            = 54 
 plain text     = "ZMSD1SANS0RFZHTJA3K0UVZQT8UG4QZZER3CRWVXAYKP3LTHFWTWI7"
