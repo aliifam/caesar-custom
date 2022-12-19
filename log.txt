@@ -1,3 +1,11 @@
+tanggal        = 2022-12-19 08:41:04
+key            = 5 
+plain text     = "J1RYP"
+encrypted text = "kSu}u"
+decrypted text = "J1RYP"
+plain text     = "J1RYP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-19 08:25:25
 key            = 51 
 plain text     = "MQQLN90004Y8OBDEO980T615QE7F957F5JIXXL3CECGR8FPWZMQ"
