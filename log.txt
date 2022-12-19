@@ -1,3 +1,11 @@
+tanggal        = 2022-12-19 17:16:42
+key            = 22 
+plain text     = "AOZ97XMFS8SJ95ZWC86S1A"
+encrypted text = "bq}]\~tn|b~vfc+)tji)fw"
+decrypted text = "AOZ97XMFS8SJ95ZWC86S1A"
+plain text     = "AOZ97XMFS8SJ95ZWC86S1A"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-19 16:51:09
 key            = 70 
 plain text     = "1SZMNDF2LG0PWOIYBJGZI01WTH072YI8Q49CZ6PMLDXXPL9SKGM8ANXZ205RJ6HAR2UX33"
