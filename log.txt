@@ -1,3 +1,11 @@
+tanggal        = 2022-12-19 22:38:25
+key            = 38 
+plain text     = "CUCKIX81OUXYW3NNIRZWY5KEMG3WM5WUBPWUP0"
+encrypted text = "BUDML\=7V]acb?[\XbkilI`[d_LqhQtsapxwsT"
+decrypted text = "CUCKIX81OUXYW3NNIRZWY5KEMG3WM5WUBPWUP0"
+plain text     = "CUCKIX81OUXYW3NNIRZWY5KEMG3WM5WUBPWUP0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-19 22:18:47
 key            = 27 
 plain text     = "PK4K4RJXTREBXHWX6LIHSAFJY4I"
