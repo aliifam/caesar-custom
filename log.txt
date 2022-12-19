@@ -1,3 +1,11 @@
+tanggal        = 2022-12-19 22:18:47
+key            = 27 
+plain text     = "PK4K4RJXTREBXHWX6LIHSAFJY4I"
+encrypted text = "vr\t^}v'$#us,{-/l%##/|$)9s+"
+decrypted text = "PK4K4RJXTREBXHWX6LIHSAFJY4I"
+plain text     = "PK4K4RJXTREBXHWX6LIHSAFJY4I"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-19 21:38:37
 key            = 45 
 plain text     = "IR3V4I3WEDLWKXLAJFLRVIAR7FT9M9PG7HI0RTMLF35ES"
