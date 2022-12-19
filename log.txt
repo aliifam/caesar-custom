@@ -1,3 +1,11 @@
+tanggal        = 2022-12-19 06:24:48
+key            = 39 
+plain text     = "951XTU5UXYMMRSWTMOUIEA97L8AMUE7H2ZM6XE1"
+encrypted text = "vsp:79x;?A67=?DB<?F;85.-C0:GPA4F1ZN8[I6"
+decrypted text = "951XTU5UXYMMRSWTMOUIEA97L8AMUE7H2ZM6XE1"
+plain text     = "951XTU5UXYMMRSWTMOUIEA97L8AMUE7H2ZM6XE1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-19 05:38:26
 key            = 30 
 plain text     = "NVD4FNQLP6FK8MJIRMDEQAMIG2ULI8"
