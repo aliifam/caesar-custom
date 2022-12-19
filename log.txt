@@ -1,3 +1,11 @@
+tanggal        = 2022-12-19 16:30:04
+key            = 23 
+plain text     = "5Z6DHTYIORAT926TJOKWIZZ"
+encrypted text = "9_<KP]cT[_OcICHg^danast"
+decrypted text = "5Z6DHTYIORAT926TJOKWIZZ"
+plain text     = "5Z6DHTYIORAT926TJOKWIZZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-19 15:40:25
 key            = 64 
 plain text     = "B89T6S1SX3TP45VC4E6D44Y062BKLF43YJGKQQ137S9BQSX2VXHOK69L2RKK3I88"
