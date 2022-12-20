@@ -1,3 +1,11 @@
+tanggal        = 2022-12-20 13:24:09
+key            = 42 
+plain text     = "8GPTKG87I32Y9K60PKZVRZC05M9LWSWIYV1UM0T85W"
+encrypted text = "1AKPHE77J55]>Q=8YUeb_hR@F_L`linarpLqjNsXVy"
+decrypted text = "8GPTKG87I32Y9K60PKZVRZC05M9LWSWIYV1UM0T85W"
+plain text     = "8GPTKG87I32Y9K60PKZVRZC05M9LWSWIYV1UM0T85W"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-20 12:37:12
 key            = 98 
 plain text     = "QMSRDNZFO9QVCCFHKR0OSFGTSRV2L2BW9ZLA1ITDSVLJ8TVPZTWP9ZQEQMYOKSPKOPWM9V7E8X7Y5BF8UGIVW5HQHAEJOX5LDC"
