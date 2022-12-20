@@ -1,3 +1,11 @@
+tanggal        = 2022-12-20 07:38:17
+key            = 45 
+plain text     = "RFG3E54VWKLC9C7VP6HTNRUWN4SLCC68DAKP3V2LS3FU8"
+encrypted text = "$wyfyjj/1&(~u"u72w,949=@8}?912&)64?E)M*EM.BR6"
+decrypted text = "RFG3E54VWKLC9C7VP6HTNRUWN4SLCC68DAKP3V2LS3FU8"
+plain text     = "RFG3E54VWKLC9C7VP6HTNRUWN4SLCC68DAKP3V2LS3FU8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-20 07:17:23
 key            = 3 
 plain text     = "N2C"
