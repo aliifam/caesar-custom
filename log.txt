@@ -1,3 +1,11 @@
+tanggal        = 2022-12-20 16:49:23
+key            = 30 
+plain text     = "S7449IS5W03G46CWBN1UWJVHHFLMFS"
+encrypted text = "T978>OZ=`:>SADRgS`Dil`m`a`gicq"
+decrypted text = "S7449IS5W03G46CWBN1UWJVHHFLMFS"
+plain text     = "S7449IS5W03G46CWBN1UWJVHHFLMFS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-20 16:28:43
 key            = 44 
 plain text     = "KUFGQMYUK5X0L1C531LG9NLH3ADYOOH3AMQ62Q3SECTB"
