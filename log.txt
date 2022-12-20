@@ -1,3 +1,11 @@
+tanggal        = 2022-12-20 05:18:10
+key            = 18 
+plain text     = "678SN18IJNBZPCB13T"
+encrypted text = "024PL08JLQF_VJJ:=_"
+decrypted text = "678SN18IJNBZPCB13T"
+plain text     = "678SN18IJNBZPCB13T"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-20 04:41:33
 key            = 75 
 plain text     = "SI5E5Z2YZ7S3BX1CS5ELLG9WKZ9NB4I4KPXMUQ21S1QSKLW1QKJI2QNK30W8LJ7VO4LT1ZFCMSS"
