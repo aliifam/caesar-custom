@@ -1,3 +1,11 @@
+tanggal        = 2022-12-20 11:38:15
+key            = 44 
+plain text     = "HNLED4JT7BE94C9VW6X086F3LX8MW6BQ14R1OZL0JXSA"
+encrypted text = ":A@::+BM1=A62B9WY9\5>=N<VcDZeERbCGfFeqdIdso^"
+decrypted text = "HNLED4JT7BE94C9VW6X086F3LX8MW6BQ14R1OZL0JXSA"
+plain text     = "HNLED4JT7BE94C9VW6X086F3LX8MW6BQ14R1OZL0JXSA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-20 11:16:14
 key            = 1 
 plain text     = "P"
