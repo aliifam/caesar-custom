@@ -1,3 +1,11 @@
+tanggal        = 2022-12-20 06:25:44
+key            = 10 
+plain text     = "CVTY7E07G9"
+encrypted text = "[ontSbNVgZ"
+decrypted text = "CVTY7E07G9"
+plain text     = "CVTY7E07G9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-20 05:38:27
 key            = 41 
 plain text     = "0IEWX18YQRC9FRVSI0486RW0CWYQH2ZNR4LEW8067"
