@@ -1,3 +1,11 @@
+tanggal        = 2022-12-21 12:37:20
+key            = 4 
+plain text     = "66PS"
+encrypted text = "<=X\"
+decrypted text = "66PS"
+plain text     = "66PS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-21 11:38:17
 key            = 50 
 plain text     = "KD0U16D6MAK7ZFTARCE0DL9927DOD6N1ZGW0WQVEINH1OD9ZCC"
