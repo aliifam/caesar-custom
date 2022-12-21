@@ -1,3 +1,11 @@
+tanggal        = 2022-12-21 16:49:19
+key            = 19 
+plain text     = "KW66UVAYL56BG82G6PA"
+encrypted text = "@M-.NP<UI35BH:5K;VH"
+decrypted text = "KW66UVAYL56BG82G6PA"
+plain text     = "KW66UVAYL56BG82G6PA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-21 16:28:45
 key            = 92 
 plain text     = "SRINYO75T2YJ8Q57WAQY1IP2X2ML6CJMH1L1EJ01AA206FG35YC12SWD922T9RNI1O9LF0NLPVX7MUC2PAEZF59UFX47"
