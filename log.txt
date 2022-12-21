@@ -1,3 +1,11 @@
+tanggal        = 2022-12-21 17:17:46
+key            = 32 
+plain text     = "JQ7A4QPB5RDKAZ51ILDAAVDI09NXX84U"
+encrypted text = ":B)4(FF9-K>F=W30IMFDE[JP8BXcdEBd"
+decrypted text = "JQ7A4QPB5RDKAZ51ILDAAVDI09NXX84U"
+plain text     = "JQ7A4QPB5RDKAZ51ILDAAVDI09NXX84U"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-21 16:49:19
 key            = 19 
 plain text     = "KW66UVAYL56BG82G6PA"
