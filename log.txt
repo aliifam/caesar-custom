@@ -1,3 +1,11 @@
+tanggal        = 2022-12-21 06:24:22
+key            = 16 
+plain text     = "WCR23MRIA1F72NHQ"
+encrypted text = ""m}^`{#yrcykg&!+"
+decrypted text = "WCR23MRIA1F72NHQ"
+plain text     = "WCR23MRIA1F72NHQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-21 05:38:19
 key            = 96 
 plain text     = "G2U9J6GF4NVNZDDYXCWVWCJ4LXIX55CF82UQAQFB826055E1ZD99A5HWWP4RPYUHG3I3W6PQTDJZLRNF1HMYINNTP3BFHBZK"
