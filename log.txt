@@ -1,3 +1,11 @@
+tanggal        = 2022-12-21 19:15:24
+key            = 39 
+plain text     = "H292SL3S9WIG1VRIRB0O77G53LZRHYZP3H60L7J"
+encrypted text = "[FNHjdLmTsfePvskufUu^_p_^x)"w+-$f|kf%o%"
+decrypted text = "H292SL3S9WIG1VRIRB0O77G53LZRHYZP3H60L7J"
+plain text     = "H292SL3S9WIG1VRIRB0O77G53LZRHYZP3H60L7J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-21 18:41:29
 key            = 13 
 plain text     = "ST18P7AVG29U8"
