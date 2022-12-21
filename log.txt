@@ -1,3 +1,11 @@
+tanggal        = 2022-12-21 18:41:29
+key            = 13 
+plain text     = "ST18P7AVG29U8"
+encrypted text = "CE#+D,7M?+3P4"
+decrypted text = "ST18P7AVG29U8"
+plain text     = "ST18P7AVG29U8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-21 18:23:54
 key            = 38 
 plain text     = "PF629SHLBRM447F88DWGL4RHQ2EGQM2FSAQFJK"
