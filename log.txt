@@ -1,3 +1,11 @@
+tanggal        = 2022-12-21 10:39:47
+key            = 21 
+plain text     = "GRLJT6NKDJEN62GBD7S5D"
+encrypted text = "8D?>I,EC=D@J30FBE9V9I"
+decrypted text = "GRLJT6NKDJEN62GBD7S5D"
+plain text     = "GRLJT6NKDJEN62GBD7S5D"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-21 10:21:47
 key            = 66 
 plain text     = "3MPJE9U4WT5SG6ZQAWKXNTZBAPEYRL2XS6JEOC9ZWGJ042QE1KOTUXJX9IOOMJSZ0D"
