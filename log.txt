@@ -1,3 +1,11 @@
+tanggal        = 2022-12-21 16:28:45
+key            = 92 
+plain text     = "SRINYO75T2YJ8Q57WAQY1IP2X2ML6CJMH1L1EJ01AA206FG35YC12SWD922T9RNI1O9LF0NLPVX7MUC2PAEZF59UFX47"
+encrypted text = "RRJP\S<;[:bTC]BEfQbkD]eHoJffQ_gkgQmShnUWhi[Zartadtcezpjktpzt¡¡¬«°"
+decrypted text = "SRINYO75T2YJ8Q57WAQY1IP2X2ML6CJMH1L1EJ01AA206FG35YC12SWD922T9RNI1O9LF0NLPVX7MUC2PAEZF59UFX47"
+plain text     = "SRINYO75T2YJ8Q57WAQY1IP2X2ML6CJMH1L1EJ01AA206FG35YC12SWD922T9RNI1O9LF0NLPVX7MUC2PAEZF59UFX47"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-21 15:40:58
 key            = 84 
 plain text     = "XTFTX18AM8KBGOK6DG6CVZSIW9WA6NATVCE6T8SQS3CXC1N8MGYH46ZX5M8KCIZ6IIXV392N8LWM7OTFEL5Y"
