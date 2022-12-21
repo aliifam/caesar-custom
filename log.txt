@@ -1,3 +1,11 @@
+tanggal        = 2022-12-21 03:21:10
+key            = 30 
+plain text     = "CSDM81M4KYOWC58177D05O1R2PUH42"
+encrypted text = "\m_iUOlTl{r{h[_Y`ao\b}`$c$*|ih"
+decrypted text = "CSDM81M4KYOWC58177D05O1R2PUH42"
+plain text     = "CSDM81M4KYOWC58177D05O1R2PUH42"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-21 02:37:20
 key            = 10 
 plain text     = "MPKEX6QBGI"
