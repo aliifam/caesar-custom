@@ -1,3 +1,11 @@
+tanggal        = 2022-12-22 16:48:24
+key            = 26 
+plain text     = "F1PO1GLNTMUUMFUQU6T7BJVCJ6"
+encrypted text = "S?__BY_biclmf`pmrTsWclygo\"
+decrypted text = "F1PO1GLNTMUUMFUQU6T7BJVCJ6"
+plain text     = "F1PO1GLNTMUUMFUQU6T7BJVCJ6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-22 16:27:50
 key            = 3 
 plain text     = "FZ1"
