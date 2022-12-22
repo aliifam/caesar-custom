@@ -1,3 +1,11 @@
+tanggal        = 2022-12-22 15:21:20
+key            = 27 
+plain text     = "NGOHF95OCAFGKSEQO4BP904ZOXI"
+encrypted text = ")#,&%wt1&%+-2;.;:~/>(~%LBL>"
+decrypted text = "NGOHF95OCAFGKSEQO4BP904ZOXI"
+plain text     = "NGOHF95OCAFGKSEQO4BP904ZOXI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-22 14:38:16
 key            = 99 
 plain text     = "L8V71GR7PSM5062TJ12IMO4CJJCCHX1TXH5DVJDDMFVOLIGKJIETXJD4MTNAH3SVWNCQPNHRNHDU8BCBBK6B7M11AW0NJ3IIRMA"
