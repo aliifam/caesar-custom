@@ -1,3 +1,11 @@
+tanggal        = 2022-12-22 14:17:53
+key            = 23 
+plain text     = "M2R1275DZU6HT7H3CSOCKNK"
+encrypted text = "A'H(*0/?VR4GT8J6GXUJSWU"
+decrypted text = "M2R1275DZU6HT7H3CSOCKNK"
+plain text     = "M2R1275DZU6HT7H3CSOCKNK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-22 13:38:54
 key            = 78 
 plain text     = "MMEXFM3V7V0XETLL5KO4DODBFAUTU0GK6NPSYUCQ796Q4334ZOXM0J0B2PXSVBSDGLAT3AID851SBY"
