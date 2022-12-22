@@ -1,3 +1,11 @@
+tanggal        = 2022-12-22 19:38:17
+key            = 14 
+plain text     = "WK4BTRJ51W7KNA"
+encrypted text = "?4|-@?8$!H)>B6"
+decrypted text = "WK4BTRJ51W7KNA"
+plain text     = "WK4BTRJ51W7KNA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-22 19:15:13
 key            = 88 
 plain text     = "MHEQTKEHF0E645OSCDL2H0VKDQK0IB70BZH1OEVQG4N04JM9A7KFQ9M74Z6OOYC3TY6ZWHO7M4XKHMOUB8PDIXNA"
