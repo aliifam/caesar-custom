@@ -1,3 +1,11 @@
+tanggal        = 2022-12-22 20:38:47
+key            = 12 
+plain text     = "6GXWPEK3GGYF"
+encrypted text = "gy--'{$k"#6$"
+decrypted text = "6GXWPEK3GGYF"
+plain text     = "6GXWPEK3GGYF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-22 20:20:25
 key            = 40 
 plain text     = "F72SUCD7T4WX8Z510BRGKYV9G2GW9VO4PC7M1ASK"
