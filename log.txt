@@ -1,3 +1,11 @@
+tanggal        = 2022-12-23 17:38:17
+key            = 9 
+plain text     = "8AJEG4N94"
+encrypted text = "-7A=@.I51"
+decrypted text = "8AJEG4N94"
+plain text     = "8AJEG4N94"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-23 17:17:43
 key            = 34 
 plain text     = "LEN42Q05TEC1BKUXJL979U4P03IY0UG711"
