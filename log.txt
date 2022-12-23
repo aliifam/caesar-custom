@@ -1,3 +1,11 @@
+tanggal        = 2022-12-23 01:39:05
+key            = 14 
+plain text     = "7Y04QAYEODE7UJ"
+encrypted text = "|Aw|<-F3>46)H>"
+decrypted text = "7Y04QAYEODE7UJ"
+plain text     = "7Y04QAYEODE7UJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-22 23:38:29
 key            = 21 
 plain text     = "ZHAT7U1O3157P0HBURB2H"
