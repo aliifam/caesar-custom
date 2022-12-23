@@ -1,3 +1,11 @@
+tanggal        = 2022-12-23 04:23:54
+key            = 36 
+plain text     = "C5FK55KQCSVTIEQRT0OTKHAEB004UXNA7GP3"
+encrypted text = "i\nt_`w~q$('{x'),g)/'%}$"opu9=4(}0:|"
+decrypted text = "C5FK55KQCSVTIEQRT0OTKHAEB004UXNA7GP3"
+plain text     = "C5FK55KQCSVTIEQRT0OTKHAEB004UXNA7GP3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-23 03:38:49
 key            = 58 
 plain text     = "KHUFWCVUDHMS6C0OCIX2360DHP8QDS5CK8NH1VVJ5YBKXE2BPSI7WL4KRY"
