@@ -1,3 +1,11 @@
+tanggal        = 2022-12-23 21:38:12
+key            = 46 
+plain text     = "UG01GI5W5TLCBTUMQ7P5KTNX5C6DAHXT62XN20TYPXDXXM"
+encrypted text = "WJ46MP=`?_XPPce^cJdJakfqO^Ra_gxuXU|sXW|zp|"
+decrypted text = "UG01GI5W5TLCBTUMQ7P5KTNX5C6DAHXT62XN20TYPXDXXM"
+plain text     = "UG01GI5W5TLCBTUMQ7P5KTNX5C6DAHXT62XN20TYPXDXXM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-23 21:16:37
 key            = 28 
 plain text     = "IBRD0OPKUODSXY76DGADHCBE8EPR"
