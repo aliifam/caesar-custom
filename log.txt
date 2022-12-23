@@ -1,3 +1,11 @@
+tanggal        = 2022-12-23 12:35:49
+key            = 28 
+plain text     = "G64GNEV72QMRA9IVMWOGDI8TQD1F"
+encrypted text = "P@?S[SeGCc`fVO`nfqjcagWtrfTj"
+decrypted text = "G64GNEV72QMRA9IVMWOGDI8TQD1F"
+plain text     = "G64GNEV72QMRA9IVMWOGDI8TQD1F"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-23 11:38:07
 key            = 3 
 plain text     = "CJQ"
