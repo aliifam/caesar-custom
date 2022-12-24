@@ -1,3 +1,11 @@
+tanggal        = 2022-12-24 13:21:26
+key            = 43 
+plain text     = "YTRF2FOEYFAF67WEWRKUGJM9S2E5CG63FBWW7G8T0OB"
+encrypted text = "TPOD1FPG\JFL=?`Ob^XcVZ^KfFZKZ_OMa^tuVgYvSsg"
+decrypted text = "YTRF2FOEYFAF67WEWRKUGJM9S2E5CG63FBWW7G8T0OB"
+plain text     = "YTRF2FOEYFAF67WEWRKUGJM9S2E5CG63FBWW7G8T0OB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-24 12:33:59
 key            = 44 
 plain text     = "ZAXSRUTRQ43AZER99W3WVTFW54PHZCA8QOP75J9AIW7N"
