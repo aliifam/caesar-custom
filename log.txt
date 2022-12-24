@@ -1,3 +1,11 @@
+tanggal        = 2022-12-24 22:17:42
+key            = 11 
+plain text     = "HCTK059LP4J"
+encrypted text = "rn"x^di}$g~"
+decrypted text = "HCTK059LP4J"
+plain text     = "HCTK059LP4J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-24 21:38:18
 key            = 43 
 plain text     = "2C1RS7H3LU80CB2TBHNRLS8M9D23H8G7A6H4XRA2MWR"
