@@ -1,3 +1,11 @@
+tanggal        = 2022-12-24 12:33:59
+key            = 44 
+plain text     = "ZAXSRUTRQ43AZER99W3WVTFW54PHZCA8QOP75J9AIW7N"
+encrypted text = "!g!{{!!~~bbq-w'mn/j110#5rr1*='&|879!~6&/8G(@"
+decrypted text = "ZAXSRUTRQ43AZER99W3WVTFW54PHZCA8QOP75J9AIW7N"
+plain text     = "ZAXSRUTRQ43AZER99W3WVTFW54PHZCA8QOP75J9AIW7N"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-24 11:38:14
 key            = 89 
 plain text     = "422U9KZM0TH6Z121P17ESX5IQDEODEBEQ5ZLMWG3XAFUKBKWU8Z6R2SVIHZJN8K2M76TH13GQJ4YWL207L96G1I9C"
