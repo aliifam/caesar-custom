@@ -1,3 +1,11 @@
+tanggal        = 2022-12-24 09:38:11
+key            = 15 
+plain text     = "ZH25Q3IP1MLI8P7"
+encrypted text = "?.w{:{4<|;;9)B*"
+decrypted text = "ZH25Q3IP1MLI8P7"
+plain text     = "ZH25Q3IP1MLI8P7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-24 09:17:20
 key            = 54 
 plain text     = "WHKIJC0HGB655T7YRYEKFW8W4VK0HYUL1K9AY6XMQI4FKRJMWLGF7R"
