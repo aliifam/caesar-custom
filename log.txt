@@ -1,3 +1,11 @@
+tanggal        = 2022-12-24 09:17:20
+key            = 54 
+plain text     = "WHKIJC0HGB655T7YRYEKFW8W4VK0HYUL1K9AY6XMQI4FKRJMWLGF7R"
+encrypted text = "%uyxztb{{wllm/q608%,(:z<x=3w2DA9}:)2K)LBG@,?EMFJUKGG9U"
+decrypted text = "WHKIJC0HGB655T7YRYEKFW8W4VK0HYUL1K9AY6XMQI4FKRJMWLGF7R"
+plain text     = "WHKIJC0HGB655T7YRYEKFW8W4VK0HYUL1K9AY6XMQI4FKRJMWLGF7R"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-24 08:39:40
 key            = 38 
 plain text     = "24Y301VEEIK6KUJKG8TA5FUFD3USGAA89JN6IJ"
