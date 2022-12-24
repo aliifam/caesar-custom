@@ -1,3 +1,11 @@
+tanggal        = 2022-12-24 08:23:25
+key            = 17 
+plain text     = "EVI64TH3BCEZ4M87Q"
+encrypted text = "`rfTStiUegj"[uaa|"
+decrypted text = "EVI64TH3BCEZ4M87Q"
+plain text     = "EVI64TH3BCEZ4M87Q"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-24 07:38:10
 key            = 76 
 plain text     = "PH40BIZSPF9XGWM2A6HYZIL42BFYVP984LWZ8COFZ87QQZN2I8Q3ZD60KP0VU0V5XWSU4V1IJ9OY"
