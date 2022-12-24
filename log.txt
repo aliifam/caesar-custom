@@ -1,3 +1,11 @@
+tanggal        = 2022-12-24 19:38:09
+key            = 14 
+plain text     = "1NX6ZHVWNA4J54"
+encrypted text = "6T_>cRac[OCZFF"
+decrypted text = "1NX6ZHVWNA4J54"
+plain text     = "1NX6ZHVWNA4J54"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-24 19:14:18
 key            = 92 
 plain text     = "H8OM3C6LDE649JFLRRD7N7HLUXHPNIVE796EHKWJNVLNNJZQRIDFXXF077CKE0J3EU9LWHY3WLTHGKNHJBWJVH073JPV"
