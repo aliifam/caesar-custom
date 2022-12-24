@@ -1,3 +1,11 @@
+tanggal        = 2022-12-24 23:38:26
+key            = 43 
+plain text     = "STJDPS1A9Q7OT1GBCR7N64V8G7OF436XRX7S2RNWV39"
+encrypted text = "57.)6:w*#<#<B~735E+C,+N1A2KC226YT[;X8YV``>E"
+decrypted text = "STJDPS1A9Q7OT1GBCR7N64V8G7OF436XRX7S2RNWV39"
+plain text     = "STJDPS1A9Q7OT1GBCR7N64V8G7OF436XRX7S2RNWV39"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-24 23:18:39
 key            = 52 
 plain text     = "LKNK4B6AXYD41JXC7K9PJWGBXKWIGBH8W3DAU8DVYILNDEM8687C"
