@@ -1,3 +1,11 @@
+tanggal        = 2022-12-25 18:22:32
+key            = 3 
+plain text     = "NKI"
+encrypted text = "oml"
+decrypted text = "NKI"
+plain text     = "NKI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-25 17:38:08
 key            = 4 
 plain text     = "4ISO"
