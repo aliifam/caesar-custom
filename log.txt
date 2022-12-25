@@ -1,3 +1,11 @@
+tanggal        = 2022-12-25 08:39:43
+key            = 13 
+plain text     = "TOE1APDOB2Q82"
+encrypted text = "62)t'7,8,{=%~"
+decrypted text = "TOE1APDOB2Q82"
+plain text     = "TOE1APDOB2Q82"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-25 08:23:20
 key            = 89 
 plain text     = "VKES5CZCZA7EAWJ40N5YI81DMCPW1EIH8KVCX9XCXJTYR3I0LQUOOKBX1WU1MTMRP5VWHTYTYLEL9OBNK9CX6YF8F"
