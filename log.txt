@@ -1,3 +1,11 @@
+tanggal        = 2022-12-25 05:38:09
+key            = 22 
+plain text     = "XENNCHC816SQEPRJSQOB20"
+encrypted text = "+w#$x~zpjp0/$03,654(wv"
+decrypted text = "XENNCHC816SQEPRJSQOB20"
+plain text     = "XENNCHC816SQEPRJSQOB20"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-25 05:17:11
 key            = 29 
 plain text     = "9859DRI0EQSF4CU4JCM10ZBYPTUKH"
