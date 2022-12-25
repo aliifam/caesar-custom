@@ -1,3 +1,11 @@
+tanggal        = 2022-12-25 13:21:41
+key            = 20 
+plain text     = "W4Q5EZA58EC55RN6FW5N"
+encrypted text = "/k+n!7}rv&%vw74{.@}9"
+decrypted text = "W4Q5EZA58EC55RN6FW5N"
+plain text     = "W4Q5EZA58EC55RN6FW5N"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-25 12:34:25
 key            = 4 
 plain text     = "3JT3"
