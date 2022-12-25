@@ -1,3 +1,11 @@
+tanggal        = 2022-12-25 16:25:45
+key            = 6 
+plain text     = "I8BRPT"
+encrypted text = "#q|/.3"
+decrypted text = "I8BRPT"
+plain text     = "I8BRPT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-25 15:38:21
 key            = 6 
 plain text     = "QTLB4P"
