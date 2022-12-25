@@ -1,3 +1,11 @@
+tanggal        = 2022-12-25 04:40:57
+key            = 51 
+plain text     = "L211CQDLHJH3JITVEYYWX3GLDPGG69B02UFM4W5GGC0NGY7HU62"
+encrypted text = "V==>Q`T]Z]\H``lo_tutvRgmfskl\`jY\"rzb(exyvd%}2o#1qn"
+decrypted text = "L211CQDLHJH3JITVEYYWX3GLDPGG69B02UFM4W5GGC0NGY7HU62"
+plain text     = "L211CQDLHJH3JITVEYYWX3GLDPGG69B02UFM4W5GGC0NGY7HU62"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-25 04:23:16
 key            = 8 
 plain text     = "SCA6432R"
