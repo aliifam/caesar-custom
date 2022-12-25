@@ -1,3 +1,11 @@
+tanggal        = 2022-12-25 12:34:25
+key            = 4 
+plain text     = "3JT3"
+encrypted text = "p*5s"
+decrypted text = "3JT3"
+plain text     = "3JT3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-25 11:38:22
 key            = 45 
 plain text     = "PA11T08075A27B6BNZF4BQTU5JDG0ZM4KRGF92WO7ZKWY"
