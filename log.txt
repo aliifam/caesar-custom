@@ -1,3 +1,11 @@
+tanggal        = 2022-12-25 14:38:15
+key            = 31 
+plain text     = "DJTVU9O5TR3L2IQMGWI00BWP67129KL"
+encrypted text = "nu"%%h!f('g#h"+(#4'mn#93xzuw!46"
+decrypted text = "DJTVU9O5TR3L2IQMGWI00BWP67129KL"
+plain text     = "DJTVU9O5TR3L2IQMGWI00BWP67129KL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-25 14:16:07
 key            = 9 
 plain text     = "DALSAS3N6"
