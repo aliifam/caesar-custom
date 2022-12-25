@@ -1,3 +1,11 @@
+tanggal        = 2022-12-25 11:14:58
+key            = 26 
+plain text     = "89CRD2I0AICQ8EZGDE2RREFM3J"
+encrypted text = "SU`pcRjRdmhw_m%qoq_"#uw!f~"
+decrypted text = "89CRD2I0AICQ8EZGDE2RREFM3J"
+plain text     = "89CRD2I0AICQ8EZGDE2RREFM3J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-25 10:38:13
 key            = 77 
 plain text     = "PIYUICD4XJ95ZH5OXVC1VBM8B9WFLUMV6WO0D38HAQ6HCV685GFKAMC5Z7CHT1O5Y6F1PUP9XUI58"
