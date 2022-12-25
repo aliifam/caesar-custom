@@ -1,3 +1,11 @@
+tanggal        = 2022-12-25 23:38:17
+key            = 3 
+plain text     = "73N"
+encrypted text = "$!="
+decrypted text = "73N"
+plain text     = "73N"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-25 23:19:20
 key            = 50 
 plain text     = "AJL71Z7N5QZK2ZZARR2CO4GNXKPUCHEOU3JTBFUXB7K0BSQKR6"
