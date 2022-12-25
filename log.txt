@@ -1,3 +1,11 @@
+tanggal        = 2022-12-25 17:38:08
+key            = 4 
+plain text     = "4ISO"
+encrypted text = "^t!|"
+decrypted text = "4ISO"
+plain text     = "4ISO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-25 17:16:03
 key            = 18 
 plain text     = "10F1NA6LKLAGYV7TRJ"
