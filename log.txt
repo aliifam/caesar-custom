@@ -1,3 +1,11 @@
+tanggal        = 2022-12-25 14:16:07
+key            = 9 
+plain text     = "DALSAS3N6"
+encrypted text = "hfrzi|]yb"
+decrypted text = "DALSAS3N6"
+plain text     = "DALSAS3N6"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-25 13:38:12
 key            = 75 
 plain text     = "3QJB9BFAHN83LD4UKDWOJ64JJV7LV3YSD3N1F1ZGNRH2YMU4U3EKJ8CXGFDTYQZ27YKRGIB1RXB"
