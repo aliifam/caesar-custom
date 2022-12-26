@@ -1,3 +1,11 @@
+tanggal        = 2022-12-26 23:19:26
+key            = 6 
+plain text     = "OJCQEF"
+encrypted text = "RNHWLN"
+decrypted text = "OJCQEF"
+plain text     = "OJCQEF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-26 22:38:20
 key            = 26 
 plain text     = "0K1DDR0LIXMBJTYNJPJRD9ZQ3L"
