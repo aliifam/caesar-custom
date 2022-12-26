@@ -1,3 +1,11 @@
+tanggal        = 2022-12-26 08:40:32
+key            = 8 
+plain text     = "CKP8M4QC"
+encrypted text = "DMS<R:XK"
+decrypted text = "CKP8M4QC"
+plain text     = "CKP8M4QC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-26 08:24:41
 key            = 99 
 plain text     = "8WMSBSLHS6SAI4SLX6920SMZDV80U3QYETP59WXZ6YBO4OR69QW1QRJ3C13QLZUWCLK7OQEIVBZGL3Q5SKC0LNUL6KDIAHNSAQN"
