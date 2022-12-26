@@ -1,3 +1,11 @@
+tanggal        = 2022-12-26 17:38:24
+key            = 37 
+plain text     = "G4JLO3180I3ONETVQM9KF2L5XO1TA0IL7YSE7"
+encrypted text = "@.EHL1081K6SSK[^ZWDWS@[EiaDhVF`dPsnaT"
+decrypted text = "G4JLO3180I3ONETVQM9KF2L5XO1TA0IL7YSE7"
+plain text     = "G4JLO3180I3ONETVQM9KF2L5XO1TA0IL7YSE7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-26 17:16:34
 key            = 58 
 plain text     = "GL608Z56EEQGRWZJ8RPCPJ93KWZ09ZUH653GBEC236CZ2Q1E4A7HRTZFST"
