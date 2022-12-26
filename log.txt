@@ -1,3 +1,11 @@
+tanggal        = 2022-12-26 16:45:38
+key            = 18 
+plain text     = "NSWIDW846Q2FJMD8JE"
+encrypted text = "%+0#}3sps1q(-1)|1-"
+decrypted text = "NSWIDW846Q2FJMD8JE"
+plain text     = "NSWIDW846Q2FJMD8JE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-26 16:26:13
 key            = 80 
 plain text     = "B3PZ2TPBBGBM77ZNHFD2ORTICD478UGXPIO05CXUQYYV9SJJRKDAIV0X24G3ZJV0LSJ3DV1DK7QBR4F3"
