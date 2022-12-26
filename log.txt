@@ -1,3 +1,11 @@
+tanggal        = 2022-12-26 06:42:01
+key            = 6 
+plain text     = "GHKC8L"
+encrypted text = "WY]VLa"
+decrypted text = "GHKC8L"
+plain text     = "GHKC8L"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-26 06:24:57
 key            = 52 
 plain text     = "H57UFA63BO73ASOS8D691C1581XWPKN0VVS3QOV1SO6EPQ20EALS"
