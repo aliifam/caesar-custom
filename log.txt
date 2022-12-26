@@ -1,3 +1,11 @@
+tanggal        = 2022-12-26 09:38:17
+key            = 9 
+plain text     = "OB58MMXEQ"
+encrypted text = ";/#'=>J8E"
+decrypted text = "OB58MMXEQ"
+plain text     = "OB58MMXEQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-26 09:18:34
 key            = 55 
 plain text     = "RIUQPAFLQ1F1G88IAQPVTAOLWJOURSPU6UY0WN7D6RPWK184NDF7M73"
