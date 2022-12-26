@@ -1,3 +1,11 @@
+tanggal        = 2022-12-26 05:38:12
+key            = 16 
+plain text     = "TGM6WPU6P9LTDMD0"
+encrypted text = "[OV@b\bD_I]fWaYF"
+decrypted text = "TGM6WPU6P9LTDMD0"
+plain text     = "TGM6WPU6P9LTDMD0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-26 05:17:55
 key            = 100 
 plain text     = "KF4H01G4L8HCTCQPDUMPWWXWJ1GVUVM6W0NFAWSO9GDBWXKK9YOJT3D40144P0GQO0NB0VBP5JL8MSCHXSFZ32ZPUEWY442WEP87"
