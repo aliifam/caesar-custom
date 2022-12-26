@@ -1,3 +1,11 @@
+tanggal        = 2022-12-26 09:18:34
+key            = 55 
+plain text     = "RIUQPAFLQ1F1G88IAQPVTAOLWJOURSPU6UY0WN7D6RPWK184NDF7M73"
+encrypted text = "B:GDD6<CI*@,C56HARRYXFUS_SY`^`^dFfkCkcM[NkjrgNVSnehZq\Y"
+decrypted text = "RIUQPAFLQ1F1G88IAQPVTAOLWJOURSPU6UY0WN7D6RPWK184NDF7M73"
+plain text     = "RIUQPAFLQ1F1G88IAQPVTAOLWJOURSPU6UY0WN7D6RPWK184NDF7M73"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-26 08:40:32
 key            = 8 
 plain text     = "CKP8M4QC"
