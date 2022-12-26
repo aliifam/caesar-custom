@@ -1,3 +1,11 @@
+tanggal        = 2022-12-26 19:38:09
+key            = 15 
+plain text     = "D5350JO8054V8TZ"
+encrypted text = "eWVYUpv`Y__$e$+"
+decrypted text = "D5350JO8054V8TZ"
+plain text     = "D5350JO8054V8TZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-26 19:14:41
 key            = 45 
 plain text     = "D9HPW42LL8958T7AODI544KKOVKJ5SQ89JCOLUILOCNS8"
