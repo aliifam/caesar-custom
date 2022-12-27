@@ -1,3 +1,11 @@
+tanggal        = 2022-12-27 08:40:32
+key            = 25 
+plain text     = "KTYRPLEOQQSJRL9TIXG5HQLCC"
+encrypted text = "pz"zyvp{~!$z%~l*~0~m#-)!""
+decrypted text = "KTYRPLEOQQSJRL9TIXG5HQLCC"
+plain text     = "KTYRPLEOQQSJRL9TIXG5HQLCC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-27 08:24:44
 key            = 48 
 plain text     = "X2OLV2Q3N1WWAXULT59VQBPI2MXKYTE5EV6BYH1D27FHK412"
