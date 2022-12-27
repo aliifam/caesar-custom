@@ -1,3 +1,11 @@
+tanggal        = 2022-12-27 09:18:27
+key            = 6 
+plain text     = "TS5R89"
+encrypted text = "XX;Y@B"
+decrypted text = "TS5R89"
+plain text     = "TS5R89"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-27 08:40:32
 key            = 25 
 plain text     = "KTYRPLEOQQSJRL9TIXG5HQLCC"
