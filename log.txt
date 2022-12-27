@@ -1,3 +1,11 @@
+tanggal        = 2022-12-27 18:23:14
+key            = 7 
+plain text     = "768XLNC"
+encrypted text = "ccf)|!u"
+decrypted text = "768XLNC"
+plain text     = "768XLNC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-27 17:38:31
 key            = 39 
 plain text     = "8N4IJKKUGG6G3H9KU1XSPN1AQ2BECEK9VHA1KTK"
