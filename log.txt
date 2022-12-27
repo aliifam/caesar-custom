@@ -1,3 +1,11 @@
+tanggal        = 2022-12-27 13:38:23
+key            = 16 
+plain text     = "HHXWNY6XM86QXP8D"
+encrypted text = "op##y'c(|hg%-&mz"
+decrypted text = "HHXWNY6XM86QXP8D"
+plain text     = "HHXWNY6XM86QXP8D"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-27 13:22:45
 key            = 47 
 plain text     = "GR38V8HH6KIESEXDXT72MNJN27AIO2Z4WUW8EXM32EW91PB"
