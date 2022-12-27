@@ -1,3 +1,11 @@
+tanggal        = 2022-12-27 11:38:24
+key            = 2 
+plain text     = "B0"
+encrypted text = "7&"
+decrypted text = "B0"
+plain text     = "B0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-27 11:15:34
 key            = 76 
 plain text     = "SFGF6U4WD3PUWD2IPVLW8EHG6TR4XK1GJIQYTR8PJG9RTRFKA2SQDIA59NAW8E4HXPLETXZVYFUJ"
