@@ -1,3 +1,11 @@
+tanggal        = 2022-12-27 16:46:16
+key            = 19 
+plain text     = "9YGAMIHAMS2YB7H40Y1"
+encrypted text = "5VE@MJJDQX8`J@R?<f?"
+decrypted text = "9YGAMIHAMS2YB7H40Y1"
+plain text     = "9YGAMIHAMS2YB7H40Y1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-27 16:26:39
 key            = 79 
 plain text     = "D39HLIVDRQ6DC0JD0XXT3M3HFOBWKUODY7S24HXM8J8DC116KQNKL1KFH7U3F3ISU6NP43HW2BX7CPB"
