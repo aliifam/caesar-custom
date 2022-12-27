@@ -1,3 +1,11 @@
+tanggal        = 2022-12-27 07:17:06
+key            = 4 
+plain text     = "ZN2S"
+encrypted text = "dY>`"
+decrypted text = "ZN2S"
+plain text     = "ZN2S"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-27 06:41:39
 key            = 81 
 plain text     = "X5S38X15WL9Y7NHFTHUQU5W2V4JOO9AU88C7Q1VVBY3HA9ZQHCBYARCVWBHAD58MMUB8ECPPOW03YM6MP"
