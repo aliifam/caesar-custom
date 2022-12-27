@@ -1,3 +1,11 @@
+tanggal        = 2022-12-27 09:38:23
+key            = 62 
+plain text     = "SFRX46IO97GC318VSYG0Z9ZS2YNB9M4GMG2NYRSUFIRKLJAMJSYSEBUQS5YBDP"
+encrypted text = "manuRUip[ZkhYX`!}&s]*h,&d.$wo&l")$n-9358*.8243+86@GB53GDG*O9<I"
+decrypted text = "SFRX46IO97GC318VSYG0Z9ZS2YNB9M4GMG2NYRSUFIRKLJAMJSYSEBUQS5YBDP"
+plain text     = "SFRX46IO97GC318VSYG0Z9ZS2YNB9M4GMG2NYRSUFIRKLJAMJSYSEBUQS5YBDP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-27 09:18:27
 key            = 6 
 plain text     = "TS5R89"
