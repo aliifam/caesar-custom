@@ -1,3 +1,11 @@
+tanggal        = 2022-12-27 18:40:43
+key            = 14 
+plain text     = "JBM87KW4MNRCP1"
+encrypted text = "qjvbbw&b|~%u%e"
+decrypted text = "JBM87KW4MNRCP1"
+plain text     = "JBM87KW4MNRCP1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-27 18:23:14
 key            = 7 
 plain text     = "768XLNC"
