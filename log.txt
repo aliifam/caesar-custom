@@ -1,3 +1,11 @@
+tanggal        = 2022-12-28 21:16:32
+key            = 13 
+plain text     = "S6VA99QDGABSU"
+encrypted text = "!c&pij%w{vx,/"
+decrypted text = "S6VA99QDGABSU"
+plain text     = "S6VA99QDGABSU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-28 20:38:47
 key            = 87 
 plain text     = "CT15HP2J3QDU2BH8OM4EKYW12HWIWA068LPMX99GIY1ZWPTUX18NWFYFL4MO48MYD7L7H2626HC5733983LV0QB"
