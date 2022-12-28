@@ -1,3 +1,11 @@
+tanggal        = 2022-12-28 23:38:47
+key            = 31 
+plain text     = "G3XZXXDL94B0715VFS1EM83KKXXSVWI"
+encrypted text = "mZ"%$%pygcraidi-|,i~)so*+9:6:</"
+decrypted text = "G3XZXXDL94B0715VFS1EM83KKXXSVWI"
+plain text     = "G3XZXXDL94B0715VFS1EM83KKXXSVWI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-28 23:19:25
 key            = 7 
 plain text     = "6Z1BWFH"
