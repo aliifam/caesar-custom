@@ -1,3 +1,11 @@
+tanggal        = 2022-12-28 11:15:53
+key            = 30 
+plain text     = "1FCHEV967933U0WZXQ7VA2I4XI48V2"
+encrypted text = "\rpvt(jhjmhi.h265/t6"r,v=/y~?z"
+decrypted text = "1FCHEV967933U0WZXQ7VA2I4XI48V2"
+plain text     = "1FCHEV967933U0WZXQ7VA2I4XI48V2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-28 10:39:02
 key            = 3 
 plain text     = "32D"
