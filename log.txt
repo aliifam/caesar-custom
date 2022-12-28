@@ -1,3 +1,11 @@
+tanggal        = 2022-12-28 15:38:29
+key            = 12 
+plain text     = "I7S4BTM1JXSE"
+encrypted text = "fUrTcvpUo~zm"
+decrypted text = "I7S4BTM1JXSE"
+plain text     = "I7S4BTM1JXSE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-28 15:19:22
 key            = 79 
 plain text     = "XAY1Y2SSS0V41K6M2L9NJDCMUV73L1Z8D9KIFB6GS9SYPPL42PQBGT94XRMOC4TDLJQG8DGIZ27T350"
