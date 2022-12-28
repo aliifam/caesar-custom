@@ -1,3 +1,11 @@
+tanggal        = 2022-12-28 02:38:32
+key            = 45 
+plain text     = "NUR494NYX0FIJBLYQ6F2IIUBURCMMZSCWXKE8UYG1XDTR"
+encrypted text = "EMK.40KWW0GKMFQ_X>O<TUbPdbT_`nhYnpd_SqvePxevu"
+decrypted text = "NUR494NYX0FIJBLYQ6F2IIUBURCMMZSCWXKE8UYG1XDTR"
+plain text     = "NUR494NYX0FIJBLYQ6F2IIUBURCMMZSCWXKE8UYG1XDTR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-28 01:38:15
 key            = 28 
 plain text     = "3NIKIDWXJXVX1U51WYS9PTQRX8OW"
