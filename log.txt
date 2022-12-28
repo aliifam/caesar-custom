@@ -1,3 +1,11 @@
+tanggal        = 2022-12-28 08:40:18
+key            = 49 
+plain text     = "2Z1JMSAPP0KNSEJ5JUNU29CUB9EOYZ3LIPAGJJ902HWY7XASE"
+encrypted text = "U~Vpt{jz{\x|$u{g}+%-iq|1}u$/:<t0.6(/34$z}6FI(J4G:"
+decrypted text = "2Z1JMSAPP0KNSEJ5JUNU29CUB9EOYZ3LIPAGJJ902HWY7XASE"
+plain text     = "2Z1JMSAPP0KNSEJ5JUNU29CUB9EOYZ3LIPAGJJ902HWY7XASE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-28 08:24:16
 key            = 9 
 plain text     = "CTZ221IXW"
