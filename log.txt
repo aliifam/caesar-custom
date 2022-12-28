@@ -1,3 +1,11 @@
+tanggal        = 2022-12-28 23:19:25
+key            = 7 
+plain text     = "6Z1BWFH"
+encrypted text = "g.dv.|!"
+decrypted text = "6Z1BWFH"
+plain text     = "6Z1BWFH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-28 22:38:21
 key            = 74 
 plain text     = "9R30XND1MPC5731ECVTECXTDQXZVBUEANHNIIMPSHG52936RE49OO77DQMDCV3CMLM8II59MNC"
