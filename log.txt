@@ -1,3 +1,11 @@
+tanggal        = 2022-12-28 07:38:10
+key            = 5 
+plain text     = "O2JO5"
+encrypted text = ":|7=$"
+decrypted text = "O2JO5"
+plain text     = "O2JO5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-28 07:17:20
 key            = 90 
 plain text     = "TYQUUKDE20E5RVR30SV7T1DCGALG5W2DEGXWQ5B5YUNFQUGCZB16XDOD2ZPRZCACWICTVDPABOAT75DAYU7EIZFVTQ"
