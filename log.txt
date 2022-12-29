@@ -1,3 +1,11 @@
+tanggal        = 2022-12-29 09:38:09
+key            = 34 
+plain text     = "QDCFHBMC92K74H28G9ND5MC8WO3WBKCS5M"
+encrypted text = "H<<@C>JA82L97L7>NAWN@YPFf_DiU_XiLe"
+decrypted text = "QDCFHBMC92K74H28G9ND5MC8WO3WBKCS5M"
+plain text     = "QDCFHBMC92K74H28G9ND5MC8WO3WBKCS5M"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-29 09:18:03
 key            = 57 
 plain text     = "2M670FTN1BI8IQ36W32HOF4U1HQHN1LXZ4SRH6M889YFYBR2M5TNQ7J6H"
