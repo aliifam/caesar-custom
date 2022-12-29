@@ -1,3 +1,11 @@
+tanggal        = 2022-12-29 18:23:43
+key            = 28 
+plain text     = "KH900HNHZ0MUSX2B5V0RR73J1E1Z"
+encrypted text = "VTF>?X_ZmDbkjpK\PrMpqWTlTiV""
+decrypted text = "KH900HNHZ0MUSX2B5V0RR73J1E1Z"
+plain text     = "KH900HNHZ0MUSX2B5V0RR73J1E1Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-29 17:38:19
 key            = 46 
 plain text     = "HCNG09NXKIL1APQ7BT0WFVAC4B1HIC5BJAGLGWIAWFDU4Z"
