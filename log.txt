@@ -1,3 +1,11 @@
+tanggal        = 2022-12-29 08:40:43
+key            = 35 
+plain text     = "OEF882XCUI8Y2E73OMBJQ25GVPLSHFP1T1O"
+encrypted text = "-$&wxs<(;0~Bz0#~=<2;C%)<LGDLBAL.R0O"
+decrypted text = "OEF882XCUI8Y2E73OMBJQ25GVPLSHFP1T1O"
+plain text     = "OEF882XCUI8Y2E73OMBJQ25GVPLSHFP1T1O"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-29 08:24:40
 key            = 15 
 plain text     = "HX27T3G00P0SIPK"
