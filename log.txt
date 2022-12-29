@@ -1,3 +1,11 @@
+tanggal        = 2022-12-29 14:38:17
+key            = 54 
+plain text     = "24HEOZWWBPOM17D909EKEUNM1PF40NN1DVGYZN58BKWPOCX63U7RV9"
+encrypted text = "il#!,867#221t{+!w#072C=="B9(%DE)=PBUWL48CMZTTI_><_B^cG"
+decrypted text = "24HEOZWWBPOM17D909EKEUNM1PF40NN1DVGYZN58BKWPOCX63U7RV9"
+plain text     = "24HEOZWWBPOM17D909EKEUNM1PF40NN1DVGYZN58BKWPOCX63U7RV9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-29 14:17:19
 key            = 30 
 plain text     = "IIIPZ3FGDNPKOJNZ1BXP0ZJXE3ZJE4"
