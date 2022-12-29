@@ -1,3 +1,11 @@
+tanggal        = 2022-12-29 08:24:40
+key            = 15 
+plain text     = "HX27T3G00P0SIPK"
+encrypted text = "K\7=[;P:;\=aX`\"
+decrypted text = "HX27T3G00P0SIPK"
+plain text     = "HX27T3G00P0SIPK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-29 07:38:17
 key            = 67 
 plain text     = "5INAOLWOJTGFG6FA46AAAIL5WWW844DXYT68XOIUOYKEXUWH8F9IN9M46A4CKY0D40L"
