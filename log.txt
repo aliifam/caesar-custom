@@ -1,3 +1,11 @@
+tanggal        = 2022-12-29 13:38:12
+key            = 35 
+plain text     = "KGMHTC1Y951E6MVVI9PAFNF1UCKHFPJAXAN"
+encrypted text = "wt{w&tc.mjg|n(23'v0"(1*t;*310;6.F0>"
+decrypted text = "KGMHTC1Y951E6MVVI9PAFNF1UCKHFPJAXAN"
+plain text     = "KGMHTC1Y951E6MVVI9PAFNF1UCKHFPJAXAN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-29 13:22:56
 key            = 14 
 plain text     = "IM5F97GV6CW0AA"
