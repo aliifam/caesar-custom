@@ -1,3 +1,11 @@
+tanggal        = 2022-12-30 20:19:25
+key            = 20 
+plain text     = "DYU4M41NC3F0H9F2DC5X"
+encrypted text = "(>;y5{y9/~4}8*8%88+O"
+decrypted text = "DYU4M41NC3F0H9F2DC5X"
+plain text     = "DYU4M41NC3F0H9F2DC5X"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-30 19:38:12
 key            = 3 
 plain text     = "G99"
