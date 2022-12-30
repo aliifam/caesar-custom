@@ -1,3 +1,11 @@
+tanggal        = 2022-12-30 09:18:08
+key            = 46 
+plain text     = "RW9AUS0OSSBCR4I1N8R4QIZLCECL3AIYT351GMWDQ3MY8N"
+encrypted text = "agJShgEejk[]mPfOmXsVtm!rjmlv^mv)%cfcz#.z*k(5s,"
+decrypted text = "RW9AUS0OSSBCR4I1N8R4QIZLCECL3AIYT351GMWDQ3MY8N"
+plain text     = "RW9AUS0OSSBCR4I1N8R4QIZLCECL3AIYT351GMWDQ3MY8N"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-30 08:40:00
 key            = 2 
 plain text     = "3Y"
