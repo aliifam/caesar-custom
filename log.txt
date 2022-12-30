@@ -1,3 +1,11 @@
+tanggal        = 2022-12-30 17:16:41
+key            = 27 
+plain text     = "DPQI9HH1CQGU066U57GFL0OAGCX"
+encrypted text = "FSUN?OP:M\Sb>EFfGJ[[bGgZa^t"
+decrypted text = "DPQI9HH1CQGU066U57GFL0OAGCX"
+plain text     = "DPQI9HH1CQGU066U57GFL0OAGCX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-30 16:45:02
 key            = 47 
 plain text     = "E11PNQ7CIJL7RQXBUYN0CLYNW4QT0GK6ATHLL5GBLB5OFPT"
