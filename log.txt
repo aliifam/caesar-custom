@@ -1,3 +1,11 @@
+tanggal        = 2022-12-30 03:21:16
+key            = 15 
+plain text     = "DNHNKUF6VNYCNPT"
+encrypted text = ""-(/-8*y<5A,8;@"
+decrypted text = "DNHNKUF6VNYCNPT"
+plain text     = "DNHNKUF6VNYCNPT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-30 02:40:21
 key            = 84 
 plain text     = "F7VIYTMIV72J6QJT8E4V0OU7P454T6R3CNZP721Z2ATL9NEK9VNFO4K46EAC3ECI2GM09QJ82M3R6Z42ZRS2"
