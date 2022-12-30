@@ -1,3 +1,11 @@
+tanggal        = 2022-12-30 09:38:12
+key            = 9 
+plain text     = "IAVTLZLUA"
+encrypted text = "jcyxq"s}j"
+decrypted text = "IAVTLZLUA"
+plain text     = "IAVTLZLUA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-30 09:18:08
 key            = 46 
 plain text     = "RW9AUS0OSSBCR4I1N8R4QIZLCECL3AIYT351GMWDQ3MY8N"
