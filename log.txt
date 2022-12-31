@@ -1,3 +1,11 @@
+tanggal        = 2022-12-31 15:38:20
+key            = 47 
+plain text     = "FYWPNQ5W2CII39XHVREN5JRWUW0WY7HVMH0VCZV4HOWSP91"
+encrypted text = "n$#{z~c(bt{|gn0!0-!+q)287:r<?|0?73zC1IF%:BKHF0)"
+decrypted text = "FYWPNQ5W2CII39XHVREN5JRWUW0WY7HVMH0VCZV4HOWSP91"
+plain text     = "FYWPNQ5W2CII39XHVREN5JRWUW0WY7HVMH0VCZV4HOWSP91"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-31 15:18:10
 key            = 6 
 plain text     = "ZNOMG4"
