@@ -1,3 +1,11 @@
+tanggal        = 2022-12-31 18:22:07
+key            = 5 
+plain text     = "P6W8Q"
+encrypted text = "J1S5O"
+decrypted text = "P6W8Q"
+plain text     = "P6W8Q"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-31 17:38:13
 key            = 19 
 plain text     = "X5IS0RNJ8RPIJP3ZWHZ"
