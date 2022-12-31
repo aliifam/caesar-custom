@@ -1,3 +1,11 @@
+tanggal        = 2022-12-31 01:37:40
+key            = 10 
+plain text     = "EKWF3VVSXH"
+encrypted text = "GN[K9]^\bS"
+decrypted text = "EKWF3VVSXH"
+plain text     = "EKWF3VVSXH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-30 23:38:15
 key            = 100 
 plain text     = "0A49R28376YLYUQDDB0TI5NT6FHXPFIZTE3DJOURIHP30HARY091C5DA977H1CPDMFG9B3HVPEFXKJZB5U8CX3E6I0M0IZNKORTJ"
