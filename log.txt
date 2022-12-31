@@ -1,3 +1,11 @@
+tanggal        = 2022-12-31 09:38:11
+key            = 2 
+plain text     = "BT"
+encrypted text = "i|"
+decrypted text = "BT"
+plain text     = "BT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-31 09:17:04
 key            = 95 
 plain text     = "VMBO325DUUQDAP0PYB5CA2SRACROUWVKFKMJPMZUFNWLLVMS7NV5FI1LS3B5I61K9ITPT5XCLM1ROULVBE8FXY6U0PUMRDB"
