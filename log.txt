@@ -1,3 +1,11 @@
+tanggal        = 2022-12-31 15:18:10
+key            = 6 
+plain text     = "ZNOMG4"
+encrypted text = "%xzytb"
+decrypted text = "ZNOMG4"
+plain text     = "ZNOMG4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2022-12-31 14:38:18
 key            = 2 
 plain text     = "0X"
