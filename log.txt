@@ -1,3 +1,11 @@
+tanggal        = 2023-01-01 18:39:40
+key            = 18 
+plain text     = "HQW2AKOSF4HW86JK2J"
+encrypted text = "pz#]mx}$vez,lk"$j%"
+decrypted text = "HQW2AKOSF4HW86JK2J"
+plain text     = "HQW2AKOSF4HW86JK2J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-01 18:22:29
 key            = 57 
 plain text     = "CBGV6WZPV427IAW5PH8XGMSBH6HRRKLQKT86DUTLHUEBOV5OW5BJM98P2"
