@@ -1,3 +1,11 @@
+tanggal        = 2023-01-01 14:38:08
+key            = 29 
+plain text     = "A4GAVDP8STQ9FE6UO97ALD2250RLX"
+encrypted text = "xl"{3"/v464{++{=8#"-92!"&"E@M"
+decrypted text = "A4GAVDP8STQ9FE6UO97ALD2250RLX"
+plain text     = "A4GAVDP8STQ9FE6UO97ALD2250RLX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-01 14:16:24
 key            = 82 
 plain text     = "ORBYD36P2MG8H2B7TW9L5AJJ0HFUMWV6P2558ANIWYIQD5ZP8AQCAULXSTIRI7QD4EOGOG0LF3XCMD3BHZ"
