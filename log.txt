@@ -1,3 +1,11 @@
+tanggal        = 2023-01-02 21:16:25
+key            = 42 
+plain text     = "V0BAYTV648CJGKFV1XLXG8M1V58JDD1UTV9X12O5VM"
+encrypted text = "U0CC\X[<;@LTRWSd@h]jZLbGmMQd_`NssvZzTVt[}u"
+decrypted text = "V0BAYTV648CJGKFV1XLXG8M1V58JDD1UTV9X12O5VM"
+plain text     = "V0BAYTV648CJGKFV1XLXG8M1V58JDD1UTV9X12O5VM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-02 20:38:38
 key            = 1 
 plain text     = "R"
