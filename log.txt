@@ -1,3 +1,11 @@
+tanggal        = 2023-01-02 03:21:06
+key            = 74 
+plain text     = "SIXU2CUXKLXAHUUJXQ43KSE8YFHD99NL21MZYX7OV3L4RKJVQXAEI8V53FI117HZV1NQ7J8KJ7"
+encrypted text = "NEUS1CVZNP]GO]^Tc]AAZcVJlZ]ZPQgfMMjxxxXqyWqZyss|nsxhgfz~ghomvy{"
+decrypted text = "SIXU2CUXKLXAHUUJXQ43KSE8YFHD99NL21MZYX7OV3L4RKJVQXAEI8V53FI117HZV1NQ7J8KJ7"
+plain text     = "SIXU2CUXKLXAHUUJXQ43KSE8YFHD99NL21MZYX7OV3L4RKJVQXAEI8V53FI117HZV1NQ7J8KJ7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-02 02:40:13
 key            = 6 
 plain text     = "FIPHP5"
