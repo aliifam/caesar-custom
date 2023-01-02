@@ -1,3 +1,11 @@
+tanggal        = 2023-01-02 08:25:19
+key            = 17 
+plain text     = "WJKSTAYH967IOD0HU"
+encrypted text = "H<>GI7P@202ELB/HV"
+decrypted text = "WJKSTAYH967IOD0HU"
+plain text     = "WJKSTAYH967IOD0HU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-02 07:38:08
 key            = 58 
 plain text     = "6RIT07W7FOAMO104ANRK6E7K9RVCQTVWEFJ5KDMDBLST3WHZNJR3UPAXRY"
