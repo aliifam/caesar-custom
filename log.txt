@@ -1,3 +1,11 @@
+tanggal        = 2023-01-02 07:17:31
+key            = 7 
+plain text     = "HMYADQD"
+encrypted text = "nt#jn|p"
+decrypted text = "HMYADQD"
+plain text     = "HMYADQD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-02 06:41:39
 key            = 72 
 plain text     = "EK0JKY48J1Z8GNWMFHN3G4ZA1K2D8HD94X53UNJ6RZYI4Z436JZWW1FWJW5C9J75Z5JV018W"
