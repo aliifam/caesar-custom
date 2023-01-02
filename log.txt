@@ -1,3 +1,11 @@
+tanggal        = 2023-01-02 22:18:08
+key            = 15 
+plain text     = "T3OC00CWIOF48J5"
+encrypted text = "Q1NC12F[NUM<AT@"
+decrypted text = "T3OC00CWIOF48J5"
+plain text     = "T3OC00CWIOF48J5"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-02 21:38:23
 key            = 51 
 plain text     = "Y4PFQHO5Y4QUT1BDC9G2G8IGXI5W8IWSK1SA4FZPMBSPHUECCHZ"
