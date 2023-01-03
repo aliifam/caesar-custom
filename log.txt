@@ -1,3 +1,11 @@
+tanggal        = 2023-01-03 11:38:09
+key            = 10 
+plain text     = "NQUVOE13M9"
+encrypted text = "quz|vmZ]xe"
+decrypted text = "NQUVOE13M9"
+plain text     = "NQUVOE13M9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-03 11:15:50
 key            = 94 
 plain text     = "A9MAB40XW4YMC9SNQWVCQZVYTCQIUHUCKIWFK93LOP60ABNDB1JCGMR2SSFRB8Q028B1NFVERXLWEUDRE51V7A8P7T2U4R"
