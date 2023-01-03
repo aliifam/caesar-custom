@@ -1,3 +1,11 @@
+tanggal        = 2023-01-03 07:38:18
+key            = 82 
+plain text     = "20UQZ5QIIO1UY1ANQ06C31Y459RXPZ6AO436ECNHF62DZV58W0SLZ350KOGAUJGL5707YF1YS07UWLANVU"
+encrypted text = "|{C@J&C<=D'LQ*;IM-4B32[79>X_Xc@L[AAEUT`[ZKH[roOSsMqkzTWSotmh}sqwad^fwcem{"
+decrypted text = "20UQZ5QIIO1UY1ANQ06C31Y459RXPZ6AO436ECNHF62DZV58W0SLZ350KOGAUJGL5707YF1YS07UWLANVU"
+plain text     = "20UQZ5QIIO1UY1ANQ06C31Y459RXPZ6AO436ECNHF62DZV58W0SLZ350KOGAUJGL5707YF1YS07UWLANVU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-03 07:17:22
 key            = 12 
 plain text     = "O5D3ZW8B0IG8"
