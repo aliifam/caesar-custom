@@ -1,3 +1,11 @@
+tanggal        = 2023-01-03 20:38:36
+key            = 6 
+plain text     = "YENZYN"
+encrypted text = "@-7DD:"
+decrypted text = "YENZYN"
+plain text     = "YENZYN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-03 20:20:50
 key            = 58 
 plain text     = "W23VGJQEOCUO1UF0NSLGGCD59NP5S8MZ9M6C71LLA9P7UOR6UKUXCS8MHA"
