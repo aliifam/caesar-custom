@@ -1,3 +1,11 @@
+tanggal        = 2023-01-03 22:38:21
+key            = 42 
+plain text     = "D2OY2ACHRL8SQV65AGMMXO0DH70YNTMIWPLFKK8HGG"
+encrypted text = "@/MX2BEKVQ>ZY_@@MT[\h`BW\LFpfmgdsmjeklZkkl"
+decrypted text = "D2OY2ACHRL8SQV65AGMMXO0DH70YNTMIWPLFKK8HGG"
+plain text     = "D2OY2ACHRL8SQV65AGMMXO0DH70YNTMIWPLFKK8HGG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-03 22:18:54
 key            = 34 
 plain text     = "TDE7TV0MV53EOVS0FUEF0487GKEXDGRWBU"
