@@ -1,3 +1,11 @@
+tanggal        = 2023-01-04 09:38:45
+key            = 46 
+plain text     = "AF20FMA06DJD8S8G8V90YZKI3SEOEJMPK1YC39OWMP4EFI"
+encrypted text = "u{hg~({kr#*%x6z,|=!wCE76!B5@7=AEA(Q<-4KTKO4FHL"
+decrypted text = "AF20FMA06DJD8S8G8V90YZKI3SEOEJMPK1YC39OWMP4EFI"
+plain text     = "AF20FMA06DJD8S8G8V90YZKI3SEOEJMPK1YC39OWMP4EFI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-04 09:19:17
 key            = 34 
 plain text     = "O2LYM35JNXAEOQ7MPYEFFWK26HEAMV1VB2"
