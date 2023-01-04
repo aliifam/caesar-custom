@@ -1,3 +1,11 @@
+tanggal        = 2023-01-04 15:24:00
+key            = 6 
+plain text     = "C2F40L"
+encrypted text = "J:O>;X"
+decrypted text = "C2F40L"
+plain text     = "C2F40L"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-04 14:40:20
 key            = 94 
 plain text     = "KOXTKQIAE70EVFFWJ88ORVVN0YO77RQP4REV25FIGF26B8L7YJ90XPLHXBDE3DB1K3SVQJS2YB53D9OMPVFO52U5Z77KMQ"
