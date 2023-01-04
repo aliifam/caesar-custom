@@ -1,3 +1,11 @@
+tanggal        = 2023-01-04 06:41:37
+key            = 11 
+plain text     = "QBFK87A0UP3"
+encrypted text = "H:?E33>.TP4"
+decrypted text = "QBFK87A0UP3"
+plain text     = "QBFK87A0UP3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-04 06:24:38
 key            = 98 
 plain text     = "NZ7M1A4VRJ82T6WD06GID79AL7VD12GUSY6GIF8ZO4VH3VG53RJBG0PPJ0ZXMXQMR4Y3EFXTSLYAWLKGENMHK0T06LAW0MWG4E"
