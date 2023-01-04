@@ -1,3 +1,11 @@
+tanggal        = 2023-01-04 21:38:38
+key            = 14 
+plain text     = "A407MOVWD5NGW2"
+encrypted text = "*|y#:=EG5'A;L("
+decrypted text = "A407MOVWD5NGW2"
+plain text     = "A407MOVWD5NGW2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-04 21:17:51
 key            = 70 
 plain text     = "0YXSFZNBX4RRI65Z4GA73008T3YNRNJ34I1KX7IEJH2LZCCKRB1LHA6S81O4WO0KT080QP"
