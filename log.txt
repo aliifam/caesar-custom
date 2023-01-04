@@ -1,3 +1,11 @@
+tanggal        = 2023-01-04 17:39:17
+key            = 89 
+plain text     = "7Z07FWMRM7172ZKEJMI7Z8SCETHNIQRMKOHNFVPF28M0EBWAGFQMAWJXROYYDDPRRC6PHP5U7UHIKB5DRI3S3B8YW"
+encrypted text = "\"W_o#x~ze`gc.~y!%"o5r0!$4)0,57327181B=4!(>"86L7>>JG<SGVQOZ[GHUXYK?ZS\BcFeY[^VJZiaLmN^Uwv"
+decrypted text = "7Z07FWMRM7172ZKEJMI7Z8SCETHNIQRMKOHNFVPF28M0EBWAGFQMAWJXROYYDDPRRC6PHP5U7UHIKB5DRI3S3B8YW"
+plain text     = "7Z07FWMRM7172ZKEJMI7Z8SCETHNIQRMKOHNFVPF28M0EBWAGFQMAWJXROYYDDPRRC6PHP5U7UHIKB5DRI3S3B8YW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-04 17:20:27
 key            = 6 
 plain text     = "BTCPVO"
