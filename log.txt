@@ -1,3 +1,11 @@
+tanggal        = 2023-01-04 17:20:27
+key            = 6 
+plain text     = "BTCPVO"
+encrypted text = "H[KY`Z"
+decrypted text = "BTCPVO"
+plain text     = "BTCPVO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-04 16:34:40
 key            = 68 
 plain text     = "EA80OJXE5MGWQKQN303LS7A5Y0CZMV6PVFSZRZ4B7BEA6AO6X8AND7GYA8L7AAEJF2E0"
