@@ -1,3 +1,11 @@
+tanggal        = 2023-01-04 04:41:06
+key            = 7 
+plain text     = "O13WH4S"
+encrypted text = "#dg.~k-"
+decrypted text = "O13WH4S"
+plain text     = "O13WH4S"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-04 04:22:38
 key            = 95 
 plain text     = "LMXJ0QJCWD8HSUBO67HQZV8R05GZ2KSEWZMUZRNPUZK4IQWNZES0JBD4XTOMJCIDHWIEODS3F9FSHF78TXUDND54XTVXSIL"
