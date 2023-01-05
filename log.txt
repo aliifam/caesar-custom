@@ -1,3 +1,11 @@
+tanggal        = 2023-01-05 18:42:41
+key            = 30 
+plain text     = "VIGX838GDK4R39VJZNHKUNJQDE8JHC"
+encrypted text = "!sr&eagwu}g(ho/$5*%)4.+3'){0/+"
+decrypted text = "VIGX838GDK4R39VJZNHKUNJQDE8JHC"
+plain text     = "VIGX838GDK4R39VJZNHKUNJQDE8JHC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-05 18:25:07
 key            = 50 
 plain text     = "FBHZLYCWW5MQD0KIQLMEE3ULD96I3F6DYSKP9FBZRM675I6SXW"
