@@ -1,3 +1,11 @@
+tanggal        = 2023-01-05 15:22:41
+key            = 34 
+plain text     = "NB8COZR5SKU10V8HD7U82H1SQZF8Q81Q8Y"
+encrypted text = "pe\hu#z^}v#^^'hyvj+mh!i.-7$u1wq4z>"
+decrypted text = "NB8COZR5SKU10V8HD7U82H1SQZF8Q81Q8Y"
+plain text     = "NB8COZR5SKU10V8HD7U82H1SQZF8Q81Q8Y"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-05 14:39:03
 key            = 22 
 plain text     = "2EM4ZK9YIIGPZSE56KCREG"
