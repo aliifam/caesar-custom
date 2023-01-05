@@ -1,3 +1,11 @@
+tanggal        = 2023-01-05 07:17:31
+key            = 46 
+plain text     = "HZQK6E75M34WNOVDZM1BAP1OZSE2YDX3NAFTAGPSUE0RCI"
+encrypted text = "p%{vbred}df,$&.{4(k}}/o0<6)u?+@z8,2A/6@DG8$G9@"
+decrypted text = "HZQK6E75M34WNOVDZM1BAP1OZSE2YDX3NAFTAGPSUE0RCI"
+plain text     = "HZQK6E75M34WNOVDZM1BAP1OZSE2YDX3NAFTAGPSUE0RCI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-05 06:41:26
 key            = 6 
 plain text     = "GHW0OW"
