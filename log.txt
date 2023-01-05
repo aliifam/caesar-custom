@@ -1,3 +1,11 @@
+tanggal        = 2023-01-05 22:38:34
+key            = 20 
+plain text     = "ZET8RNHJXIACFXSANU4D"
+encrypted text = "{gw\wtor#slos($q!)gx"
+decrypted text = "ZET8RNHJXIACFXSANU4D"
+plain text     = "ZET8RNHJXIACFXSANU4D"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-05 22:19:34
 key            = 94 
 plain text     = "WRP2ND06AVBNFVXIVVFOAMMMXUVPBLPSHSYYD18FWI72OI4KQRT1UDBK07Y1ZAJ7NQTTJZY9NZL1GVPJFWJ56TVCOVW5SL"
