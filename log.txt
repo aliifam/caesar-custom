@@ -1,3 +1,11 @@
+tanggal        = 2023-01-05 17:18:04
+key            = 50 
+plain text     = "RE6VYYN90R8821ND26ALC98MPOX3ZGO5F9AYOV8BMAGHWK38OM"
+encrypted text = "#ug*./%og,qrmm-$qv$0(}}599C}G5>%7+4MDL/:F;BDTI28PO"
+decrypted text = "RE6VYYN90R8821ND26ALC98MPOX3ZGO5F9AYOV8BMAGHWK38OM"
+plain text     = "RE6VYYN90R8821ND26ALC98MPOX3ZGO5F9AYOV8BMAGHWK38OM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-05 16:31:11
 key            = 64 
 plain text     = "0B3BFAYC3RXDRO4Z1136R2KYB1E2RPJ80173MPKGZAF9ZR9WYJMVVZE82YE4YQ4C"
