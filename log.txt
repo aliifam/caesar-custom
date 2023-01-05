@@ -1,3 +1,11 @@
+tanggal        = 2023-01-05 06:41:26
+key            = 6 
+plain text     = "GHW0OW"
+encrypted text = "@BR,LU"
+decrypted text = "GHW0OW"
+plain text     = "GHW0OW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-05 06:23:19
 key            = 5 
 plain text     = "ND05D"
