@@ -1,3 +1,11 @@
+tanggal        = 2023-01-05 21:17:44
+key            = 57 
+plain text     = "J6FWMQ30ZBKFYAGJ8I44NKSJ31WYHQN1XMVYWN9W9T4YPN9ZM0RYD05Q7"
+encrypted text = "tar&{"ca.u!{1x!%r&pq.,5-ut=@0:8zD:DHG?+J-I*PHG3UI-PXD17T;"
+decrypted text = "J6FWMQ30ZBKFYAGJ8I44NKSJ31WYHQN1XMVYWN9W9T4YPN9ZM0RYD05Q7"
+plain text     = "J6FWMQ30ZBKFYAGJ8I44NKSJ31WYHQN1XMVYWN9W9T4YPN9ZM0RYD05Q7"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-05 20:38:55
 key            = 86 
 plain text     = "D0TPTDUR2JYLR0FDDAYSOR3OEL09AA9M975U5UMODM7VGBQZ3CA3U8ZV0OIQ1N4WNC56WQVYZ8CYL9NFG3WCCX"
