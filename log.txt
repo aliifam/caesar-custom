@@ -1,3 +1,11 @@
+tanggal        = 2023-01-06 19:16:02
+key            = 53 
+plain text     = "JJ8OOOBDD9EWA2XSA9BBY2FQB98XG3P0DKDKXKWRYJ908V13LPHTV"
+encrypted text = "QRAYZ[ORSIViTFmiXQ[\tNcoaYYzjWuVksmu%w&"*zjbk,fi%*#03"
+decrypted text = "JJ8OOOBDD9EWA2XSA9BBY2FQB98XG3P0DKDKXKWRYJ908V13LPHTV"
+plain text     = "JJ8OOOBDD9EWA2XSA9BBY2FQB98XG3P0DKDKXKWRYJ908V13LPHTV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-06 18:41:56
 key            = 4 
 plain text     = "0CJX"
