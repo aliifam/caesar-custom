@@ -1,3 +1,11 @@
+tanggal        = 2023-01-06 01:46:00
+key            = 8 
+plain text     = "MOEAZVCQ"
+encrypted text = "~#xu1.z+"
+decrypted text = "MOEAZVCQ"
+plain text     = "MOEAZVCQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-05 23:38:38
 key            = 49 
 plain text     = "8SOK5UFUS3D015QJHAL6685LBOQDXA14N2PR1Q0DP8IZCCIIR"
