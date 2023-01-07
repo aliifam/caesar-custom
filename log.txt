@@ -1,3 +1,11 @@
+tanggal        = 2023-01-07 13:21:39
+key            = 22 
+plain text     = "3XWOHNIVIIVW6KJKUDWJX1"
+encrypted text = "|DD=7>:H<=KM-CCEP@THW1"
+decrypted text = "3XWOHNIVIIVW6KJKUDWJX1"
+plain text     = "3XWOHNIVIIVW6KJKUDWJX1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-07 12:34:04
 key            = 81 
 plain text     = "3GFTNO104KKZSYDXYFRN0OR8P5LWAXZNG3P60KKSMTVCVV9IPE3ETXKZD0SN4OYELAXH0OKBPIEC8UBU0"
