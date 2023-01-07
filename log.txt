@@ -1,3 +1,11 @@
+tanggal        = 2023-01-07 23:18:34
+key            = 33 
+plain text     = "7INEAFDQ03Q3XCMH3EHI4E7UI4LHA1YJO"
+encrypted text = "ATZROUTbBFeHnZeaM`dfRdWvkWpmgX#sy"
+decrypted text = "7INEAFDQ03Q3XCMH3EHI4E7UI4LHA1YJO"
+plain text     = "7INEAFDQ03Q3XCMH3EHI4E7UI4LHA1YJO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-07 22:38:11
 key            = 54 
 plain text     = "OL1CF5U2N2AR4Z47GN5XKVX26UELGZIO7YZ2VODHG90WSXG0NLLHKB"
