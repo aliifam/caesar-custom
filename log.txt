@@ -1,3 +1,11 @@
+tanggal        = 2023-01-08 17:38:16
+key            = 7 
+plain text     = "974JPWW"
+encrypted text = "utr+2:;"
+decrypted text = "974JPWW"
+plain text     = "974JPWW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-08 17:16:08
 key            = 44 
 plain text     = "DB6028UMD7GD3XXKJ0TR0Q5WJASAOEJOPZ3SE02OSAW9"
