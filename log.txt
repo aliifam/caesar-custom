@@ -1,3 +1,11 @@
+tanggal        = 2023-01-08 19:14:47
+key            = 4 
+plain text     = "62I1"
+encrypted text = "xu/v"
+decrypted text = "62I1"
+plain text     = "62I1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-08 18:40:01
 key            = 47 
 plain text     = "GC62ZEGMVOZV3694D0TAM2EWZVWPZCIRSWNTTMRGJY7RD34"
