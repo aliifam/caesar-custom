@@ -1,3 +1,11 @@
+tanggal        = 2023-01-09 12:39:05
+key            = 14 
+plain text     = "GZZC5O40JLDOXI"
+encrypted text = ":NO9,G-*EHAMWI"
+decrypted text = "GZZC5O40JLDOXI"
+plain text     = "GZZC5O40JLDOXI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-09 11:38:14
 key            = 20 
 plain text     = "IAOLO9AFANXDD0W1STVG"
