@@ -1,3 +1,11 @@
+tanggal        = 2023-01-09 09:20:17
+key            = 9 
+plain text     = "W8KY4ANZ4"
+encrypted text = "B$8G#1?L'"
+decrypted text = "W8KY4ANZ4"
+plain text     = "W8KY4ANZ4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-09 08:42:55
 key            = 73 
 plain text     = "9EVRLZ5D979CJ21BZP334WE7RA3NA4FXKIV4XHB5RJ27A9743XG47AXDLHTA69T7DDRMSMEFK"
