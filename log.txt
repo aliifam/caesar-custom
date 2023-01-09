@@ -1,3 +1,11 @@
+tanggal        = 2023-01-09 08:26:09
+key            = 45 
+plain text     = "V2B28M3SCTW0XI9PZSHRGMTYLH9MUUCYRBF01AU79ABSV"
+encrypted text = ",gxip(m0!37o:,{5@:0;18@F:7)>GH7NH9>)+<Q47@BTX"
+decrypted text = "V2B28M3SCTW0XI9PZSHRGMTYLH9MUUCYRBF01AU79ABSV"
+plain text     = "V2B28M3SCTW0XI9PZSHRGMTYLH9MUUCYRBF01AU79ABSV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-09 07:38:33
 key            = 44 
 plain text     = "PYAT5FC0K0SBGT6LDHI3M9IJJ1L4P4E3PUSZ6B3I8ZSM"
