@@ -1,3 +1,11 @@
+tanggal        = 2023-01-09 22:38:41
+key            = 44 
+plain text     = "KI652LIVAUN4JPRD82SH7D2QT2LKJRCJPE8Y956T4O7O"
+encrypted text = "nm[[Ytr"l#{by"%vkf*~n|k-1n+++4&.5+}A"}!@!=&?"
+decrypted text = "KI652LIVAUN4JPRD82SH7D2QT2LKJRCJPE8Y956T4O7O"
+plain text     = "KI652LIVAUN4JPRD82SH7D2QT2LKJRCJPE8Y956T4O7O"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-09 22:19:31
 key            = 2 
 plain text     = "TJ"
