@@ -1,3 +1,11 @@
+tanggal        = 2023-01-10 03:38:54
+key            = 7 
+plain text     = "G9QGJNT"
+encrypted text = "A4MDHMT"
+decrypted text = "G9QGJNT"
+plain text     = "G9QGJNT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-10 03:21:25
 key            = 72 
 plain text     = "35H2SP840PMYMT9858IT6PYQMJW4GOKCV6ATPLVQOVW3JKCPEMOD3RQYP7J6187QJW2L7ZAO"
