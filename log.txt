@@ -1,3 +1,11 @@
+tanggal        = 2023-01-10 01:46:18
+key            = 4 
+plain text     = "MB93"
+encrypted text = "C91,"
+decrypted text = "MB93"
+plain text     = "MB93"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-09 23:38:33
 key            = 86 
 plain text     = "329FMWFHZ6UKR97OPINJZM82FOIWSTFTQ4OKJJZY5SJ8PJSIO297DBSW5NHYH9GFN8XTJRLNKXJ62YF9EL9Q4F"
