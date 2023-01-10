@@ -1,3 +1,11 @@
+tanggal        = 2023-01-10 21:18:17
+key            = 18 
+plain text     = "RMB9NOOQ79T301GUX4"
+encrypted text = "=9/'=?@C*-I)')@OS0"
+decrypted text = "RMB9NOOQ79T301GUX4"
+plain text     = "RMB9NOOQ79T301GUX4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-10 20:38:51
 key            = 14 
 plain text     = "EWQ28WE2PKU1QZ"
