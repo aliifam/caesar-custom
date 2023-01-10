@@ -1,3 +1,11 @@
+tanggal        = 2023-01-10 21:38:35
+key            = 26 
+plain text     = "I4LUTRMCKO4FCYT32TGCFA9SZB"
+encrypted text = "$n)332.%.3w,*A={{@4151*EM6"
+decrypted text = "I4LUTRMCKO4FCYT32TGCFA9SZB"
+plain text     = "I4LUTRMCKO4FCYT32TGCFA9SZB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-10 21:18:17
 key            = 18 
 plain text     = "RMB9NOOQ79T301GUX4"
