@@ -1,3 +1,11 @@
+tanggal        = 2023-01-10 05:38:08
+key            = 6 
+plain text     = "2FSJA2"
+encrypted text = "h}-%{m"
+decrypted text = "2FSJA2"
+plain text     = "2FSJA2"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-10 05:17:59
 key            = 18 
 plain text     = "MO0O88L98TBU6YZ555"
