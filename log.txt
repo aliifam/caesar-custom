@@ -1,3 +1,11 @@
+tanggal        = 2023-01-10 15:27:27
+key            = 13 
+plain text     = "8RS0TVPFUDB33"
+encrypted text = "u24p7:5,<,+{|"
+decrypted text = "8RS0TVPFUDB33"
+plain text     = "8RS0TVPFUDB33"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-10 14:43:54
 key            = 2 
 plain text     = "V8"
