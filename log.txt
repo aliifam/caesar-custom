@@ -1,3 +1,11 @@
+tanggal        = 2023-01-10 09:39:07
+key            = 1 
+plain text     = "B"
+encrypted text = "I"
+decrypted text = "B"
+plain text     = "B"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-10 09:20:07
 key            = 48 
 plain text     = "GOI3G3PG3ADI50DAP0XX6X3J4P7O8S22MV9W181APYQMQZV1"
