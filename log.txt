@@ -1,3 +1,11 @@
+tanggal        = 2023-01-10 11:38:11
+key            = 27 
+plain text     = "ETX5BY7LTHPUK3C51GHAECE9PVF"
+encrypted text = "0@E#1I(>G<EKB+</,CE?DCF;SZK"
+decrypted text = "ETX5BY7LTHPUK3C51GHAECE9PVF"
+plain text     = "ETX5BY7LTHPUK3C51GHAECE9PVF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-10 11:17:03
 key            = 3 
 plain text     = "1XT"
