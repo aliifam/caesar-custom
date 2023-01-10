@@ -1,3 +1,11 @@
+tanggal        = 2023-01-10 10:40:40
+key            = 16 
+plain text     = "170R3MA6L41YPJO8"
+encrypted text = "{$|A#>3)@)'PHCI3"
+decrypted text = "170R3MA6L41YPJO8"
+plain text     = "170R3MA6L41YPJO8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-10 10:22:08
 key            = 16 
 plain text     = "02G68INBL0DQX57U"
