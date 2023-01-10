@@ -1,3 +1,11 @@
+tanggal        = 2023-01-10 14:43:54
+key            = 2 
+plain text     = "V8"
+encrypted text = "Q4"
+decrypted text = "V8"
+plain text     = "V8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-10 14:24:04
 key            = 53 
 plain text     = "3GICP82LU0HEC4W4E6R5YQM3NA05CTLKYCVFQ6UUTW9KYEDOV56UP"
