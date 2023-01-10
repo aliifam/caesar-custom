@@ -1,3 +1,11 @@
+tanggal        = 2023-01-10 11:17:03
+key            = 3 
+plain text     = "1XT"
+encrypted text = "Mur"
+decrypted text = "1XT"
+plain text     = "1XT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-10 10:40:40
 key            = 16 
 plain text     = "170R3MA6L41YPJO8"
