@@ -1,3 +1,11 @@
+tanggal        = 2023-01-10 20:38:51
+key            = 14 
+plain text     = "EWQ28WE2PKU1QZ"
+encrypted text = "6ID&-M<*IEP-NX"
+decrypted text = "EWQ28WE2PKU1QZ"
+plain text     = "EWQ28WE2PKU1QZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-10 20:20:42
 key            = 58 
 plain text     = "O9R74KP1ZF256Z0WOTUVR7X7ZVY9V6KZWQ9TUZ91AVU5HROXN5LTFW4ICO"
