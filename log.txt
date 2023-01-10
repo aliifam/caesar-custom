@@ -1,3 +1,11 @@
+tanggal        = 2023-01-10 06:26:01
+key            = 24 
+plain text     = "M26JI0ILPIMKSX70W5CXH9VK"
+encrypted text = "rX]rrZtx}w|{&,jd.kz2#s3)"
+decrypted text = "M26JI0ILPIMKSX70W5CXH9VK"
+plain text     = "M26JI0ILPIMKSX70W5CXH9VK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-10 05:38:08
 key            = 6 
 plain text     = "2FSJA2"
