@@ -1,3 +1,11 @@
+tanggal        = 2023-01-11 20:21:22
+key            = 5 
+plain text     = "WQASJ"
+encrypted text = "upatl"
+decrypted text = "WQASJ"
+plain text     = "WQASJ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-11 19:38:29
 key            = 34 
 plain text     = "AUCD2I4PLKOXWVGB3URRG21Q6FLBEV9ZDQ"
