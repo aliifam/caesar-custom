@@ -1,3 +1,11 @@
+tanggal        = 2023-01-11 14:27:48
+key            = 30 
+plain text     = "CBDKTZT9XH8DVXORFL6WHH5Y0NHJTP"
+encrypted text = "oorz&-(l.}n{03+/$+t8*+w>t503>;"
+decrypted text = "CBDKTZT9XH8DVXORFL6WHH5Y0NHJTP"
+plain text     = "CBDKTZT9XH8DVXORFL6WHH5Y0NHJTP"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-11 13:45:03
 key            = 24 
 plain text     = "Y6MX5FO56DIBY4LF21L9GZ30"
