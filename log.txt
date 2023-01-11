@@ -1,3 +1,11 @@
+tanggal        = 2023-01-11 15:35:54
+key            = 48 
+plain text     = "LGTIMVL59XGA92XHX3ZPUSU48IICTPS06NZQAQQ1K4I8FCCY"
+encrypted text = "40>49C:$)I94-'N?P,TKQPS38JKFXUY7>Wd\M^_@[E[KZXYp"
+decrypted text = "LGTIMVL59XGA92XHX3ZPUSU48IICTPS06NZQAQQ1K4I8FCCY"
+plain text     = "LGTIMVL59XGA92XHX3ZPUSU48IICTPS06NZQAQQ1K4I8FCCY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-11 14:51:28
 key            = 65 
 plain text     = "W938XYMHM51HFKP8C0XDF79AHKWW5PLEGKRJMW7TKDTVRFATWA7VCSTV7IRTKO2XW"
