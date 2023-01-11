@@ -1,3 +1,11 @@
+tanggal        = 2023-01-11 20:39:09
+key            = 43 
+plain text     = "CHC8R2AFBC8AH0HAYO6RX3VFLKGKZ876AQTJSPVQ4GB"
+encrypted text = "rxtj'fv|y{q{%l'!:1w6=w=.5527G&&&2CG>HFMI-A="
+decrypted text = "CHC8R2AFBC8AH0HAYO6RX3VFLKGKZ876AQTJSPVQ4GB"
+plain text     = "CHC8R2AFBC8AH0HAYO6RX3VFLKGKZ876AQTJSPVQ4GB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-11 20:21:22
 key            = 5 
 plain text     = "WQASJ"
