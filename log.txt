@@ -1,3 +1,11 @@
+tanggal        = 2023-01-11 01:43:45
+key            = 3 
+plain text     = "KGH"
+encrypted text = "spr"
+decrypted text = "KGH"
+plain text     = "KGH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-10 23:38:27
 key            = 63 
 plain text     = "JDFJEASGNTRJ6A7FPN4TY07GKM1IGOUK6WHBPJJV47T9ISEVOL3JTDC07JLLFBA"
