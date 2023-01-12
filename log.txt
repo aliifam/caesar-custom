@@ -1,3 +1,11 @@
+tanggal        = 2023-01-12 08:44:54
+key            = 29 
+plain text     = "VZWGAMPYKVCZBQIAI3MYXS690QKIE"
+encrypted text = "x}{lgtx$u#o)p"yr{f#00,nrj.)(%"
+decrypted text = "VZWGAMPYKVCZBQIAI3MYXS690QKIE"
+plain text     = "VZWGAMPYKVCZBQIAI3MYXS690QKIE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-12 08:27:08
 key            = 67 
 plain text     = "LZXHCKI2RHDB2DSZ4RSX3B0GLFRPI56J9NX3CZYSXIWJBFEOAV1O98N59JN0OHXXF4O"
