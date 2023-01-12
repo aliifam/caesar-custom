@@ -1,3 +1,11 @@
+tanggal        = 2023-01-12 02:44:03
+key            = 7 
+plain text     = "XGJKW71"
+encrypted text = "eUY[hID"
+decrypted text = "XGJKW71"
+plain text     = "XGJKW71"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-12 01:44:00
 key            = 95 
 plain text     = "2RD9V2J6M6915AWK02EEJRNT0D27CUROS7AP54EJLCRQEOYZJFZHF4IWLGOCDZRI837ESNL07PLR6OR21B4LWPVFSUOLEXA"
