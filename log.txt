@@ -1,3 +1,11 @@
+tanggal        = 2023-01-12 06:25:20
+key            = 29 
+plain text     = "185MHICMIRAM7IN1XVR1H24TKM9WR"
+encrypted text = "EMKd`b]heo_lWjpT|{xXp[^!wzg($"
+decrypted text = "185MHICMIRAM7IN1XVR1H24TKM9WR"
+plain text     = "185MHICMIRAM7IN1XVR1H24TKM9WR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-12 05:38:18
 key            = 23 
 plain text     = "PD4CV8ONRQ8OXYDYLYPSYHY"
