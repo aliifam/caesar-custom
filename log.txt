@@ -1,3 +1,11 @@
+tanggal        = 2023-01-12 07:38:04
+key            = 18 
+plain text     = "GKJM46Y1OVAVPS0VSR"
+encrypted text = ")..2x{Ax9A-C>B~GEE"
+decrypted text = "GKJM46Y1OVAVPS0VSR"
+plain text     = "GKJM46Y1OVAVPS0VSR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-12 07:17:55
 key            = 28 
 plain text     = "L363EQJQ7IC0FKH9BHFF3U37H9QV"
