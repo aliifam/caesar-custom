@@ -1,3 +1,11 @@
+tanggal        = 2023-01-12 05:18:22
+key            = 42 
+plain text     = "DK473M2XLMAGQVLCUD8MPRSTZZTFI3VXGJZW0RA3BG"
+encrypted text = "V^HLIdJqfh]douldwg\rvy{}&'"swb(+y}0.f+yl|$"
+decrypted text = "DK473M2XLMAGQVLCUD8MPRSTZZTFI3VXGJZW0RA3BG"
+plain text     = "DK473M2XLMAGQVLCUD8MPRSTZZTFI3VXGJZW0RA3BG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-12 04:41:50
 key            = 22 
 plain text     = "RXQRPPT3LAAJGJHU6MBMW3"
