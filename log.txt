@@ -1,3 +1,11 @@
+tanggal        = 2023-01-12 16:44:31
+key            = 17 
+plain text     = "UTCZ1Z6XPTSG6HB3D"
+encrypted text = "88(@vB}B;@@5%83%7"
+decrypted text = "UTCZ1Z6XPTSG6HB3D"
+plain text     = "UTCZ1Z6XPTSG6HB3D"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-12 15:33:09
 key            = 18 
 plain text     = "3BUEIEMH8CXZDB3ICU"
