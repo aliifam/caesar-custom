@@ -1,3 +1,11 @@
+tanggal        = 2023-01-12 12:41:19
+key            = 17 
+plain text     = "BTO3H8YDQ3BH0GGJ9"
+encrypted text = "FYU:PAcO]@PW@XY]M"
+decrypted text = "BTO3H8YDQ3BH0GGJ9"
+plain text     = "BTO3H8YDQ3BH0GGJ9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-12 11:39:07
 key            = 79 
 plain text     = "F48I3HKE8N2D0VKFCTMNWQAKDSNKRDQ6E1V2TUZCR3X53F77YNSHDU20K545VSAG5E8IC4M209LH8MA"
