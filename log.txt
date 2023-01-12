@@ -1,3 +1,11 @@
+tanggal        = 2023-01-12 07:17:55
+key            = 28 
+plain text     = "L363EQJQ7IC0FKH9BHFF3U37H9QV"
+encrypted text = "P8<:MZT\CVQ?V\ZLV]\]KnMRdVou"
+decrypted text = "L363EQJQ7IC0FKH9BHFF3U37H9QV"
+plain text     = "L363EQJQ7IC0FKH9BHFF3U37H9QV"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-12 06:41:48
 key            = 74 
 plain text     = "5TN0BHYOJ0CEB46Q1Y7LXPEARWQ4MMGMOSOWY68H32BJNHB36M14D00P09F3UCJ1G15IX68Q4V"
