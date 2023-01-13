@@ -1,3 +1,11 @@
+tanggal        = 2023-01-13 17:17:58
+key            = 19 
+plain text     = "5Q4H788OQ2VPWQKAPQT"
+encrypted text = "[x\qacd|!a(#+&!v(*."
+decrypted text = "5Q4H788OQ2VPWQKAPQT"
+plain text     = "5Q4H788OQ2VPWQKAPQT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-13 16:32:45
 key            = 48 
 plain text     = "4SHFD4L4NB5H062VFDC1LQYRJ6LB84RGNM00U1TVHID4ZG0J"
