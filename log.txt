@@ -1,3 +1,11 @@
+tanggal        = 2023-01-13 14:39:02
+key            = 14 
+plain text     = "PETNS6IR1R9PRT"
+encrypted text = "uk{v|`t~^"h"%("
+decrypted text = "PETNS6IR1R9PRT"
+plain text     = "PETNS6IR1R9PRT"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-13 14:19:30
 key            = 78 
 plain text     = "AZB0SYF2VRKVIHSPPCSRRE7SBQF7682PBRZCU68UT6LEZSKV62U2AJXQ8KSFHCH8PMJR68HZACQF9G"
