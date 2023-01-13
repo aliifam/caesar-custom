@@ -1,3 +1,11 @@
+tanggal        = 2023-01-13 20:20:48
+key            = 49 
+plain text     = "AH78KNX1VGMV1K8YVPTWUWDQ9RJK3GOOFUST7JGRC21RUMM57"
+encrypted text = "iqacw{(`(x!+e"n20+0436$2y5.0w.780@?A%97C5%%GKDE.1"
+decrypted text = "AH78KNX1VGMV1K8YVPTWUWDQ9RJK3GOOFUST7JGRC21RUMM57"
+plain text     = "AH78KNX1VGMV1K8YVPTWUWDQ9RJK3GOOFUST7JGRC21RUMM57"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-13 19:38:24
 key            = 80 
 plain text     = "MXLAQ6W2AYD6D6H1ESKGPZBST4LY8DIVVN2E1PA639P8LR95KAB5L1GVX3SM2G3LNFKUGOPSREEBZ8QE"
