@@ -1,3 +1,11 @@
+tanggal        = 2023-01-13 22:38:29
+key            = 21 
+plain text     = "H9LGJR2MT4NGQ9SHKBCYD"
+encrypted text = "{m#}#,k)1p-'2y6,0(*A-"
+decrypted text = "H9LGJR2MT4NGQ9SHKBCYD"
+plain text     = "H9LGJR2MT4NGQ9SHKBCYD"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-13 22:18:38
 key            = 2 
 plain text     = "P5"
