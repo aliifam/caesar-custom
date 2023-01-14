@@ -1,3 +1,11 @@
+tanggal        = 2023-01-14 11:15:09
+key            = 14 
+plain text     = "95R4C5KST46WTK"
+encrypted text = "\YwZj]t}!`c'%{"
+decrypted text = "95R4C5KST46WTK"
+plain text     = "95R4C5KST46WTK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-14 10:38:22
 key            = 14 
 plain text     = "9B48MUQ43KXK4C"
