@@ -1,3 +1,11 @@
+tanggal        = 2023-01-14 02:37:00
+key            = 3 
+plain text     = "LCZ"
+encrypted text = "sk%"
+decrypted text = "LCZ"
+plain text     = "LCZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-14 01:37:01
 key            = 73 
 plain text     = "WN3QPXCZ8H4HQNPZEY9BNUCST5GISW8ED9RRZI77HY2H64620Q1PQG63SM25AK2BT85VYF8MM"
