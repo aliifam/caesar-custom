@@ -1,3 +1,11 @@
+tanggal        = 2023-01-14 14:17:36
+key            = 12 
+plain text     = "R8CNSOC6WXL1"
+encrypted text = "=$0<B?4(JLA'"
+decrypted text = "R8CNSOC6WXL1"
+plain text     = "R8CNSOC6WXL1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-14 13:38:28
 key            = 73 
 plain text     = "NRN0HNICSONVT5IHP34ULCBKBZG1K9KE3SS27DL7CVJY1NNKF09V1R5C3C5BU06HWRO2EZV7W"
