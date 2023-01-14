@@ -1,3 +1,11 @@
+tanggal        = 2023-01-14 18:39:40
+key            = 3 
+plain text     = "VU1"
+encrypted text = "{{X"
+decrypted text = "VU1"
+plain text     = "VU1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-14 18:22:23
 key            = 56 
 plain text     = "IU0CPSLSOT2N3DDO3FVVGNBNH5XW458R70CCL7ANUJA3TU2AFWPJUKHQ"
