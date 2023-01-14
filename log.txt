@@ -1,3 +1,11 @@
+tanggal        = 2023-01-14 19:14:25
+key            = 15 
+plain text     = "9120UZ7P8AXVW4Z"
+encrypted text = "^WYX~&b|eo)(*f/"
+decrypted text = "9120UZ7P8AXVW4Z"
+plain text     = "9120UZ7P8AXVW4Z"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-14 18:39:40
 key            = 3 
 plain text     = "VU1"
