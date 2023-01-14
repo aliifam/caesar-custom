@@ -1,3 +1,11 @@
+tanggal        = 2023-01-14 03:38:20
+key            = 12 
+plain text     = "4F88V040PSFM"
+encrypted text = "4G:;Z5:7X\PX"
+decrypted text = "4F88V040PSFM"
+plain text     = "4F88V040PSFM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-14 03:21:02
 key            = 6 
 plain text     = "MNHT7V"
