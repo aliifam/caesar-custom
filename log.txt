@@ -1,3 +1,11 @@
+tanggal        = 2023-01-14 14:38:14
+key            = 21 
+plain text     = "5MA213PXFGBK0JNANRMA3"
+encrypted text = "7PE77:XaPRNX>Y^R`eaVI"
+decrypted text = "5MA213PXFGBK0JNANRMA3"
+plain text     = "5MA213PXFGBK0JNANRMA3"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-14 14:17:36
 key            = 12 
 plain text     = "R8CNSOC6WXL1"
