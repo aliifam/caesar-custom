@@ -1,3 +1,11 @@
+tanggal        = 2023-01-14 10:38:22
+key            = 14 
+plain text     = "9B48MUQ43KXK4C"
+encrypted text = ">H;@V_\@@Yg[EU"
+decrypted text = "9B48MUQ43KXK4C"
+plain text     = "9B48MUQ43KXK4C"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-14 10:19:58
 key            = 63 
 plain text     = "NK6DAUG16I8OU4BE5740159NFETN9R9TNF70K3O569ZWROGZESZMBB50VGCM1UX"
