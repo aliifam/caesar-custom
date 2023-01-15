@@ -1,3 +1,11 @@
+tanggal        = 2023-01-15 07:16:58
+key            = 19 
+plain text     = "N12EGVMJCGEOXV48TEB"
+encrypted text = "G+-ADTLJDIHS]\;@]OM"
+decrypted text = "N12EGVMJCGEOXV48TEB"
+plain text     = "N12EGVMJCGEOXV48TEB"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-15 06:40:50
 key            = 39 
 plain text     = "QROW73WX2K9OWFNL0HDDASRHS771DIK6PBD3XNJ"
