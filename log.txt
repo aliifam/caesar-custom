@@ -1,3 +1,11 @@
+tanggal        = 2023-01-15 08:40:24
+key            = 22 
+plain text     = "DWY2E59JWIRC88HI8TAESE"
+encrypted text = "cwzThY^p~q{mcduwg&rw(y"
+decrypted text = "DWY2E59JWIRC88HI8TAESE"
+plain text     = "DWY2E59JWIRC88HI8TAESE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-15 08:24:00
 key            = 60 
 plain text     = "W2KZCV4A5LORXHQ6DSDHQMOO1H6K5BTJRNE32Q5DK7O954X1W1ZVPXSC9CNU"
