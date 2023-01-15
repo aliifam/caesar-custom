@@ -1,3 +1,11 @@
+tanggal        = 2023-01-15 03:20:41
+key            = 21 
+plain text     = "G39E031D370WT1JRKI1FU"
+encrypted text = "B/6C/32F6;5][9S\VU>Td"
+decrypted text = "G39E031D370WT1JRKI1FU"
+plain text     = "G39E031D370WT1JRKI1FU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-15 02:46:35
 key            = 77 
 plain text     = "TYWDFCD1EXKVTP4DV0GI2YSGUA0TZF3QE6AYGR7RU3117RJSVU75Z4E5ZWJZIWZ8GSKVG1VP7EK7K"
