@@ -1,3 +1,11 @@
+tanggal        = 2023-01-15 16:44:18
+key            = 53 
+plain text     = "FJHHL7GPZKHXVMI3PMO4ZJA63573ADY7PS3LIOGDKE7Z4ZMPIB8Z4"
+encrypted text = "glklq]nx%us&%{xc#!$h1"xnloro~$:w37v2070.61$H#J>B<6-P+"
+decrypted text = "FJHHL7GPZKHXVMI3PMO4ZJA63573ADY7PS3LIOGDKE7Z4ZMPIB8Z4"
+plain text     = "FJHHL7GPZKHXVMI3PMO4ZJA63573ADY7PS3LIOGDKE7Z4ZMPIB8Z4"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-15 16:25:26
 key            = 20 
 plain text     = "42JNK80DQDXJCA0GBRZW"
