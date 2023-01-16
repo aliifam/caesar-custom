@@ -1,3 +1,11 @@
+tanggal        = 2023-01-16 22:18:37
+key            = 9 
+plain text     = "4SA1AHJ3H"
+encrypted text = "/O>/@HK5K"
+decrypted text = "4SA1AHJ3H"
+plain text     = "4SA1AHJ3H"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-16 21:38:22
 key            = 12 
 plain text     = "3M18GPNR6RDR"
