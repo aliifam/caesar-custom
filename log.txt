@@ -1,3 +1,11 @@
+tanggal        = 2023-01-16 12:40:44
+key            = 9 
+plain text     = "GC42MUCCZ"
+encrypted text = "'$ts1:)*B"
+decrypted text = "GC42MUCCZ"
+plain text     = "GC42MUCCZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-16 11:38:17
 key            = 86 
 plain text     = "EXXK72UAXGUE8YQ903NSAWU595PA7XC6OO0Q7XU99K68EFQY71Q4051L74XO1UHLJ9RLKFF431KV35U2CNHQS8"
