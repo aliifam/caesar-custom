@@ -1,3 +1,11 @@
+tanggal        = 2023-01-16 21:38:22
+key            = 12 
+plain text     = "3M18GPNR6RDR"
+encrypted text = "e"em})(-p/"1"
+decrypted text = "3M18GPNR6RDR"
+plain text     = "3M18GPNR6RDR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-16 21:16:56
 key            = 77 
 plain text     = "4N283JYT67IDW5AG7WQ4UESZL947ZAX0CLCMW0C3OBY3U1M1M2YZLIBRUL7VU8HN7UE46834X5WB7"
