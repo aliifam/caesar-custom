@@ -1,3 +1,11 @@
+tanggal        = 2023-01-16 13:41:02
+key            = 47 
+plain text     = "EZ1284UKTSHCDAODQLED2KS6XO04GCPDWRZ5GNE7FQDKXAR"
+encrypted text = "$:pryv:1;;1-/-<2@<66%?H,OG).B?MBVR[7JRJ=MYMUcM_"
+decrypted text = "EZ1284UKTSHCDAODQLED2KS6XO04GCPDWRZ5GNE7FQDKXAR"
+plain text     = "EZ1284UKTSHCDAODQLED2KS6XO04GCPDWRZ5GNE7FQDKXAR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-16 13:27:24
 key            = 82 
 plain text     = "BKA7BEQ3FRZRZ9MSG8RWE429GUCTRYQV4BZFUM488TZK4EQU2NDJGQXPZEB5YZGZUC4G0ZC23CMYO4NDB9"
