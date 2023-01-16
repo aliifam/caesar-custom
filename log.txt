@@ -1,3 +1,11 @@
+tanggal        = 2023-01-16 01:42:01
+key            = 23 
+plain text     = "FYO1ZRJLCE4Z88R5XT6JY25"
+encrypted text = "{1(i5.'*"%s<yz7y?<}4D|""
+decrypted text = "FYO1ZRJLCE4Z88R5XT6JY25"
+plain text     = "FYO1ZRJLCE4Z88R5XT6JY25"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-15 23:38:38
 key            = 18 
 plain text     = "T5DLZNJ0WZOB1B83KS"
