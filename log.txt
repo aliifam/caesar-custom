@@ -1,3 +1,11 @@
+tanggal        = 2023-01-16 17:18:11
+key            = 20 
+plain text     = "HDMZ5KNY8H1A0UW2Y74O"
+encrypted text = "pmw'ax|*hyctd,/i3pn,"
+decrypted text = "HDMZ5KNY8H1A0UW2Y74O"
+plain text     = "HDMZ5KNY8H1A0UW2Y74O"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-16 16:47:06
 key            = 1 
 plain text     = "N"
