@@ -1,3 +1,11 @@
+tanggal        = 2023-01-17 16:47:33
+key            = 10 
+plain text     = "KME9FOQYYC"
+encrypted text = "runcq{~)*s"
+decrypted text = "KME9FOQYYC"
+plain text     = "KME9FOQYYC"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-17 16:27:28
 key            = 88 
 plain text     = "O7A59XNWS9J4TGC25DZTX0RHSYPPSTATMA2F94A7RK680JNPCCTQELQB1JSVT8BQ5MI7JPIGXC0CX926MK1Q1F69"
