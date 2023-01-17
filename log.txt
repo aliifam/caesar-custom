@@ -1,3 +1,11 @@
+tanggal        = 2023-01-17 17:38:12
+key            = 32 
+plain text     = "V43F9AUSDEX2VZXGT0Y7RU1ZK112HAXL"
+encrypted text = "/ll"t}43%';t;@?/=xD#?C~J<#$&=7OD"
+decrypted text = "V43F9AUSDEX2VZXGT0Y7RU1ZK112HAXL"
+plain text     = "V43F9AUSDEX2VZXGT0Y7RU1ZK112HAXL"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-17 17:17:44
 key            = 99 
 plain text     = "84OT9GXCAFQ5N46FF4ZMWUZ8IR1QPSI4I8WGX1C09UFHK671KGHAFBIVQNBQM3XJXGGNKJEHVZNFB26ECXBFO2OBMPLSW68R604"
