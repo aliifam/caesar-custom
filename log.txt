@@ -1,3 +1,11 @@
+tanggal        = 2023-01-18 19:30:48
+key            = 27 
+plain text     = "X6MCXYGBU4YCTN77X6A2VNAKU5D"
+encrypted text = "vUmdz|kg{[#l~ycd(eqc*#u"-l|"
+decrypted text = "X6MCXYGBU4YCTN77X6A2VNAKU5D"
+plain text     = "X6MCXYGBU4YCTN77X6A2VNAKU5D"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-18 18:23:58
 key            = 72 
 plain text     = "8WSZRSNOJVGTQUDYBFIPU21GXJN8NF3FYR7NLOSM1BEYUVX65KIU53Q41910O9IWIU11K7JQ"
