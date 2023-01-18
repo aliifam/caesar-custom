@@ -1,3 +1,11 @@
+tanggal        = 2023-01-18 08:25:31
+key            = 3 
+plain text     = "CHY"
+encrypted text = "]cu"
+decrypted text = "CHY"
+plain text     = "CHY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-18 07:38:16
 key            = 82 
 plain text     = "5PBET67RXUZFERS6G1UXX4YM0E7DBA8WCMUGC8YOJXFH0T7LASX7W0KYT3L8CLIXZOQBXQPVBPSO98HS8O"
