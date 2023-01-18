@@ -1,3 +1,11 @@
+tanggal        = 2023-01-18 22:38:21
+key            = 36 
+plain text     = "VRTC2SCO83QFKEJZIGTHI76IIBGW3Z1RRFNQ"
+encrypted text = "-*-{k/~-uq2(.)/@0/=24##7828I&N&HI>GK"
+decrypted text = "VRTC2SCO83QFKEJZIGTHI76IIBGW3Z1RRFNQ"
+plain text     = "VRTC2SCO83QFKEJZIGTHI76IIBGW3Z1RRFNQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-18 22:19:12
 key            = 63 
 plain text     = "NPXX49UOV085CS51N9H51NRM82FP58FJDXNY1555G1JLVAVG85BLVPNZXIWE6EN"
