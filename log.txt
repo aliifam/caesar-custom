@@ -1,3 +1,11 @@
+tanggal        = 2023-01-18 13:39:28
+key            = 47 
+plain text     = "BK599SNMEEVNTMDYPLMTLQULHQ6TI2156YMZPG2LVBTKI08"
+encrypted text = "akV[\wsslm!x!yq)!|~(!',$!+o0&nnsu;0>5-w4?,?76|'"
+decrypted text = "BK599SNMEEVNTMDYPLMTLQULHQ6TI2156YMZPG2LVBTKI08"
+plain text     = "BK599SNMEEVNTMDYPLMTLQULHQ6TI2156YMZPG2LVBTKI08"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-18 13:25:25
 key            = 19 
 plain text     = "GUQ936HAGFWWPGTPRCZ"
