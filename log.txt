@@ -1,3 +1,11 @@
+tanggal        = 2023-01-18 21:38:56
+key            = 3 
+plain text     = "0AI"
+encrypted text = "@R["
+decrypted text = "0AI"
+plain text     = "0AI"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-18 21:17:30
 key            = 86 
 plain text     = "27XX8IIMNHKDYAEEXZFPYVRS8JPEO8HCEPCQ8BEG16PUNF8DCP42FBS73BYK18Y0IORDWA36TNHGPVLX8JCPG0"
