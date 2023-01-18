@@ -1,3 +1,11 @@
+tanggal        = 2023-01-18 14:18:14
+key            = 18 
+plain text     = "27K06PRYZ4SFPCWLLR"
+encrypted text = ">DY?FadlnIi]h\qgho"
+decrypted text = "27K06PRYZ4SFPCWLLR"
+plain text     = "27K06PRYZ4SFPCWLLR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-18 13:39:28
 key            = 47 
 plain text     = "BK599SNMEEVNTMDYPLMTLQULHQ6TI2156YMZPG2LVBTKI08"
