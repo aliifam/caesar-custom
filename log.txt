@@ -1,3 +1,11 @@
+tanggal        = 2023-01-20 05:38:20
+key            = 37 
+plain text     = "HNXT4C1R7PVCORL8YNDAV5Q1D8EKIMIXGEGDO"
+encrypted text = "dkvsTdSu[u|jw{vc'{rp(f%dxm{$#(%5%$'%1"
+decrypted text = "HNXT4C1R7PVCORL8YNDAV5Q1D8EKIMIXGEGDO"
+plain text     = "HNXT4C1R7PVCORL8YNDAV5Q1D8EKIMIXGEGDO"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-20 05:18:30
 key            = 87 
 plain text     = "M5QMJXZDWK7D36WEW4WR9V8H0O90PSYUNSIHL2G8LG2GQG81GCHQGESYEKJ1WPLCDPIPQWMJBJ3QZ9X31EDQT80"
