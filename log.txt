@@ -1,3 +1,11 @@
+tanggal        = 2023-01-20 14:38:23
+key            = 27 
+plain text     = "O70LKM0F2R651KGU7WLAZDT3QLX"
+encrypted text = "-tn--0r+v9||y63B%F<2L7H(GCP"
+decrypted text = "O70LKM0F2R651KGU7WLAZDT3QLX"
+plain text     = "O70LKM0F2R651KGU7WLAZDT3QLX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-20 14:18:28
 key            = 44 
 plain text     = "RWCB195L73RODF7WW67OH3LASFG20V7HF4ZH5T4PWC6B"
