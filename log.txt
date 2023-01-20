@@ -1,3 +1,11 @@
+tanggal        = 2023-01-20 22:18:31
+key            = 23 
+plain text     = "SBQRE86J5APPB1PU64V7T0A"
+encrypted text = "jZjl`TShTaqreUu{]\!a!\n"
+decrypted text = "SBQRE86J5APPB1PU64V7T0A"
+plain text     = "SBQRE86J5APPB1PU64V7T0A"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-20 21:38:28
 key            = 45 
 plain text     = "KWG5Z7I7B53OJVBCKSE0MGQ0Z5QM6M74WDBBRMP2QGFRX"
