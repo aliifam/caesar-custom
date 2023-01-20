@@ -1,3 +1,11 @@
+tanggal        = 2023-01-20 01:44:58
+key            = 12 
+plain text     = "RAOEV2S53K7E"
+encrypted text = "/}.%7r6wv1|-"
+decrypted text = "RAOEV2S53K7E"
+plain text     = "RAOEV2S53K7E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-19 23:38:37
 key            = 21 
 plain text     = "W6RX5ES9PCROR8FPSS4NW"
