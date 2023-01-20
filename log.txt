@@ -1,3 +1,11 @@
+tanggal        = 2023-01-20 16:48:55
+key            = 16 
+plain text     = "PAP89K12B84EHP3E"
+encrypted text = "RDT=?R9;LC@RV_CV"
+decrypted text = "PAP89K12B84EHP3E"
+plain text     = "PAP89K12B84EHP3E"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-20 16:28:25
 key            = 1 
 plain text     = "B"
