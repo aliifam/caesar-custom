@@ -1,3 +1,11 @@
+tanggal        = 2023-01-20 22:38:17
+key            = 39 
+plain text     = "GUC3WF32RG8A1O9MUIQZHVJBSH4LAFC5UEOQW1V"
+encrypted text = "AP?0UE33TJ<F7VAV_T]gVeZSe[HaW][No`knuPv"
+decrypted text = "GUC3WF32RG8A1O9MUIQZHVJBSH4LAFC5UEOQW1V"
+plain text     = "GUC3WF32RG8A1O9MUIQZHVJBSH4LAFC5UEOQW1V"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-20 22:18:31
 key            = 23 
 plain text     = "SBQRE86J5APPB1PU64V7T0A"
