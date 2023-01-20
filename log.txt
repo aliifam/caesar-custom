@@ -1,3 +1,11 @@
+tanggal        = 2023-01-20 14:18:28
+key            = 44 
+plain text     = "RWCB195L73RODF7WW67OH3LASFG20V7HF4ZH5T4PWC6B"
+encrypted text = "'-xxhqn(ro1/%(x;<z|71{7-@46"!H*<;*Q@.N/LTA5B"
+decrypted text = "RWCB195L73RODF7WW67OH3LASFG20V7HF4ZH5T4PWC6B"
+plain text     = "RWCB195L73RODF7WW67OH3LASFG20V7HF4ZH5T4PWC6B"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-20 13:39:52
 key            = 70 
 plain text     = "RJWC3Y8YK1H95OZ7UULROR9J1AW27VIS6AS8CMZ80IPY3S7V9PTIV0P4L4UFLU72MNRAYU"
