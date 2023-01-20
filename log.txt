@@ -1,3 +1,11 @@
+tanggal        = 2023-01-20 20:38:51
+key            = 49 
+plain text     = "6298VDPMR1F5KV8L3PB0DDIS8NSEG6PGIKZZJU387YEFCV8O9"
+encrypted text = "(%--L;HFL,B2IU8M5SF5JKQ\BY_RUE`X[^no`lKQQtacauXp["
+decrypted text = "6298VDPMR1F5KV8L3PB0DDIS8NSEG6PGIKZZJU387YEFCV8O9"
+plain text     = "6298VDPMR1F5KV8L3PB0DDIS8NSEG6PGIKZZJU387YEFCV8O9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-20 20:20:49
 key            = 7 
 plain text     = "7676S9P"
