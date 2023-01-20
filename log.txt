@@ -1,3 +1,11 @@
+tanggal        = 2023-01-20 07:38:11
+key            = 44 
+plain text     = "EL1WIOCI2EDZ702FDHSFFJJZ71AE21FYZBACLUUJ9054"
+encrypted text = "mu[$u|qxbvv/keh}|#/#$)*;wr%*vv.BD--0:DE;+#))"
+decrypted text = "EL1WIOCI2EDZ702FDHSFFJJZ71AE21FYZBACLUUJ9054"
+plain text     = "EL1WIOCI2EDZ702FDHSFFJJZ71AE21FYZBACLUUJ9054"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-20 07:18:03
 key            = 1 
 plain text     = "8"
