@@ -1,3 +1,11 @@
+tanggal        = 2023-01-20 06:25:36
+key            = 22 
+plain text     = "JAHOQI61ZGEDLFNFMME1XH"
+encrypted text = "%{%-0)uq=+**3.70892}G8"
+decrypted text = "JAHOQI61ZGEDLFNFMME1XH"
+plain text     = "JAHOQI61ZGEDLFNFMME1XH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-20 05:38:20
 key            = 37 
 plain text     = "HNXT4C1R7PVCORL8YNDAV5Q1D8EKIMIXGEGDO"
