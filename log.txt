@@ -1,3 +1,11 @@
+tanggal        = 2023-01-20 09:19:36
+key            = 46 
+plain text     = "6TP2LI38JAMHKVQ0IUVM322HEAGWVGY0N55EHIVI7MPLEZ"
+encrypted text = "~?<}:8#)<4A=AMI)CPRJ112IGDK\\Na9X@ARVXfZI`da[q"
+decrypted text = "6TP2LI38JAMHKVQ0IUVM322HEAGWVGY0N55EHIVI7MPLEZ"
+plain text     = "6TP2LI38JAMHKVQ0IUVM322HEAGWVGY0N55EHIVI7MPLEZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-20 08:42:33
 key            = 13 
 plain text     = "0KHX7PLZ0CKGB"
