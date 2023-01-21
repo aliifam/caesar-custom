@@ -1,3 +1,11 @@
+tanggal        = 2023-01-21 10:38:11
+key            = 45 
+plain text     = "0D512OZGC7SBGO98XICPL35PS14C7VCD797IRRTOH4VVK"
+encrypted text = "Vk]Z\z(tqf%sy$mm0"{+(nq/3pt&y;)+}"!4>?B>8%HI?"
+decrypted text = "0D512OZGC7SBGO98XICPL35PS14C7VCD797IRRTOH4VVK"
+plain text     = "0D512OZGC7SBGO98XICPL35PS14C7VCD797IRRTOH4VVK"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-21 10:19:26
 key            = 28 
 plain text     = "GVJC6H0IPPDJWZF5PLM2LX1LF1X6"
