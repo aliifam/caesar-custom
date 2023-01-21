@@ -1,3 +1,11 @@
+tanggal        = 2023-01-21 11:38:16
+key            = 16 
+plain text     = "NXED2W9192C1S4HQ"
+encrypted text = "2=++x@#z%}1~C%:D"
+decrypted text = "NXED2W9192C1S4HQ"
+plain text     = "NXED2W9192C1S4HQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-21 11:15:04
 key            = 1 
 plain text     = "M"
