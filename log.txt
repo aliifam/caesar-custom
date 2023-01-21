@@ -1,3 +1,11 @@
+tanggal        = 2023-01-21 21:16:12
+key            = 27 
+plain text     = "FZOIGS2AMH9XWLV5FDQZ6JFW7LR"
+encrypted text = "7LB=<I)9FB4TTJU5GFT^;PM_@V]"
+decrypted text = "FZOIGS2AMH9XWLV5FDQZ6JFW7LR"
+plain text     = "FZOIGS2AMH9XWLV5FDQZ6JFW7LR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-21 20:38:32
 key            = 35 
 plain text     = "4C75OGYXDUXTKXMPFEUCB0AUCDG2NS8MW37"
