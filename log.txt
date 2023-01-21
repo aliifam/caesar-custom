@@ -1,3 +1,11 @@
+tanggal        = 2023-01-21 07:16:38
+key            = 4 
+plain text     = "MH0J"
+encrypted text = "ZV?Z"
+decrypted text = "MH0J"
+plain text     = "MH0J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-21 06:40:41
 key            = 100 
 plain text     = "B9F5F3YSBZ2TAB7W537AF69VM8JAU8I2CLT37FKF2OZTUC4FAIHSKQMEXFTNPQNF35YVS1INVQZ6QHO0H8JWDYK7RE3I4HGGHLVV"
