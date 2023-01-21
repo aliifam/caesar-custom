@@ -1,3 +1,11 @@
+tanggal        = 2023-01-21 05:17:34
+key            = 50 
+plain text     = "54VUCTKYPQCU9U6AD02IBSXAFWOYUIR8CQ1FAD83DTS2GMAZS0"
+encrypted text = "aa&&s'}.&(y.q0p|"mp*$6<&,>7B?4>%1@!737,(:KK+AH=WQ/"
+decrypted text = "54VUCTKYPQCU9U6AD02IBSXAFWOYUIR8CQ1FAD83DTS2GMAZS0"
+plain text     = "54VUCTKYPQCU9U6AD02IBSXAFWOYUIR8CQ1FAD83DTS2GMAZS0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-21 04:41:24
 key            = 53 
 plain text     = "QVMIKR5799LPH1HMBNALN5NRCTZTFL1SMNZBAENOM5SSH8H81OKLQ"
