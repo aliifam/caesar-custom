@@ -1,3 +1,11 @@
+tanggal        = 2023-01-21 15:38:19
+key            = 16 
+plain text     = "H4ZTEP6OPZW89MVZ"
+encrypted text = "?,SN@L3MOZX:<Q[`"
+decrypted text = "H4ZTEP6OPZW89MVZ"
+plain text     = "H4ZTEP6OPZW89MVZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-21 15:18:40
 key            = 24 
 plain text     = "4A441IORLH7J3PI3B79EZEAN"
