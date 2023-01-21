@@ -1,3 +1,11 @@
+tanggal        = 2023-01-21 05:38:06
+key            = 14 
+plain text     = "HXSFJ0X1Q62ARG"
+encrypted text = "@QMAF-V0Q74DVL"
+decrypted text = "HXSFJ0X1Q62ARG"
+plain text     = "HXSFJ0X1Q62ARG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-21 05:17:34
 key            = 50 
 plain text     = "54VUCTKYPQCU9U6AD02IBSXAFWOYUIR8CQ1FAD83DTS2GMAZS0"
