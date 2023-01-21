@@ -1,3 +1,11 @@
+tanggal        = 2023-01-21 22:38:11
+key            = 9 
+plain text     = "YT80LQLIG"
+encrypted text = "eaF?\b^\["
+decrypted text = "YT80LQLIG"
+plain text     = "YT80LQLIG"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-21 22:17:41
 key            = 83 
 plain text     = "19J9HQGLBGC9VIRX1CYUZFELZUB59RZW3AUAVGKT6QJJMQ6SD81W1PIXIAXCIRKTC1RFT9LFTQSU1MJGP0V"
