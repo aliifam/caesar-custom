@@ -1,3 +1,11 @@
+tanggal        = 2023-01-22 05:38:12
+key            = 19 
+plain text     = "NB8UN7SDIIS9E0OBMNZ"
+encrypted text = "XMDb\FcU[\gN[Gg[giv"
+decrypted text = "NB8UN7SDIIS9E0OBMNZ"
+plain text     = "NB8UN7SDIIS9E0OBMNZ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-22 05:17:28
 key            = 13 
 plain text     = "CUY2ODUJA7SDV"
