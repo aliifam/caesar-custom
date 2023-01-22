@@ -1,3 +1,11 @@
+tanggal        = 2023-01-22 03:20:53
+key            = 2 
+plain text     = "GS"
+encrypted text = "Wd"
+decrypted text = "GS"
+plain text     = "GS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-22 02:47:27
 key            = 99 
 plain text     = "JHZP6MAUG0KNYY8GBCFXSASUGTPODLT5PT2OH6VR3ZE9MG1LEO7HPEAOGRF2O7O7R6XFLZCVJ6UMH5O6P5W7WNA6VC1XX596BGL"
