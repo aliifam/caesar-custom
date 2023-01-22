@@ -1,3 +1,11 @@
+tanggal        = 2023-01-22 11:15:36
+key            = 22 
+plain text     = "TVW516DGXJ6Z2Y4XKQ90QX"
+encrypted text = "<?A~{#26H;(M&N*OCJ3+MU"
+decrypted text = "TVW516DGXJ6Z2Y4XKQ90QX"
+plain text     = "TVW516DGXJ6Z2Y4XKQ90QX"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-22 10:38:26
 key            = 95 
 plain text     = "S6YRMNNGLS251SLQZN78GA7MA7HH586EOO0BQTVOK4GAW5IF5KTZJ6MLE3G0ZTEXWT4P1AWQDRZCEWTI3MFM26L47HEKLDB"
