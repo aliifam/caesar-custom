@@ -1,3 +1,11 @@
+tanggal        = 2023-01-22 06:23:27
+key            = 17 
+plain text     = "BFK5RTJGGV9W5AWQE"
+encrypted text = "rw}h(+"~!1s4q~72'"
+decrypted text = "BFK5RTJGGV9W5AWQE"
+plain text     = "BFK5RTJGGV9W5AWQE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-22 05:38:12
 key            = 19 
 plain text     = "NB8UN7SDIIS9E0OBMNZ"
