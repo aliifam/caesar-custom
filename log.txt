@@ -1,3 +1,11 @@
+tanggal        = 2023-01-22 04:23:44
+key            = 19 
+plain text     = "KKXI57V147WAASQCSC0"
+encrypted text = "DESE25U159ZEFYXK\M;"
+decrypted text = "KKXI57V147WAASQCSC0"
+plain text     = "KKXI57V147WAASQCSC0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-22 03:38:26
 key            = 81 
 plain text     = "CG55SVQ3CN5MQ7498OEKYUMGGDJEARS5MST4RJMIYVPTU93DAVOB1F220SGYME432RJ22YVP175GR7ZUO"
