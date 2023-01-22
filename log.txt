@@ -1,3 +1,11 @@
+tanggal        = 2023-01-22 14:38:22
+key            = 23 
+plain text     = "KCCPSIXRLI0NFHL4VNMSY0A"
+encrypted text = "HABPTK[VQO7VORW@c\\cjBT"
+decrypted text = "KCCPSIXRLI0NFHL4VNMSY0A"
+plain text     = "KCCPSIXRLI0NFHL4VNMSY0A"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-22 14:16:39
 key            = 77 
 plain text     = "XERII7QIXRDYNYG8J1R41CFPFJ9APNVJ7H35WGEFLR8D8AH90ZGGCJLNIF8UNXSVGP4LY84TL4SW9"
