@@ -1,3 +1,11 @@
+tanggal        = 2023-01-22 21:38:25
+key            = 4 
+plain text     = "MV8J"
+encrypted text = "lvYl"
+decrypted text = "MV8J"
+plain text     = "MV8J"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-22 21:16:05
 key            = 70 
 plain text     = "RK1HFV6MX35SKNW6ZDOWOMWJ2FB5SABLJ48MBUYCQ3S3XS3B0FJQY455S9JY7R7KQKJKZS"
