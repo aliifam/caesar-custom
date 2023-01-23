@@ -1,3 +1,11 @@
+tanggal        = 2023-01-23 05:38:14
+key            = 9 
+plain text     = "ID9HU4NUU"
+encrypted text = ".*~0>|9AB"
+decrypted text = "ID9HU4NUU"
+plain text     = "ID9HU4NUU"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-23 05:18:20
 key            = 54 
 plain text     = "M2W4YTLZZB0ASVCILM4WG5MZ4WJFALFRF2O8BCYC34KT95HTWCSJGE"
