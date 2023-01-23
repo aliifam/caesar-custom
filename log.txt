@@ -1,3 +1,11 @@
+tanggal        = 2023-01-23 08:41:58
+key            = 9 
+plain text     = "PL09DAV7D"
+encrypted text = "SP5?KI_AO"
+decrypted text = "PL09DAV7D"
+plain text     = "PL09DAV7D"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-23 08:25:42
 key            = 70 
 plain text     = "9ACJR6F0HFLXJJZCA8L1PSXU87395IMRDF20F08NDCVN7W539ICN30WWGQMKGNCSQRC4X8"
