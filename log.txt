@@ -1,3 +1,11 @@
+tanggal        = 2023-01-23 22:18:39
+key            = 54 
+plain text     = "VAEG1WN4NIT7SNHU8KP2Z0VK5KTJMG0B6GV9FRY6Z556LVSMUV20BA"
+encrypted text = "&puxc,$i&".p/+&4v,2s>s<2{4>594|1&8H,:GO-R./1HSQLUW43FF"
+decrypted text = "VAEG1WN4NIT7SNHU8KP2Z0VK5KTJMG0B6GV9FRY6Z556LVSMUV20BA"
+plain text     = "VAEG1WN4NIT7SNHU8KP2Z0VK5KTJMG0B6GV9FRY6Z556LVSMUV20BA"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-23 21:38:20
 key            = 10 
 plain text     = "SGCXVS50HL"
