@@ -1,3 +1,11 @@
+tanggal        = 2023-01-23 03:38:51
+key            = 5 
+plain text     = "IVUM1"
+encrypted text = "O]]V;"
+decrypted text = "IVUM1"
+plain text     = "IVUM1"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-23 03:21:05
 key            = 66 
 plain text     = "QVYR9FC9193MCYABOPQOS2KOZSGN978PCPHFHECFG8J74RENHOIRV0TG2PDC087KFG"
