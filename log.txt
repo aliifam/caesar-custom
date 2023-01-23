@@ -1,3 +1,11 @@
+tanggal        = 2023-01-23 04:24:35
+key            = 46 
+plain text     = "GSORD6N7DWMYP1882XFWL6VIJEXVHTI4V52A7AGUH00EX0"
+encrypted text = "HURVI<U?MaXe]?GHCjYkaLmac_srerhTwWUe\gn}qZ[q^"
+decrypted text = "GSORD6N7DWMYP1882XFWL6VIJEXVHTI4V52A7AGUH00EX0"
+plain text     = "GSORD6N7DWMYP1882XFWL6VIJEXVHTI4V52A7AGUH00EX0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2023-01-23 03:38:51
 key            = 5 
 plain text     = "IVUM1"
