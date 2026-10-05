@@ -1,3 +1,11 @@
+tanggal        = 2026-10-05 22:29:05
+key            = 80 
+plain text     = "BTP5RK088RFOPGLYXRIA08AJVUAXRD228ZXRRT546QPIF1IR2BNKE9MZD7NGE2YVCXDMGNMNQGCIQZW8"
+encrypted text = "1DA'E?%./J?IKCIWWRJC3<FP]]Jb]P?@GjidehJJMiicaMfpQbomh]rk_wqp^ruz|v"
+decrypted text = "BTP5RK088RFOPGLYXRIA08AJVUAXRD228ZXRRT546QPIF1IR2BNKE9MZD7NGE2YVCXDMGNMNQGCIQZW8"
+plain text     = "BTP5RK088RFOPGLYXRIA08AJVUAXRD228ZXRRT546QPIF1IR2BNKE9MZD7NGE2YVCXDMGNMNQGCIQZW8"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-05 15:49:37
 key            = 6 
 plain text     = "FVEWP2"
