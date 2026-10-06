@@ -1,3 +1,11 @@
+tanggal        = 2026-10-06 09:20:04
+key            = 11 
+plain text     = "WMPNBGHXXZN"
+encrypted text = "|swvkqs&'*}"
+decrypted text = "WMPNBGHXXZN"
+plain text     = "WMPNBGHXXZN"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-06 02:28:02
 key            = 74 
 plain text     = "W5KWFSGGD6OI8RY1U2Y3SFPEL1XF67PKJ15XNEVZG57U6NQ73P1OTSAZWVJSYQBPNPKFCDC9U9"
