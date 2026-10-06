@@ -1,3 +1,11 @@
+tanggal        = 2026-10-06 02:28:02
+key            = 74 
+plain text     = "W5KWFSGGD6OI8RY1U2Y3SFPEL1XF67PKJ15XNEVZG57U6NQ73P1OTSAZWVJSYQBPNPKFCDC9U9"
+encrypted text = "?|5B2@564'A<,GO(M+S.OCNDL2ZI:<VRR:?cZRdiWFIhJcgNKiKjpp_ywwlv}vhwvyuqoqqhj"
+decrypted text = "W5KWFSGGD6OI8RY1U2Y3SFPEL1XF67PKJ15XNEVZG57U6NQ73P1OTSAZWVJSYQBPNPKFCDC9U9"
+plain text     = "W5KWFSGGD6OI8RY1U2Y3SFPEL1XF67PKJ15XNEVZG57U6NQ73P1OTSAZWVJSYQBPNPKFCDC9U9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-05 22:29:05
 key            = 80 
 plain text     = "BTP5RK088RFOPGLYXRIA08AJVUAXRD228ZXRRT546QPIF1IR2BNKE9MZD7NGE2YVCXDMGNMNQGCIQZW8"
