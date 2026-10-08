@@ -1,3 +1,11 @@
+tanggal        = 2026-10-08 14:50:19
+key            = 38 
+plain text     = "JUOIHLVAXNNONV1ZK253MTFYWLZQ8GZKFXWS5O"
+encrypted text = "r~ytty&p*!"$$-g3%kon+3&:9/>6|.B40CC@#>"
+decrypted text = "JUOIHLVAXNNONV1ZK253MTFYWLZQ8GZKFXWS5O"
+plain text     = "JUOIHLVAXNNONV1ZK253MTFYWLZQ8GZKFXWS5O"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-08 07:13:11
 key            = 11 
 plain text     = "VPCRZ463ZKW"
