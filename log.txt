@@ -1,3 +1,11 @@
+tanggal        = 2026-10-09 15:12:20
+key            = 10 
+plain text     = "8EPZUIBK4U"
+encrypted text = "(6BMI>8B,N"
+decrypted text = "8EPZUIBK4U"
+plain text     = "8EPZUIBK4U"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-09 07:56:06
 key            = 29 
 plain text     = "UE39UUNUPTV8PCMMX7IL7PEGTCZ91"
