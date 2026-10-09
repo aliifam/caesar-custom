@@ -1,3 +1,11 @@
+tanggal        = 2026-10-09 20:16:52
+key            = 47 
+plain text     = "HI9FGXZB8U8S6NUUO7GGBOIRNV9P3OSBANHKRKUTFBRQ1XW"
+encrypted text = "z|m{}14{r2t2t/783z-.*83=:C'?#@E55C>BJDOOB?PP1YY"
+decrypted text = "HI9FGXZB8U8S6NUUO7GGBOIRNV9P3OSBANHKRKUTFBRQ1XW"
+plain text     = "HI9FGXZB8U8S6NUUO7GGBOIRNV9P3OSBANHKRKUTFBRQ1XW"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-09 15:12:20
 key            = 10 
 plain text     = "8EPZUIBK4U"
