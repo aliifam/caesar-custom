@@ -1,3 +1,11 @@
+tanggal        = 2026-10-09 07:56:06
+key            = 29 
+plain text     = "UE39UUNUPTV8PCMMX7IL7PEGTCZ91"
+encrypted text = "O@/6STNVRWZ=VJUVbBUYE_UXfVnNG"
+decrypted text = "UE39UUNUPTV8PCMMX7IL7PEGTCZ91"
+plain text     = "UE39UUNUPTV8PCMMX7IL7PEGTCZ91"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-09 01:08:09
 key            = 19 
 plain text     = "9E7Q9V8D2BZK6LUEW29"
