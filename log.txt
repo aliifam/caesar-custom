@@ -1,3 +1,11 @@
+tanggal        = 2026-10-11 06:17:52
+key            = 49 
+plain text     = "QX0I8BCGTF2QPJA7JO5DN4IGGJOG2MGMIPCTN4VBM4JXJAL5H"
+encrypted text = "PX1K;FHM[N;[[VNEY_FVaH^]^bhaMidkhpdvqX{ht\sumycw"
+decrypted text = "QX0I8BCGTF2QPJA7JO5DN4IGGJOG2MGMIPCTN4VBM4JXJAL5H"
+plain text     = "QX0I8BCGTF2QPJA7JO5DN4IGGJOG2MGMIPCTN4VBM4JXJAL5H"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-11 00:25:23
 key            = 11 
 plain text     = "N31E31LJ2QD"
