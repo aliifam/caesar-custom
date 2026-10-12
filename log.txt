@@ -1,3 +1,11 @@
+tanggal        = 2026-10-12 01:39:15
+key            = 22 
+plain text     = "RJN9BCBLXI9P81XHHEMA7G"
+encrypted text = "NGL8BDDO\N?W@:bSTR[PGX"
+decrypted text = "RJN9BCBLXI9P81XHHEMA7G"
+plain text     = "RJN9BCBLXI9P81XHHEMA7G"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-11 22:22:09
 key            = 98 
 plain text     = "JX3TRE1OBK82JHGLL4U2JJ0BOIFLF25399KGU0USZLL8VNHP8RW6GEEALFKI70KLV4BH9SJTZM7JJY27JARTHVM6W2PWZFEXPG"
