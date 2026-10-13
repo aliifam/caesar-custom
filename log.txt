@@ -1,3 +1,11 @@
+tanggal        = 2026-10-13 09:15:11
+key            = 29 
+plain text     = "5370H29R3KU1ILBG1PJP50N3JVDOM"
+encrypted text = "nmrl'px4t/:u04+1z<7>$~?%=J9ED"
+decrypted text = "5370H29R3KU1ILBG1PJP50N3JVDOM"
+plain text     = "5370H29R3KU1ILBG1PJP50N3JVDOM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-13 01:34:42
 key            = 54 
 plain text     = "TQ06CWQXQZB67WIV5XENN5UATPGG0OC9Y6TC0JM32KYYPZEWH94DG4"
