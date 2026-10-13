@@ -1,3 +1,11 @@
+tanggal        = 2026-10-13 21:56:11
+key            = 34 
+plain text     = "LD18XXELDBY63152YQOC9UHEQ653UGBNWM"
+encrypted text = "OH6>_`NVONfDBAFDledYPma_lRRQtgcpzq"
+decrypted text = "LD18XXELDBY63152YQOC9UHEQ653UGBNWM"
+plain text     = "LD18XXELDBY63152YQOC9UHEQ653UGBNWM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-13 17:04:49
 key            = 3 
 plain text     = "KVP"
