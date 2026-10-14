@@ -1,3 +1,11 @@
+tanggal        = 2026-10-14 21:31:23
+key            = 28 
+plain text     = "3P3LEO3R4HM4K4QRPPVE8079MOD0"
+encrypted text = "UsWqkv[{^syayc#%$%,zngor),"m"
+decrypted text = "3P3LEO3R4HM4K4QRPPVE8079MOD0"
+plain text     = "3P3LEO3R4HM4K4QRPPVE8079MOD0"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-14 17:54:38
 key            = 75 
 plain text     = "TUXE3PV1SY9IM4QR0FHU5FDLJ2YQIUJM9JN57NUR50OGSDJ2K5ZO43TTNUU8DXJT21G59HFH0P5"
