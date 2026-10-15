@@ -1,3 +1,11 @@
+tanggal        = 2026-10-15 15:16:54
+key            = 5 
+plain text     = "4428B"
+encrypted text = ">?>EP"
+decrypted text = "4428B"
+plain text     = "4428B"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-15 10:14:12
 key            = 48 
 plain text     = "BST2J64C53S7ROCX95DV5SVD1VH2SQNVO0NYRLPWFKPV1RZ8"
