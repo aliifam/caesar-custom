@@ -1,3 +1,11 @@
+tanggal        = 2026-10-16 01:08:09
+key            = 59 
+plain text     = "NFI9L95OD97N3Z8COLTQ4X9P7NDHG2Q3YKVKN3QIORM9XBEDAZPLUE2ENGY"
+encrypted text = "RKO@TB?ZPFE]CkJVcajhLqSkSkbggSsV}p|rv\{t{{hswwu~l"
+decrypted text = "NFI9L95OD97N3Z8COLTQ4X9P7NDHG2Q3YKVKN3QIORM9XBEDAZPLUE2ENGY"
+plain text     = "NFI9L95OD97N3Z8COLTQ4X9P7NDHG2Q3YKVKN3QIORM9XBEDAZPLUE2ENGY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-15 22:37:37
 key            = 29 
 plain text     = "GVL2B8MNM4E5QMCCETQD5P1ZUY3UM"
