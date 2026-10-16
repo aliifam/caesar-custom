@@ -1,3 +1,11 @@
+tanggal        = 2026-10-16 19:40:17
+key            = 5 
+plain text     = "LXQU9"
+encrypted text = "2?9>#"
+decrypted text = "LXQU9"
+plain text     = "LXQU9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-16 16:29:23
 key            = 32 
 plain text     = "JMMBBLB108FLEKLL8P8YY051JM2EFQ6M"
