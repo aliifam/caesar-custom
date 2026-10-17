@@ -1,3 +1,11 @@
+tanggal        = 2026-10-17 17:28:52
+key            = 17 
+plain text     = "ZWCLEWKMCUTNL8QWR"
+encrypted text = "rp]gatilcvvqp]w~z"
+decrypted text = "ZWCLEWKMCUTNL8QWR"
+plain text     = "ZWCLEWKMCUTNL8QWR"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-17 14:21:10
 key            = 21 
 plain text     = "74JWIRPT6W1PHI8GV4MDP"
