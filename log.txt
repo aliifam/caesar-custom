@@ -1,3 +1,11 @@
+tanggal        = 2026-10-19 05:09:43
+key            = 30 
+plain text     = "UE07AYNWR5TK4QVJPAHU3YSNLU462T"
+encrypted text = "\M9ALe[eaEe]Gek`gYaoNuplkuUXUx"
+decrypted text = "UE07AYNWR5TK4QVJPAHU3YSNLU462T"
+plain text     = "UE07AYNWR5TK4QVJPAHU3YSNLU462T"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-19 00:24:14
 key            = 50 
 plain text     = "NSYJOZF3XUTAPWPIJH76KKP4KFZEZM8YMGX3Y9DO2UJ9WO16VI"
