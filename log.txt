@@ -1,3 +1,11 @@
+tanggal        = 2026-10-21 19:30:23
+key            = 20 
+plain text     = "ZIB9YAUYUGS2SRNMP8EE"
+encrypted text = ".|vn1x/41$1o33004{+,"
+decrypted text = "ZIB9YAUYUGS2SRNMP8EE"
+plain text     = "ZIB9YAUYUGS2SRNMP8EE"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-21 15:00:18
 key            = 93 
 plain text     = "04WDD8CA99R5N6QT9SWALBKBG45W2SRBQFFZB2HCX42SUDCMNHKDLE39RV3E5HDXB9YYTHUJHATMBUXJXM9C8HK6X8PRN"
