@@ -1,3 +1,11 @@
+tanggal        = 2026-10-22 21:51:43
+key            = 23 
+plain text     = "J8YY1PI8B6ZMJ7EB28LHT14"
+encrypted text = "G6XY2RL<G<aUSAPN?F[XeCG"
+decrypted text = "J8YY1PI8B6ZMJ7EB28LHT14"
+plain text     = "J8YY1PI8B6ZMJ7EB28LHT14"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-22 18:07:25
 key            = 28 
 plain text     = "7Z31OLR2YBPOF7AUA73Y5V785ZR2"
