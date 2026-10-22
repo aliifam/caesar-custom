@@ -1,3 +1,11 @@
+tanggal        = 2026-10-22 13:07:46
+key            = 48 
+plain text     = "RRSVDTO80TUSL9AC0SDL1WK8IQFPJWCXC4HV77UOBPBMMVCM"
+encrypted text = "=>@D3D@*#HJIC1:=+OAJ0WL:LUKVQ_LbN@UdFGfaUdWcdn\g"
+decrypted text = "RRSVDTO80TUSL9AC0SDL1WK8IQFPJWCXC4HV77UOBPBMMVCM"
+plain text     = "RRSVDTO80TUSL9AC0SDL1WK8IQFPJWCXC4HV77UOBPBMMVCM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-22 07:25:03
 key            = 1 
 plain text     = "Q"
