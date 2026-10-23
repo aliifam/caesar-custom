@@ -1,3 +1,11 @@
+tanggal        = 2026-10-23 05:53:25
+key            = 18 
+plain text     = "X99KE6S1FXGS8AFUYM"
+encrypted text = "]?@SN@^=SfVcISYinc"
+decrypted text = "X99KE6S1FXGS8AFUYM"
+plain text     = "X99KE6S1FXGS8AFUYM"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-23 00:30:18
 key            = 94 
 plain text     = "M6Z14788VI7JXZAMZT4TDMQ7GMV14L4UAUUQID4GYIMLU9MDP7HZCRZCOCIJWCFEZNUB38QUI6S5BBC82BKXS4YDMNKE5E"
