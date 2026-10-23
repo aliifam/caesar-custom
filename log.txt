@@ -1,3 +1,11 @@
+tanggal        = 2026-10-23 19:53:55
+key            = 78 
+plain text     = "MENY4HLONZQHIG2PBYANQD2FLVLFZ2AY5BX6AZR9TRZOWZ9TE1NXSTLZQG78AFU77D0WTWDMGRJSL9"
+encrypted text = "%|(4n%*..;3+-,v7*B+9=1~5<G>9N'7P-;R1=WP8TS\R[_?[M:Xc_aZiaXIKU[kNO]Jrptblgslvp^"
+decrypted text = "MENY4HLONZQHIG2PBYANQD2FLVLFZ2AY5BX6AZR9TRZOWZ9TE1NXSTLZQG78AFU77D0WTWDMGRJSL9"
+plain text     = "MENY4HLONZQHIG2PBYANQD2FLVLFZ2AY5BX6AZR9TRZOWZ9TE1NXSTLZQG78AFU77D0WTWDMGRJSL9"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-23 15:50:47
 key            = 11 
 plain text     = "1WJ9U0KBE6D"
