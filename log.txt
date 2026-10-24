@@ -1,3 +1,11 @@
+tanggal        = 2026-10-24 01:53:17
+key            = 3 
+plain text     = "L4C"
+encrypted text = "E.>"
+decrypted text = "L4C"
+plain text     = "L4C"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-23 23:00:56
 key            = 91 
 plain text     = "JWNHIS3PJSN81OT9A8B290YNPEWWCNDZNHXTGEV029WPDU1BJG41WOP2GGXJ2YU9YSRTJJOLY2LO4K08TD905WA3C4N"
