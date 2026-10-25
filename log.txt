@@ -1,3 +1,11 @@
+tanggal        = 2026-10-25 23:07:43
+key            = 44 
+plain text     = "MWHM3WURROWITVYGRL6WFLPZYKIUEB96I6Q3H53RFQ29"
+encrypted text = "1<.4y@?=><E8DGK:FA,N>EJUUHGTEC;9M;W:P>=]R^@H"
+decrypted text = "MWHM3WURROWITVYGRL6WFLPZYKIUEB96I6Q3H53RFQ29"
+plain text     = "MWHM3WURROWITVYGRL6WFLPZYKIUEB96I6Q3H53RFQ29"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-25 20:42:19
 key            = 56 
 plain text     = "YRZ72VUL2LVAHAC8Y1UIY559RC81VSWOLF6HY2MHM5DXK01X0MPKI256"
