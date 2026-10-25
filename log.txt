@@ -1,3 +1,11 @@
+tanggal        = 2026-10-25 09:19:22
+key            = 31 
+plain text     = "FWRB1BGE4HUL89LKNDLI14TAPCWHH2C"
+encrypted text = "$62#q%+*x/=5"$88<3<:#'H6F:OAB-?"
+decrypted text = "FWRB1BGE4HUL89LKNDLI14TAPCWHH2C"
+plain text     = "FWRB1BGE4HUL89LKNDLI14TAPCWHH2C"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-25 04:21:49
 key            = 52 
 plain text     = "JFGAO3R70N73BE2I0D7WGN93FQTA399LJZ8T0OSH1W7ESWA6THRH"
