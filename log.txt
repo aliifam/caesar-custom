@@ -1,3 +1,11 @@
+tanggal        = 2026-10-27 00:19:25
+key            = 15 
+plain text     = "BL7LU1ZGWKT5GRF"
+encrypted text = "4?+AK(R@QFP2EQF"
+decrypted text = "BL7LU1ZGWKT5GRF"
+plain text     = "BL7LU1ZGWKT5GRF"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-26 20:41:50
 key            = 14 
 plain text     = "0WVYQCJWCIK2UK"
