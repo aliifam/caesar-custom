@@ -1,3 +1,11 @@
+tanggal        = 2026-10-27 05:28:13
+key            = 41 
+plain text     = "TC7JSSXPEIYVU7BN77DMP38S4M87A847MJ2YXRSNQ"
+encrypted text = "7'z0:;A:05FDD'3@*+9CG+1M/I55@859PN7__Z\X\"
+decrypted text = "TC7JSSXPEIYVU7BN77DMP38S4M87A847MJ2YXRSNQ"
+plain text     = "TC7JSSXPEIYVU7BN77DMP38S4M87A847MJ2YXRSNQ"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-27 00:19:25
 key            = 15 
 plain text     = "BL7LU1ZGWKT5GRF"
