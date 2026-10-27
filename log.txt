@@ -1,3 +1,11 @@
+tanggal        = 2026-10-27 16:22:17
+key            = 49 
+plain text     = "JHOPS818PO77ATAZPGQC96BFPMZSTLYNG8A4EOQMQMVFZ3WVY"
+encrypted text = "#"*,0tnv11xy&:(B91</&$16A?MGIBPF@2<0BMPMROYJ_9^^b"
+decrypted text = "JHOPS818PO77ATAZPGQC96BFPMZSTLYNG8A4EOQMQMVFZ3WVY"
+plain text     = "JHOPS818PO77ATAZPGQC96BFPMZSTLYNG8A4EOQMQMVFZ3WVY"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-27 10:52:42
 key            = 91 
 plain text     = "NXWW239H4BERWIPA4HPCEIAM6BSK1Y69TMTGOP4VDOA5ZEVJM4VE2CHEXMVQAZWY35S45V38VC2XIB001HX3LGWU8OY"
