@@ -1,3 +1,11 @@
+tanggal        = 2026-10-29 16:49:46
+key            = 29 
+plain text     = "7SCZ53MXSRBETB6341S4JBDPID69Y"
+encrypted text = "f%t.hg$0,,{!1~sqsq6v/(+82.!%F"
+decrypted text = "7SCZ53MXSRBETB6341S4JBDPID69Y"
+plain text     = "7SCZ53MXSRBETB6341S4JBDPID69Y"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-29 09:44:48
 key            = 9 
 plain text     = "A7NYIU8OH"
