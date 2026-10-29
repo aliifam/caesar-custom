@@ -1,3 +1,11 @@
+tanggal        = 2026-10-29 09:44:48
+key            = 9 
+plain text     = "A7NYIU8OH"
+encrypted text = "LC[gXeIa["
+decrypted text = "A7NYIU8OH"
+plain text     = "A7NYIU8OH"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-29 02:44:58
 key            = 100 
 plain text     = "JMIY4XGQ1678M5V7EDD1NQJT0ZH66P0ZS3CYKUBPN8X038A0LXROKJA3Q17H5UKYE6JOWY0L1HTFGZEVIYQXVGFDK4YOBUP289YF"
