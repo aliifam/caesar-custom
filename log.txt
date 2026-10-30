@@ -1,3 +1,11 @@
+tanggal        = 2026-10-30 15:15:26
+key            = 17 
+plain text     = "1LJSNEW3IFGZXKXLS"
+encrypted text = "Plkuqi|Ypnp&%w'z$"
+decrypted text = "1LJSNEW3IFGZXKXLS"
+plain text     = "1LJSNEW3IFGZXKXLS"
+Test Result    = OK 
+----------------------------------------------------------------------------------------------------------------------------------
 tanggal        = 2026-10-30 08:27:08
 key            = 94 
 plain text     = "C06L8K6ITCSKW4OP2CMIX8OZYY22NIVI3C2J05B1T9O1QIXL6AR42WIGAEK34YUFCXBA22YB02PREMRUD9PZPVWJ4CM0N9"
